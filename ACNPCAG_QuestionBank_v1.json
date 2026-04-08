@@ -1648,7 +1648,7 @@
         "Hemodynamics"
       ],
       "difficulty": "medium",
-      "question": "A patient with advanced heart failure (EF 15%) on milrinone infusion has a milrinone trough level that is supratherapeutic. He develops a wide complex tachycardia at 182 bpm. Milrinone's primary mechanism of action and the reason it can be proarrhythmic is:",
+      "question": "A patient with advanced heart failure (EF 15%) on milrinone infusion has a milrinone trough level that is supratherapeutic. He develops a wide complex tachycardia at 182 bpm. What is milrinone's primary mechanism of action, and why can it be proarrhythmic?",
       "answers": [
         {
           "id": "a",
@@ -2199,7 +2199,7 @@
         "Critical Care",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "During a cardiac arrest, a patient has been in pulseless ventricular tachycardia for 12 minutes. The patient has received 3 defibrillation attempts, 2 doses of epinephrine, and 1 dose of amiodarone 300 mg IV. The rhythm remains pulseless VT after the most recent shock. What is the next recommended medication?",
       "answers": [
         {
@@ -2324,7 +2324,7 @@
       "tier3": [
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 58-year-old man with newly diagnosed HFrEF (EF 35%) has been started on lisinopril and carvedilol. He is euvolemic with a heart rate of 72 bpm and blood pressure of 118/72 mmHg. Per current guideline-directed medical therapy, which additional medication should be initiated?",
       "answers": [
         {
@@ -2533,7 +2533,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 70-year-old man with chronic HFrEF presents for a routine visit. His echocardiogram shows an EF of 30%. He reports NYHA Class II symptoms — comfortable at rest but symptomatic with ordinary physical activity. Which BNP result would be most consistent with his clinical presentation?",
       "answers": [
         {
@@ -2782,7 +2782,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 60-year-old woman presents to the ED with chest pain. Her initial high-sensitivity troponin I (hs-cTnI) is 18 ng/L (99th percentile URL = 16 ng/L). She has a history of CKD stage 3 and stable HFrEF. A repeat troponin drawn 3 hours later is 19 ng/L. What is the most accurate interpretation?",
       "answers": [
         {
@@ -3496,7 +3496,7 @@
         "correct": "Correct. Classic cardiogenic pulmonary edema: BNP elevation, bilateral perihilar infiltrates, edema, hypoxemia with respiratory alkalosis. IV furosemide and NIV (CPAP reduces preload and improves oxygenation in acute pulmonary edema per 3CPO trial) are first-line.",
         "a": "Incorrect. ARDS requires bilateral infiltrates + P/F <300 + not fully explained by cardiac failure. This patient has a clear cardiac cause (BNP 1840, edema, perihilar pattern). ARDS and cardiogenic pulmonary edema can coexist but treating as ARDS first would miss the primary diagnosis.",
         "b": "Correct. Classic cardiogenic pulmonary edema: BNP elevation, bilateral perihilar infiltrates, edema, hypoxemia with respiratory alkalosis. IV furosemide and NIV (CPAP reduces preload and improves oxygenation in acute pulmonary edema per 3CPO trial) are first-line.",
-        "c": "Incorrect. Bilateral pneumonia causing HCAP-pattern disease would present with fever, leukocytosis, and productive cough. This patient has no fever, normal WBC, and the presentation is far more consistent with cardiac failure given the BNP and edema.",
+        "c": "Incorrect. Bilateral pneumonia causing pneumonia requiring broader coverage would present with fever, leukocytosis, and productive cough. This patient has no fever, normal WBC, and the presentation is far more consistent with cardiac failure given the BNP and edema.",
         "d": "Incorrect. Acute exacerbation of pulmonary fibrosis (AE-IPF) typically presents in a patient with known ILD, has a characteristic CT pattern, and BNP would not be markedly elevated. High-dose steroids may be used in AE-IPF but are not indicated here."
       }
     },
@@ -3707,10 +3707,10 @@
         }
       ],
       "explanation": {
-        "correct": "Correct. HCAP risk factors (LTCF + recent hospitalization + recent IV antibiotics) mandate empiric coverage for MDR organisms including Pseudomonas and MRSA. Pip-tazo + vancomycin is the standard empiric HCAP regimen.",
-        "a": "Incorrect. Ceftriaxone plus azithromycin is standard CAP therapy. This patient has HCAP risk factors requiring broader gram-negative and MRSA coverage — standard CAP regimens are insufficient.",
-        "b": "Correct. HCAP risk factors (LTCF + recent hospitalization + recent IV antibiotics) mandate empiric coverage for MDR organisms including Pseudomonas and MRSA. Pip-tazo + vancomycin is the standard empiric HCAP regimen.",
-        "c": "Incorrect. Levofloxacin monotherapy covers typical CAP organisms and some gram-negatives but does not adequately cover Pseudomonas or MRSA. Monotherapy is insufficient for HCAP.",
+        "correct": "Correct. validated risk factors for MRSA and Pseudomonas (LTCF + recent hospitalization + recent IV antibiotics) mandate empiric coverage for MDR organisms including Pseudomonas and MRSA. Pip-tazo + vancomycin is the standard empiric CAP with MDR risk factors regimen.",
+        "a": "Incorrect. Ceftriaxone plus azithromycin is standard CAP therapy. This patient has validated risk factors for MRSA and Pseudomonas requiring broader gram-negative and MRSA coverage — standard CAP regimens are insufficient.",
+        "b": "Correct. validated risk factors for MRSA and Pseudomonas (LTCF + recent hospitalization + recent IV antibiotics) mandate empiric coverage for MDR organisms including Pseudomonas and MRSA. Pip-tazo + vancomycin is the standard empiric CAP with MDR risk factors regimen.",
+        "c": "Incorrect. Levofloxacin monotherapy covers typical CAP organisms and some gram-negatives but does not adequately cover Pseudomonas or MRSA. Monotherapy is insufficient for patients with MDR risk factors.",
         "d": "Incorrect. Oral therapy is inappropriate for a hospitalized patient with hypoxia and a consolidation. Amoxicillin-clavulanate does not cover Pseudomonas or MRSA."
       }
     },
@@ -4923,7 +4923,7 @@
         "Diagnostics/Labs"
       ],
       "difficulty": "hard",
-      "question": "Right heart catheterization in a 52-year-old woman with dyspnea and leg edema shows: mPAP 38 mmHg, PCWP 22 mmHg, PVR 1.8 Wood units, CO 5 L/min. Transpulmonary gradient (TPG) = mPAP - PCWP = 20 mmHg. Which pulmonary hypertension Group classification does this represent?",
+      "question": "Right heart catheterization in a 52-year-old woman with dyspnea and leg edema shows: mPAP 38 mmHg, PCWP 22 mmHg, PVR 1.8 Wood units, CO 5 L/min. Transpulmonary gradient (TPG) = mPAP - PCWP = 16 mmHg. Which pulmonary hypertension Group classification does this represent?",
       "answers": [
         {
           "id": "a",
@@ -4951,7 +4951,7 @@
         "a": "Incorrect. Group 1 PAH requires PCWP ≤15 mmHg (normal left heart filling pressure) with elevated mPAP and PVR. This patient's PCWP of 22 mmHg clearly indicates left-heart disease as the cause — ruling out Group 1.",
         "b": "Correct. PCWP 22 mmHg (>15) with elevated mPAP = pulmonary hypertension due to left heart disease (Group 2). The primary driver is elevated LA/PCWP from LV dysfunction, diastolic dysfunction, or mitral/aortic valve disease. Treatment targets the underlying left heart condition, NOT pulmonary vasodilators.",
         "c": "Incorrect. Group 3 PH is associated with lung disease, chronic hypoxia, COPD, ILD. These cause pulmonary vasoconstriction from hypoxia. Group 3 typically has PCWP <15 (pre-capillary PH). This patient's elevated PCWP identifies a left heart cause.",
-        "d": "Incorrect. CpcPH requires PCWP >15 AND PVR ≥3 Wood units AND DPG ≥7 mmHg. While this patient is borderline (PVR 3.2), the primary classification remains Group 2. The distinction matters clinically: Group 1 vasodilators (sildenafil, ambrisentan) are potentially harmful in Group 2 PH and are not approved for this indication."
+        "d": "Incorrect. Combined post- and pre-capillary PH (CpcPH) requires PCWP >15 AND PVR ≥3 Wood units. This patient's PVR is only 1.8 Wood units — well below the threshold for a superimposed pre-capillary component. The TPG of 16 mmHg is also below the traditional threshold of >12 mmHg that suggests a reactive/pre-capillary component. This is isolated post-capillary (passive) Group 2 PH. The distinction matters clinically: Group 1 vasodilators (sildenafil, ambrisentan) are potentially harmful in Group 2 PH and are not approved for this indication."
       }
     },
     {
@@ -5258,7 +5258,7 @@
         "Critical Care",
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 22-year-old tall, thin man presents with sudden-onset right-sided chest pain and dyspnea. He has no significant medical history. Chest X-ray reveals a 25% right pneumothorax. Vital signs are stable with SpO2 97% on room air. What is the most appropriate initial management?",
       "answers": [
         {
@@ -5299,7 +5299,7 @@
       "tier3": [
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 48-year-old woman with moderate persistent asthma presents for follow-up. She uses her albuterol rescue inhaler 4 times weekly and reports nighttime awakening twice per month. She is currently on a low-dose inhaled corticosteroid (ICS) only. What is the appropriate step-up in therapy?",
       "answers": [
         {
@@ -5340,7 +5340,7 @@
       "tier3": [
         "Critical Care"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 67-year-old man with COPD is being discharged after an acute exacerbation. Room air ABG at rest shows PaO2 52 mmHg and SpO2 86%. He has no evidence of pulmonary hypertension or cor pulmonale. According to CMS criteria, which of the following qualifies him for home oxygen therapy?",
       "answers": [
         {
@@ -5676,7 +5676,7 @@
         "Diagnostics/Labs",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 52-year-old obese man (BMI 38) presents with excessive daytime sleepiness, loud snoring, and witnessed apneas. His Epworth Sleepiness Scale score is 16 (normal <10). He has refractory hypertension requiring 3 medications. What is the gold standard diagnostic test and first-line treatment?",
       "answers": [
         {
@@ -7124,47 +7124,6 @@
       }
     },
     {
-      "id": "neuro023",
-      "tier1": "Neurology",
-      "tier2": [
-        "Traumatic Brain Injury"
-      ],
-      "tier3": [
-        "Critical Care"
-      ],
-      "difficulty": "medium",
-      "question": "A 28-year-old man is brought to the ED after a motorcycle accident. GCS is 7 (E2, V2, M3). CT head reveals a large acute epidural hematoma with 8 mm midline shift. The right pupil is fixed and dilated. What is the most critical next step?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Administer IV mannitol 1 g/kg and obtain MRI brain",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "ICP monitor placement and observation in the neuro ICU",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Hyperventilate to PaCO2 of 25 mmHg for sustained ICP control",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Emergent craniotomy for hematoma evacuation",
-          "correct": true
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. A large epidural hematoma with midline shift >5 mm, declining GCS, and unilateral pupil dilation (uncal herniation) requires emergent surgical evacuation. The fixed, dilated pupil indicates transtentorial herniation with CN III compression — this is a neurosurgical emergency with a narrow window for intervention.",
-        "a": "Incorrect. While mannitol may be given as a temporizing measure for elevated ICP, the priority is emergent surgical evacuation. MRI is time-consuming and unnecessary — CT has already identified the surgical lesion. Delaying surgery for additional imaging worsens outcomes.",
-        "b": "Incorrect. This patient has clinical signs of herniation requiring emergent intervention, not monitoring and observation. ICP monitor placement is appropriate for patients with diffuse injury and GCS ≤8 when the CT does not show a surgical lesion — not when a large epidural hematoma with shift is present.",
-        "c": "Incorrect. While brief hyperventilation (PaCO2 30–35 mmHg) can be used as a temporizing bridge to surgery, sustained aggressive hyperventilation (PaCO2 <30) causes cerebral vasoconstriction and can worsen ischemic injury. It does not replace the need for emergent surgical evacuation.",
-        "d": "Correct. A large epidural hematoma with midline shift >5 mm, declining GCS, and unilateral pupil dilation (uncal herniation) requires emergent surgical evacuation. The fixed, dilated pupil indicates transtentorial herniation with CN III compression — this is a neurosurgical emergency with a narrow window for intervention."
-      }
-    },
-    {
       "id": "neuro024",
       "tier1": "Neurology",
       "tier2": [
@@ -7204,48 +7163,6 @@
         "b": "Incorrect. Central cord syndrome presents with upper extremity weakness greater than lower extremity weakness (cape-like distribution), typically from hyperextension injuries in patients with cervical spondylosis. This patient has bilateral LE paralysis with preserved dorsal column function — classic anterior cord syndrome.",
         "c": "Incorrect. Brown-Séquard (cord hemisection) presents with ipsilateral motor loss and proprioception loss, with contralateral pain/temperature loss. This patient has bilateral symmetric deficits, not a hemisection pattern.",
         "d": "Incorrect. Cauda equina syndrome causes lower motor neuron signs (flaccid paralysis, areflexia), saddle anesthesia, and bowel/bladder dysfunction. While some features overlap, the preservation of proprioception/vibration with loss of pain/temperature in a bilateral symmetric pattern following aortic surgery is classic for anterior spinal cord syndrome."
-      }
-    },
-    {
-      "id": "neuro025",
-      "tier1": "Neurology",
-      "tier2": [
-        "Neuromuscular"
-      ],
-      "tier3": [
-        "Diagnostics/Labs",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 32-year-old woman presents with progressive ascending bilateral lower extremity weakness that developed over 3 days following a respiratory infection. Deep tendon reflexes are absent bilaterally. Lumbar puncture shows elevated protein (185 mg/dL) with a normal cell count (3 cells/μL). What is the most appropriate treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV methylprednisolone pulse therapy",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Urgent MRI of the spine and emergent neurosurgical consult",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Oral pyridostigmine 60 mg TID",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Intravenous immunoglobulin (IVIG) 0.4 g/kg/day for 5 days",
-          "correct": true
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. This presentation is classic for Guillain-Barré syndrome (ascending paralysis, areflexia, albuminocytologic dissociation on LP). IVIG (0.4 g/kg/day for 5 days) or plasmapheresis are equally effective first-line treatments. Close monitoring of respiratory function (FVC every 4–6 hours) is critical as 30% of GBS patients require mechanical ventilation.",
-        "a": "Incorrect. Corticosteroids have NOT been shown to be effective in Guillain-Barré syndrome (GBS) and are not recommended. Unlike other autoimmune conditions, high-dose steroids do not improve outcomes in GBS and may delay recovery.",
-        "b": "Incorrect. While spinal cord compression must be excluded, the clinical presentation (ascending weakness, areflexia, albuminocytologic dissociation) is highly suggestive of GBS. MRI may show nerve root enhancement in GBS but is not the priority — initiating IVIG and monitoring respiratory function are essential.",
-        "c": "Incorrect. Pyridostigmine is an acetylcholinesterase inhibitor used for myasthenia gravis, not GBS. MG presents with fatigable weakness, ptosis, and diplopia — not ascending paralysis with areflexia. The pathophysiology is entirely different (NMJ vs. peripheral nerve demyelination).",
-        "d": "Correct. This presentation is classic for Guillain-Barré syndrome (ascending paralysis, areflexia, albuminocytologic dissociation on LP). IVIG (0.4 g/kg/day for 5 days) or plasmapheresis are equally effective first-line treatments. Close monitoring of respiratory function (FVC every 4–6 hours) is critical as 30% of GBS patients require mechanical ventilation."
       }
     },
     {
@@ -7425,7 +7342,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 66-year-old man with atrial fibrillation presents with sudden-onset left arm weakness and slurred speech. Symptoms resolve completely within 45 minutes. CT head is negative. What is the most accurate classification of this event?",
       "answers": [
         {
@@ -7509,7 +7426,7 @@
         "Critical Care",
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A nurse calls you about a patient with a traumatic brain injury whose ICP monitor shows a sustained reading of 24 mmHg. The patient's MAP is 82 mmHg. What is the patient's cerebral perfusion pressure (CPP), and does it meet the target range?",
       "answers": [
         {
@@ -7749,48 +7666,6 @@
         "b": "Incorrect. NMO can cause optic neuritis but typically presents with more severe, bilateral involvement and longitudinally extensive transverse myelitis (≥3 vertebral segments). NMO is associated with anti-aquaporin-4 antibodies. The periventricular white matter lesions on MRI are characteristic of MS, not NMO (which has a different lesion distribution pattern).",
         "c": "Incorrect. CRAO presents with PAINLESS sudden monocular vision loss with a cherry-red spot on fundoscopy, not painful vision loss with an RAPD. The pain with eye movement and MRI white matter lesions clearly distinguish optic neuritis from a vascular occlusion.",
         "d": "Incorrect. IIH (pseudotumor cerebri) presents with bilateral papilledema, headache, and visual changes — not acute monocular vision loss with RAPD and white matter lesions. IIH does not cause MRI white matter lesions or CSF oligoclonal bands."
-      }
-    },
-    {
-      "id": "neuro038",
-      "tier1": "Neurology",
-      "tier2": [
-        "Autonomic Dysreflexia"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 32-year-old man with a T4 spinal cord injury is in rehabilitation. He develops sudden severe headache, profuse diaphoresis above the level of injury, facial flushing, and blood pressure of 220/120 mmHg (baseline 100/60). Heart rate is 48 bpm. What is the most critical first action?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Administer IV labetalol to control blood pressure",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Sit the patient upright and immediately identify and remove the noxious stimulus (check for bladder distension, fecal impaction, skin pressure)",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Administer IV atropine for the bradycardia",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Obtain emergent CT head to rule out intracranial hemorrhage",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Autonomic dysreflexia (AD) is a medical emergency in patients with SCI at T6 or above. A noxious stimulus below the injury triggers an uninhibited sympathetic response (vasoconstriction, severe HTN) with compensatory parasympathetic activation above the injury (bradycardia, flushing, diaphoresis above the lesion). FIRST: sit upright (reduces BP via orthostatic effect) and IMMEDIATELY identify/remove the trigger. Most common triggers: bladder distension (blocked catheter — 85% of cases), fecal impaction, pressure ulcers, tight clothing, UTI. If BP remains >150 mmHg after trigger removal, administer fast-acting antihypertensives (nifedipine, nitropaste). Untreated AD can cause stroke, seizures, or death.",
-        "a": "Incorrect. While antihypertensives may be needed if BP remains dangerously elevated after addressing the trigger, the FIRST action is to identify and remove the noxious stimulus below the level of injury. IV antihypertensives without trigger removal will only temporarily lower BP — the autonomic response will persist.",
-        "b": "Correct. Autonomic dysreflexia (AD) is a medical emergency in patients with SCI at T6 or above. A noxious stimulus below the injury triggers an uninhibited sympathetic response (vasoconstriction, severe HTN) with compensatory parasympathetic activation above the injury (bradycardia, flushing, diaphoresis above the lesion). FIRST: sit upright (reduces BP via orthostatic effect) and IMMEDIATELY identify/remove the trigger. Most common triggers: bladder distension (blocked catheter — 85% of cases), fecal impaction, pressure ulcers, tight clothing, UTI. If BP remains >150 mmHg after trigger removal, administer fast-acting antihypertensives (nifedipine, nitropaste). Untreated AD can cause stroke, seizures, or death.",
-        "c": "Incorrect. The bradycardia is a compensatory parasympathetic response to the severe hypertension, not a primary cardiac issue. Treating the bradycardia with atropine (which increases HR) without addressing the BP could worsen the hypertensive crisis. The priority is to remove the triggering stimulus and manage the hypertension.",
-        "d": "Incorrect. While the severe hypertension could theoretically cause hemorrhagic stroke, the clinical presentation (SCI patient with classic AD symptoms triggered by a noxious stimulus) clearly identifies autonomic dysreflexia. Delaying treatment for imaging risks catastrophic complications. The priority is immediate stimulus identification and removal."
       }
     },
     {
@@ -8196,46 +8071,6 @@
       }
     },
     {
-      "id": "neuro049",
-      "tier1": "Neurology",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "UMN vs LMN"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 62-year-old man presents with progressive weakness affecting all four extremities over 18 months. Examination reveals hyperreflexia and spasticity in the legs (upper motor neuron signs) along with fasciculations and atrophy in the hands and tongue (lower motor neuron signs). Sensation is intact. Which of the following patterns of motor neuron involvement is most consistent with this presentation?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Hyperreflexia and spasticity only",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Hyperreflexia WITH fasciculations and atrophy",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Areflexia with clonus",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Normal tone and reflexes",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Simultaneous UMN signs (hyperreflexia, spasticity, Babinski) AND LMN signs (fasciculations, significant atrophy, weakness) occurring together in multiple body regions is the hallmark of amyotrophic lateral sclerosis (ALS/Lou Gehrig's disease). ALS destroys BOTH upper motor neurons (in the motor cortex/corticospinal tract) and lower motor neurons (in the anterior horn cells of the spinal cord and brainstem motor nuclei) simultaneously. Sensation is characteristically INTACT — a purely motor disease. El Escorial criteria require UMN+LMN signs in ≥3 regions for definite ALS. Average survival is 3-5 years from symptom onset.",
-        "a": "Incorrect. Isolated hyperreflexia and spasticity without LMN signs (no fasciculations, no atrophy) indicates a pure UMN lesion — such as stroke, MS, or cervical myelopathy. The simultaneous presence of BOTH UMN and LMN signs in multiple body regions is the key diagnostic feature of ALS that distinguishes it from pure UMN or pure LMN conditions.",
-        "b": "Correct. Simultaneous UMN signs (hyperreflexia, spasticity, Babinski) AND LMN signs (fasciculations, significant atrophy, weakness) occurring together in multiple body regions is the hallmark of amyotrophic lateral sclerosis (ALS/Lou Gehrig's disease). ALS destroys BOTH upper motor neurons (in the motor cortex/corticospinal tract) and lower motor neurons (in the anterior horn cells of the spinal cord and brainstem motor nuclei) simultaneously. Sensation is characteristically INTACT — a purely motor disease. El Escorial criteria require UMN+LMN signs in ≥3 regions for definite ALS. Average survival is 3-5 years from symptom onset.",
-        "c": "Incorrect. Areflexia (absence of reflexes, an LMN sign) and clonus (UMN sign) cannot coexist in the SAME reflex arc. If the lower motor neuron is destroyed, the reflex arc is interrupted and clonus cannot occur. This combination is physiologically impossible in the same muscle group. In ALS, different regions may show predominantly UMN or LMN findings, but within a single reflex arc, the dominant lesion determines the reflex response.",
-        "d": "Incorrect. Normal muscle tone and normal reflexes throughout would not suggest any motor neuron disease. Motor neuron disease — whether UMN, LMN, or combined — always produces abnormal findings on the neurological exam. The absence of any motor abnormalities effectively rules out significant motor neuron pathology."
-      }
-    },
-    {
       "id": "neuro050",
       "tier1": "Neurology",
       "tier2": [
@@ -8338,7 +8173,7 @@
         },
         {
           "id": "c",
-          "text": "GBS",
+          "text": "Guillain-Barré syndrome (GBS)",
           "correct": false
         },
         {
@@ -8444,7 +8279,7 @@
       ],
       "tier3": [],
       "difficulty": "medium",
-      "question": "A 42-year-old man with relapsing-remitting MS has been on natalizumab for 2 years and is doing well clinically. His neurologist orders JC virus antibody testing every 6 months. Which of the following serious adverse effects is the rationale for this monitoring?",
+      "question": "A 42-year-old man with relapsing-remitting MS has been on natalizumab for 2 years and is doing well clinically. His neurologist orders JC virus antibody testing every 6 months. Which of the following MS medications carries the highest risk of progressive multifocal leukoencephalopathy (PML), necessitating routine JC virus monitoring?",
       "answers": [
         {
           "id": "a",
@@ -8528,7 +8363,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "MS",
+          "text": "Multiple sclerosis (MS)",
           "correct": false
         },
         {
@@ -8538,7 +8373,7 @@
         },
         {
           "id": "c",
-          "text": "MG",
+          "text": "Myasthenia gravis (MG)",
           "correct": false
         },
         {
@@ -8553,46 +8388,6 @@
         "b": "Correct. This is classic Guillain-Barré syndrome (acute inflammatory demyelinating polyneuropathy/AIDP): post-infectious onset (1-4 weeks after Campylobacter jejuni gastroenteritis — the most common preceding infection), rapidly progressive ascending bilateral weakness, areflexia (LMN pattern), and CSF albuminocytologic dissociation (elevated protein with normal WBC). Paresthesias often precede motor symptoms. The weakness progresses to its nadir within 2-4 weeks and then gradually improves. Approximately 30% require mechanical ventilation for respiratory failure.",
         "c": "Incorrect. Myasthenia gravis causes FATIGABLE weakness (worsens with activity, improves with rest) — not the progressive ascending weakness seen here. MG has NORMAL reflexes, not areflexia. MG is not post-infectious and does not cause albuminocytologic dissociation. MG is caused by autoantibodies against the acetylcholine receptor at the neuromuscular junction.",
         "d": "Incorrect. Transverse myelitis causes acute myelopathy with a sensory LEVEL (a clear dermatomal boundary of sensory loss), UMN signs below the lesion (hyperreflexia, Babinski), and bladder/bowel dysfunction. It does NOT cause ascending weakness with areflexia. Transverse myelitis is a spinal cord lesion, while GBS affects peripheral nerves."
-      }
-    },
-    {
-      "id": "neuro058",
-      "tier1": "Neurology",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "Guillain-Barre Syndrome"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 42-year-old woman with Guillain-Barré syndrome has been in the ICU for 3 days with progressive weakness now affecting her upper extremities. The respiratory therapist reports a declining forced vital capacity (FVC) of 18 mL/kg and a negative inspiratory force (NIF) of –25 cmH₂O. She is using accessory muscles and reports difficulty lying flat. Which of the following is the most important next step?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Continue ICU monitoring with respiratory rate checks every 4 hours",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Proceed with elective intubation and mechanical ventilation based on the 20/30 rule",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Place the patient on BiPAP to support ventilation and avoid intubation",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Initiate high-flow nasal cannula at 40 L/min and monitor pulse oximetry closely",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. This patient meets criteria for elective intubation based on the '20/30 rule' for GBS respiratory monitoring: FVC <20 mL/kg (her FVC is 18) and NIF less negative than –30 cmH₂O (her NIF is –25, which is weaker than the –30 threshold). Additional clinical signs supporting intubation include orthopnea (difficulty lying flat indicates diaphragm weakness) and accessory muscle use. Approximately 30% of GBS patients require mechanical ventilation, and respiratory failure is the leading cause of mortality. ELECTIVE intubation before frank respiratory arrest is critical — do NOT wait for hypoxemia or hypercarbia, as these are late and dangerous findings. After intubation, continue IVIG or plasmapheresis and monitor for autonomic instability.",
-        "a": "Incorrect. While respiratory rate monitoring is part of ICU care, tachypnea is a nonspecific and late indicator of respiratory failure in GBS. By the time respiratory rate rises significantly, the patient may be near respiratory arrest. Objective bedside pulmonary function measurements (FVC and NIF) are far more sensitive for detecting impending neuromuscular respiratory failure and should drive the intubation decision.",
-        "b": "Correct. This patient meets criteria for elective intubation based on the '20/30 rule' for GBS respiratory monitoring: FVC <20 mL/kg (her FVC is 18) and NIF less negative than –30 cmH₂O (her NIF is –25, which is weaker than the –30 threshold). Additional clinical signs supporting intubation include orthopnea (difficulty lying flat indicates diaphragm weakness) and accessory muscle use. Approximately 30% of GBS patients require mechanical ventilation, and respiratory failure is the leading cause of mortality. ELECTIVE intubation before frank respiratory arrest is critical — do NOT wait for hypoxemia or hypercarbia, as these are late and dangerous findings. After intubation, continue IVIG or plasmapheresis and monitor for autonomic instability.",
-        "c": "Incorrect. Non-invasive positive pressure ventilation (BiPAP) is generally ineffective and potentially dangerous in GBS respiratory failure. The underlying problem is neuromuscular weakness — the patient cannot generate adequate inspiratory force or tidal volume. BiPAP does not address this and can worsen the situation by causing gastric distension, aspiration risk, and a false sense of security that delays definitive airway management. Patients with bulbar weakness (common in GBS) are particularly poor candidates for BiPAP due to inability to protect the airway.",
-        "d": "Incorrect. High-flow nasal cannula and pulse oximetry monitoring are inadequate for a patient meeting intubation criteria. Pulse oximetry (SpO₂) is a LATE indicator of respiratory failure in neuromuscular disease — desaturation occurs only after significant hypoventilation has already developed. Serial FVC and NIF measurements are the appropriate monitoring tools, and this patient has already crossed both thresholds for intubation. Waiting for desaturation risks respiratory arrest."
       }
     },
     {
@@ -8728,7 +8523,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "MS",
+          "text": "Multiple sclerosis (MS)",
           "correct": false
         },
         {
@@ -8738,7 +8533,7 @@
         },
         {
           "id": "c",
-          "text": "GBS",
+          "text": "Guillain-Barré syndrome (GBS)",
           "correct": false
         },
         {
@@ -8863,7 +8658,7 @@
         },
         {
           "id": "d",
-          "text": "NMS",
+          "text": "Neuroleptic malignant syndrome (NMS)",
           "correct": false
         }
       ],
@@ -10024,7 +9819,7 @@
         "Pharmacology",
         "Critical Care"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 52-year-old man presents with acute gallstone pancreatitis. After initial NPO management, IV fluids, and pain control, CT shows a 1.5 cm stone impacted in the common bile duct with biliary dilation and rising bilirubin (8.2 mg/dL). What is the most appropriate intervention?",
       "answers": [
         {
@@ -10359,8 +10154,8 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
-      "question": "A 50-year-old man presents for evaluation of abnormal liver enzymes. AST is 142 IU/L, ALT is 218 IU/L, alkaline phosphatase is 95 IU/L, and total bilirubin is 1.1 mg/dL. This pattern of liver enzyme elevation is best described as:",
+      "difficulty": "medium",
+      "question": "A 50-year-old man presents for evaluation of abnormal liver enzymes. AST is 142 IU/L, ALT is 218 IU/L, alkaline phosphatase is 95 IU/L, and total bilirubin is 1.1 mg/dL. Which of the following best describes this pattern of liver enzyme elevation?",
       "answers": [
         {
           "id": "a",
@@ -10611,7 +10406,7 @@
         "Critical Care",
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 72-year-old woman with a history of prior abdominal surgeries presents with crampy diffuse abdominal pain, nausea, vomiting, distension, and obstipation for 2 days. Abdominal X-ray shows dilated loops of small bowel with air-fluid levels and absence of colonic gas. She has no peritoneal signs and is hemodynamically stable. What is the most likely diagnosis and initial management?",
       "answers": [
         {
@@ -10948,7 +10743,7 @@
         },
         {
           "id": "c",
-          "text": "MRCP",
+          "text": "MRCP (magnetic resonance cholangiopancreatography)",
           "correct": false
         },
         {
@@ -11348,7 +11143,7 @@
         },
         {
           "id": "c",
-          "text": "KUB",
+          "text": "KUB (kidney-ureter-bladder X-ray)",
           "correct": false
         },
         {
@@ -12389,7 +12184,7 @@
         "Diagnostics/Labs",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 48-year-old woman presents with fatigue, constipation, and polyuria. Labs show serum calcium 13.2 mg/dL, PTH 245 pg/mL (normal 15–65), phosphorus 2.1 mg/dL, and 25-OH vitamin D 18 ng/mL. What is the most likely diagnosis?",
       "answers": [
         {
@@ -12472,7 +12267,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 55-year-old man with diabetes and hypertension has a GFR of 42 mL/min/1.73m² and a urine albumin-to-creatinine ratio (UACR) of 380 mg/g. Using the KDIGO classification, what is his CKD stage and albuminuria category?",
       "answers": [
         {
@@ -12598,7 +12393,7 @@
         "Critical Care",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 68-year-old man with CKD stage 5 (GFR 8 mL/min) presents with progressive uremic symptoms including pericardial friction rub, intractable nausea, encephalopathy, and asterixis. BUN is 148 mg/dL. Despite medical management, symptoms persist. What is the strongest indication for emergent dialysis initiation in this patient?",
       "answers": [
         {
@@ -12808,7 +12603,7 @@
         "Diagnostics/Labs",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 38-year-old man presents with acute-onset severe left flank pain radiating to the groin, nausea, and hematuria. Non-contrast CT abdomen reveals a 4 mm stone in the left distal ureter with no hydronephrosis and no signs of infection. He is afebrile with adequate pain control. What is the most appropriate management?",
       "answers": [
         {
@@ -13747,7 +13542,7 @@
       "tier3": [
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 52-year-old man with type 2 diabetes, CKD stage 3 (GFR 38 mL/min), and HFrEF has an A1C of 8.4% on metformin 1000 mg BID. Which additional medication provides the greatest cardiovascular and renal benefit based on current evidence?",
       "answers": [
         {
@@ -13830,7 +13625,7 @@
         "Pharmacology",
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 60-year-old woman with hypothyroidism is on levothyroxine 100 mcg daily. She begins taking calcium carbonate 600 mg BID with meals for osteoporosis. Six weeks later, her TSH rises from 2.4 to 8.6 mIU/L. What is the most likely explanation?",
       "answers": [
         {
@@ -14008,7 +13803,7 @@
         },
         {
           "id": "b",
-          "text": "Nephrogenic diabetes insipidus — discontinue lithium",
+          "text": "Nephrogenic diabetes insipidus — administer thiazide diuretic and low-sodium diet",
           "correct": false
         },
         {
@@ -14025,7 +13820,7 @@
       "explanation": {
         "correct": "Correct. Post-operative central diabetes insipidus results from damage to the posterior pituitary or pituitary stalk during surgery, impairing ADH (vasopressin) secretion. The hallmark is massive polyuria with dilute urine (osmolality <300) and rising serum sodium/osmolality. Treatment is IV or intranasal DDAVP (synthetic ADH analog) and free water replacement. This may be transient (triphasic response) or permanent requiring lifelong DDAVP.",
         "a": "Correct. Post-operative central diabetes insipidus results from damage to the posterior pituitary or pituitary stalk during surgery, impairing ADH (vasopressin) secretion. The hallmark is massive polyuria with dilute urine (osmolality <300) and rising serum sodium/osmolality. Treatment is IV or intranasal DDAVP (synthetic ADH analog) and free water replacement. This may be transient (triphasic response) or permanent requiring lifelong DDAVP.",
-        "b": "Incorrect. Nephrogenic DI occurs when the kidneys are unresponsive to ADH, commonly from lithium, hypercalcemia, or chronic kidney disease. This patient just had pituitary surgery — the pathology is CENTRAL (insufficient ADH production), not nephrogenic. There is no history of lithium use.",
+        "b": "Incorrect. Nephrogenic DI occurs when the kidneys are unresponsive to ADH, commonly caused by lithium, hypercalcemia, or chronic kidney disease. This patient has no history of these conditions — she just had pituitary surgery, making the pathology central (lack of ADH production), not nephrogenic (renal resistance to ADH). Thiazide diuretics and low-sodium diet are used for nephrogenic DI, but the diagnosis itself is wrong here.",
         "c": "Incorrect. Cerebral salt wasting causes hypovolemic hyponatremia (not hypernatremia) from renal sodium wasting, typically after neurosurgery. This patient has hypernatremia with dilute polyuria — the opposite electrolyte pattern, consistent with central DI where the kidney cannot concentrate urine.",
         "d": "Incorrect. SIADH causes hyponatremia with concentrated urine (high urine osmolality). This patient has HYPERnatremia with dilute urine — the exact opposite. In fact, a triphasic response can occur after pituitary surgery: initial DI → transient SIADH → permanent DI. This patient is in the DI phase."
       }
@@ -14249,7 +14044,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 30-year-old woman presents with anxiety, tremor, heat intolerance, weight loss, and palpitations. Exam reveals diffuse thyroid enlargement and bilateral exophthalmos. TSH is <0.01 mIU/L and free T4 is 5.2 ng/dL. What is the most likely diagnosis?",
       "answers": [
         {
@@ -15104,7 +14899,7 @@
         "Critical Care",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 45-year-old woman receives a unit of packed red blood cells and 30 minutes later develops fever (39.1°C), rigors, flank pain, dark urine, and hypotension. What is the most likely transfusion reaction, and what is the priority intervention?",
       "answers": [
         {
@@ -15187,7 +14982,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 65-year-old woman presents with fatigue. Labs show hemoglobin 9.8 g/dL, MCV 68 fL, ferritin 8 ng/mL, TIBC 450 mcg/dL, and iron saturation 8%. Reticulocyte count is low. What type of anemia does this represent?",
       "answers": [
         {
@@ -15312,7 +15107,7 @@
       "tier3": [
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 72-year-old man is being bridged from warfarin to enoxaparin for an elective knee replacement. His warfarin is stopped 5 days pre-operatively. His CHA2DS2-VASc score is 5 and he has a history of prior stroke. When should the last dose of enoxaparin be given before surgery?",
       "answers": [
         {
@@ -15564,7 +15359,7 @@
         "Pharmacology",
         "Critical Care"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 32-year-old woman who is Rh-negative gives birth to an Rh-positive infant. She did not receive antepartum RhoGAM. What is the purpose of administering RhD immune globulin (RhoGAM) within 72 hours postpartum?",
       "answers": [
         {
@@ -16965,48 +16760,6 @@
       }
     },
     {
-      "id": "multi007",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Burns/Environmental"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 40-year-old man is brought to the ED after being rescued from a house fire. He has 45% total body surface area (TBSA) second- and third-degree burns. He weighs 80 kg. Using the Parkland formula, what is the total volume of lactated Ringer's to be administered in the first 24 hours?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "7,200 mL — give half in the first 8 hours",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "14,400 mL — give half in the first 8 hours from time of burn",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "14,400 mL — give evenly over 24 hours",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "18,000 mL — give half in the first 8 hours",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Parkland formula: 4 mL × 45% TBSA × 80 kg = 14,400 mL of LR in the first 24 hours. Half (7,200 mL) is given in the first 8 hours from the time of injury (not from ED arrival), and the remaining half over the next 16 hours. Urine output is the primary endpoint for titration: target 0.5–1 mL/kg/hr in adults.",
-        "a": "Incorrect. The Parkland formula is 4 mL × %TBSA × body weight (kg) = 4 × 45 × 80 = 14,400 mL. This answer underestimates the required volume by half, which would lead to inadequate resuscitation and organ hypoperfusion.",
-        "b": "Correct. Parkland formula: 4 mL × 45% TBSA × 80 kg = 14,400 mL of LR in the first 24 hours. Half (7,200 mL) is given in the first 8 hours from the time of injury (not from ED arrival), and the remaining half over the next 16 hours. Urine output is the primary endpoint for titration: target 0.5–1 mL/kg/hr in adults.",
-        "c": "Incorrect. While the total volume (14,400 mL) is correct, the distribution is wrong. Burns produce maximal fluid shifts in the first 8 hours due to peak capillary permeability. Half the volume must be front-loaded in the first 8 hours, with the remainder over the next 16 hours.",
-        "d": "Incorrect. This volume would result from using 5 mL/kg/%TBSA, which is not the standard Parkland formula. The correct formula uses 4 mL × %TBSA × weight = 14,400 mL. Over-resuscitation can cause abdominal compartment syndrome and pulmonary edema."
-      }
-    },
-    {
       "id": "multi008",
       "tier1": "Multisystem",
       "tier2": [
@@ -17016,7 +16769,7 @@
         "Diagnostics/Labs",
         "Critical Care"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A nurse asks you to evaluate a 70-year-old man with pneumonia for possible sepsis. His vital signs are: T 38.9°C, HR 102, RR 24, BP 105/65 mmHg, SpO2 94% on RA. Labs show WBC 14.8, lactate 1.6 mmol/L, creatinine 1.2 (baseline 0.9). Using the qSOFA score, how many criteria does this patient meet?",
       "answers": [
         {
@@ -17133,48 +16886,6 @@
       }
     },
     {
-      "id": "multi011",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Infectious Disease"
-      ],
-      "tier3": [
-        "Pharmacology",
-        "Diagnostics/Labs"
-      ],
-      "difficulty": "hard",
-      "question": "A 35-year-old man with HIV (CD4 count 85 cells/μL, not on ART) presents with 2 weeks of progressive dyspnea, dry cough, and fever. CXR shows bilateral diffuse interstitial infiltrates. ABG reveals PaO2 58 mmHg on room air. LDH is 520 IU/L. Induced sputum is positive for Pneumocystis jirovecii. In addition to TMP-SMX, what additional therapy is indicated?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "No additional therapy — TMP-SMX alone is sufficient",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Adjunctive prednisone (40 mg BID × 5 days, then taper)",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Add IV caspofungin for dual antifungal coverage",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Start ART immediately to boost immune function",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. For moderate-to-severe PCP (PaO2 <70 mmHg or A-a gradient >35 mmHg), adjunctive corticosteroids are indicated and have been shown to reduce mortality. The standard regimen is prednisone 40 mg BID for days 1–5, then 40 mg daily for days 6–10, then 20 mg daily for days 11–21. Steroids should be started within 72 hours of PCP treatment initiation.",
-        "a": "Incorrect. When PaO2 <70 mmHg (or A-a gradient >35 mmHg) in PCP, adjunctive corticosteroids reduce mortality by decreasing the inflammatory response in the lungs. This patient's PaO2 of 58 meets the criteria for steroid use.",
-        "b": "Correct. For moderate-to-severe PCP (PaO2 <70 mmHg or A-a gradient >35 mmHg), adjunctive corticosteroids are indicated and have been shown to reduce mortality. The standard regimen is prednisone 40 mg BID for days 1–5, then 40 mg daily for days 6–10, then 20 mg daily for days 11–21. Steroids should be started within 72 hours of PCP treatment initiation.",
-        "c": "Incorrect. Pneumocystis jirovecii is classified as a fungus but does not respond to standard antifungals (azoles, echinocandins, amphotericin B). TMP-SMX targets the folate synthesis pathway unique to Pneumocystis. Caspofungin has no activity against PCP.",
-        "d": "Incorrect. In PCP with severe immunosuppression, ART initiation should be deferred for 2 weeks after starting PCP treatment to reduce the risk of immune reconstitution inflammatory syndrome (IRIS). Starting ART immediately can cause paradoxical worsening of respiratory status as immune function rapidly recovers."
-      }
-    },
-    {
       "id": "multi012",
       "tier1": "Multisystem",
       "tier2": [
@@ -17184,7 +16895,7 @@
         "Critical Care",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 25-year-old woman is brought in after a stabbing to the left chest. She is alert but tachycardic (HR 126) and hypotensive (BP 80/50). After 1 L of crystalloid, her BP remains 82/54 mmHg. Estimated blood loss is 1,500 mL. What class of hemorrhagic shock is this, and what is the priority resuscitation strategy?",
       "answers": [
         {
@@ -17436,7 +17147,7 @@
         "Pharmacology",
         "Critical Care"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 22-year-old man is found unresponsive with a respiratory rate of 4 breaths/min, pinpoint pupils, and a needle next to him. SpO2 is 72% on room air. What is the immediate first action?",
       "answers": [
         {
@@ -18886,7 +18597,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral metronidazole 250 mg TID for 5-7 days",
+          "text": "Oral metronidazole 500 mg once daily for 14 days",
           "correct": false
         },
         {
@@ -18907,7 +18618,7 @@
       ],
       "explanation": {
         "correct": "Correct. This is giardiasis: foul-smelling, watery/greasy (steatorrhea) diarrhea without blood, bloating, flatulence, and contaminated water exposure. Stool shows characteristic pear-shaped trophozoites. Tinidazole (2 g single dose) is now the preferred treatment due to equivalent efficacy to metronidazole with better tolerability and single-dose convenience. Both drugs share the disulfiram-like alcohol interaction. Metronidazole (250 mg TID × 5-7 days) is the alternative. Nitazoxanide is another option. Key patient education: avoid alcohol during and 48-72 hours after nitroimidazole therapy.",
-        "a": "Incorrect. Metronidazole is effective against Giardia but tinidazole is now preferred due to single-dose convenience and fewer GI side effects. However, metronidazole remains an acceptable alternative.",
+        "a": "Incorrect. Metronidazole is effective against Giardia, but 500 mg once daily for 14 days is the wrong dose and duration. The correct metronidazole regimen for giardiasis is 250 mg TID for 5-7 days. However, even at correct dosing, tinidazole is now preferred due to single-dose convenience (2 g once) and fewer GI side effects. Both drugs share the disulfiram-like alcohol interaction.",
         "b": "Correct. This is giardiasis: foul-smelling, watery/greasy (steatorrhea) diarrhea without blood, bloating, flatulence, and contaminated water exposure. Stool shows characteristic pear-shaped trophozoites. Tinidazole (2 g single dose) is now the preferred treatment due to equivalent efficacy to metronidazole with better tolerability and single-dose convenience. Both drugs share the disulfiram-like alcohol interaction. Metronidazole (250 mg TID × 5-7 days) is the alternative. Nitazoxanide is another option. Key patient education: avoid alcohol during and 48-72 hours after nitroimidazole therapy.",
         "c": "Incorrect. Fluoroquinolones have no activity against Giardia lamblia (a protozoan parasite, not a bacterium). Ciprofloxacin would be appropriate for bacterial causes of traveler's diarrhea (e.g., Campylobacter, Shigella).",
         "d": "Incorrect. Albendazole has some activity against Giardia but is less effective than nitroimidazoles (metronidazole/tinidazole) and is not first-line therapy. Albendazole is better suited for helminth infections (roundworms, hookworms, whipworms)."
@@ -19554,46 +19265,6 @@
       }
     },
     {
-      "id": "multi071",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "HIV/AIDS - OI Prophylaxis"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "An infectious disease fellow asks which single prophylactic medication can simultaneously protect HIV-positive patients against both Pneumocystis jirovecii pneumonia and Toxoplasma gondii encephalitis. Which of the following agents provides this dual coverage?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Azithromycin",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Pentamidine",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Dapsone",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "TMP-SMX",
-          "correct": true
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. TMP-SMX (trimethoprim-sulfamethoxazole) at double-strength daily dosing is the only single agent that provides prophylaxis against both PJP and Toxoplasma gondii. This makes it the preferred first-line prophylactic agent for HIV patients with CD4 <200 (PJP threshold) and especially those with CD4 <100 who are Toxoplasma IgG positive. Its dual coverage, once-daily dosing, low cost, and extensive safety data make it the cornerstone of OI prophylaxis in HIV care.",
-        "a": "Incorrect. Azithromycin is used for MAC (Mycobacterium avium complex) prophylaxis at CD4 <50, not for PJP or Toxoplasma prevention. It has no clinically significant activity against Pneumocystis jirovecii or Toxoplasma gondii at prophylactic doses.",
-        "b": "Incorrect. Aerosolized pentamidine provides PJP prophylaxis ONLY by delivering the drug directly to the lungs. It does NOT achieve systemic concentrations adequate to prevent Toxoplasma encephalitis, and it does not protect against extrapulmonary Pneumocystis. It is used as a PJP-only alternative in patients intolerant of both TMP-SMX and dapsone.",
-        "c": "Incorrect. Dapsone alone covers PJP but not Toxoplasma gondii. To achieve Toxoplasma coverage with dapsone, pyrimethamine and leucovorin must be added — a more complex and potentially more toxic regimen than daily TMP-SMX.",
-        "d": "Correct. TMP-SMX (trimethoprim-sulfamethoxazole) at double-strength daily dosing is the only single agent that provides prophylaxis against both PJP and Toxoplasma gondii. This makes it the preferred first-line prophylactic agent for HIV patients with CD4 <200 (PJP threshold) and especially those with CD4 <100 who are Toxoplasma IgG positive. Its dual coverage, once-daily dosing, low cost, and extensive safety data make it the cornerstone of OI prophylaxis in HIV care."
-      }
-    },
-    {
       "id": "multi072",
       "tier1": "Multisystem",
       "tier2": [
@@ -19882,7 +19553,7 @@
       ],
       "tier3": [],
       "difficulty": "medium",
-      "question": "A critical care nurse practitioner is selecting an antibiotic for a patient with MRSA bacteremia. She considers daptomycin but the patient also has concurrent MRSA pneumonia. Why is daptomycin inappropriate for treating pneumonia?",
+      "question": "A critical care nurse practitioner is selecting an antibiotic for a patient with MRSA bacteremia who also has concurrent MRSA pneumonia. Which of the following antibiotics should NOT be used to treat the pneumonia component, despite having excellent MRSA activity for bacteremia?",
       "answers": [
         {
           "id": "a",
@@ -20394,46 +20065,6 @@
       }
     },
     {
-      "id": "multi092",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "Infectious Disease"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 24-year-old college student presents with a 10-day history of gradual-onset dry cough, low-grade fever, headache, and malaise. Chest X-ray shows bilateral patchy interstitial infiltrates that appear more extensive than her clinical exam suggests. She appears well and is not in distress. Which of the following is the most likely causative pathogen?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Strep pneumoniae",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Mycoplasma pneumoniae",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Staph aureus",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Klebsiella",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. This is the classic 'walking pneumonia' presentation of Mycoplasma pneumoniae: young/healthy patient, gradual onset over days to weeks, persistent dry (nonproductive) cough, low-grade fever, and CXR findings that look worse than the patient appears clinically. Mycoplasma LACKS a cell wall, making beta-lactam antibiotics (which target cell wall synthesis) intrinsically ineffective. Treatment requires macrolides (azithromycin), tetracyclines (doxycycline), or respiratory fluoroquinolones (levofloxacin).",
-        "a": "Incorrect. S. pneumoniae (pneumococcus) classically presents with ACUTE onset of high fever, rigors, productive cough with purulent or rust-colored sputum, and a focal lobar consolidation on CXR. This differs markedly from the gradual onset, dry cough, and bilateral patchy infiltrates described in this question. Pneumococcal pneumonia also typically makes patients appear much more acutely ill than this patient.",
-        "b": "Correct. This is the classic 'walking pneumonia' presentation of Mycoplasma pneumoniae: young/healthy patient, gradual onset over days to weeks, persistent dry (nonproductive) cough, low-grade fever, and CXR findings that look worse than the patient appears clinically. Mycoplasma LACKS a cell wall, making beta-lactam antibiotics (which target cell wall synthesis) intrinsically ineffective. Treatment requires macrolides (azithromycin), tetracyclines (doxycycline), or respiratory fluoroquinolones (levofloxacin).",
-        "c": "Incorrect. S. aureus pneumonia is most commonly seen in specific clinical settings: post-influenza secondary bacterial pneumonia (a classic board association), injection drug users with septic pulmonary emboli from right-sided endocarditis, and healthcare-associated/ventilator-associated pneumonia (MRSA). A gradual-onset dry cough in a young, otherwise healthy outpatient does not fit the typical S. aureus PNA presentation.",
-        "d": "Incorrect. Klebsiella pneumoniae causes severe, necrotizing pneumonia typically in alcoholics and debilitated patients, presenting with high fever, productive cough with thick bloody ('currant jelly') sputum, and cavitary upper lobe infiltrates. A young college student with gradual-onset dry cough does not fit this profile."
-      }
-    },
-    {
       "id": "multi093",
       "tier1": "Multisystem",
       "tier2": [
@@ -20471,46 +20102,6 @@
         "b": "Correct. Beta-lactam antibiotics work by inhibiting bacterial cell wall synthesis (binding penicillin-binding proteins to disrupt peptidoglycan cross-linking). Atypical pathogens are intrinsically resistant because: (1) Mycoplasma pneumoniae completely LACKS a cell wall — it has only a cell membrane, making cell-wall-targeting drugs useless; (2) Chlamydia and Legionella are obligate INTRACELLULAR pathogens — they replicate inside host cells where beta-lactams cannot reach therapeutic concentrations. Treatment of atypicals requires drugs that penetrate intracellularly: macrolides (azithromycin), tetracyclines (doxycycline), or fluoroquinolones (levofloxacin).",
         "c": "Incorrect. The blood-brain barrier is not relevant to this question. Atypical pathogens primarily cause respiratory infections (pneumonia), not CNS infections. The reason beta-lactams fail against atypicals is the organisms' structural characteristics (no cell wall or intracellular location), not a drug distribution issue.",
         "d": "Incorrect. Efflux pumps are a resistance mechanism used by certain gram-negative bacteria (notably Pseudomonas aeruginosa) to actively pump antibiotics out of the bacterial cell, reducing intracellular drug concentrations. This is not the mechanism of atypical pathogen resistance to beta-lactams. Atypical resistance is intrinsic and structural — Mycoplasma lacks the drug target (cell wall), and Chlamydia/Legionella are inaccessible intracellularly."
-      }
-    },
-    {
-      "id": "multi094",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "Infectious Disease"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 63-year-old man presents with acute-onset high fever, productive cough, watery diarrhea, and confusion. Labs show serum sodium of 126 mEq/L. He recently stayed at a hotel with a large fountain in the lobby. Chest X-ray shows bilateral lower lobe consolidations. Which of the following is the most likely causative pathogen?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Mycoplasma",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Strep pneumoniae",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Legionella pneumophila",
-          "correct": true
-        },
-        {
-          "id": "d",
-          "text": "Chlamydophila pneumoniae",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. This is a classic Legionnaires' disease presentation: (1) severe pneumonia with bilateral infiltrates; (2) GI symptoms — particularly watery diarrhea (present in 20-40% of cases); (3) neuropsychiatric changes — confusion, headache, encephalopathy; (4) hyponatremia from SIADH; (5) contaminated water exposure (hotel fountain, cooling towers, hot tubs, cruise ships); (6) elevated LDH and transaminases. Legionella stains poorly on Gram stain (few organisms seen). Diagnosis: Legionella urinary antigen (serogroup 1 only) or culture on specialized media. Treatment: azithromycin or respiratory fluoroquinolone (levofloxacin). Legionella is NOT transmitted person-to-person.",
-        "a": "Incorrect. Mycoplasma pneumoniae causes a milder 'walking pneumonia' typically in younger patients (age 5-40), with gradual onset, persistent dry cough, and minimal systemic toxicity. Mycoplasma does NOT cause the severe systemic picture seen here (high fever, confusion, GI symptoms, hyponatremia). The patient's age (63), acute severity, and multiorgan involvement are more consistent with Legionella.",
-        "b": "Incorrect. S. pneumoniae is the most common cause of CAP overall, but it does not typically present with the triad of diarrhea, confusion/neuropsychiatric symptoms, and hyponatremia. Pneumococcal PNA classically presents with acute-onset productive cough, rigors, and focal lobar consolidation without prominent GI or neurologic features.",
-        "c": "Correct. This is a classic Legionnaires' disease presentation: (1) severe pneumonia with bilateral infiltrates; (2) GI symptoms — particularly watery diarrhea (present in 20-40% of cases); (3) neuropsychiatric changes — confusion, headache, encephalopathy; (4) hyponatremia from SIADH; (5) contaminated water exposure (hotel fountain, cooling towers, hot tubs, cruise ships); (6) elevated LDH and transaminases. Legionella stains poorly on Gram stain (few organisms seen). Diagnosis: Legionella urinary antigen (serogroup 1 only) or culture on specialized media. Treatment: azithromycin or respiratory fluoroquinolone (levofloxacin). Legionella is NOT transmitted person-to-person.",
-        "d": "Incorrect. Chlamydophila pneumoniae causes atypical community-acquired pneumonia with gradual onset, dry cough, and pharyngitis, but without the classic Legionella features of diarrhea, confusion, hyponatremia, and contaminated water exposure. C. pneumoniae tends to cause milder illness and is more common in young adults."
       }
     },
     {
@@ -20722,35 +20313,35 @@
       ],
       "tier3": [],
       "difficulty": "medium",
-      "question": "A 55-year-old man with meningitis is being treated with high-dose IV imipenem. On hospital day 3, he develops a new-onset generalized tonic-clonic seizure with no prior seizure history. Which of the following best explains this adverse event?",
+      "question": "A 55-year-old man with meningitis is being treated with high-dose IV imipenem. On hospital day 3, he develops a new-onset generalized tonic-clonic seizure with no prior seizure history. Which of the following best explains why this carbapenem carries the highest seizure risk in its class?",
       "answers": [
         {
           "id": "a",
-          "text": "Ototoxicity",
+          "text": "Imipenem inhibits cochlear hair cell function, causing CNS excitotoxicity",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Peripheral neuropathy",
+          "text": "Imipenem causes peripheral neuropathy that triggers reflex seizure activity",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Seizures",
+          "text": "Imipenem has the highest affinity for GABA-A receptors among carbapenems, causing inhibitory neurotransmitter blockade",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Serotonin syndrome",
+          "text": "Imipenem causes serotonin excess through MAO inhibition, lowering the seizure threshold",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Imipenem has the highest seizure risk among the carbapenem class — estimated at 1-3% of treated patients, with higher risk at elevated doses, in patients with renal impairment (reduced drug clearance), CNS pathology (meningitis, brain lesion, prior seizure history), or low body weight. The mechanism involves inhibition of GABA-A receptors in the CNS, lowering the seizure threshold. For this reason, meropenem (which has significantly lower seizure potential) is preferred over imipenem in patients with CNS infections, seizure history, or renal impairment. Ertapenem also has seizure risk, while doripenem has the lowest.",
-        "a": "Incorrect. Ototoxicity (hearing loss, vestibular dysfunction, tinnitus) is the hallmark toxicity of aminoglycosides (gentamicin, tobramycin, amikacin), caused by direct damage to cochlear and vestibular hair cells. Carbapenems do not cause ototoxicity.",
-        "b": "Incorrect. Peripheral neuropathy is associated with prolonged use of metronidazole, isoniazid (INH — prevented with pyridoxine/B6 supplementation), and linezolid (courses >2 weeks). Carbapenems are not a recognized cause of peripheral neuropathy.",
-        "c": "Correct. Imipenem has the highest seizure risk among the carbapenem class — estimated at 1-3% of treated patients, with higher risk at elevated doses, in patients with renal impairment (reduced drug clearance), CNS pathology (meningitis, brain lesion, prior seizure history), or low body weight. The mechanism involves inhibition of GABA-A receptors in the CNS, lowering the seizure threshold. For this reason, meropenem (which has significantly lower seizure potential) is preferred over imipenem in patients with CNS infections, seizure history, or renal impairment. Ertapenem also has seizure risk, while doripenem has the lowest.",
-        "d": "Incorrect. Serotonin syndrome is caused by excess serotonergic activity, most commonly when linezolid (a weak MAO inhibitor) is combined with serotonergic drugs (SSRIs, SNRIs, tramadol, meperidine). Carbapenems have no MAO inhibitor activity and do not cause serotonin syndrome."
+        "correct": "Correct. Imipenem has the highest seizure risk among carbapenems (estimated 1-3%) because its molecular structure has the highest binding affinity for GABA-A receptors, blocking inhibitory neurotransmission in the CNS. Risk factors include high doses, renal impairment (reduced clearance), CNS pathology (meningitis, brain lesions), and prior seizure history. Meropenem has a modified side chain that reduces GABA-A binding, making it the preferred carbapenem for CNS infections.",
+        "a": "Incorrect. Ototoxicity (cochlear damage) is the hallmark toxicity of aminoglycosides, not carbapenems. Imipenem's seizure mechanism involves GABA-A receptor blockade in the CNS, not inner ear damage.",
+        "b": "Incorrect. Peripheral neuropathy is associated with prolonged metronidazole, isoniazid, and linezolid use, not carbapenems. Carbapenems do not cause peripheral nerve damage.",
+        "c": "Correct. Imipenem has the highest seizure risk among carbapenems (estimated 1-3%) because its molecular structure has the highest binding affinity for GABA-A receptors, blocking inhibitory neurotransmission in the CNS. Risk factors include high doses, renal impairment (reduced clearance), CNS pathology (meningitis, brain lesions), and prior seizure history. Meropenem has a modified side chain that reduces GABA-A binding, making it the preferred carbapenem for CNS infections.",
+        "d": "Incorrect. MAO inhibition causing serotonin syndrome is associated with linezolid, not carbapenems. Imipenem's seizure mechanism is GABA-A receptor antagonism, not serotonergic."
       }
     },
     {
@@ -20794,46 +20385,6 @@
       }
     },
     {
-      "id": "multi102",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "HIV/AIDS"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 44-year-old HIV-positive man with a CD4 count of 45 cells/mm³ presents with 2 weeks of worsening headache, fever, nausea, and neck stiffness. Lumbar puncture shows elevated opening pressure, and India ink preparation reveals encapsulated budding yeast. Which of the following is the most appropriate initial treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Fluconazole monotherapy",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Amphotericin B + flucytosine x2 weeks, then fluconazole",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Voriconazole",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Caspofungin",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Cryptococcal meningitis requires a 3-phase treatment approach: (1) INDUCTION: liposomal amphotericin B + flucytosine × ≥2 weeks until CSF is sterilized; (2) CONSOLIDATION: fluconazole 400 mg/day × 8 weeks; (3) MAINTENANCE: fluconazole 200 mg/day until CD4 >200 for ≥12 months on ART. Critical: elevated ICP (opening pressure often >25 cmH₂O) is the primary cause of early mortality and requires aggressive management with serial therapeutic lumbar punctures to maintain OP <20. ART initiation should be DELAYED 4-6 weeks to avoid cryptococcal IRIS.",
-        "a": "Incorrect. Fluconazole alone is used for the CONSOLIDATION and MAINTENANCE phases of cryptococcal meningitis treatment — NOT for induction. Using fluconazole as monotherapy for induction is associated with significantly higher mortality compared to amphotericin-based induction because fluconazole is fungistatic (not fungicidal) and achieves slower CSF sterilization.",
-        "b": "Correct. Cryptococcal meningitis requires a 3-phase treatment approach: (1) INDUCTION: liposomal amphotericin B + flucytosine × ≥2 weeks until CSF is sterilized; (2) CONSOLIDATION: fluconazole 400 mg/day × 8 weeks; (3) MAINTENANCE: fluconazole 200 mg/day until CD4 >200 for ≥12 months on ART. Critical: elevated ICP (opening pressure often >25 cmH₂O) is the primary cause of early mortality and requires aggressive management with serial therapeutic lumbar punctures to maintain OP <20. ART initiation should be DELAYED 4-6 weeks to avoid cryptococcal IRIS.",
-        "c": "Incorrect. Voriconazole is the drug of choice for invasive aspergillosis — NOT cryptococcal meningitis. While voriconazole has some in vitro activity against Cryptococcus, it is not recommended for treatment. Knowing which azole treats which fungal infection is high-yield: fluconazole → Candida and Cryptococcus; voriconazole → Aspergillus; itraconazole → Histoplasma, Blastomyces, Sporotrichosis.",
-        "d": "Incorrect. Echinocandins (caspofungin, micafungin, anidulafungin) have NO activity against Cryptococcus neoformans — this is one of the most important gaps in the echinocandin spectrum. Echinocandins inhibit beta-(1,3)-D-glucan synthase in the fungal cell wall, but Cryptococcus has a thick polysaccharide capsule that is not dependent on beta-glucan for structural integrity. Echinocandins are effective against Candida (first-line for candidemia) and Aspergillus (salvage therapy)."
-      }
-    },
-    {
       "id": "multi103",
       "tier1": "Multisystem",
       "tier2": [
@@ -20846,22 +20397,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Azoles",
+          "text": "Inhibition of ergosterol synthesis by blocking lanosterol 14-alpha-demethylase",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Polyenes",
+          "text": "Binding directly to ergosterol in the fungal cell membrane, creating pores",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Echinocandins",
+          "text": "Inhibition of beta-(1,3)-D-glucan synthase in the fungal cell wall",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Allylamines",
+          "text": "Inhibition of squalene epoxidase, disrupting early ergosterol synthesis",
           "correct": false
         }
       ],
@@ -21034,46 +20585,6 @@
       }
     },
     {
-      "id": "multi108",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "Viral Infections"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 32-year-old woman presents with acute-onset confusion, fever of 104°F, and a new seizure. MRI brain shows bilateral temporal lobe T2 hyperintensities. Herpes simplex encephalitis is strongly suspected. Which of the following is the most appropriate immediate antiviral treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Oral valacyclovir",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "IV acyclovir",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV ganciclovir",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Oral oseltamivir",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. IV acyclovir 10 mg/kg every 8 hours is the standard treatment for HSV encephalitis and must be started IMMEDIATELY when HSE is suspected — before PCR results return (HSV PCR of CSF takes 24-48 hours). HSE carries >70% mortality if untreated and ~20% mortality even with treatment. Every hour of delay worsens outcomes. Aggressive IV hydration is essential to prevent acyclovir crystalluria and nephrotoxicity. Treatment duration: 14-21 days for confirmed HSE. If HSV PCR returns negative at 72 hours with low clinical suspicion, acyclovir may be discontinued.",
-        "a": "Incorrect. Oral valacyclovir provides good bioavailability for treating herpes labialis, genital herpes, and herpes zoster. However, for herpes simplex ENCEPHALITIS — a life-threatening CNS infection — IV acyclovir at high doses (10 mg/kg q8h) is required to achieve adequate cerebrospinal fluid concentrations. Oral therapy cannot achieve the CSF levels needed to treat active CNS infection.",
-        "b": "Correct. IV acyclovir 10 mg/kg every 8 hours is the standard treatment for HSV encephalitis and must be started IMMEDIATELY when HSE is suspected — before PCR results return (HSV PCR of CSF takes 24-48 hours). HSE carries >70% mortality if untreated and ~20% mortality even with treatment. Every hour of delay worsens outcomes. Aggressive IV hydration is essential to prevent acyclovir crystalluria and nephrotoxicity. Treatment duration: 14-21 days for confirmed HSE. If HSV PCR returns negative at 72 hours with low clinical suspicion, acyclovir may be discontinued.",
-        "c": "Incorrect. IV ganciclovir is the treatment for cytomegalovirus (CMV) infections — retinitis, colitis, esophagitis, and encephalitis in immunocompromised patients. HSV encephalitis characteristically involves the temporal lobes (T2/FLAIR hyperintensity, often with hemorrhagic changes on MRI), whereas CMV encephalitis presents as ventriculoencephalitis with periventricular enhancement.",
-        "d": "Incorrect. Oseltamivir is a neuraminidase inhibitor used for influenza A and B treatment and prophylaxis. It has no antiviral activity against herpes simplex virus. HSV and influenza have completely different viral structures and replication mechanisms requiring different drug classes."
-      }
-    },
-    {
       "id": "multi109",
       "tier1": "Multisystem",
       "tier2": [
@@ -21082,35 +20593,35 @@
       ],
       "tier3": [],
       "difficulty": "medium",
-      "question": "A 55-year-old man with chronic hepatitis B has been on tenofovir for 5 years with undetectable HBV DNA. He asks his provider whether he can stop the medication. Which of the following is the most important counseling point regarding discontinuation of HBV antiviral therapy?",
+      "question": "A 55-year-old man with chronic hepatitis B has been on tenofovir for 5 years with undetectable HBV DNA. He asks his provider whether he can stop the medication. Which of the following is the most important counseling point regarding discontinuation of nucleos(t)ide analog therapy for hepatitis B?",
       "answers": [
         {
           "id": "a",
-          "text": "Oseltamivir",
+          "text": "He can safely stop tenofovir since 5 years of therapy cures hepatitis B",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Ribavirin",
+          "text": "He can stop if HBsAg seroconversion has occurred and is confirmed on repeat testing",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Entecavir or tenofovir",
+          "text": "Abrupt discontinuation risks severe hepatitis flare from viral rebound, potentially causing hepatic decompensation — lifelong therapy is usually required",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Acyclovir",
+          "text": "He should switch to interferon-alpha for a finite 48-week course to achieve cure",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Entecavir and tenofovir (TDF or TAF) are nucleos(t)ide analogs that suppress HBV replication but do NOT cure the infection — covalently closed circular DNA (cccDNA) persists in hepatocytes. Discontinuation can trigger severe hepatitis flares from viral rebound as the suppressed virus rapidly resumes replication without drug pressure. These flares can cause acute hepatic decompensation, liver failure, and death — particularly in patients with underlying cirrhosis. Close monitoring of HBV DNA and ALT for at least 12 months after discontinuation is mandatory if therapy is stopped.",
-        "a": "Incorrect. Oseltamivir is a neuraminidase inhibitor used exclusively for influenza treatment and prophylaxis. It has no activity against hepatitis B virus and is unrelated to HBV management.",
-        "b": "Incorrect. Ribavirin was previously used in combination with interferon-alpha for hepatitis C treatment but has been largely replaced by direct-acting antivirals (DAAs). Ribavirin has no significant role in hepatitis B management and is not the relevant agent for this question about HBV antiviral discontinuation risk.",
-        "c": "Correct. Entecavir and tenofovir (TDF or TAF) are nucleos(t)ide analogs that suppress HBV replication but do NOT cure the infection — covalently closed circular DNA (cccDNA) persists in hepatocytes. Discontinuation can trigger severe hepatitis flares from viral rebound as the suppressed virus rapidly resumes replication without drug pressure. These flares can cause acute hepatic decompensation, liver failure, and death — particularly in patients with underlying cirrhosis. Close monitoring of HBV DNA and ALT for at least 12 months after discontinuation is mandatory if therapy is stopped.",
-        "d": "Incorrect. Acyclovir (and its prodrug valacyclovir) are used to treat herpes simplex virus (HSV-1, HSV-2) and varicella-zoster virus (VZV) infections. They have no activity against hepatitis B virus. Acyclovir requires phosphorylation by viral thymidine kinase (present in HSV/VZV) for activation — HBV does not produce this enzyme."
+        "correct": "Correct. Entecavir and tenofovir suppress HBV replication but do NOT cure the infection — cccDNA persists in hepatocytes. Discontinuation can trigger severe hepatitis flares from viral rebound, potentially causing acute-on-chronic liver failure and death. Lifelong therapy is generally required unless HBsAg seroconversion occurs. Close monitoring is mandatory if discontinuation is attempted.",
+        "a": "Incorrect. Nucleos(t)ide analogs suppress HBV replication but do NOT cure hepatitis B. Covalently closed circular DNA (cccDNA) persists in hepatocytes indefinitely, serving as a template for viral reactivation if therapy is stopped.",
+        "b": "Incorrect. HBsAg seroconversion (loss of HBsAg with development of anti-HBs) is a reasonable endpoint for considering discontinuation in HBeAg-positive patients who achieve it, but it occurs in <10% of patients on NAs. Most patients do not achieve this.",
+        "c": "Correct. Entecavir and tenofovir suppress HBV replication but do NOT cure the infection — cccDNA persists in hepatocytes. Discontinuation can trigger severe hepatitis flares from viral rebound, potentially causing acute-on-chronic liver failure and death. Lifelong therapy is generally required unless HBsAg seroconversion occurs. Close monitoring is mandatory if discontinuation is attempted.",
+        "d": "Incorrect. Interferon-alpha has a finite course but achieves sustained response in only 30-40% of HBeAg-positive patients and less in HBeAg-negative. It is not a substitute for ongoing NA therapy in most patients and has significant side effects."
       }
     },
     {
@@ -21351,46 +20862,6 @@
         "b": "Incorrect. Permethrin is a topical antiparasitic used for ectoparasite infestations: scabies (5% cream applied neck-down overnight × 1-2 applications) and head lice (1% rinse). It has no oral formulation and no activity against intestinal helminths like pinworm, which require systemic antihelminthic therapy.",
         "c": "Correct. Enterobius vermicularis (pinworm) is treated with mebendazole 100 mg PO × 1 dose or albendazole 400 mg PO × 1 dose, REPEATED in 2 weeks to kill larvae that may have hatched after the first dose (since the drugs kill adult worms but not eggs). The entire household should be treated simultaneously to prevent reinfection from environmental contamination. Additional measures: wash all bedding and clothing in hot water, encourage handwashing (especially before meals), trim fingernails short, and discourage nail-biting. Diagnosis: scotch tape test (Graham test) — adhesive tape applied to the perianal area in the morning before bathing, then examined microscopically for eggs.",
         "d": "Incorrect. Metronidazole is effective against protozoa (Giardia, Entamoeba, Trichomonas) and anaerobic bacteria, but has no activity against helminths (worms) including pinworm. Enterobius vermicularis is a nematode (roundworm) requiring antihelminthic therapy — mebendazole or albendazole — not antiprotozoal agents."
-      }
-    },
-    {
-      "id": "multi116",
-      "tier1": "Multisystem",
-      "tier2": [
-        "Spring 2026 Exam 3",
-        "HIV/AIDS"
-      ],
-      "tier3": [],
-      "difficulty": "medium",
-      "question": "A 42-year-old HIV-positive man with a CD4 count of 60 cells/mm³ presents with progressive right-sided weakness and headache. MRI brain shows multiple ring-enhancing lesions in the basal ganglia. Toxoplasma IgG is positive. Which of the following is the most likely diagnosis and appropriate treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Entamoeba — metronidazole",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Toxoplasma gondii — pyrimethamine + sulfadiazine + leucovorin",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Plasmodium — ACT",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Cryptosporidium — nitazoxanide",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Multiple ring-enhancing brain lesions in an HIV-positive patient with CD4 <100 and positive Toxoplasma IgG is the classic presentation of CNS toxoplasmosis — the most common CNS opportunistic infection in AIDS. Treatment: pyrimethamine (200 mg loading dose, then 50-75 mg/day) + sulfadiazine (1-1.5 g QID) + leucovorin (folinic acid 10-25 mg/day to prevent pyrimethamine-induced bone marrow suppression). Clinical and MRI improvement should be seen within 10-14 days — FAILURE to improve mandates brain biopsy to rule out primary CNS lymphoma (the main differential). TMP-SMX prophylaxis at CD4 <100 prevents this condition.",
-        "a": "Incorrect. Entamoeba histolytica causes amebic dysentery (bloody diarrhea) and amebic liver abscess (fever, RUQ pain, single large abscess on imaging), NOT ring-enhancing brain lesions. CNS amebiasis (amebic brain abscess) is extremely rare and caused by free-living amebae (Naegleria, Acanthamoeba), not Entamoeba histolytica.",
-        "b": "Correct. Multiple ring-enhancing brain lesions in an HIV-positive patient with CD4 <100 and positive Toxoplasma IgG is the classic presentation of CNS toxoplasmosis — the most common CNS opportunistic infection in AIDS. Treatment: pyrimethamine (200 mg loading dose, then 50-75 mg/day) + sulfadiazine (1-1.5 g QID) + leucovorin (folinic acid 10-25 mg/day to prevent pyrimethamine-induced bone marrow suppression). Clinical and MRI improvement should be seen within 10-14 days — FAILURE to improve mandates brain biopsy to rule out primary CNS lymphoma (the main differential). TMP-SMX prophylaxis at CD4 <100 prevents this condition.",
-        "c": "Incorrect. Plasmodium species cause malaria — cyclic fevers, hemolytic anemia, and intraerythrocytic parasites on blood smear. Malaria does NOT cause ring-enhancing brain lesions. Cerebral malaria (a complication of severe P. falciparum) causes diffuse cerebral edema and petechial hemorrhages, not focal ring-enhancing lesions.",
-        "d": "Incorrect. Cryptosporidium parvum causes chronic watery diarrhea in immunocompromised patients (HIV with CD4 <100), NOT brain lesions. It is an intestinal protozoan that infects the brush border of enterocytes. Treatment in immunocompromised patients is primarily immune reconstitution with ART; nitazoxanide has limited efficacy in severe immunosuppression."
       }
     },
     {
@@ -21638,49 +21109,6 @@
       }
     },
     {
-      "id": "integ002",
-      "tier1": "Integumentary",
-      "tier2": [
-        "Burns"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology",
-        "Procedures/Skills"
-      ],
-      "difficulty": "medium",
-      "question": "A 35-year-old man (weight 80 kg) is brought to the burn center after a house fire. He has partial and full-thickness burns covering the anterior trunk, bilateral anterior arms, and face. Using the Rule of Nines, burns involve 36% TBSA. Which fluid resuscitation volume is most appropriate for the first 24 hours using the Parkland formula?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "4L lactated Ringer's over 24 hours — standard sepsis resuscitation protocol",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "11.5L lactated Ringer's; half in first 8 hours, half in next 16 hours",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "4L lactated Ringer's plus 4L colloid (albumin) over 24 hours",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Normal saline 20 mL/kg boluses until urine output >0.5 mL/kg/hr",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Parkland formula: 4 mL × 80 kg × 36% TBSA = 11,520 mL. Half (5,760 mL) in first 8 hours from time of injury, half over next 16 hours. LR is the fluid of choice. Titrate to urine output 0.5-1 mL/kg/hr. Avoid over-resuscitation (abdominal compartment syndrome, pulmonary edema).",
-        "a": "Incorrect. Standard sepsis resuscitation (30 mL/kg = ~2.4L) is grossly inadequate for major burns. The massive capillary leak of major burn injury requires formula-guided resuscitation. Underresuscitation causes burn shock and organ failure.",
-        "b": "Correct. Parkland formula: 4 mL × 80 kg × 36% TBSA = 11,520 mL. Half (5,760 mL) in first 8 hours from time of injury, half over next 16 hours. LR is the fluid of choice. Titrate to urine output 0.5-1 mL/kg/hr. Avoid over-resuscitation (abdominal compartment syndrome, pulmonary edema).",
-        "c": "Incorrect. Colloid administration in the first 24 hours after major burns is generally avoided — the massive capillary leak allows colloid to extravasate into tissues, potentially worsening edema. Colloids may be considered after 24 hours when capillary integrity begins to restore.",
-        "d": "Incorrect. Normal saline in large volumes causes hyperchloremic metabolic acidosis — a significant concern in major burns already at risk for metabolic acidosis. Lactated Ringer's is the standard. Bolus dosing without formula guidance risks both under- and over-resuscitation."
-      }
-    },
-    {
       "id": "integ003",
       "tier1": "Integumentary",
       "tier2": [
@@ -21759,10 +21187,10 @@
         }
       ],
       "explanation": {
-        "correct": "Correct. ABI 0.52 indicates severe peripheral arterial disease (normal >1.0; mild PAD 0.7-0.9; moderate 0.5-0.7; severe <0.5). An ABI <0.5 predicts non-healing and limb-threatening ischemia. Revascularization (endovascular or bypass) is required to restore perfusion before wound healing is achievable. Off-loading and wound care alone cannot heal an ischemic wound. Vascular surgery consultation is the priority intervention.",
+        "correct": "Correct. ABI 0.49 indicates severe peripheral arterial disease (normal >1.0; mild PAD 0.7-0.9; moderate 0.5-0.7; severe <0.5). An ABI <0.5 predicts non-healing and limb-threatening ischemia. Revascularization (endovascular or bypass) is required to restore perfusion before wound healing is achievable. Off-loading and wound care alone cannot heal an ischemic wound. Vascular surgery consultation is the priority intervention.",
         "a": "Incorrect. Moisture balance is important in wound care but is not the limiting factor here. Pale granulation tissue and non-healing for 8 weeks despite any moisture management indicates an ischemic wound. No dressing will heal a wound that lacks adequate arterial perfusion.",
-        "b": "Correct. ABI 0.52 indicates severe peripheral arterial disease (normal >1.0; mild PAD 0.7-0.9; moderate 0.5-0.7; severe <0.5). An ABI <0.5 predicts non-healing and limb-threatening ischemia. Revascularization (endovascular or bypass) is required to restore perfusion before wound healing is achievable. Off-loading and wound care alone cannot heal an ischemic wound. Vascular surgery consultation is the priority intervention.",
-        "c": "Incorrect. Off-loading (TCC, removable cast walker) is the gold standard for neuropathic diabetic foot ulcers — but only when there is ADEQUATE PERFUSION. Off-loading a severely ischemic wound (ABI 0.52) without revascularization will not promote healing and may worsen ischemia by compressing residual perfusion. Revascularization precedes off-loading decisions.",
+        "b": "Correct. ABI 0.49 indicates severe peripheral arterial disease (normal >1.0; mild PAD 0.7-0.9; moderate 0.5-0.7; severe <0.5). An ABI <0.5 predicts non-healing and limb-threatening ischemia. Revascularization (endovascular or bypass) is required to restore perfusion before wound healing is achievable. Off-loading and wound care alone cannot heal an ischemic wound. Vascular surgery consultation is the priority intervention.",
+        "c": "Incorrect. Off-loading (TCC, removable cast walker) is the gold standard for neuropathic diabetic foot ulcers — but only when there is ADEQUATE PERFUSION. Off-loading a severely ischemic wound (ABI 0.49) without revascularization will not promote healing and may worsen ischemia by compressing residual perfusion. Revascularization precedes off-loading decisions.",
         "d": "Incorrect. Biofilm management and debridement are important wound bed preparation strategies. However, pale granulation tissue in an ischemic wound reflects poor perfusion, not primarily biofilm. Aggressive debridement of an ischemic wound without adequate blood supply risks converting a stable wound to a larger non-healing ulcer."
       }
     },
@@ -22109,48 +21537,6 @@
       }
     },
     {
-      "id": "integ045",
-      "tier1": "Integumentary",
-      "tier2": [
-        "Skin Infections"
-      ],
-      "tier3": [
-        "Pharmacology",
-        "Diagnostics/Labs"
-      ],
-      "difficulty": "medium",
-      "question": "A 45-year-old man presents with a rapidly expanding area of erythema, warmth, and tenderness on his left lower leg. The skin is indurated with poorly demarcated borders. He has fever of 38.9°C and WBC 14,200/μL. There is no purulent drainage or abscess. What is the most likely diagnosis and treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Non-purulent cellulitis — oral cephalexin 500 mg QID for 5–7 days",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Purulent cellulitis — incision and drainage plus TMP-SMX",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Necrotizing fasciitis — emergent surgical debridement",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Erysipelas — IV penicillin G for 14 days",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Non-purulent cellulitis (no abscess, no drainage) is most commonly caused by beta-hemolytic streptococci (Group A Strep). Cephalexin (first-generation cephalosporin) provides appropriate gram-positive coverage. Treatment duration is typically 5–7 days. Outpatient oral antibiotics are appropriate for non-toxic patients. IV antibiotics (cefazolin) are indicated for systemic toxicity, rapid progression, or failure of oral therapy. MRSA coverage is NOT routinely needed for non-purulent cellulitis.",
-        "a": "Correct. Non-purulent cellulitis (no abscess, no drainage) is most commonly caused by beta-hemolytic streptococci (Group A Strep). Cephalexin (first-generation cephalosporin) provides appropriate gram-positive coverage. Treatment duration is typically 5–7 days. Outpatient oral antibiotics are appropriate for non-toxic patients. IV antibiotics (cefazolin) are indicated for systemic toxicity, rapid progression, or failure of oral therapy. MRSA coverage is NOT routinely needed for non-purulent cellulitis.",
-        "b": "Incorrect. This patient has no purulent drainage or abscess — it is non-purulent cellulitis. I&D is indicated only when an abscess is present. TMP-SMX covers MRSA but provides poor streptococcal coverage, making it inappropriate as monotherapy for non-purulent cellulitis.",
-        "c": "Incorrect. While necrotizing fasciitis should always be considered, it presents with pain out of proportion to exam, rapid progression, crepitus, hemorrhagic bullae, skin necrosis, and systemic toxicity (sepsis). This patient has typical cellulitis findings without alarming features. If clinical suspicion arises, a LRINEC score and surgical consultation are appropriate.",
-        "d": "Incorrect. While erysipelas (superficial cellulitis with sharply demarcated, raised borders) is caused by Group A Strep and treated with penicillin, this patient has POORLY demarcated borders — more consistent with deeper cellulitis. Additionally, 14 days of IV therapy is excessive for uncomplicated cellulitis."
-      }
-    },
-    {
       "id": "integ046",
       "tier1": "Integumentary",
       "tier2": [
@@ -22160,7 +21546,7 @@
         "Critical Care",
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 35-year-old woman spills boiling water on her right forearm. Exam reveals a painful, erythematous area with intact blisters. The skin blanches with pressure and is moist underneath the blisters. Sensation is intact. What is the burn classification?",
       "answers": [
         {
@@ -22235,48 +21621,6 @@
       }
     },
     {
-      "id": "integ048",
-      "tier1": "Integumentary",
-      "tier2": [
-        "Skin Infections"
-      ],
-      "tier3": [
-        "Pharmacology",
-        "Diagnostics/Labs"
-      ],
-      "difficulty": "hard",
-      "question": "A 62-year-old diabetic man presents with exquisite pain, crepitus, and dusky discoloration of his left lower extremity. Fever is 39.8°C, HR 132, BP 86/48 mmHg. CT shows gas tracking along fascial planes. Labs reveal WBC 24,000, creatinine 2.8 mg/dL, and lactate 6.4 mmol/L. What is the definitive treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV broad-spectrum antibiotics (vancomycin + piperacillin-tazobactam + clindamycin) alone",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Emergent aggressive surgical debridement with planned re-exploration in 24–48 hours",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Hyperbaric oxygen therapy as primary treatment",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "CT-guided percutaneous drainage of the fascial gas collection",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Necrotizing fasciitis is a surgical emergency. Definitive treatment is emergent wide surgical debridement of all necrotic tissue, with planned return to the OR every 24–48 hours for re-exploration and additional debridement until all necrotic tissue is removed. Delay in surgery (>24 hours) significantly increases mortality. Broad-spectrum antibiotics are adjunctive but NOT sufficient alone. Mortality: 25–35% even with aggressive treatment.",
-        "a": "Incorrect. While broad-spectrum antibiotics are essential and should be started immediately, antibiotics ALONE cannot treat necrotizing fasciitis. The infection spreads along fascial planes with thrombosis of blood vessels, creating tissue with no blood supply — antibiotics cannot penetrate necrotic, avascular tissue. Surgical debridement is the definitive treatment.",
-        "b": "Correct. Necrotizing fasciitis is a surgical emergency. Definitive treatment is emergent wide surgical debridement of all necrotic tissue, with planned return to the OR every 24–48 hours for re-exploration and additional debridement until all necrotic tissue is removed. Delay in surgery (>24 hours) significantly increases mortality. Broad-spectrum antibiotics are adjunctive but NOT sufficient alone. Mortality: 25–35% even with aggressive treatment.",
-        "c": "Incorrect. While hyperbaric oxygen may have a role as adjunctive therapy in necrotizing fasciitis, it should NEVER delay surgical debridement. There is limited evidence supporting HBO as a primary intervention, and transferring a hemodynamically unstable patient for HBO instead of proceeding to the OR would be dangerous.",
-        "d": "Incorrect. Percutaneous drainage is inadequate for necrotizing fasciitis. The infection involves widespread fascial necrosis — not a contained fluid collection. Wide open surgical debridement is required to visualize the extent of necrosis, remove all devitalized tissue, and establish drainage. Percutaneous approaches cannot accomplish this."
-      }
-    },
-    {
       "id": "integ049",
       "tier1": "Integumentary",
       "tier2": [
@@ -22285,7 +21629,7 @@
       "tier3": [
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 78-year-old woman with a chronic venous stasis ulcer on her medial malleolus has been using compression stockings and local wound care for 6 weeks with no improvement. The wound bed shows good granulation tissue but wound edges are not advancing. What is the most appropriate next step to promote healing?",
       "answers": [
         {
@@ -22410,7 +21754,7 @@
       "tier3": [
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 65-year-old man presents with a new 8 mm pigmented lesion on his back with asymmetric borders, color variation (brown, black, and red areas), and irregular edges. He reports the lesion has been growing over the past 3 months. What is the most appropriate initial evaluation?",
       "answers": [
         {
@@ -22440,48 +21784,6 @@
         "b": "Correct. Suspected melanoma requires full-thickness excisional biopsy (not shave biopsy) with 1–3 mm margins to provide accurate Breslow depth measurement — the single most important prognostic factor. Breslow depth determines definitive surgical margins and need for sentinel lymph node biopsy. ABCDE criteria met: Asymmetry, Border irregularity, Color variation, Diameter >6 mm, Evolution (growing). Incisional or punch biopsy is acceptable if excisional biopsy is impractical due to location or size. Shave biopsy is AVOIDED because it may transect the deep margin, leading to inaccurate depth measurement.",
         "c": "Incorrect. Shave biopsy is contraindicated for suspected melanoma because it may transect the base of the lesion, making it impossible to accurately measure Breslow depth (the most critical prognostic factor). An artificially shallow measurement could lead to inadequate surgical margins and failure to recommend sentinel lymph node biopsy.",
         "d": "Incorrect. While dermoscopy is a valuable tool for evaluating pigmented lesions, a lesion with multiple ABCDE criteria that is actively growing requires IMMEDIATE biopsy. Serial monitoring of a lesion that already meets criteria for biopsy delays diagnosis and risks progression to metastatic disease."
-      }
-    },
-    {
-      "id": "integ013",
-      "tier1": "Integumentary",
-      "tier2": [
-        "Skin Infections"
-      ],
-      "tier3": [
-        "Pharmacology",
-        "Critical Care"
-      ],
-      "difficulty": "hard",
-      "question": "A 58-year-old diabetic man presents with rapidly progressive perineal pain, swelling, crepitus, and erythema extending to the scrotum and anterior abdominal wall. He is febrile (39.6°C), tachycardic (HR 138), and hypotensive (BP 82/48 mmHg). CT shows subcutaneous gas tracking along fascial planes in the perineum. What is this condition and the definitive management?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Perianal abscess — incision and drainage in the ED under local anesthesia",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Fournier's gangrene — emergent wide surgical debridement plus broad-spectrum IV antibiotics and ICU admission",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV antibiotics alone for 14 days — surgical debridement is only needed if antibiotics fail",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Hyperbaric oxygen therapy as the primary intervention",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Fournier's gangrene is a type of necrotizing fasciitis involving the perineum, genitalia, and perianal region. It carries mortality rates of 20–40% even with treatment. Management: (1) Emergent aggressive surgical debridement — all necrotic tissue must be excised; re-exploration every 24–48 hours until all necrosis is cleared; (2) Broad-spectrum IV antibiotics covering gram-positives (including MRSA), gram-negatives, and anaerobes: vancomycin + piperacillin-tazobactam + clindamycin (clindamycin also inhibits toxin production); (3) ICU admission for hemodynamic support; (4) Wound VAC after debridement; (5) Fecal diversion (colostomy) may be needed for perineal wounds. Risk factors: diabetes, immunosuppression, obesity, perianal abscess, urethral instrumentation.",
-        "a": "Incorrect. A simple perianal abscess is a contained purulent collection that can be drained at the bedside. This patient has gas in fascial planes, hemodynamic instability, and rapidly progressive tissue involvement — hallmarks of a much more serious condition requiring emergent surgical intervention under general anesthesia.",
-        "b": "Correct. Fournier's gangrene is a type of necrotizing fasciitis involving the perineum, genitalia, and perianal region. It carries mortality rates of 20–40% even with treatment. Management: (1) Emergent aggressive surgical debridement — all necrotic tissue must be excised; re-exploration every 24–48 hours until all necrosis is cleared; (2) Broad-spectrum IV antibiotics covering gram-positives (including MRSA), gram-negatives, and anaerobes: vancomycin + piperacillin-tazobactam + clindamycin (clindamycin also inhibits toxin production); (3) ICU admission for hemodynamic support; (4) Wound VAC after debridement; (5) Fecal diversion (colostomy) may be needed for perineal wounds. Risk factors: diabetes, immunosuppression, obesity, perianal abscess, urethral instrumentation.",
-        "c": "Incorrect. Antibiotics CANNOT treat necrotizing fasciitis alone — the infection spreads along fascial planes with thrombosis of blood vessels, creating avascular necrotic tissue that antibiotics cannot penetrate. Surgical debridement is the DEFINITIVE and life-saving treatment. Every hour of surgical delay increases mortality.",
-        "d": "Incorrect. While HBO may be considered as adjunctive therapy (improves tissue oxygenation, enhances neutrophil killing), it should NEVER delay surgical debridement. Transferring a hemodynamically unstable patient to an HBO chamber instead of the OR would be fatal. Surgery first, HBO as a potential adjunct after stabilization."
       }
     },
     {
@@ -22707,7 +22009,7 @@
         },
         {
           "id": "c",
-          "text": "HSV",
+          "text": "Herpes simplex virus (HSV)",
           "correct": false
         },
         {
@@ -22787,7 +22089,7 @@
         },
         {
           "id": "c",
-          "text": "MMR",
+          "text": "MMR (measles-mumps-rubella) vaccine",
           "correct": false
         },
         {
@@ -22907,7 +22209,7 @@
         },
         {
           "id": "c",
-          "text": "TEN",
+          "text": "Toxic epidermal necrolysis (TEN)",
           "correct": false
         },
         {
@@ -23067,7 +22369,7 @@
         },
         {
           "id": "c",
-          "text": "SOFA",
+          "text": "SOFA (Sequential Organ Failure Assessment)",
           "correct": false
         },
         {
@@ -23217,22 +22519,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Dog",
+          "text": "Dog bite",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Cat",
+          "text": "Cat bite",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Human",
+          "text": "Human bite",
           "correct": false
         },
         {
           "id": "d",
-          "text": "All equal",
+          "text": "All carry equal infection risk",
           "correct": false
         }
       ],
@@ -23497,7 +22799,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "SCC",
+          "text": "Squamous cell carcinoma (SCC)",
           "correct": false
         },
         {
@@ -23547,7 +22849,7 @@
         },
         {
           "id": "c",
-          "text": "FNA",
+          "text": "Fine needle aspiration (FNA)",
           "correct": false
         },
         {
@@ -23577,7 +22879,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "BCC",
+          "text": "Basal cell carcinoma (BCC)",
           "correct": false
         },
         {
@@ -23727,92 +23029,6 @@
         "b": "Correct. Aggressive isotonic fluid resuscitation (LR or NS) is the cornerstone of rhabdomyolysis treatment. Target UO 200-300 mL/hr to flush myoglobin through the tubules. Start at 1-1.5 L/hr initially and titrate. This is the most effective intervention for preventing AKI progression.",
         "c": "Incorrect. Hemodialysis is not indicated at this stage. K 5.9 with preserved urine output (if diuresis achieved) should be managed medically. Dialysis is reserved for anuric AKI with refractory hyperkalemia, severe acidosis, fluid overload, or uremia. Initiating dialysis before aggressive fluid resuscitation fails is premature.",
         "d": "Incorrect. Mannitol may increase urine flow but has not been shown superior to isotonic fluid resuscitation alone, and risks intravascular volume depletion and osmotic nephropathy if overused. It is not recommended as initial therapy over simple aggressive IV hydration."
-      }
-    },
-    {
-      "id": "msk002",
-      "tier1": "Musculoskeletal",
-      "tier2": [
-        "Compartment Syndrome"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Procedures/Skills",
-        "Diagnostics/Labs"
-      ],
-      "difficulty": "medium",
-      "question": "A 19-year-old man sustains a tibial fracture in a football injury. Six hours after splinting, he develops severe pain with passive stretch of the toes and a tense calf. He has intact pulses. Compartment pressure is measured at 38 mmHg. Diastolic BP is 72 mmHg. Which is the most appropriate next step?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Elevate the extremity, remove constrictive dressings, and repeat pressure in 2 hours",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Emergent four-compartment fasciotomy",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "MRI of the lower leg to evaluate muscle viability before surgical decision",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "IV mannitol to reduce tissue swelling and reassess",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Delta pressure = diastolic (72) - compartment pressure (38) = 34 mmHg. Threshold for fasciotomy is ≤30 mmHg, and clinical signs are present. Emergent four-compartment leg fasciotomy is the definitive treatment. Intact pulses do not exclude compartment syndrome — neuromuscular injury precedes vascular compromise.",
-        "a": "Incorrect. Removing constrictive dressings and elevating the limb are initial measures for suspected compartment syndrome, but with compartment pressure 38 and delta P of 34 mmHg combined with clinical signs, medical management is insufficient. The window for fasciotomy to prevent irreversible muscle necrosis is narrow — 6-8 hours. Delay risks permanent damage.",
-        "b": "Correct. Delta pressure = diastolic (72) - compartment pressure (38) = 34 mmHg. Threshold for fasciotomy is ≤30 mmHg, and clinical signs are present. Emergent four-compartment leg fasciotomy is the definitive treatment. Intact pulses do not exclude compartment syndrome — neuromuscular injury precedes vascular compromise.",
-        "c": "Incorrect. MRI is not part of acute compartment syndrome management — it delays definitive treatment and is not necessary to make the surgical decision. Compartment pressure measurement and clinical exam are the diagnostic standards. MRI-induced delay risks irreversible ischemic muscle necrosis.",
-        "d": "Incorrect. IV mannitol is used for cerebral edema and rhabdomyolysis — not for limb compartment syndrome. It will not adequately reduce compartment pressure to safe levels and delays fasciotomy."
-      }
-    },
-    {
-      "id": "msk003",
-      "tier1": "Musculoskeletal",
-      "tier2": [
-        "Bone Infections"
-      ],
-      "tier3": [
-        "Diagnostics/Labs",
-        "Pharmacology",
-        "Infectious Disease"
-      ],
-      "difficulty": "medium",
-      "question": "A 62-year-old man with diabetes presents with 3 weeks of right foot pain and a non-healing plantar ulcer. He probes to bone with a sterile swab. Plain film shows cortical erosion of the second metatarsal. WBC is 11,200, ESR 88 mm/hr, CRP 64 mg/L. Which is the most sensitive test to confirm osteomyelitis and what is first-line treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "CT scan of the foot; IV vancomycin monotherapy for 6 weeks",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Bone biopsy for culture and pathology; pathogen-directed antibiotics for 6 weeks guided by bone biopsy culture",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "MRI of the foot; empiric oral amoxicillin-clavulanate for 6 weeks",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Leukocyte scintigraphy (tagged WBC scan); IV cefazolin for 6 weeks",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Bone biopsy is the diagnostic gold standard — it confirms osteomyelitis histologically and identifies the causative organism(s) for targeted therapy. Diabetic foot osteomyelitis is often polymicrobial. Culture-directed antibiotics for 6 weeks (IV or highly bioavailable oral agents such as fluoroquinolones, linezolid) is guideline-recommended. Surgical debridement may be needed concurrently.",
-        "a": "Incorrect. CT detects cortical destruction but is less sensitive than MRI for early marrow involvement. More importantly, vancomycin monotherapy covers MRSA but misses gram-negative organisms frequently involved in diabetic foot osteomyelitis — polymicrobial infection is the rule. Empiric monotherapy without culture guidance is suboptimal.",
-        "b": "Correct. Bone biopsy is the diagnostic gold standard — it confirms osteomyelitis histologically and identifies the causative organism(s) for targeted therapy. Diabetic foot osteomyelitis is often polymicrobial. Culture-directed antibiotics for 6 weeks (IV or highly bioavailable oral agents such as fluoroquinolones, linezolid) is guideline-recommended. Surgical debridement may be needed concurrently.",
-        "c": "Incorrect. MRI is the most sensitive imaging study for osteomyelitis (sensitivity >90%) and can confirm the diagnosis, but it is not the gold standard for microbiological diagnosis. Oral amoxicillin-clavulanate is inadequate for MRSA and many gram-negative organisms found in diabetic foot osteomyelitis. Culture-directed therapy is essential.",
-        "d": "Incorrect. Tagged WBC scan (leukocyte scintigraphy) is used when MRI is contraindicated but has lower sensitivity/specificity than MRI. Cefazolin covers MSSA but not MRSA or gram-negative organisms. Starting empiric cefazolin without cultures risks treatment failure in polymicrobial infection."
       }
     },
     {
@@ -24027,49 +23243,6 @@
         "b": "Correct. Acute compartment syndrome is primarily a clinical diagnosis. Classic findings include pain out of proportion, pain with passive stretch, a tense compartment, and paresthesias. Pressure measurements can support the diagnosis. Two commonly used thresholds are an absolute compartment pressure greater than 30 mmHg or a delta pressure of 30 mmHg or less. In this patient, the delta pressure is 74 − 48 = 26 mmHg, which meets the treatment threshold. Emergent fasciotomy is indicated to prevent irreversible muscle and nerve ischemia.",
         "c": "Incorrect. Loosening or removing restrictive dressings may be a brief temporizing step, but it is not definitive management when the clinical picture and pressure data support compartment syndrome. Delaying fasciotomy risks permanent tissue injury.",
         "d": "Incorrect. Pain out of proportion, pain with passive stretch, tense compartment, and paresthesias are red flags for compartment syndrome and require urgent intervention, not routine pain control and delayed reassessment."
-      }
-    },
-    {
-      "id": "msk005",
-      "tier1": "Musculoskeletal",
-      "tier2": [
-        "Rhabdomyolysis"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Diagnostics/Labs",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 32-year-old man collapses during a marathon in hot weather. CK is 68,000 U/L, creatinine 2.4, potassium 6.1, urine is dark brown (myoglobinuria). Temperature 40.1°C. Which is the most important intervention to prevent AKI?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV sodium bicarbonate infusion to alkalinize urine and prevent myoglobin precipitation",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Aggressive IV normal saline to achieve urine output of 200-300 mL/hr until CK trending down",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV furosemide to force diuresis and flush myoglobin through the tubules",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Hemodialysis immediately for CK >50,000 regardless of renal function",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Aggressive IV fluid resuscitation is the cornerstone of rhabdomyolysis management. Target: urine output 200-300 mL/hr until CK trending down and urine clears. This dilutes myoglobin in tubular fluid, maintains GFR, and prevents tubular obstruction. Correct electrolytes (K 6.1 needs treatment). Treat hyperthermia aggressively. Normal saline is preferred — avoid LR (contains potassium).",
-        "a": "Incorrect. Urine alkalinization (sodium bicarbonate) to prevent myoglobin precipitation is theoretically appealing but has NOT been shown to be superior to normal saline alone in clinical studies. It also risks metabolic alkalosis and hypocalcemia. Aggressive NS resuscitation is+I32:K32 the evidence-based cornerstone.",
-        "b": "Correct. Aggressive IV fluid resuscitation is the cornerstone of rhabdomyolysis management. Target: urine output 200-300 mL/hr until CK trending down and urine clears. This dilutes myoglobin in tubular fluid, maintains GFR, and prevents tubular obstruction. Correct electrolytes (K 6.1 needs treatment). Treat hyperthermia aggressively. Normal saline is preferred — avoid LR (contains potassium).",
-        "c": "Incorrect. Loop diuretics in rhabdomyolysis are controversial and potentially harmful — they concentrate the tubular myoglobin rather than diluting it. IV fluids establish adequate urine output naturally if volume is sufficient. Furosemide is only used if volume-overloaded and oliguria persists despite adequate resuscitation.",
-        "d": "Incorrect. CK level alone does not determine dialysis need. Dialysis is indicated for: oliguria/AKI not responding to fluids, hyperkalemia refractory to medical management, severe acidosis, or fluid overload. A CK of 68,000 with adequate urine output can be managed with aggressive IV fluids without immediate dialysis."
       }
     },
     {
@@ -24379,7 +23552,7 @@
         "Critical Care",
         "Diagnostics/Labs"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 75-year-old woman falls on an outstretched hand. X-ray shows a displaced distal radius fracture (Colles fracture). Exam reveals numbness in the thumb, index finger, and middle finger with weakness of thumb opposition. What nerve is most likely injured?",
       "answers": [
         {
@@ -24881,7 +24054,7 @@
         },
         {
           "id": "b",
-          "text": "Gout",
+          "text": "Gout (monosodium urate arthritis)",
           "correct": true
         },
         {
@@ -24956,7 +24129,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "G6PD",
+          "text": "G6PD (glucose-6-phosphate dehydrogenase)",
           "correct": false
         },
         {
@@ -24996,7 +24169,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Yes",
+          "text": "Yes — a normal uric acid rules out gout",
           "correct": false
         },
         {
@@ -25006,12 +24179,12 @@
         },
         {
           "id": "c",
-          "text": "Must be >8 for gout",
+          "text": "Uric acid must be >8 mg/dL to diagnose gout",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Repeat in 24 hours",
+          "text": "Repeat uric acid in 24 hours for accurate reading",
           "correct": false
         }
       ],
@@ -25126,12 +24299,12 @@
         },
         {
           "id": "c",
-          "text": "ESR",
+          "text": "Erythrocyte sedimentation rate (ESR)",
           "correct": false
         },
         {
           "id": "d",
-          "text": "ANA",
+          "text": "Antinuclear antibody (ANA)",
           "correct": false
         }
       ],
@@ -25196,17 +24369,17 @@
       "answers": [
         {
           "id": "a",
-          "text": "OA",
+          "text": "Osteoarthritis (OA)",
           "correct": false
         },
         {
           "id": "b",
-          "text": "RA",
+          "text": "Rheumatoid arthritis (RA)",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Gout",
+          "text": "Gout (monosodium urate crystal arthropathy)",
           "correct": false
         },
         {
@@ -25276,7 +24449,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Normal",
+          "text": "Normal (no pathology)",
           "correct": false
         },
         {
@@ -25436,22 +24609,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "50",
+          "text": "Age 50",
           "correct": false
         },
         {
           "id": "b",
-          "text": "60",
+          "text": "Age 60",
           "correct": false
         },
         {
           "id": "c",
-          "text": "65",
+          "text": "Age 65",
           "correct": true
         },
         {
           "id": "d",
-          "text": "75",
+          "text": "Age 75",
           "correct": false
         }
       ],
@@ -26258,48 +25431,6 @@
       }
     },
     {
-      "id": "psycho005",
-      "tier1": "Psychosocial",
-      "tier2": [
-        "Substance Withdrawal"
-      ],
-      "tier3": [
-        "Pharmacology",
-        "Critical Care"
-      ],
-      "difficulty": "medium",
-      "question": "A 48-year-old man admitted for pneumonia develops tremors, diaphoresis, tachycardia, and agitation 36 hours after admission. His CIWA-Ar (Clinical Institute Withdrawal Assessment for Alcohol) score is 22. He has no history of withdrawal seizures. What is the most appropriate pharmacologic treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV lorazepam dosed according to CIWA-Ar protocol",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Oral naltrexone 50 mg daily",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "IV phenytoin for seizure prophylaxis",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "IV haloperidol 5 mg for agitation",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Alcohol withdrawal with a CIWA-Ar score ≥20 indicates severe withdrawal requiring aggressive benzodiazepine therapy. Symptom-triggered dosing (using CIWA-Ar scores q1h to guide benzodiazepine administration) is preferred over fixed-schedule dosing — it results in less total benzodiazepine use, shorter treatment duration, and fewer complications. Lorazepam is preferred in patients with liver disease (hepatic glucuronidation, no active metabolites). Goal: CIWA-Ar <10.",
-        "a": "Correct. Alcohol withdrawal with a CIWA-Ar score ≥20 indicates severe withdrawal requiring aggressive benzodiazepine therapy. Symptom-triggered dosing (using CIWA-Ar scores q1h to guide benzodiazepine administration) is preferred over fixed-schedule dosing — it results in less total benzodiazepine use, shorter treatment duration, and fewer complications. Lorazepam is preferred in patients with liver disease (hepatic glucuronidation, no active metabolites). Goal: CIWA-Ar <10.",
-        "b": "Incorrect. Naltrexone is an opioid antagonist used for maintenance of alcohol abstinence AFTER acute withdrawal has resolved. It has no role in treating acute alcohol withdrawal syndrome and does not prevent withdrawal complications (seizures, delirium tremens).",
-        "c": "Incorrect. Phenytoin is NOT effective for preventing alcohol withdrawal seizures — this is a commonly tested point. Benzodiazepines are the only agent proven to prevent alcohol withdrawal seizures. Phenytoin works through sodium channel blockade and does not address the GABA/glutamate imbalance underlying alcohol withdrawal.",
-        "d": "Incorrect. Haloperidol may worsen alcohol withdrawal by lowering the seizure threshold (dopamine antagonism) and does not address the underlying pathophysiology (GABA downregulation, glutamate upregulation). Benzodiazepines are the cornerstone of treatment — antipsychotics may be cautiously added only as adjuncts for hallucinations or severe agitation not controlled by adequate benzodiazepine dosing."
-      }
-    },
-    {
       "id": "psycho006",
       "tier1": "Psychosocial",
       "tier2": [
@@ -26309,7 +25440,7 @@
         "Diagnostics/Labs",
         "Pharmacology"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 62-year-old man 5 days post-CABG surgery becomes withdrawn, tearful, and states he feels hopeless and wishes he had not survived the surgery. He has poor appetite and has not been sleeping. He has no prior psychiatric history. The ACNP suspects post-operative depression. What is the most appropriate initial approach?",
       "answers": [
         {
@@ -26434,7 +25565,7 @@
       "tier3": [
         "Ethics/Professional Practice"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 72-year-old man with early-stage dementia is admitted for pneumonia. He is alert and oriented x3 and has been consistently participating in care decisions. His daughter asks the ACNP to override his refusal of a PICC line because 'he has dementia and can't make decisions.' What is the most appropriate response?",
       "answers": [
         {
@@ -26643,7 +25774,7 @@
       "tier3": [
         "Ethics/Professional Practice"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "A 45-year-old woman's husband has just died in the ICU after a prolonged illness. She is crying, asking to see the body, and repeatedly saying 'I can't believe he's gone.' She asks the ACNP, 'Did he suffer?' What is the most appropriate response?",
       "answers": [
         {
@@ -27005,11 +26136,11 @@
         }
       ],
       "explanation": {
-        "correct": "Correct. Because the patient has capacity and has explicitly refused disclosure, the AGACNP should not share these details with family without the patient’s permission. This is the clearest reason to withhold disclosure. HIV information is protected health information under HIPAA, substance use disorder treatment records may have additional protection under 42 CFR Part 2 when applicable, and psychotherapy notes have special protection under HIPAA, but the key point here is the patient’s expressed refusal.  [oai_citation:1‡HHS.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/hiv/index.html?utm_source=chatgpt.com)",
-        "a": "Incorrect. Family members do not have an automatic right to detailed medical information when an adult patient with decision-making capacity has refused disclosure. HIPAA generally requires honoring the capacitated patient’s stated wishes about sharing information with family.  [oai_citation:0‡HHS.gov](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html?utm_source=chatgpt.com)",
-        "b": "Correct. Because the patient has capacity and has explicitly refused disclosure, the AGACNP should not share these details with family without the patient’s permission. This is the clearest reason to withhold disclosure. HIV information is protected health information under HIPAA, substance use disorder treatment records may have additional protection under 42 CFR Part 2 when applicable, and psychotherapy notes have special protection under HIPAA, but the key point here is the patient’s expressed refusal.  [oai_citation:1‡HHS.gov](https://www.hhs.gov/civil-rights/for-individuals/special-topics/hiv/index.html?utm_source=chatgpt.com)",
-        "c": "Incorrect. A family member cannot authorize release of another adult patient’s protected health information. Authorization must come from the patient or another legally authorized personal representative, and this patient has capacity and has refused disclosure.  [oai_citation:2‡HHS.gov](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html?utm_source=chatgpt.com)",
-        "d": "Incorrect. HIPAA does not create a default right for immediate family to receive detailed protected health information over the objection of a capacitated adult patient.  [oai_citation:3‡HHS.gov](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html?utm_source=chatgpt.com)"
+        "correct": "Correct. Because the patient has capacity and has explicitly refused disclosure, the AGACNP should not share these details with family without the patient’s permission. This is the clearest reason to withhold disclosure. HIV information is protected health information under HIPAA, substance use disorder treatment records may have additional protection under 42 CFR Part 2 when applicable, and psychotherapy notes have special protection under HIPAA, but the key point here is the patient’s expressed refusal.",
+        "a": "Incorrect. Family members do not have an automatic right to detailed medical information when an adult patient with decision-making capacity has refused disclosure. HIPAA generally requires honoring the capacitated patient’s stated wishes about sharing information with family.",
+        "b": "Correct. Because the patient has capacity and has explicitly refused disclosure, the AGACNP should not share these details with family without the patient’s permission. This is the clearest reason to withhold disclosure. HIV information is protected health information under HIPAA, substance use disorder treatment records may have additional protection under 42 CFR Part 2 when applicable, and psychotherapy notes have special protection under HIPAA, but the key point here is the patient’s expressed refusal.",
+        "c": "Incorrect. A family member cannot authorize release of another adult patient’s protected health information. Authorization must come from the patient or another legally authorized personal representative, and this patient has capacity and has refused disclosure.",
+        "d": "Incorrect. HIPAA does not create a default right for immediate family to receive detailed protected health information over the objection of a capacitated adult patient."
       }
     },
     {
@@ -27149,7 +26280,7 @@
       "tier3": [
         "Ethics/Professional Practice"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "An ACNP is obtaining informed consent from a 55-year-old man for a central venous catheter placement. Which of the following is a required element of informed consent?",
       "answers": [
         {
@@ -27396,7 +26527,7 @@
       "tier3": [
         "Ethics/Professional Practice"
       ],
-      "difficulty": "easy",
+      "difficulty": "medium",
       "question": "An ACNP is treating a 75-year-old man who presents with multiple bruises in various stages of healing, malnutrition, and poor hygiene. He lives with his adult son who is his sole caretaker. The patient seems frightened and avoids eye contact when his son is present. When the son leaves the room, the patient whispers, 'Please don't send me home.' What is the ACNP's legal and ethical obligation?",
       "answers": [
         {
