@@ -512,7 +512,7 @@
         "a": "Incorrect. Additional diuresis further reduces preload. In severe AS, the LV is stiff and preload-dependent — volume depletion worsens output.",
         "b": "Correct. Stop vasodilators, support preload, urgent valve consultation. AVA <1.0 cm² with symptoms = severe AS requiring intervention. Syncope indicates critical obstruction.",
         "c": "Incorrect. Dobutamine can precipitate severe hypotension in AS by causing vasodilation across a fixed outflow obstruction. Elective scheduling is inappropriate — this is urgent.",
-        "d": "Incorrect. Nitroprusside is a potent vasodilator contraindicated in severe AS. Reducing afterload with a fixed obstruction drops BP precipitously without improving forward flow."
+        "d": "Incorrect. Nitroprusside is a potent vasodilator generally avoided in severe AS. Reducing afterload across a fixed obstruction drops BP precipitously without improving forward flow. While careful nitroprusside use has been studied in decompensated severe AS under invasive hemodynamic monitoring, it is not appropriate in the acute setting described here."
       }
     },
     {
@@ -552,7 +552,7 @@
       ],
       "explanation": {
         "correct": "Correct. HR control first (reduces dP/dt), then BP control. Esmolol targets HR <60 bpm. CT-A is the diagnostic gold standard. Cardiothoracic surgery consultation must happen simultaneously.",
-        "a": "Incorrect. Heparin is absolutely contraindicated in aortic dissection — it markedly increases risk of hemorrhage into the pericardium or false lumen. This would be fatal.",
+        "a": "Incorrect. Anticoagulation is strongly contraindicated in suspected aortic dissection — it increases the risk of hemorrhage into the false lumen or pericardium, which can be fatal. Heparin may be required during cardiopulmonary bypass for Type A surgical repair, but should not be administered before the diagnosis is confirmed and surgical planning is underway.",
         "b": "Correct. HR control first (reduces dP/dt), then BP control. Esmolol targets HR <60 bpm. CT-A is the diagnostic gold standard. Cardiothoracic surgery consultation must happen simultaneously.",
         "c": "Incorrect. tPA is a thrombolytic and absolutely contraindicated in dissection. It would cause catastrophic hemorrhagic complications.",
         "d": "Incorrect. Vasodilators without beta-blockade first can cause reflex tachycardia, increasing aortic wall stress. A 6-hour observation period is inappropriate — Type A dissection is a surgical emergency."
@@ -657,7 +657,7 @@
         "ECG Interpretation"
       ],
       "difficulty": "medium",
-      "question": "A 63-year-old woman with diabetes presents with 45 minutes of jaw pain and nausea. ECG shows 1mm ST depression in V4-V6 with T-wave inversions. Initial troponin-I is 0.04 ng/mL (normal <0.04). BP 148/88, HR 82. She has no contraindications to anticoagulation. Which antiplatelet/anticoagulation strategy is most appropriate?",
+      "question": "A 63-year-old woman with diabetes presents with 45 minutes of jaw pain and nausea. ECG shows 1mm ST depression in V4-V6 with T-wave inversions. Initial troponin-I is 0.04 ng/mL (normal <0.04). BP 148/88, HR 82. She has no contraindications to anticoagulation. The team plans an early invasive strategy with cardiac catheterization within 24 hours. Which antiplatelet/anticoagulation strategy is most appropriate?",
       "answers": [
         {
           "id": "a",
@@ -684,7 +684,7 @@
         "correct": "Correct. DAPT + anticoagulation is guideline-directed for NSTE-ACS. Heparin provides additional antithrombotic effect. Clopidogrel 600 mg load is appropriate for planned PCI.",
         "a": "Correct. DAPT + anticoagulation is guideline-directed for NSTE-ACS. Heparin provides additional antithrombotic effect. Clopidogrel 600 mg load is appropriate for planned PCI.",
         "b": "Incorrect. ECG changes plus symptoms meet criteria for NSTE-ACS even before troponin confirmation. Delaying treatment waiting for troponin risks further myocardial injury.",
-        "c": "Incorrect. Fondaparinux is reasonable for NSTE-ACS managed conservatively, but ticagrelor + fondaparinux has increased bleeding risk compared to standard regimens and is not the preferred combination.",
+        "c": "Incorrect. Ticagrelor is a potent P2Y12 inhibitor with mortality benefit over clopidogrel in NSTE-ACS (PLATO trial), and fondaparinux has lower bleeding risk than UFH (OASIS-5 trial). However, when an early invasive PCI strategy is planned, fondaparinux requires supplemental UFH during catheterization to prevent catheter thrombosis, making it less practical. For planned PCI, the standard approach is DAPT (aspirin + P2Y12 inhibitor loading) plus IV heparin.",
         "d": "Incorrect. This patient has dynamic ECG changes and symptoms consistent with ACS. Observation without treatment while awaiting troponin confirmation is below standard of care."
       }
     },
@@ -945,7 +945,7 @@
         "a": "Incorrect. Adenosine blocks the AV node — in WPW with AF, this forces all conduction through the accessory pathway, dramatically increasing ventricular rate and risking VF. Absolutely contraindicated.",
         "b": "Incorrect. Diltiazem (calcium channel blocker) is also an AV nodal blocker — same mechanism, same danger. Contraindicated in pre-excited AF with WPW.",
         "c": "Incorrect. Unsynchronized defibrillation is for pulseless arrest or when synchronization fails. This patient has a pulse — synchronized cardioversion is preferred to avoid T-wave on shock.",
-        "d": "Correct. Hemodynamically unstable pre-excited AF in WPW = emergency synchronized cardioversion. This is the only safe treatment in this scenario. Procainamide is the drug choice if stable."
+        "d": "Correct. Hemodynamically unstable pre-excited AF in WPW requires emergency synchronized cardioversion. This is the most appropriate and safest intervention for a hemodynamically compromised patient with this arrhythmia. Procainamide is the preferred pharmacologic agent if the patient were hemodynamically stable."
       }
     },
     {
@@ -963,7 +963,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Resume all three GDMT medications at the same time.",
+          "text": "Reinitiate all three GDMT medications before discharge, as hemodynamics tolerate.",
           "correct": true
         },
         {
@@ -984,7 +984,7 @@
       ],
       "explanation": {
         "correct": "Correct. Stable hemodynamics, adequate BP/HR, acceptable renal function and K+ — all three GDMT agents (beta-blocker, ACE-I, MRA) should be resumed at discharge. This is also an opportunity to initiate SGLT2 inhibitor therapy if not already on board per 2022 guidelines.",
-        "a": "Correct. Stable hemodynamics, adequate BP/HR, acceptable renal function and K+ — all three GDMT agents (beta-blocker, ACE-I, MRA) should be resumed at discharge. This is also an opportunity to initiate SGLT2 inhibitor therapy if not already on board per 2022 guidelines.",
+        "a": "Correct. When hemodynamics are stable (adequate BP, HR, renal function, and potassium), all three GDMT agents (beta-blocker, ACE-I, MRA) should be reinitiated before discharge — even at reduced doses if necessary. Holding GDMT at discharge is associated with higher 60-90 day mortality. This is also an opportunity to initiate SGLT2 inhibitor therapy if not already on board per 2022 AHA/ACC guidelines.",
         "b": "Incorrect. Holding beta-blockers at discharge after ADHF is associated with higher 60-90 day mortality. If hemodynamically stable, resume before discharge — even at a lower dose if needed.",
         "c": "Incorrect. Creatinine 1.4 with K+ 4.2 is acceptable for spironolactone. Discontinuing MRA therapy removes a mortality-reducing agent without adequate justification.",
         "d": "Incorrect. There is no indication to switch from ACE-I to ARB here. Losartan is used when ACE-I is not tolerated (typically due to cough or angioedema). Recent decompensation is not a reason to switch."
@@ -1416,7 +1416,7 @@
       "explanation": {
         "correct": "Correct. Wellens Type B shows biphasic T-waves (initially upright then inverted) in V2-V3, indicating critical proximal LAD stenosis with transient ischemia. Urgent (not emergent — no current STEMI) catheterization is mandatory. Stress testing is absolutely contraindicated — can precipitate massive MI.",
         "a": "Incorrect. Posterior STEMI shows ST depression in V1-V4 (posterior territory) with tall R waves, not biphasic T-waves specifically in V2-V3. While urgent cath is warranted for Wellens, characterizing it as posterior STEMI is incorrect.",
-        "b": "Correct. Wellens Type B shows biphasic T-waves (initially upright then inverted) in V2-V3, indicating critical proximal LAD stenosis with transient ischemia. Urgent (not emergent — no current STEMI) catheterization is mandatory. Stress testing is absolutely contraindicated — can precipitate massive MI.",
+        "b": "Correct. Wellens Type B shows biphasic T-waves (initially upright then inverted) in V2-V3, indicating critical proximal LAD stenosis with transient ischemia. Urgent (not emergent — no current STEMI) catheterization is mandatory. Stress testing is strongly contraindicated — it risks precipitating massive MI.",
         "c": "Incorrect. Early repolarization shows ST elevation (concave up, 'fishhook' pattern) in lateral or inferior leads in young athletes, not biphasic T-waves in V2-V3. Discharging a patient with Wellens syndrome is dangerous.",
         "d": "Incorrect. While Wellens patients need anticoagulation and antiplatelet therapy, categorizing this as 'non-specific' misses the specific high-risk pattern. The key risk is stress testing and delayed catheterization."
       }
@@ -1630,10 +1630,10 @@
       ],
       "explanation": {
         "correct": "Correct. RV infarction: IV fluids to optimize RV preload (clear lungs = no LV congestion, safe to give volume). Complete heart block from inferior MI requires temporary pacing. This combination addresses both components of hemodynamic compromise.",
-        "a": "Incorrect. Furosemide is absolutely contraindicated in RV infarction. The RV requires preload to generate forward output. Diuresis removes the preload that the RV depends on, precipitating cardiovascular collapse.",
+        "a": "Incorrect. Furosemide is strongly avoided in RV infarction. The RV is preload-dependent — aggressive diuresis removes the volume the RV needs to generate forward output, potentially precipitating cardiovascular collapse. Volume loading, not volume removal, is the initial hemodynamic strategy for isolated RV failure.",
         "b": "Correct. RV infarction: IV fluids to optimize RV preload (clear lungs = no LV congestion, safe to give volume). Complete heart block from inferior MI requires temporary pacing. This combination addresses both components of hemodynamic compromise.",
         "c": "Incorrect. Dobutamine may be needed if volume fails to improve output, but IV fluids are the first intervention in RV infarction. Norepinephrine adds afterload that the stiff RV cannot overcome and is not first-line.",
-        "d": "Incorrect. Beta-blockers are absolutely contraindicated in hemodynamic compromise (HR 48 with complete heart block). This patient needs positive chronotropy (pacing) and volume, not rate slowing."
+        "d": "Incorrect. Beta-blockers are strongly contraindicated in this scenario — the patient has hemodynamic compromise (HR 48 with complete heart block and hypotension). Negative chronotropy and inotropy would worsen an already failing RV. This patient needs positive chronotropy (pacing) and volume support."
       }
     },
     {
@@ -3483,7 +3483,7 @@
         },
         {
           "id": "c",
-          "text": "Bilateral pneumonia; initiate HCAP antibiotic coverage and supplemental oxygen",
+          "text": "Bilateral pneumonia; initiate empiric antibiotic coverage for pneumonia with MRSA and Pseudomonas risk factors",
           "correct": false
         },
         {
@@ -3496,7 +3496,7 @@
         "correct": "Correct. Classic cardiogenic pulmonary edema: BNP elevation, bilateral perihilar infiltrates, edema, hypoxemia with respiratory alkalosis. IV furosemide and NIV (CPAP reduces preload and improves oxygenation in acute pulmonary edema per 3CPO trial) are first-line.",
         "a": "Incorrect. ARDS requires bilateral infiltrates + P/F <300 + not fully explained by cardiac failure. This patient has a clear cardiac cause (BNP 1840, edema, perihilar pattern). ARDS and cardiogenic pulmonary edema can coexist but treating as ARDS first would miss the primary diagnosis.",
         "b": "Correct. Classic cardiogenic pulmonary edema: BNP elevation, bilateral perihilar infiltrates, edema, hypoxemia with respiratory alkalosis. IV furosemide and NIV (CPAP reduces preload and improves oxygenation in acute pulmonary edema per 3CPO trial) are first-line.",
-        "c": "Incorrect. Bilateral pneumonia causing pneumonia requiring broader coverage would present with fever, leukocytosis, and productive cough. This patient has no fever, normal WBC, and the presentation is far more consistent with cardiac failure given the BNP and edema.",
+        "c": "Incorrect. The HCAP classification has been retired per 2019 ATS/IDSA guidelines. Clinicians should instead assess individual risk factors for MRSA and Pseudomonas when selecting empiric coverage. Regardless, this patient's presentation is not pneumonia — no fever, normal WBC, and the bilateral perihilar infiltrates with markedly elevated BNP (1840 pg/mL) point to cardiogenic pulmonary edema, not infection.",
         "d": "Incorrect. Acute exacerbation of pulmonary fibrosis (AE-IPF) typically presents in a patient with known ILD, has a characteristic CT pattern, and BNP would not be markedly elevated. High-dose steroids may be used in AE-IPF but are not indicated here."
       }
     },
@@ -4261,7 +4261,7 @@
       "explanation": {
         "correct": "Correct. Systemic alteplase 100 mg IV over 2 hours is first-line for massive PE with hemodynamic collapse. Rapidly reduces pulmonary vascular resistance and RV afterload. Start UFH concurrently. Contraindications: recent surgery/stroke, active bleeding, known intracranial malignancy.",
         "a": "Incorrect. Anticoagulation alone is adequate for submassive PE (RV dysfunction without hemodynamic compromise) and is the standard for non-massive PE. In MASSIVE PE with shock, anticoagulation alone is insufficient — thrombolysis is required.",
-        "b": "Correct. Systemic alteplase 100 mg IV over 2 hours is first-line for massive PE with hemodynamic collapse. Rapidly reduces pulmonary vascular resistance and RV afterload. Start UFH concurrently. Contraindications: recent surgery/stroke, active bleeding, known intracranial malignancy.",
+        "b": "Correct. Systemic alteplase 100 mg IV over 2 hours is first-line for massive PE with hemodynamic collapse. It rapidly reduces pulmonary vascular resistance and RV afterload. UFH should be HELD during the alteplase infusion and restarted when aPTT falls below 80 seconds after completion — concurrent administration increases bleeding risk. Contraindications: recent surgery/stroke, active bleeding, known intracranial malignancy.",
         "c": "Incorrect. Catheter-directed thrombolysis delivers lower doses of thrombolytic directly to the clot. It is used for SUBMASSIVE PE or when systemic thrombolysis is relatively contraindicated. For massive PE requiring urgent treatment, full-dose systemic thrombolysis is faster and more effective.",
         "d": "Incorrect. Surgical embolectomy is reserved for massive PE when thrombolysis fails or is absolutely contraindicated. It requires OR availability and is not first-line when thrombolysis can be administered immediately."
       }
@@ -5915,7 +5915,7 @@
       ],
       "explanation": {
         "correct": "Correct. DAWN and DEFUSE-3 established extended window thrombectomy (up to 24 hours) for patients with LVO and favorable perfusion mismatch. Small core (12 mL) with large penumbra (94 mL) = ideal candidate. M1 occlusion with NIHSS 18 confirms the clinical-radiographic profile.",
-        "a": "Incorrect. IV tPA is only approved within 4.5 hours of last known well. At 10 hours, tPA is absolutely contraindicated regardless of imaging findings. Wake-up strokes with unknown onset time are not exceptions to the tPA time window.",
+        "a": "Incorrect. Standard IV tPA is approved within 4.5 hours of last known well. However, the WAKE-UP trial (2018, NEJM) demonstrated that selected patients with unknown-onset strokes can receive tPA if MRI shows DWI-FLAIR mismatch (suggesting onset within ~4.5 hours). This patient was last seen normal 10 hours ago, and his perfusion imaging identifies him as a thrombectomy candidate — the more appropriate and evidence-based intervention for an LVO with favorable mismatch in the extended window.",
         "b": "Correct. DAWN and DEFUSE-3 established extended window thrombectomy (up to 24 hours) for patients with LVO and favorable perfusion mismatch. Small core (12 mL) with large penumbra (94 mL) = ideal candidate. M1 occlusion with NIHSS 18 confirms the clinical-radiographic profile.",
         "c": "Incorrect. The standard 6-hour window has been extended to 24 hours for carefully selected patients based on perfusion imaging. This patient meets DAWN/DEFUSE-3 criteria. Supportive care alone abandons a treatable intervention with strong level 1 evidence.",
         "d": "Incorrect. Hemicraniectomy is performed for malignant MCA syndrome with cerebral edema and herniation — typically 24-48 hours after a completed infarct. This patient has a large penumbra suggesting salvageable tissue; thrombectomy should be attempted before considering decompressive surgery."
@@ -6650,49 +6650,6 @@
         "b": "Incorrect. Benzodiazepines are independently associated with worsening delirium and are contraindicated as first-line treatment for non-alcohol withdrawal delirium in elderly patients. Lorazepam would likely worsen the confusion.",
         "c": "Correct. Non-pharmacologic interventions are first-line for post-operative delirium per PADIS guidelines. Review oxycodone (opioids commonly cause delirium in elderly), ensure adequate lighting, reorientation, early mobilization, and optimize sleep. Treat reversible causes before reaching for medications.",
         "d": "Incorrect. CT head is not indicated in typical post-operative delirium without focal neurological signs, head trauma history, or sudden severe onset suggesting intracranial pathology. The clinical picture is classic hyperactive post-operative delirium in an elderly patient — neuroimaging would not change initial management."
-      }
-    },
-    {
-      "id": "neuro020",
-      "tier1": "Neurology",
-      "tier2": [
-        "Delirium"
-      ],
-      "tier3": [
-        "Pharmacology",
-        "Critical Care",
-        "Diagnostics/Labs"
-      ],
-      "difficulty": "medium",
-      "question": "A 48-year-old man with alcohol use disorder is admitted after being found unresponsive. He is confused and tremulous. HR 118, BP 154/96, diaphoretic. He reports his last drink was 36 hours ago. CIWA-Ar score is 18. He then has a generalized tonic-clonic seizure in the ED. Which is the most appropriate pharmacologic treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Haloperidol 5 mg IV for agitation control and seizure prevention",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Lorazepam 2-4 mg IV with symptom-triggered dosing per CIWA-Ar score",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Fosphenytoin 20 mg PE/kg IV for seizure prophylaxis",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Propofol infusion for sedation and seizure control",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Benzodiazepines are the gold standard for alcohol withdrawal. Lorazepam 2-4 mg IV for acute seizure, then symptom-triggered CIWA-Ar dosing prevents progression to DTs. Thiamine 100 mg IV should be given concurrently. Phenobarbital is an alternative in refractory cases.",
-        "a": "Incorrect. Haloperidol lowers the seizure threshold and does not treat the underlying GABA-A receptor dysregulation of alcohol withdrawal. It is contraindicated as monotherapy for alcohol withdrawal — it may control agitation but will not prevent seizures or DTs.",
-        "b": "Correct. Benzodiazepines are the gold standard for alcohol withdrawal. Lorazepam 2-4 mg IV for acute seizure, then symptom-triggered CIWA-Ar dosing prevents progression to DTs. Thiamine 100 mg IV should be given concurrently. Phenobarbital is an alternative in refractory cases.",
-        "c": "Incorrect. Phenytoin/fosphenytoin does not prevent alcohol withdrawal seizures — it acts on sodium channels, not GABA-A receptors. Multiple studies confirm phenytoin is ineffective for this indication. This is a classic exam trap.",
-        "d": "Incorrect. Propofol may be used in ICU for refractory alcohol withdrawal requiring intubation, but it is not first-line for CIWA score 18 with a single seizure. Benzodiazepines remain first-line. Propofol use for alcohol withdrawal is reserved for benzodiazepine-refractory severe DTs requiring mechanical ventilation."
       }
     },
     {
@@ -9123,7 +9080,7 @@
         "correct": "Correct. WOPN without air bubbles on CT may be sterile. Current IAP/APA guidelines: drain only for (1) confirmed/strongly suspected infection, (2) symptomatic compression causing obstruction, or (3) persistent symptoms preventing oral intake at 8+ weeks. When drainage is needed, the step-up approach applies: endoscopic transmural drainage (EUS-guided) or percutaneous drainage preferred over open surgery. Antibiotics for 4-6 weeks alone can occasionally sterilize early infected collections.",
         "a": "Incorrect. Size alone (>5 cm) is not an indication for WOPN drainage. Many large WOPNs in clinically stable patients can be managed expectantly. WOPN that is asymptomatic or causing only mild symptoms can be observed — up to 50% resolve without intervention.",
         "b": "Correct. WOPN without air bubbles on CT may be sterile. Current IAP/APA guidelines: drain only for (1) confirmed/strongly suspected infection, (2) symptomatic compression causing obstruction, or (3) persistent symptoms preventing oral intake at 8+ weeks. When drainage is needed, the step-up approach applies: endoscopic transmural drainage (EUS-guided) or percutaneous drainage preferred over open surgery. Antibiotics for 4-6 weeks alone can occasionally sterilize early infected collections.",
-        "c": "Incorrect. CT-guided FNA (sampling the collection for Gram stain and culture) remains a valid diagnostic tool when infection is suspected but not confirmed by CT findings (air bubbles = virtually diagnostic). FNA is used when the clinical picture is equivocal and management will change based on sterile vs. infected result.",
+        "c": "Incorrect. Practice has shifted away from routine CT-guided FNA. Current AGA and revised international guidelines increasingly favor empiric antibiotics when infection is clinically suspected (fever, leukocytosis, worsening after initial improvement), reserving FNA for equivocal cases where the clinical picture is unclear and management would change based on culture results. FNA remains a valid but less commonly used diagnostic tool — it has not been abandoned entirely.",
         "d": "Incorrect. Indefinite antibiotic therapy does not sterilize established WOPN. Antibiotics penetrate pancreatic necrosis variably — carbapenems and fluoroquinolones have best penetration. Antibiotics are given for confirmed infection with drainage, not indefinitely as definitive monotherapy for established organized collections."
       }
     },
@@ -9254,49 +9211,6 @@
         "b": "Correct. Octreotide (somatostatin analog) reduces splanchnic blood flow and portal pressure — give as early as possible, even before endoscopy. Combined with endoscopic variceal ligation (EVL), this combination reduces 5-day treatment failure and mortality. AASLD guidelines recommend this combination. Also add prophylactic antibiotics (ceftriaxone 1g IV daily) — reduces mortality by reducing bacterial infections that trigger rebleeding.",
         "c": "Incorrect. Vasopressin reduces portal pressure but causes systemic vasoconstriction leading to myocardial ischemia, mesenteric ischemia, and stroke. It is rarely used and must be combined with nitroglycerin to reduce side effects. Octreotide/terlipressin are preferred.",
         "d": "Incorrect. Early TIPS (within 72 hours) is indicated for Child-Pugh C or B with active bleeding failing medical therapy — not as first-line before endoscopy. TIPS is a rescue/preemptive strategy for high-risk patients, not the initial intervention."
-      }
-    },
-    {
-      "id": "gi005",
-      "tier1": "GI",
-      "tier2": [
-        "Liver Failure/Cirrhosis"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Diagnostics/Labs",
-        "Pharmacology"
-      ],
-      "difficulty": "hard",
-      "question": "A 44-year-old man with alcoholic cirrhosis (ascites, no prior SBP) undergoes diagnostic paracentesis for new abdominal distension. Ascitic fluid: WBC 680 cells/mm³, PMN 320 cells/mm³, protein 1.8 g/dL, glucose 88, LDH normal. No bacteria on Gram stain. Which is the diagnosis and treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Secondary bacterial peritonitis from bowel perforation; emergent CT abdomen and surgical consult",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Spontaneous bacterial peritonitis (SBP); IV cefotaxime 2g q8h for 5 days plus IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Tuberculous peritonitis; start RIPE therapy and repeat paracentesis in 4 weeks",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Malignant ascites with peritoneal carcinomatosis; CT and tumor markers",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. SBP diagnosis: ascitic PMN ≥250 cells/mm³ without an identifiable surgical cause. IV cefotaxime 2g q8h × 5 days is first-line (covers 95% of causative organisms). IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 reduces renal impairment and mortality (Sort 1999 NEJM trial). After recovery, start norfloxacin 400 mg daily for secondary SBP prophylaxis.",
-        "a": "Incorrect. Secondary bacterial peritonitis (bowel perforation) typically shows: PMN >250 PLUS two of three: protein >1 g/dL, glucose <50, LDH > upper limit of normal. This patient's glucose and LDH are normal, making bowel perforation less likely. SBP criteria are met (PMN ≥250).",
-        "b": "Correct. SBP diagnosis: ascitic PMN ≥250 cells/mm³ without an identifiable surgical cause. IV cefotaxime 2g q8h × 5 days is first-line (covers 95% of causative organisms). IV albumin 1.5 g/kg on day 1 and 1 g/kg on day 3 reduces renal impairment and mortality (Sort 1999 NEJM trial). After recovery, start norfloxacin 400 mg daily for secondary SBP prophylaxis.",
-        "c": "Incorrect. Tuberculous peritonitis is rare in immunocompetent patients. It typically shows lymphocytic predominance (not PMN), high protein, high LDH, and low glucose. Treatment initiation before diagnostic confirmation is not appropriate without supporting evidence.",
-        "d": "Incorrect. Malignant ascites may show high WBC but typically has lymphocytic predominance, high protein, and positive cytology. The PMN count of 320 specifically indicates an infectious/inflammatory process meeting SBP criteria."
       }
     },
     {
@@ -9657,12 +9571,12 @@
         {
           "id": "a",
           "text": "Start empiric IV meropenem for infected necrosis",
-          "correct": false
+          "correct": true
         },
         {
           "id": "b",
           "text": "CT-guided fine needle aspiration (FNA) of the necrotic collection",
-          "correct": true
+          "correct": false
         },
         {
           "id": "c",
@@ -9676,9 +9590,9 @@
         }
       ],
       "explanation": {
-        "correct": "Correct. When a patient with pancreatic necrosis develops signs of infection (fever, leukocytosis, clinical deterioration), CT-guided FNA with Gram stain and culture is the gold standard to distinguish sterile from infected necrosis. If infection is confirmed, targeted antibiotics (carbapenems penetrate pancreatic tissue best) are started and minimally invasive necrosectomy is planned. FNA guides management and prevents unnecessary antibiotic use.",
-        "a": "Incorrect. Prophylactic antibiotics for sterile pancreatic necrosis are NOT recommended per current guidelines (AGA, ACG). Antibiotics should only be started when there is evidence of infected necrosis. The appropriate diagnostic step is to confirm infection before starting antibiotics.",
-        "b": "Correct. When a patient with pancreatic necrosis develops signs of infection (fever, leukocytosis, clinical deterioration), CT-guided FNA with Gram stain and culture is the gold standard to distinguish sterile from infected necrosis. If infection is confirmed, targeted antibiotics (carbapenems penetrate pancreatic tissue best) are started and minimally invasive necrosectomy is planned. FNA guides management and prevents unnecessary antibiotic use.",
+        "correct": "Correct. When a patient with pancreatic necrosis develops clinical signs of infection (new fever, leukocytosis, worsening after initial improvement) at day 3, current AGA 2020 guidelines favor starting empiric antibiotics with agents that penetrate pancreatic tissue (carbapenems such as meropenem, or fluoroquinolones). At day 3, the necrosis has not yet walled off, making CT-guided FNA technically difficult and of limited yield. Intervention (drainage/necrosectomy) should be delayed until the collection matures into a walled-off necrosis (typically 4+ weeks) using the step-up approach.",
+        "a": "Correct. When a patient with pancreatic necrosis develops clinical signs of infection (new fever, leukocytosis, worsening after initial improvement) at day 3, current AGA 2020 guidelines favor starting empiric antibiotics with agents that penetrate pancreatic tissue (carbapenems such as meropenem, or fluoroquinolones). At day 3, the necrosis has not yet walled off, making CT-guided FNA technically difficult and of limited yield. Intervention (drainage/necrosectomy) should be delayed until the collection matures into a walled-off necrosis (typically 4+ weeks) using the step-up approach.",
+        "b": "Incorrect. While CT-guided FNA was historically considered the gold standard for diagnosing infected pancreatic necrosis, current practice has shifted. At day 3, the necrosis has not organized into a walled-off collection, making FNA technically challenging with lower diagnostic yield. Current guidelines increasingly support starting empiric antibiotics when clinical suspicion for infection is high, reserving FNA for equivocal cases later in the disease course.",
         "c": "Incorrect. Early open surgical necrosectomy (<4 weeks) is associated with high morbidity and mortality. Current guidelines favor a step-up approach: delay intervention to allow walled-off necrosis to mature (4+ weeks), then use percutaneous drainage or endoscopic necrosectomy before open surgery. FNA to confirm infection should precede any intervention.",
         "d": "Incorrect. Serial lipase/amylase values do not correlate with disease severity or predict complications in acute pancreatitis. Once pancreatitis is diagnosed, trending enzymes adds no clinical value. The concern here is infected necrosis, which requires CT-guided FNA for diagnosis."
       }
@@ -9849,48 +9763,6 @@
         "b": "Incorrect. While small stones may pass spontaneously, this patient has an impacted 1.5 cm CBD stone with progressive biliary obstruction (rising bilirubin, biliary dilation). Impacted CBD stones require intervention — they will not pass spontaneously and risk cholangitis and worsening pancreatitis.",
         "c": "Correct. ERCP with endoscopic sphincterotomy and stone extraction is the definitive procedure for impacted CBD stones causing biliary obstruction. It should be performed urgently (<24 hours) in gallstone pancreatitis with ongoing biliary obstruction or cholangitis. Cholecystectomy should then be performed during the same hospitalization (ideally within 72 hours) to prevent recurrent stone migration.",
         "d": "Incorrect. PTC is an alternative biliary decompression method used when ERCP fails or is not feasible (e.g., altered surgical anatomy, duodenal obstruction). ERCP is the first-line approach for CBD stone extraction due to its therapeutic capability and lower complication rate."
-      }
-    },
-    {
-      "id": "gi053",
-      "tier1": "GI",
-      "tier2": [
-        "GI Bleeding"
-      ],
-      "tier3": [
-        "Diagnostics/Labs",
-        "Pharmacology"
-      ],
-      "difficulty": "hard",
-      "question": "A 55-year-old man with known liver cirrhosis presents with massive hematemesis. He is tachycardic (HR 132) and hypotensive (BP 74/42). A nasogastric tube returns bright red blood. After initiating resuscitation with PRBCs and crystalloid, what pharmacologic agent should be started immediately for suspected variceal hemorrhage?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV octreotide 50 mcg bolus followed by 50 mcg/hr infusion",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "IV pantoprazole 80 mg bolus and 8 mg/hr drip",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "IV tranexamic acid (TXA) 1 g bolus",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "IV vasopressin 0.4 units/min",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. In suspected variceal hemorrhage, IV octreotide (a somatostatin analog) should be started immediately — even before endoscopy. Octreotide reduces portal venous pressure by inhibiting splanchnic vasodilation and reducing portal blood flow, which helps control variceal bleeding. It is continued for 3–5 days. Additionally, IV antibiotics (ceftriaxone 1 g/day) should be given to cirrhotic patients with GI bleed to reduce infection risk and rebleeding. Urgent EGD for band ligation is the definitive intervention.",
-        "a": "Correct. In suspected variceal hemorrhage, IV octreotide (a somatostatin analog) should be started immediately — even before endoscopy. Octreotide reduces portal venous pressure by inhibiting splanchnic vasodilation and reducing portal blood flow, which helps control variceal bleeding. It is continued for 3–5 days. Additionally, IV antibiotics (ceftriaxone 1 g/day) should be given to cirrhotic patients with GI bleed to reduce infection risk and rebleeding. Urgent EGD for band ligation is the definitive intervention.",
-        "b": "Incorrect. IV PPI therapy is appropriate for non-variceal upper GI bleeding (peptic ulcer disease). In variceal hemorrhage, the mechanism is portal hypertension — not acid-related injury. Acid suppression does not reduce variceal bleeding. Octreotide targeting portal pressure reduction is the correct pharmacologic intervention.",
-        "c": "Incorrect. The HALT-IT trial showed that tranexamic acid does NOT reduce mortality in GI bleeding and may increase thromboembolic complications. TXA is not recommended for GI hemorrhage per current guidelines.",
-        "d": "Incorrect. While vasopressin reduces portal pressure and was historically used for variceal bleeding, it causes systemic vasoconstriction with significant side effects (mesenteric and coronary ischemia, arrhythmias). Octreotide has largely replaced vasopressin due to its superior safety profile and equivalent efficacy."
       }
     },
     {
@@ -10618,7 +10490,7 @@
         },
         {
           "id": "b",
-          "text": "Discontinue ibuprofen, start PPI BID for 8 weeks, and initiate H. pylori triple therapy (PPI + clarithromycin + amoxicillin) for 14 days; confirm eradication in 4+ weeks",
+          "text": "Discontinue ibuprofen, start PPI BID for 8 weeks, and initiate H. pylori eradication with bismuth quadruple therapy (PPI + bismuth + metronidazole + tetracycline) for 14 days; confirm eradication in 4+ weeks",
           "correct": true
         },
         {
@@ -10635,7 +10507,7 @@
       "explanation": {
         "correct": "Correct. This is classic duodenal ulcer (nocturnal pain relieved by food = 'food is friend') with dual risk factors: NSAIDs + H. pylori infection. Management requires addressing ALL contributing factors: (1) DISCONTINUE the NSAID — switch to acetaminophen or consider COX-2 selective agent + PPI if NSAID is essential; (2) PPI BID × 8 weeks for ulcer healing; (3) H. pylori eradication with standard triple therapy (PPI + clarithromycin + amoxicillin × 14 days) or bismuth quadruple therapy if clarithromycin resistance ≥15% locally; (4) Confirm eradication with urea breath test or stool antigen ≥4 weeks after completing antibiotics and ≥2 weeks after stopping PPI (to avoid false negatives). If NSAIDs must continue, PPI prophylaxis should be maintained indefinitely.",
         "a": "Incorrect. Both H. pylori AND NSAIDs are independent risk factors for PUD, and when both are present, the risk is synergistic. Both must be addressed: eradicate H. pylori AND discontinue NSAIDs.",
-        "b": "Correct. This is classic duodenal ulcer (nocturnal pain relieved by food = 'food is friend') with dual risk factors: NSAIDs + H. pylori infection. Management requires addressing ALL contributing factors: (1) DISCONTINUE the NSAID — switch to acetaminophen or consider COX-2 selective agent + PPI if NSAID is essential; (2) PPI BID × 8 weeks for ulcer healing; (3) H. pylori eradication with standard triple therapy (PPI + clarithromycin + amoxicillin × 14 days) or bismuth quadruple therapy if clarithromycin resistance ≥15% locally; (4) Confirm eradication with urea breath test or stool antigen ≥4 weeks after completing antibiotics and ≥2 weeks after stopping PPI (to avoid false negatives). If NSAIDs must continue, PPI prophylaxis should be maintained indefinitely.",
+        "b": "Correct. This is classic duodenal ulcer (nocturnal pain relieved by food = 'food is friend') with dual risk factors: NSAIDs + H. pylori infection. Management requires addressing ALL contributing factors: (1) DISCONTINUE the NSAID — switch to acetaminophen or consider COX-2 selective agent + PPI if NSAID is essential; (2) PPI BID × 8 weeks for ulcer healing; (3) H. pylori eradication with bismuth quadruple therapy (PPI + bismuth subsalicylate + metronidazole + tetracycline × 14 days), which is now preferred first-line per 2024 ACG guidelines given widespread clarithromycin resistance in most US regions; (4) Confirm eradication with urea breath test or stool antigen ≥4 weeks after completing antibiotics and ≥2 weeks after stopping PPI (to avoid false negatives). If NSAIDs must continue, PPI prophylaxis should be maintained indefinitely.",
         "c": "Incorrect. Continuing the causative NSAID while adding misoprostol is a suboptimal approach. Discontinuing the NSAID is the most effective intervention. Additionally, H. pylori eradication should not be deferred when present with active PUD.",
         "d": "Incorrect. EGD is indicated for GASTRIC ulcers (malignancy risk — always biopsy) and alarm symptoms. Duodenal ulcers are rarely malignant. This patient is <45-50 with no alarm symptoms, making empiric H. pylori treatment with PPI appropriate as initial management. EGD would be indicated if he fails to improve or develops alarm symptoms."
       }
@@ -12981,49 +12853,6 @@
       }
     },
     {
-      "id": "endo004",
-      "tier1": "Endocrine",
-      "tier2": [
-        "Thyroid Crisis"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology",
-        "Diagnostics/Labs"
-      ],
-      "difficulty": "hard",
-      "question": "A 38-year-old woman with untreated Graves' disease is admitted post-trauma with fever 40.2°C, HR 162 (AF), systolic BP 88, confusion, and jaundice. Burch-Wartofsky score is 75. Which is the correct sequence of thyroid storm treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV propranolol → radioactive iodine ablation → IV hydrocortisone → ICU monitoring",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "IV propylthiouracil (PTU) or methimazole → then iodine (1 hour later) → IV hydrocortisone → beta-blockade → treat precipitant",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV methimazole → immediate Lugol's iodine → IV dexamethasone → IV esmolol → treat precipitant",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Emergent thyroidectomy — medical management is insufficient for Burch-Wartofsky >45",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Thyroid storm treatment sequence matters critically: (1) Thionamide FIRST (PTU preferred over methimazole in storm — also blocks T4→T3 conversion); (2) Iodine at least 1 HOUR LATER (Lugol's or SSKI) — must give thionamide first to prevent iodine from being used to synthesize MORE hormone; (3) IV hydrocortisone 300 mg then 100 mg q8h (blocks T4→T3, treats relative adrenal insufficiency); (4) Beta-blockade (propranolol IV, also blocks T4→T3); (5) Treat precipitant (trauma here). Burch-Wartofsky ≥45 = thyroid storm.",
-        "a": "Incorrect. Radioactive iodine is absolutely CONTRAINDICATED in thyroid storm — it causes acute release of preformed thyroid hormone, transiently worsening the storm. It is an outpatient treatment for stable hyperthyroidism, never used in crisis.",
-        "b": "Correct. Thyroid storm treatment sequence matters critically: (1) Thionamide FIRST (PTU preferred over methimazole in storm — also blocks T4→T3 conversion); (2) Iodine at least 1 HOUR LATER (Lugol's or SSKI) — must give thionamide first to prevent iodine from being used to synthesize MORE hormone; (3) IV hydrocortisone 300 mg then 100 mg q8h (blocks T4→T3, treats relative adrenal insufficiency); (4) Beta-blockade (propranolol IV, also blocks T4→T3); (5) Treat precipitant (trauma here). Burch-Wartofsky ≥45 = thyroid storm.",
-        "c": "Incorrect. The sequence is wrong — iodine must NOT be given immediately after methimazole. At minimum 1 hour must elapse after thionamide before iodine. Immediate iodine without adequate thionamide pretreatment can worsen thyroid hormone synthesis (Wolff-Chaikoff effect fails if gland is already hyperstimulated).",
-        "d": "Incorrect. Emergency thyroidectomy is a rare last resort for refractory thyroid storm failing all medical management. It carries extremely high operative risk in an unstable patient. Medical management is the standard of care. Burch-Wartofsky score guides diagnosis and monitoring, not surgical indication."
-      }
-    },
-    {
       "id": "endo005",
       "tier1": "Endocrine",
       "tier2": [
@@ -13064,49 +12893,6 @@
         "b": "Correct. In DKA management, when glucose reaches 200-250 mg/dL: ADD dextrose (D5W or D10W) to IV fluids to maintain glucose 150-250 mg/dL while continuing insulin at current rate. Insulin must continue until the anion gap closes (AG <12-14) and ketones clear — NOT just until glucose normalizes. Stopping or reducing insulin prematurely before anion gap closure causes persistent ketoacidosis.",
         "c": "Incorrect. IV sodium bicarbonate is NOT recommended for DKA unless pH <6.9 (ADA guidelines). Bicarbonate in DKA causes paradoxical CSF acidosis, hypokalemia, worsens ketone production, and has not been shown to improve outcomes. The acidosis will resolve as insulin suppresses ketogenesis.",
         "d": "Incorrect. Transitioning to subcutaneous insulin requires: (1) AG closed (<12-14), (2) patient tolerating PO, (3) glucose <200-250. This patient has AG still at 22 — transition is premature. Early transition before AG closure leads to rebound ketoacidosis."
-      }
-    },
-    {
-      "id": "endo006",
-      "tier1": "Endocrine",
-      "tier2": [
-        "Adrenal Insufficiency"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Diagnostics/Labs",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 62-year-old man on prednisone 10 mg daily for 3 years for rheumatoid arthritis undergoes elective colectomy. Intraoperatively he develops refractory hypotension not responding to 3L crystalloid. BP 72/40, HR 118. Which is the most appropriate immediate intervention?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "IV norepinephrine 0.1 mcg/kg/min and continue his oral prednisone via feeding tube",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "IV hydrocortisone 100 mg bolus immediately; follow with 50 mg q8h or 200 mg/day continuous infusion",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV methylprednisolone 1 g (stress dose) for major surgical stress",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Send random cortisol and cosyntropin stimulation test before giving any steroids",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. HPA axis suppression from chronic steroids (>10 mg prednisone daily for >3 weeks) causes secondary adrenal insufficiency — inability to mount cortisol response to surgical stress. Classic presentation: refractory vasodilatory shock intraoperatively or within 24-48 hours of surgery. IV hydrocortisone 100 mg bolus then 50 mg q8h (or 200 mg/day infusion) is the treatment. Response is often dramatic within 1-2 hours.",
-        "a": "Incorrect. Oral prednisone cannot be reliably absorbed in a perioperative patient with hemodynamic instability and possible ileus. More critically, the dose (10 mg) is not adequate stress dosing. This patient needs IV hydrocortisone at stress doses immediately.",
-        "b": "Correct. HPA axis suppression from chronic steroids (>10 mg prednisone daily for >3 weeks) causes secondary adrenal insufficiency — inability to mount cortisol response to surgical stress. Classic presentation: refractory vasodilatory shock intraoperatively or within 24-48 hours of surgery. IV hydrocortisone 100 mg bolus then 50 mg q8h (or 200 mg/day infusion) is the treatment. Response is often dramatic within 1-2 hours.",
-        "c": "Incorrect. IV methylprednisolone 1g (pulse dose) is used for autoimmune crises (MS relapse, lupus flare, transplant rejection) — not adrenal crisis. Stress dosing for adrenal crisis uses hydrocortisone specifically because it has both glucocorticoid AND mineralocorticoid activity. Methylprednisolone lacks mineralocorticoid activity.",
-        "d": "Incorrect. In suspected adrenal crisis with hemodynamic instability, treatment must NOT be delayed for cortisol testing. Give hydrocortisone immediately — it can save the patient's life within hours. Testing can be done later if the diagnosis is uncertain. 'Treat first, test later' is the correct approach in adrenal crisis."
       }
     },
     {
@@ -13321,132 +13107,6 @@
         "b": "Correct. DKA potassium management: (1) If K+ <3.5: hold insulin, give 40 mEq KCl/hour until K+ ≥3.5, THEN start insulin. (2) If K+ 3.5-5.5: start insulin and give 20-40 mEq K+ per liter of IV fluid. (3) If K+ >5.5: start insulin but hold potassium — recheck in 2 hours. This patient (K 5.8) can start insulin but potassium must be closely monitored as it will fall with insulin therapy.",
         "c": "Incorrect. Despite serum K+ 5.8, the total body potassium is DEPLETED (osmotic diuresis, vomiting, cellular shift in acidosis). Once insulin corrects acidosis and shifts K+ intracellularly, serum K+ will fall — often dramatically. Neglecting potassium replacement leads to life-threatening hypokalemia causing cardiac arrhythmias and respiratory failure.",
         "d": "Incorrect. IV calcium gluconate is used for cardiac protection when K+ is critically elevated (>6.5 with ECG changes) in chronic hyperkalemia or renal failure. In DKA, the hyperkalemia is temporary and will resolve with insulin. Calcium gluconate is not standard DKA management."
-      }
-    },
-    {
-      "id": "endo024",
-      "tier1": "Endocrine",
-      "tier2": [
-        "DKA/HHS"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 32-year-old man with type 1 diabetes presents with nausea, vomiting, and Kussmaul respirations. Labs: glucose 486 mg/dL, pH 7.12, HCO3 8 mEq/L, anion gap 28, potassium 5.8 mEq/L. The ACNP initiates an insulin drip at 0.14 units/kg/hr and IV normal saline. Two hours later, potassium is 3.2 mEq/L. What is the most important next step?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Stop the insulin drip and replace potassium before resuming insulin",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Continue insulin and add IV potassium replacement simultaneously",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Switch from IV insulin to subcutaneous insulin glargine",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Administer IV sodium bicarbonate to correct the acidosis",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Serum potassium drops rapidly during DKA treatment as insulin drives K+ intracellularly and acidosis correction shifts K+ back into cells. When K+ falls below 3.3 mEq/L, insulin must be HELD to prevent life-threatening hypokalemia (cardiac arrhythmias, respiratory muscle weakness). Replace K+ aggressively (40 mEq/hr IV KCl) until K+ >3.3, then resume insulin with continued K+ supplementation.",
-        "a": "Correct. Serum potassium drops rapidly during DKA treatment as insulin drives K+ intracellularly and acidosis correction shifts K+ back into cells. When K+ falls below 3.3 mEq/L, insulin must be HELD to prevent life-threatening hypokalemia (cardiac arrhythmias, respiratory muscle weakness). Replace K+ aggressively (40 mEq/hr IV KCl) until K+ >3.3, then resume insulin with continued K+ supplementation.",
-        "b": "Incorrect. When potassium falls below 3.3 mEq/L, continuing insulin even with simultaneous potassium replacement is dangerous — insulin-driven intracellular K+ shift can outpace IV replacement, precipitating fatal arrhythmias. The safe practice is to HOLD insulin until K+ >3.3.",
-        "c": "Incorrect. Transitioning to subcutaneous insulin is not appropriate until DKA has resolved (anion gap closed, pH >7.30, HCO3 >18, able to eat). This patient remains in severe DKA and has a critical electrolyte emergency. The immediate priority is potassium correction.",
-        "d": "Incorrect. Sodium bicarbonate is only considered in DKA when pH <6.9 (severe acidosis risking cardiac arrest). Routine bicarbonate use in DKA can worsen hypokalemia (shifts K+ intracellularly), cause paradoxical CNS acidosis, and delay ketone clearance. This patient's critical issue is hypokalemia, not the pH."
-      }
-    },
-    {
-      "id": "endo025",
-      "tier1": "Endocrine",
-      "tier2": [
-        "Thyroid"
-      ],
-      "tier3": [
-        "Diagnostics/Labs",
-        "Critical Care"
-      ],
-      "difficulty": "hard",
-      "question": "A 55-year-old woman with known Graves' disease (noncompliant with methimazole) presents with fever of 40.1°C, HR 162 bpm, altered mental status, and jaundice. Labs: TSH <0.01, free T4 >7.8 ng/dL, AST 280 IU/L. Burch-Wartofsky score is 65. What is the complete treatment strategy for thyroid storm?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "PTU + propranolol immediately → iodine (SSKI) at least 1 hour AFTER PTU → hydrocortisone → cooling → treat precipitant",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Methimazole → propranolol → thyroidectomy within 24 hours",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Radioactive iodine (I-131) ablation",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Propranolol and IV dexamethasone only — thionamides are hepatotoxic in this setting",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Thyroid storm treatment requires a multi-modal approach initiated simultaneously: (1) Thionamide — PTU preferred over methimazole because PTU also blocks peripheral T4→T3 conversion; (2) Beta-blocker — propranolol should be started early/immediately to control adrenergic symptoms (tachycardia, tremor, agitation) and also inhibits T4→T3 conversion; (3) Iodine (SSKI or Lugol's) — the KEY sequencing pearl is that iodine must be given at least 1 hour AFTER PTU to prevent iodine from being used as substrate for new hormone synthesis (Wolff-Chaikoff effect); (4) Stress-dose hydrocortisone (100 mg q8h) — inhibits T4→T3 conversion and treats potential concurrent adrenal insufficiency; (5) Supportive care (active cooling with acetaminophen, NOT aspirin which displaces T4 from binding proteins); (6) Identify and treat the precipitant.",
-        "a": "Correct. Thyroid storm treatment requires a multi-modal approach initiated simultaneously: (1) Thionamide — PTU preferred over methimazole because PTU also blocks peripheral T4→T3 conversion; (2) Beta-blocker — propranolol should be started early/immediately to control adrenergic symptoms (tachycardia, tremor, agitation) and also inhibits T4→T3 conversion; (3) Iodine (SSKI or Lugol's) — the KEY sequencing pearl is that iodine must be given at least 1 hour AFTER PTU to prevent iodine from being used as substrate for new hormone synthesis (Wolff-Chaikoff effect); (4) Stress-dose hydrocortisone (100 mg q8h) — inhibits T4→T3 conversion and treats potential concurrent adrenal insufficiency; (5) Supportive care (active cooling with acetaminophen, NOT aspirin which displaces T4 from binding proteins); (6) Identify and treat the precipitant.",
-        "b": "Incorrect. Emergent thyroidectomy is not first-line for thyroid storm. Medical stabilization must precede any surgical intervention. Methimazole is acceptable but PTU is preferred in thyroid storm because PTU also blocks peripheral T4→T3 conversion. Surgery is reserved for refractory cases after medical optimization.",
-        "c": "Incorrect. RAI is absolutely contraindicated in thyroid storm. It causes release of preformed thyroid hormone from the gland as tissue is destroyed, which catastrophically worsens the thyrotoxicosis. RAI is an elective outpatient treatment for Graves' disease, not an acute intervention.",
-        "d": "Incorrect. While PTU carries a risk of hepatotoxicity, thyroid storm has a mortality rate of 10–30% and requires aggressive multi-modal therapy including thionamides. The elevated AST in thyroid storm is often from hepatic hyperperfusion and ischemia from the hypermetabolic state itself, not necessarily drug toxicity. Withholding PTU in thyroid storm is more dangerous than the hepatotoxicity risk."
-      }
-    },
-    {
-      "id": "endo026",
-      "tier1": "Endocrine",
-      "tier2": [
-        "Adrenal"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology"
-      ],
-      "difficulty": "medium",
-      "question": "A 48-year-old woman on chronic prednisone 20 mg daily for rheumatoid arthritis undergoes emergent cholecystectomy. In the PACU, she becomes hypotensive (BP 72/44 mmHg) and tachycardic (HR 130 bpm) despite 2 L of IV fluids. She is afebrile with no signs of bleeding. What is the most likely cause and treatment?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Adrenal crisis — administer IV hydrocortisone 100 mg stat",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Cardiogenic shock — start dobutamine",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Septic shock — start broad-spectrum antibiotics and norepinephrine",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Anaphylaxis — administer IM epinephrine 0.3 mg",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. Chronic exogenous corticosteroid use suppresses the hypothalamic-pituitary-adrenal (HPA) axis. During surgical stress, the adrenals cannot mount an appropriate cortisol response, leading to adrenal crisis (acute adrenal insufficiency) with refractory hypotension. Treatment is IV stress-dose hydrocortisone 100 mg bolus, then 50 mg q8h, plus aggressive fluid resuscitation.",
-        "a": "Correct. Chronic exogenous corticosteroid use suppresses the hypothalamic-pituitary-adrenal (HPA) axis. During surgical stress, the adrenals cannot mount an appropriate cortisol response, leading to adrenal crisis (acute adrenal insufficiency) with refractory hypotension. Treatment is IV stress-dose hydrocortisone 100 mg bolus, then 50 mg q8h, plus aggressive fluid resuscitation.",
-        "b": "Incorrect. Cardiogenic shock would present with elevated JVP, pulmonary edema, and cold/clammy extremities. This patient has no signs of cardiac failure — her hemodynamic instability in the setting of chronic steroid use and surgical stress is classic for adrenal crisis.",
-        "c": "Incorrect. While post-operative infection is possible, the patient is afebrile with no signs of infection. The key history (chronic prednisone use + surgical stress + fluid-refractory hypotension) points directly to adrenal crisis. Hydrocortisone should be administered before attributing this to sepsis.",
-        "d": "Incorrect. Anaphylaxis would present with urticaria, angioedema, bronchospasm, or wheezing. This patient has isolated hemodynamic instability without allergic features. The clinical context (chronic steroid suppression + surgical stress) makes adrenal crisis the most likely diagnosis."
       }
     },
     {
@@ -13823,48 +13483,6 @@
         "b": "Incorrect. Nephrogenic DI occurs when the kidneys are unresponsive to ADH, commonly caused by lithium, hypercalcemia, or chronic kidney disease. This patient has no history of these conditions — she just had pituitary surgery, making the pathology central (lack of ADH production), not nephrogenic (renal resistance to ADH). Thiazide diuretics and low-sodium diet are used for nephrogenic DI, but the diagnosis itself is wrong here.",
         "c": "Incorrect. Cerebral salt wasting causes hypovolemic hyponatremia (not hypernatremia) from renal sodium wasting, typically after neurosurgery. This patient has hypernatremia with dilute polyuria — the opposite electrolyte pattern, consistent with central DI where the kidney cannot concentrate urine.",
         "d": "Incorrect. SIADH causes hyponatremia with concentrated urine (high urine osmolality). This patient has HYPERnatremia with dilute urine — the exact opposite. In fact, a triphasic response can occur after pituitary surgery: initial DI → transient SIADH → permanent DI. This patient is in the DI phase."
-      }
-    },
-    {
-      "id": "endo016",
-      "tier1": "Endocrine",
-      "tier2": [
-        "DKA/HHS"
-      ],
-      "tier3": [
-        "Critical Care",
-        "Pharmacology"
-      ],
-      "difficulty": "hard",
-      "question": "A 28-year-old woman with type 1 diabetes is being treated for DKA. After 6 hours, her glucose has dropped to 248 mg/dL, but pH is 7.24, HCO3 14 mEq/L, and anion gap remains 20. What is the most appropriate adjustment to her management?",
-      "answers": [
-        {
-          "id": "a",
-          "text": "Discontinue the insulin drip since glucose is approaching normal",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "Add dextrose (D5W or D10W) to the IV fluids and continue the insulin drip at the same rate",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Switch to subcutaneous insulin glargine and lispro",
-          "correct": false
-        },
-        {
-          "id": "d",
-          "text": "Administer IV sodium bicarbonate to accelerate pH correction",
-          "correct": false
-        }
-      ],
-      "explanation": {
-        "correct": "Correct. When glucose drops below 250 mg/dL but the anion gap remains open (acidosis unresolved), dextrose must be added to IV fluids to prevent hypoglycemia while continuing insulin to clear ketoacids. The insulin infusion rate may be reduced slightly, but it must NOT be discontinued. This is a critical concept — glucose correction and acidosis correction occur on different timelines.",
-        "a": "Incorrect. The insulin drip should NOT be stopped until DKA has resolved — defined by anion gap closure (<12), pH >7.30, and HCO3 ≥18 mEq/L. Glucose often normalizes before acidosis resolves. Stopping insulin prematurely will allow continued ketogenesis and persistent acidosis.",
-        "b": "Correct. When glucose drops below 250 mg/dL but the anion gap remains open (acidosis unresolved), dextrose must be added to IV fluids to prevent hypoglycemia while continuing insulin to clear ketoacids. The insulin infusion rate may be reduced slightly, but it must NOT be discontinued. This is a critical concept — glucose correction and acidosis correction occur on different timelines.",
-        "c": "Incorrect. Transitioning to subcutaneous insulin requires overlap with the IV drip and should only occur once DKA has resolved (AG closed, pH >7.30, HCO3 ≥18, patient eating). This patient has persistent acidosis and is not ready for transition.",
-        "d": "Incorrect. IV bicarbonate is generally not recommended in DKA unless pH <6.9. Bicarbonate can worsen hypokalemia, cause paradoxical CSF acidosis, and delay ketone clearance. Continuing insulin with dextrose is the appropriate strategy to resolve the remaining acidosis."
       }
     },
     {
@@ -18157,22 +17775,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV voriconazole 6 mg/kg BID for 2 doses, then 4 mg/kg BID, with therapeutic drug monitoring targeting trough 1-5.5 mcg/mL",
+          "text": "IV voriconazole 6 mg/kg BID for 2 doses, then 4 mg/kg BID, with trough monitoring targeting 1-5.5 mcg/mL",
           "correct": true
         },
         {
           "id": "b",
-          "text": "IV liposomal amphotericin B 5 mg/kg/day",
+          "text": "IV liposomal amphotericin B 5 mg/kg/day, with renal function and electrolyte monitoring every 48 hours",
           "correct": false
         },
         {
           "id": "c",
-          "text": "IV micafungin 150 mg daily",
+          "text": "IV micafungin 150 mg daily, titrating to clinical response with twice-weekly beta-D-glucan levels",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Oral fluconazole 800 mg loading dose, then 400 mg daily",
+          "text": "Oral fluconazole 800 mg loading dose then 400 mg daily, with hepatic function monitoring weekly",
           "correct": false
         }
       ],
@@ -19579,7 +19197,7 @@
       "explanation": {
         "correct": "Correct. Daptomycin is a lipopeptide antibiotic that is inactivated by pulmonary surfactant. Surfactant binds to daptomycin and prevents it from inserting into bacterial cell membranes — its mechanism of action. Therefore, daptomycin must NEVER be used to treat any form of pneumonia, regardless of the organism's in vitro susceptibility. This is a critical board fact. Daptomycin is effective for MRSA bacteremia, endocarditis, skin/soft tissue infections, and bone/joint infections — but NOT pneumonia.",
         "a": "Incorrect. Linezolid actually has excellent pulmonary penetration with lung tissue concentrations that exceed serum levels. It is one of the preferred agents for MRSA pneumonia, particularly hospital-acquired and ventilator-associated pneumonia, because it achieves high intrapulmonary concentrations and has bactericidal activity against streptococci.",
-        "b": "Correct. Daptomycin is a lipopeptide antibiotic that is inactivated by pulmonary surfactant. Surfactant binds to daptomycin and prevents it from inserting into bacterial cell membranes — its mechanism of action. Therefore, daptomycin must NEVER be used to treat any form of pneumonia, regardless of the organism's in vitro susceptibility. This is a critical board fact. Daptomycin is effective for MRSA bacteremia, endocarditis, skin/soft tissue infections, and bone/joint infections — but NOT pneumonia.",
+        "b": "Correct. Daptomycin is a lipopeptide antibiotic that is inactivated by pulmonary surfactant. Surfactant binds to daptomycin and prevents it from inserting into bacterial cell membranes — its mechanism of action. Therefore, daptomycin should not be used to treat pneumonia, regardless of the organism's in vitro susceptibility. This is a critical board fact. Daptomycin is effective for MRSA bacteremia, endocarditis, skin/soft tissue infections, and bone/joint infections — but NOT pneumonia.",
         "c": "Incorrect. IV vancomycin can be used for MRSA pneumonia. While vancomycin has suboptimal lung penetration (achieving only ~15-25% of serum levels in epithelial lining fluid), it remains a standard treatment option for MRSA pneumonia, particularly when linezolid is contraindicated or unavailable. AUC/MIC-guided dosing helps optimize vancomycin efficacy for pulmonary infections.",
         "d": "Incorrect. Ceftaroline (Teflaro) is a 5th-generation cephalosporin with a unique ability to bind MRSA penicillin-binding proteins (PBP2a), giving it anti-MRSA activity — unlike all other cephalosporins. It is FDA-approved for community-acquired bacterial pneumonia (CABP) and acute bacterial skin infections. However, it does NOT cover Pseudomonas aeruginosa."
       }
@@ -19837,22 +19455,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV vancomycin",
+          "text": "IV vancomycin for 7-10 days without I&D — antibiotics alone are sufficient for small abscesses",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Incision and drainage (I&D) is the primary treatment; add oral TMP-SMX or doxycycline if surrounding cellulitis, systemic symptoms, or immunocompromise",
+          "text": "Incision and drainage (I&D) is the primary treatment; add oral TMP-SMX or doxycycline only if cellulitis, systemic symptoms, or immunocompromise present",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Oral amoxicillin",
+          "text": "Oral amoxicillin-clavulanate 875/125 mg BID for 10 days without drainage — fluctuance will resolve with antibiotics",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Topical mupirocin only",
+          "text": "Topical mupirocin ointment TID for 10 days with warm compresses — systemic antibiotics are unnecessary for uncomplicated abscess",
           "correct": false
         }
       ],
@@ -19917,22 +19535,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Azithromycin monotherapy",
+          "text": "Azithromycin 500 mg IV daily as monotherapy — macrolides provide adequate coverage for hospital-acquired pneumonia",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Ceftriaxone",
+          "text": "Ceftriaxone 2 g IV daily — third-generation cephalosporins cover most gram-negative pathogens including Pseudomonas",
           "correct": false
         },
         {
           "id": "c",
-          "text": "An anti-pseudomonal beta-lactam (piperacillin-tazobactam, cefepime, or meropenem) with consideration of empiric combination therapy pending susceptibilities",
+          "text": "An anti-pseudomonal beta-lactam (piperacillin-tazobactam, cefepime, or meropenem) with consideration of combination therapy pending susceptibilities",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Oral amoxicillin-clavulanate",
+          "text": "Oral amoxicillin-clavulanate 875/125 mg BID — biofilm-active oral agents are equivalent to IV for ventilator-associated pneumonia",
           "correct": false
         }
       ],
@@ -19997,31 +19615,31 @@
       "answers": [
         {
           "id": "a",
-          "text": "Amoxicillin",
+          "text": "Amoxicillin 500 mg PO TID for 10 days",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Rifampin, ciprofloxacin, or ceftriaxone",
+          "text": "Rifampin 600 mg PO BID for 2 days",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Vancomycin",
+          "text": "Vancomycin 1 g IV every 12 hours for 5 days",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Metronidazole",
+          "text": "Metronidazole 500 mg PO TID for 7 days",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. Close contacts of patients with N. meningitidis meningitis should receive chemoprophylaxis to eradicate nasopharyngeal carriage and prevent secondary cases. Recommended agents: rifampin 600 mg PO BID × 2 days; ciprofloxacin 500 mg PO × 1 dose (most convenient); or ceftriaxone 250 mg IM × 1 dose (preferred in pregnancy since rifampin and ciprofloxacin are contraindicated). Prophylaxis should be administered as soon as possible (ideally within 24 hours of case identification) to all household contacts, daycare contacts, and anyone exposed to the patient's respiratory secretions.",
         "a": "Incorrect. Amoxicillin does not reliably eradicate Neisseria meningitidis from the nasopharynx because it does not achieve adequate concentrations in upper respiratory secretions to clear carriage. It is not recommended for meningococcal chemoprophylaxis by any current guideline.",
-        "b": "Correct. Close contacts of patients with N. meningitidis meningitis should receive chemoprophylaxis to eradicate nasopharyngeal carriage and prevent secondary cases. Recommended agents: rifampin 600 mg PO BID × 2 days; ciprofloxacin 500 mg PO × 1 dose (most convenient); or ceftriaxone 250 mg IM × 1 dose (preferred in pregnancy since rifampin and ciprofloxacin are contraindicated). Prophylaxis should be administered as soon as possible (ideally within 24 hours of case identification) to all household contacts, daycare contacts, and anyone exposed to the patient's respiratory secretions.",
-        "c": "Incorrect. Vancomycin is a glycopeptide antibiotic effective only against gram-positive organisms (MRSA, streptococci, enterococci). Neisseria meningitidis is a gram-negative diplococcus, and vancomycin has no activity against gram-negative bacteria. Additionally, vancomycin is not used for chemoprophylaxis of any meningeal pathogen.",
-        "d": "Incorrect. Metronidazole is effective against anaerobic bacteria and certain protozoa but has NO activity against Neisseria species, which are aerobic gram-negative diplococci. Metronidazole's spectrum is limited to obligate anaerobes (Bacteroides, Clostridium) and select protozoa (Giardia, Trichomonas, Entamoeba)."
+        "b": "Correct. Close contacts of patients with N. meningitidis meningitis should receive chemoprophylaxis to eradicate nasopharyngeal carriage and prevent secondary cases. Rifampin 600 mg PO BID for 2 days is a recommended first-line regimen. Alternatives include ciprofloxacin 500 mg PO as a single dose (most convenient) or ceftriaxone 250 mg IM as a single dose (preferred in pregnancy since rifampin and ciprofloxacin are contraindicated). Prophylaxis should be administered as soon as possible (ideally within 24 hours of case identification) to all household contacts, daycare contacts, and anyone exposed to the patient's respiratory secretions.",
+        "c": "Incorrect. Vancomycin is a glycopeptide antibiotic effective only against gram-positive organisms (MRSA, streptococci, enterococci). Neisseria meningitidis is a gram-negative diplococcus, and vancomycin has no activity against gram-negative bacteria. Additionally, vancomycin requires IV administration and is not used for outpatient chemoprophylaxis.",
+        "d": "Incorrect. Metronidazole is effective against anaerobic bacteria and certain protozoa but has no activity against Neisseria species, which are aerobic gram-negative diplococci. Metronidazole's spectrum is limited to obligate anaerobes (Bacteroides, Clostridium) and select protozoa (Giardia, Trichomonas, Entamoeba)."
       }
     },
     {
@@ -20477,7 +20095,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Hepatotoxicity",
+          "text": "Hepatotoxicity, coagulopathy, and jaundice",
           "correct": false
         },
         {
@@ -20487,12 +20105,12 @@
         },
         {
           "id": "c",
-          "text": "Bone marrow suppression",
+          "text": "Bone marrow suppression, pancytopenia, and bleeding",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Peripheral neuropathy",
+          "text": "Peripheral neuropathy, ototoxicity, and vestibular damage",
           "correct": false
         }
       ],
@@ -20997,22 +20615,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Negative CXR",
+          "text": "Negative chest X-ray showing complete resolution of all pulmonary infiltrates and cavitary lesions",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Effective anti-TB therapy for ≥2 weeks, clinical improvement (decreased cough, resolved fever), AND 3 consecutive negative AFB sputum smears collected 8-24 hours apart",
+          "text": "On effective TB therapy ≥2 weeks with clinical improvement AND 3 consecutive negative AFB sputum smears 8-24 hours apart",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Negative IGRA",
+          "text": "Negative IGRA (QuantiFERON-TB Gold) on repeat testing confirming immune clearance of Mycobacterium tuberculosis",
           "correct": false
         },
         {
           "id": "d",
-          "text": "CD4 >200",
+          "text": "Completion of full 6-month RIPE course regardless of sputum smear status or clinical improvement",
           "correct": false
         }
       ],
@@ -22079,7 +21697,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Zostavax (live)",
+          "text": "Zostavax (live attenuated) — single dose for adults ≥50 years",
           "correct": false
         },
         {
@@ -22089,12 +21707,12 @@
         },
         {
           "id": "c",
-          "text": "MMR (measles-mumps-rubella) vaccine",
+          "text": "MMR (measles-mumps-rubella) — provides cross-immunity to varicella zoster virus",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Varivax",
+          "text": "Varivax (live attenuated varicella) — single dose booster for prior chickenpox",
           "correct": false
         }
       ],
@@ -22639,7 +22257,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Primary closure immediately",
+          "text": "Primary closure immediately with interrupted nylon sutures and prophylactic oral antibiotics for 7 days",
           "correct": false
         },
         {
@@ -22649,12 +22267,12 @@
         },
         {
           "id": "c",
-          "text": "Skin grafting",
+          "text": "Split-thickness skin grafting after wound bed preparation with negative pressure therapy for 5 days",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Leave open without follow-up",
+          "text": "Leave the wound open to heal by secondary intention without any scheduled follow-up or wound monitoring",
           "correct": false
         }
       ],
