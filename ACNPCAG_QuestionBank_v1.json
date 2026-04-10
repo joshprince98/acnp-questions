@@ -20681,6 +20681,1034 @@
         "c": "Incorrect. A 6-month INH regimen is not a standard or guideline-recommended LTBI treatment option. The accepted INH regimen is 9 months (9H), based on clinical trial data showing that 9 months provides approximately 90% protection, while shorter INH durations provide inferior protection.",
         "d": "Incorrect. The combination of ethambutol + pyrazinamide for 2 months was previously studied as a short-course LTBI regimen but was ABANDONED due to unacceptably high rates of severe hepatotoxicity (including fatal liver failure). This regimen is no longer recommended by any major guideline and should not be used."
       }
+    },
+    {
+      "id": "multi122",
+      "question": "A 34-year-old man with newly diagnosed HIV (CD4 45, viral load 380,000) is started on ART. Three weeks later, he develops fever, cervical lymphadenopathy, and worsening of a previously stable pulmonary Mycobacterium avium complex (MAC) infection despite appropriate MAC treatment. What is the most likely diagnosis?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "ART treatment failure requiring immediate regimen change and resistance testing",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Immune reconstitution inflammatory syndrome (IRIS) from recovering immune response to MAC",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "New opportunistic infection from continued immunosuppression despite ART initiation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Drug-induced hypersensitivity reaction to the antiretroviral medications requiring discontinuation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. ART failure is defined by persistent viremia after 24 weeks on therapy, not at 3 weeks. Early worsening of a known OI in the setting of ART initiation is characteristic of IRIS, not treatment failure.",
+        "b": "Correct. IRIS occurs when a recovering immune system mounts an exaggerated inflammatory response against a pre-existing pathogen. It typically develops 2-8 weeks after ART initiation, especially in patients with very low baseline CD4 counts. Management includes continuing ART and MAC therapy, with corticosteroids for severe cases. IRIS is paradoxical — it means the immune system IS recovering.",
+        "c": "Incorrect. A new OI this early after ART initiation is unlikely — immune recovery takes weeks to months. The clinical picture of worsening a KNOWN, pre-existing infection is classic IRIS, not a new infection.",
+        "d": "Incorrect. Drug hypersensitivity (e.g., abacavir HLA-B*5701) presents with rash, fever, and multiorgan involvement — not targeted worsening of a specific pre-existing infection. The pattern of MAC-specific worsening points to IRIS."
+      }
+    },
+    {
+      "id": "multi123",
+      "question": "A 28-year-old woman with HIV and a CD4 count of 32 cells/mm³ is diagnosed with cryptococcal meningitis. After initiating amphotericin B plus flucytosine induction therapy, when should antiretroviral therapy (ART) be started?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Immediately — within the first 48 hours of antifungal therapy to maximize immune recovery",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "After 4-6 weeks of antifungal induction therapy to reduce the risk of IRIS-related mortality",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "After complete CSF sterilization confirmed by two consecutive negative cultures at 8 weeks",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "After consolidation phase completion at 10 weeks, transitioning simultaneously to ART and fluconazole",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. The COAT trial demonstrated that early ART initiation (within 1-2 weeks) in cryptococcal meningitis significantly increased mortality due to severe CNS IRIS. Unlike most OIs where early ART is beneficial, cryptococcal meningitis is the major exception.",
+        "b": "Correct. Cryptococcal meningitis is the key exception to the general rule of starting ART early in OIs. The COAT trial showed that deferring ART for 4-6 weeks after antifungal induction reduces IRIS-related mortality. This delay allows CSF sterilization and reduction of fungal burden before immune reconstitution occurs. For most other OIs (PJP, toxoplasmosis, MAC), ART should be started within 2 weeks.",
+        "c": "Incorrect. Waiting for two confirmed negative CSF cultures at 8 weeks is unnecessarily conservative. The 4-6 week delay balances IRIS risk reduction with the benefits of immune recovery — complete culture negativity is not required before ART initiation.",
+        "d": "Incorrect. Delaying ART until 10 weeks exposes the patient to prolonged severe immunosuppression and risk of additional opportunistic infections. The 4-6 week window after induction is the evidence-based recommendation from the COAT trial."
+      }
+    },
+    {
+      "id": "multi124",
+      "question": "A 42-year-old man is newly diagnosed with HIV. Before initiating ART, his provider orders baseline resistance testing. Which type of resistance test is recommended before initiating first-line ART?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Diagnostics/Labs"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Phenotypic resistance assay measuring viral replication in varying drug concentrations",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Genotypic resistance testing identifying mutations in reverse transcriptase, protease, and integrase genes",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Viral culture with serial drug susceptibility testing across all antiretroviral classes",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Proviral DNA sequencing from peripheral blood mononuclear cells for archived resistance mutations",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Phenotypic assays directly measure viral replication in the presence of drugs and report fold-change in IC50. While useful for complex resistance patterns (especially PI resistance), they are expensive, slow (2-3 weeks), and not recommended as the initial test before first-line ART.",
+        "b": "Correct. Genotypic resistance testing is the standard of care before initiating ART. It sequences the HIV genome for known resistance mutations in reverse transcriptase, protease, and integrase genes. Results are available in 1-2 weeks, are less expensive than phenotypic testing, and guide regimen selection. DHHS guidelines recommend genotypic testing at entry into care regardless of whether ART will be started immediately.",
+        "c": "Incorrect. Viral culture with serial drug susceptibility testing is a research tool, not a clinical standard. It is labor-intensive, requires biosafety level 3 facilities, and takes weeks to complete — impractical for routine clinical decision-making.",
+        "d": "Incorrect. Proviral DNA sequencing detects resistance mutations archived in the DNA of resting CD4 cells. While emerging as a supplemental tool (especially in patients with low or undetectable viral loads), it is not the recommended first-line resistance test for treatment-naive patients."
+      }
+    },
+    {
+      "id": "multi125",
+      "question": "A 36-year-old HIV-positive woman on tenofovir disoproxil fumarate (TDF)-based ART for 4 years has a new DEXA scan showing a T-score of -1.8 at the lumbar spine. Her provider is considering switching the TDF component. Which adverse effect of TDF is driving this clinical concern?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hepatotoxicity with elevated transaminases requiring periodic liver function monitoring",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Renal proximal tubular dysfunction and decreased bone mineral density from phosphate wasting",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Peripheral neuropathy from mitochondrial toxicity in dorsal root ganglion neurons",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Lipodystrophy with central fat accumulation and peripheral fat wasting over time",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Hepatotoxicity is more associated with nevirapine (NNRTI) and some protease inhibitors. TDF's primary toxicities are renal and bone-related, not hepatic.",
+        "b": "Correct. TDF causes proximal renal tubular dysfunction (Fanconi-like syndrome) leading to phosphate, glucose, and amino acid wasting. Chronic phosphate loss reduces bone mineral density. TAF (tenofovir alafenamide) was developed specifically to reduce these renal and bone toxicities — it achieves higher intracellular drug levels with lower systemic tenofovir exposure. Switching from TDF to TAF can stabilize or improve BMD.",
+        "c": "Incorrect. Peripheral neuropathy from mitochondrial toxicity is associated with older NRTIs — stavudine (d4T) and didanosine (ddI) — which are no longer used in modern ART regimens. TDF does not cause significant peripheral neuropathy.",
+        "d": "Incorrect. Lipodystrophy (lipoatrophy and lipohypertrophy) was a major side effect of older NRTIs (stavudine, zidovudine) and early protease inhibitors. Modern ART regimens including TDF-based therapy have significantly lower rates of body composition changes."
+      }
+    },
+    {
+      "id": "multi126",
+      "question": "A 30-year-old HIV-positive woman at 36 weeks gestation has a viral load of 48,000 copies/mL despite being on ART. Her obstetrician asks the ACNP about intrapartum management to reduce mother-to-child transmission. Which intervention is most critical?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Scheduled cesarean delivery at 38 weeks plus intrapartum IV zidovudine infusion during delivery",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "Vaginal delivery with intrapartum IV zidovudine alone since ART provides adequate viral suppression",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Scheduled cesarean delivery at 39 weeks without intrapartum zidovudine since ART is already on board",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Vaginal delivery with intensified three-drug ART regimen started 2 weeks before expected delivery date",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Correct. For HIV-positive women with viral load >1,000 copies/mL near delivery, scheduled cesarean delivery at 38 weeks (before labor onset/membrane rupture) PLUS intrapartum IV zidovudine reduces vertical transmission risk. Zidovudine crosses the placenta effectively and provides additional prophylaxis. If viral load is <1,000 on ART, vaginal delivery is acceptable and IV zidovudine may not be needed.",
+        "b": "Incorrect. With a viral load of 48,000 copies/mL, this patient is NOT virally suppressed — ART is failing or adherence is inadequate. Vaginal delivery with high viral load significantly increases transmission risk through exposure to maternal blood and secretions during labor.",
+        "c": "Incorrect. While cesarean delivery is appropriate for detectable viral load, omitting intrapartum zidovudine forfeits an additional layer of transmission prevention. The combination of cesarean plus zidovudine provides maximal risk reduction when viral suppression has not been achieved.",
+        "d": "Incorrect. Intensifying an already-failing ART regimen 2 weeks before delivery is unlikely to achieve viral suppression in time. The primary intervention for unsuppressed viral load at delivery is scheduled cesarean at 38 weeks plus IV zidovudine, not last-minute regimen changes."
+      }
+    },
+    {
+      "id": "multi127",
+      "question": "An ACNP is reviewing the mechanism of action of different antiretroviral drug classes with a pharmacy student. Which statement correctly matches the drug class with its mechanism?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "NNRTIs bind the active site of reverse transcriptase and act as chain terminators during DNA synthesis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "INSTIs block integration of viral DNA into the host cell chromosome by inhibiting the integrase enzyme",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Protease inhibitors prevent viral entry by blocking the CCR5 coreceptor on the host CD4 cell surface",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "NRTIs bind an allosteric site on reverse transcriptase causing conformational change that halts function",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. This describes NRTIs, not NNRTIs. NRTIs (nucleoside reverse transcriptase inhibitors) are incorporated into the growing DNA chain and terminate elongation. NNRTIs bind to an allosteric (non-active) site on reverse transcriptase, causing a conformational change — the descriptions are swapped.",
+        "b": "Correct. Integrase strand transfer inhibitors (INSTIs) — dolutegravir, bictegravir, raltegravir, cabotegravir — block the integrase enzyme that inserts proviral DNA into the host chromosome. This is the final step before the virus can hijack cellular machinery for replication. INSTIs are the preferred third agent in modern ART regimens due to high potency, high barrier to resistance, and favorable side effect profiles.",
+        "c": "Incorrect. This describes CCR5 antagonists (maraviroc), not protease inhibitors. Protease inhibitors (PIs) block the HIV protease enzyme that cleaves viral polyproteins into functional proteins needed for mature virion assembly. PIs act at the post-translational processing step.",
+        "d": "Incorrect. This describes NNRTIs, not NRTIs. NRTIs are nucleoside/nucleotide analogs that compete with natural substrates for incorporation into the DNA chain — once incorporated, they terminate chain elongation because they lack the 3'-OH group needed for the next phosphodiester bond."
+      }
+    },
+    {
+      "id": "multi128",
+      "question": "A 45-year-old HIV-positive man on stable ART has achieved viral suppression (<50 copies/mL) for 8 months. His provider is scheduling follow-up monitoring. How frequently should viral load and CD4 count be monitored once stable viral suppression is achieved?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Diagnostics/Labs"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Viral load monthly and CD4 every 3 months to detect early treatment failure and immune decline",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Viral load every 3-6 months; CD4 monitoring can be reduced to annually once consistently >200",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Viral load annually and CD4 every 6 months since stable suppression eliminates the need for frequent testing",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Discontinue both viral load and CD4 monitoring after 12 months of suppression to reduce healthcare costs",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Monthly viral load monitoring is unnecessarily frequent for a patient with stable suppression. This frequency is appropriate during ART initiation or regimen changes, not during stable maintenance therapy.",
+        "b": "Correct. DHHS guidelines recommend viral load monitoring every 3-6 months for patients with stable viral suppression. Once CD4 count is consistently above 200-500 cells/mm³ for at least 2 years with sustained viral suppression, CD4 monitoring can be reduced to annually or even discontinued — CD4 recovery plateaus and provides diminishing clinical utility. Viral load remains the primary marker of ART efficacy.",
+        "c": "Incorrect. Annual viral load monitoring is too infrequent — it would delay detection of virologic failure or adherence lapses by months, potentially allowing resistance mutations to accumulate before intervention.",
+        "d": "Incorrect. Viral load monitoring should never be discontinued while on ART. It is the primary tool for detecting treatment failure, adherence problems, and the development of resistance mutations. Even long-term suppressed patients require ongoing viral load monitoring."
+      }
+    },
+    {
+      "id": "multi129",
+      "question": "A 25-year-old man presents with 10 days of fever, pharyngitis, diffuse maculopapular rash, myalgias, and painful cervical lymphadenopathy. He reports unprotected sexual contact 3 weeks ago. A 4th-generation HIV Ag/Ab test is reactive. Which finding on initial laboratory evaluation would be most consistent with acute HIV infection rather than chronic infection?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Diagnostics/Labs"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "CD4 count of 180 cells/mm³ with a CD4/CD8 ratio of 0.3 indicating severe immunosuppression",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Very high viral load (>1 million copies/mL) with a negative or indeterminate HIV-1/2 differentiation assay",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Positive HIV-1/2 differentiation assay with fully reactive Western blot showing all major bands present",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Low viral load (<1,000 copies/mL) with a strongly positive HIV-1 differentiation assay on initial testing",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. A CD4 of 180 with severe inversion is more typical of chronic, advanced HIV infection where progressive immune depletion has occurred over years. In acute infection, the CD4 count may transiently dip but is usually not this low at presentation.",
+        "b": "Correct. Acute HIV infection is characterized by an extremely high viral load (often >1 million copies/mL) because the immune system has not yet mounted an antibody response to control viral replication. The 4th-generation test is reactive (detecting p24 antigen), but the HIV-1/2 differentiation antibody assay may be negative or indeterminate because antibodies have not yet fully developed. This antigen-positive/antibody-negative pattern is the hallmark of acute infection in the diagnostic algorithm.",
+        "c": "Incorrect. A fully reactive differentiation assay with all Western blot bands indicates mature antibody responses that have had time to develop — this is the pattern of established chronic HIV infection, not acute seroconversion.",
+        "d": "Incorrect. Low viral load with strongly positive antibody testing is the pattern of chronic, well-established (but untreated) HIV infection where the immune response has partially controlled viremia. In acute infection, viral load is extremely high precisely because antibody-mediated control has not yet developed."
+      }
+    },
+    {
+      "id": "multi130",
+      "question": "A 55-year-old kidney transplant recipient on tacrolimus develops CMV viremia (quantitative PCR 45,000 IU/mL) with fever and leukopenia 3 months post-transplant. Which is the most appropriate initial treatment?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Viral Infections"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV ganciclovir 5 mg/kg every 12 hours with dose adjustment for renal function and weekly viral load monitoring",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "Oral valganciclovir 900 mg BID with weekly CMV PCR monitoring and immunosuppression dose reduction",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "IV foscarnet 60 mg/kg every 8 hours as first-line therapy to avoid ganciclovir-associated bone marrow toxicity",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "IV cidofovir 5 mg/kg weekly with probenecid prehydration as preferred initial therapy for transplant CMV",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Correct. IV ganciclovir is preferred over oral valganciclovir for CMV disease (vs. asymptomatic viremia) in transplant recipients, especially with high viral loads, end-organ disease, or concern for GI malabsorption. Standard induction dosing is 5 mg/kg IV q12h for 14-21 days, followed by maintenance with oral valganciclovir. Renal dose adjustment is required. Immunosuppression reduction should also be considered in consultation with the transplant team.",
+        "b": "Incorrect. Oral valganciclovir may be used for mild CMV viremia or as step-down therapy, but for symptomatic CMV disease with high viral load and leukopenia in a transplant recipient, IV ganciclovir provides more reliable drug levels and is preferred for initial treatment. Oral absorption may be unreliable in acutely ill patients.",
+        "c": "Incorrect. Foscarnet is a second-line agent reserved for ganciclovir-resistant CMV or when ganciclovir cannot be used due to severe myelosuppression unresponsive to growth factors. It has significant nephrotoxicity and electrolyte disturbances. It is not appropriate first-line therapy.",
+        "d": "Incorrect. Cidofovir is a third-line CMV agent with significant nephrotoxicity requiring aggressive pre-hydration and probenecid co-administration. It is reserved for multidrug-resistant CMV and is not used as initial treatment."
+      }
+    },
+    {
+      "id": "multi131",
+      "question": "A 52-year-old man with a history of injection drug use is diagnosed with chronic hepatitis C (genotype unknown) with compensated cirrhosis. His HCV RNA is 2.4 million IU/mL. He has no prior HCV treatment. Which is the most appropriate initial treatment?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Viral Infections"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pegylated interferon-alpha plus ribavirin for 48 weeks with monthly viral load monitoring and CBC checks",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Sofosbuvir/velpatasvir (Epclusa) for 12 weeks — pangenotypic DAA regimen effective across all HCV genotypes",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Sofosbuvir plus simeprevir for 12 weeks with addition of ribavirin for patients with compensated cirrhosis",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Liver transplantation evaluation since compensated cirrhosis with active viremia has poor response to antiviral therapy",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Pegylated interferon plus ribavirin was the standard of care before 2014 but has been replaced by direct-acting antivirals (DAAs). Interferon-based regimens had sustained virologic response (SVR) rates of only 40-50%, significant side effects (flu-like symptoms, cytopenias, depression), and 48-week treatment durations. DAAs achieve >95% SVR in 8-12 weeks.",
+        "b": "Correct. Sofosbuvir/velpatasvir (Epclusa) is a pangenotypic DAA regimen that achieves SVR rates >95% across all HCV genotypes (1-6) in treatment-naive patients, including those with compensated cirrhosis. The 12-week oral regimen has minimal side effects compared to interferon-based therapy. Pangenotypic regimens simplify treatment by eliminating the need for genotype-specific regimen selection.",
+        "c": "Incorrect. Sofosbuvir plus simeprevir is an older DAA combination that is no longer preferred. Current guidelines favor pangenotypic regimens (sofosbuvir/velpatasvir or glecaprevir/pibrentasvir) that cover all genotypes without requiring genotype testing to guide regimen choice.",
+        "d": "Incorrect. Compensated cirrhosis with active viremia responds well to DAA therapy — SVR rates exceed 90-95% even with cirrhosis. Achieving SVR can halt disease progression and reduce the risk of hepatocellular carcinoma. Transplant evaluation is reserved for decompensated cirrhosis (Child-Pugh B or C) unresponsive to treatment."
+      }
+    },
+    {
+      "id": "multi132",
+      "question": "A pharmacy student asks the ACNP to explain the dosing difference between acyclovir for herpes simplex virus (HSV) versus varicella zoster virus (VZV) infections. Which statement is correct?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Viral Infections"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "HSV and VZV require identical acyclovir dosing because both are alpha-herpesviruses with similar drug susceptibility",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "VZV requires higher acyclovir doses (800 mg 5x/day) than HSV (400 mg TID) because VZV is less susceptible to acyclovir",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "HSV requires higher doses than VZV because HSV establishes latency in dorsal root ganglia where drug penetration is poor",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Valacyclovir has replaced acyclovir for both HSV and VZV, making acyclovir dosing distinctions clinically irrelevant",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Although both HSV and VZV are alpha-herpesviruses, VZV has approximately 10-fold lower susceptibility to acyclovir compared to HSV. This pharmacologic difference directly translates into higher dosing requirements for VZV infections.",
+        "b": "Correct. VZV requires significantly higher acyclovir doses than HSV because VZV thymidine kinase phosphorylates acyclovir less efficiently. For oral treatment: HSV = 400 mg TID (or 200 mg 5x/day); VZV (shingles) = 800 mg 5x/day for 7 days. For IV treatment: HSV encephalitis = 10 mg/kg q8h; VZV in immunocompromised = 10-15 mg/kg q8h. This dosing distinction is a high-yield board concept.",
+        "c": "Incorrect. Both HSV and VZV establish latency in sensory ganglia — this is not a distinguishing feature. HSV-1 favors trigeminal ganglia, HSV-2 favors sacral ganglia, and VZV favors dorsal root ganglia throughout the spinal cord, but drug penetration differences are not the reason for dosing differences.",
+        "d": "Incorrect. While valacyclovir (the prodrug of acyclovir with better oral bioavailability) is widely used for both HSV and VZV, IV acyclovir remains essential for serious infections — HSV encephalitis, neonatal HSV, disseminated VZV, and VZV in immunocompromised patients. Oral acyclovir dosing knowledge remains clinically relevant."
+      }
+    },
+    {
+      "id": "multi133",
+      "question": "A 19-year-old college student presents with 5 days of fever, severe pharyngitis, posterior cervical lymphadenopathy, and splenomegaly. A monospot test is positive. He was started on amoxicillin 2 days ago for presumed strep pharyngitis and has now developed a diffuse maculopapular rash. Which statement about this presentation is most accurate?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Viral Infections"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "The rash confirms a true penicillin allergy requiring lifelong avoidance of all beta-lactam antibiotics",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "The rash is a transient aminopenicillin-EBV interaction, not a true allergy; discontinue amoxicillin and avoid contact sports",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "The rash indicates Stevens-Johnson syndrome from amoxicillin requiring immediate ICU transfer and burn center consultation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "The rash is a typical viral exanthem unrelated to amoxicillin and the antibiotic should be continued for bacterial co-infection",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. The amoxicillin rash in EBV/mononucleosis is not a true IgE-mediated allergy. It is a transient immunologic reaction between aminopenicillins and EBV-activated T lymphocytes that resolves after the infection clears. These patients can safely receive penicillin-class antibiotics in the future. Mislabeling as 'penicillin allergy' unnecessarily restricts future antibiotic options.",
+        "b": "Correct. The classic amoxicillin rash occurs in a high percentage of EBV-infected patients given aminopenicillins — it is a predictable drug-virus interaction, not a true allergy. Management: (1) stop amoxicillin since the illness is viral and antibiotics are unnecessary; (2) supportive care with rest, hydration, and acetaminophen; (3) avoid contact sports for at least 3-4 weeks due to splenic enlargement and rupture risk; (4) do NOT label as penicillin allergy.",
+        "c": "Incorrect. The rash in EBV-aminopenicillin interaction is a benign, self-limiting maculopapular eruption — not SJS. SJS presents with painful mucosal erosions, target lesions with central necrosis, and epidermal detachment, which are absent in this presentation.",
+        "d": "Incorrect. While the maculopapular rash is virus-related, it is specifically triggered by the aminopenicillin-EBV interaction and will persist if the antibiotic is continued. The antibiotic should be stopped because mononucleosis is viral — continuing unnecessary antibiotics risks further rash progression and antibiotic stewardship harm."
+      }
+    },
+    {
+      "id": "multi134",
+      "question": "A 68-year-old man with poorly controlled diabetes and recent ketoacidosis develops progressive right-sided facial pain, periorbital swelling, and a black necrotic eschar on his hard palate. CT shows opacification of the right maxillary and ethmoid sinuses with bony erosion. Which treatment must be initiated emergently?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Fungal Infections"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV voriconazole 6 mg/kg BID for 2 doses then 4 mg/kg BID with ENT follow-up for elective debridement",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV liposomal amphotericin B 5-10 mg/kg/day PLUS emergent surgical debridement of necrotic tissue",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "IV caspofungin 70 mg loading dose then 50 mg daily with serial CT imaging to monitor disease progression",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Oral posaconazole 300 mg BID for 2 doses then 300 mg daily as outpatient therapy with weekly follow-up",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Voriconazole is the drug of choice for invasive aspergillosis but has NO activity against Mucorales (Rhizopus, Mucor). Using voriconazole for mucormycosis is a critical error — it allows unchecked disease progression. The azole with activity against Mucorales is posaconazole (for salvage/step-down, not first-line).",
+        "b": "Correct. Rhinocerebral mucormycosis is a rapidly fatal invasive fungal infection in diabetic ketoacidosis and immunocompromised patients. Treatment requires BOTH high-dose liposomal amphotericin B (5-10 mg/kg/day — higher than standard dosing) AND emergent surgical debridement of all necrotic tissue. Neither intervention alone is sufficient. Correction of the underlying predisposing condition (glucose control, reversal of DKA) is also essential. Mortality exceeds 50% even with optimal therapy.",
+        "c": "Incorrect. Echinocandins (caspofungin, micafungin) have no clinically meaningful activity against Mucorales. Echinocandins target beta-D-glucan synthase, which is present in Candida and Aspergillus cell walls but is not a primary target in Mucorales. Serial imaging without effective antifungal therapy allows fatal disease progression.",
+        "d": "Incorrect. Posaconazole has activity against Mucorales and is used as step-down or salvage therapy, but it is NOT appropriate as initial monotherapy for acute rhinocerebral mucormycosis. The disease progresses within hours — oral outpatient therapy with weekly follow-up is inadequate for a rapidly invasive, life-threatening infection requiring emergent surgery."
+      }
+    },
+    {
+      "id": "multi135",
+      "question": "A 48-year-old liver transplant recipient on tacrolimus is started on voriconazole for invasive aspergillosis. Three days later, his tacrolimus trough level rises from 8 ng/mL to 28 ng/mL with new-onset tremor and acute kidney injury. Which pharmacologic interaction explains this toxicity?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Fungal Infections"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Voriconazole induces CYP3A4, accelerating tacrolimus metabolism and causing paradoxical rebound toxicity",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Voriconazole inhibits CYP3A4 and CYP2C19, markedly reducing tacrolimus metabolism and causing toxic accumulation",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Voriconazole displaces tacrolimus from plasma protein binding sites, increasing the unbound toxic fraction",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Voriconazole causes direct nephrotoxicity that impairs tacrolimus renal clearance independent of hepatic metabolism",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Voriconazole is a potent CYP INHIBITOR, not an inducer. CYP3A4 inducers (rifampin, carbamazepine, phenytoin) would decrease tacrolimus levels. Voriconazole does the opposite — it blocks the enzymes that metabolize tacrolimus, causing dangerous accumulation.",
+        "b": "Correct. Voriconazole is a potent inhibitor of CYP3A4, CYP2C19, and CYP2C9. Tacrolimus is primarily metabolized by CYP3A4 in the liver and gut wall. When voriconazole blocks CYP3A4, tacrolimus cannot be metabolized, causing levels to rise 2-5 fold. Tacrolimus dose must be empirically reduced by 50-66% when voriconazole is started, with frequent trough level monitoring. This interaction is a high-yield board concept for transplant pharmacology.",
+        "c": "Incorrect. Protein binding displacement is a minor mechanism that rarely causes clinically significant toxicity for drugs like tacrolimus, which has a large volume of distribution. The dramatic 3.5-fold increase in trough level is explained by inhibition of metabolic clearance, not protein binding changes.",
+        "d": "Incorrect. While IV voriconazole contains a cyclodextrin vehicle (sulfobutylether-beta-cyclodextrin) that can accumulate in renal impairment, the mechanism of tacrolimus toxicity in this case is CYP3A4 inhibition. The AKI is a consequence of tacrolimus toxicity (tacrolimus-induced nephrotoxicity), not direct voriconazole nephrotoxicity."
+      }
+    },
+    {
+      "id": "multi136",
+      "question": "A 38-year-old HIV-positive man with a CD4 count of 18 cells/mm³ presents with painless, progressive vision loss in his left eye over 2 weeks. Fundoscopic examination reveals perivascular hemorrhages and yellow-white exudates near the macula with a 'cottage cheese and ketchup' appearance. Which is the most appropriate treatment?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Intravitreal ganciclovir injection plus oral valganciclovir 900 mg BID for induction, then 900 mg daily maintenance",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "IV acyclovir 10 mg/kg every 8 hours for 14-21 days followed by oral valacyclovir suppressive therapy indefinitely",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Oral fluconazole 400 mg daily for 8 weeks followed by chronic suppressive therapy with fluconazole 200 mg daily",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "IV TMP-SMX at treatment doses for 21 days with adjunctive corticosteroids for perilesional edema reduction",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Correct. CMV retinitis is the most common cause of vision loss in AIDS patients with CD4 <50. The classic fundoscopic appearance is perivascular hemorrhages with yellow-white exudates ('cottage cheese and ketchup' or 'pizza pie' retina). Sight-threatening lesions (within zone 1, near the macula or optic disc) require intravitreal ganciclovir for immediate local drug delivery PLUS systemic valganciclovir for induction (900 mg BID × 14-21 days) then maintenance (900 mg daily). ART initiation is essential for long-term immune recovery — maintenance therapy can be discontinued once CD4 >100 for ≥3 months on ART.",
+        "b": "Incorrect. Acyclovir has poor activity against CMV. While both HSV and CMV are herpesviruses, CMV lacks the efficient thymidine kinase that HSV uses to activate acyclovir. Ganciclovir has a different activation pathway (via UL97 kinase) that allows it to target CMV specifically.",
+        "c": "Incorrect. Fluconazole treats Candida and Cryptococcus — it has no activity against CMV. CMV is a virus, not a fungus. The fundoscopic appearance described is pathognomonic for CMV retinitis, not fungal endophthalmitis.",
+        "d": "Incorrect. TMP-SMX treats Pneumocystis jirovecii (PJP) and Toxoplasma — not CMV. CMV retinitis requires ganciclovir, valganciclovir, foscarnet, or cidofovir. The retinal findings described are classic CMV, not toxoplasmic chorioretinitis (which shows focal white lesions with less hemorrhage)."
+      }
+    },
+    {
+      "id": "multi137",
+      "question": "A 40-year-old HIV-positive man with a CD4 count of 28 cells/mm³ develops fever, night sweats, weight loss, and chronic watery diarrhea. Blood cultures grow Mycobacterium avium complex (MAC). Which is the most appropriate treatment regimen?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Azithromycin 600 mg daily as monotherapy — macrolide monotherapy is adequate for disseminated MAC in HIV",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Clarithromycin 500 mg BID plus ethambutol 15 mg/kg daily, with consideration of adding rifabutin as a third agent",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Standard RIPE therapy (rifampin, isoniazid, pyrazinamide, ethambutol) for 6 months as with pulmonary TB",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "IV amphotericin B plus flucytosine for 2 weeks induction followed by oral fluconazole consolidation therapy",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Macrolide monotherapy for disseminated MAC rapidly selects for macrolide-resistant organisms. Combination therapy with at least two agents is required to prevent resistance emergence and achieve clinical cure. Monotherapy is never appropriate for treatment — though azithromycin monotherapy IS used for MAC prophylaxis (different context).",
+        "b": "Correct. Disseminated MAC treatment requires a macrolide (clarithromycin 500 mg BID preferred, or azithromycin 600 mg daily) PLUS ethambutol 15 mg/kg daily as the backbone. A third agent (rifabutin 300 mg daily, NOT rifampin due to drug interactions with ART) is recommended for patients with high mycobacterial burden or in the absence of effective ART. Treatment continues for at least 12 months AND until CD4 >100 on ART for ≥6 months.",
+        "c": "Incorrect. RIPE therapy is specifically for Mycobacterium tuberculosis, not MAC. MAC is a nontuberculous mycobacterium (NTM) with intrinsic resistance to isoniazid and pyrazinamide — two of the four RIPE drugs. MAC requires a completely different regimen based on macrolide plus ethambutol.",
+        "d": "Incorrect. Amphotericin B plus flucytosine is the treatment for cryptococcal meningitis — a fungal infection, not mycobacterial. MAC is a bacterial (mycobacterial) infection requiring antimycobacterial therapy, not antifungals."
+      }
+    },
+    {
+      "id": "multi138",
+      "question": "A 40-year-old HIV-positive man was started on azithromycin 1200 mg weekly for MAC prophylaxis when his CD4 count was 35 cells/mm³. After starting ART, his CD4 has now been above 100 cells/mm³ for 7 months with sustained viral suppression. He asks if he can stop the azithromycin. Which is the most appropriate response?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Continue azithromycin indefinitely — MAC prophylaxis cannot be safely discontinued regardless of CD4 recovery",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Discontinue azithromycin — CD4 >100 for ≥6 months on suppressive ART meets criteria for safe MAC prophylaxis discontinuation",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Discontinue only after CD4 exceeds 200 for at least 12 months to match PJP prophylaxis discontinuation criteria",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Switch from azithromycin to clarithromycin at a reduced dose rather than discontinuing prophylaxis entirely",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Lifelong MAC prophylaxis is unnecessary once immune reconstitution is achieved on ART. Continuing unnecessary azithromycin exposes the patient to side effects (GI intolerance, hearing loss) and promotes macrolide resistance without clinical benefit once the CD4 count is safely above the risk threshold.",
+        "b": "Correct. MAC prophylaxis can be discontinued when CD4 count has been >100 cells/mm³ for at least 6 months on effective ART with viral suppression. This threshold is LOWER than PJP discontinuation (CD4 >200 for 3 months) because MAC risk correlates with more severe immunosuppression (CD4 <50 for initiation, >100 for discontinuation). Prophylaxis should be restarted if CD4 subsequently falls below 50-100. This is a key distinction from PJP thresholds that is commonly tested.",
+        "c": "Incorrect. MAC and PJP have different CD4 thresholds for both initiation and discontinuation. PJP prophylaxis is started at CD4 <200 and stopped at CD4 >200 for ≥3 months. MAC prophylaxis is started at CD4 <50 and stopped at CD4 >100 for ≥6 months. Applying PJP criteria to MAC unnecessarily prolongs prophylaxis.",
+        "d": "Incorrect. There is no role for dose reduction or agent substitution when the clinical criteria for discontinuation are met. The decision is binary — continue at full dose if criteria are not met, or discontinue entirely if they are. Switching agents without stopping does not reduce the unnecessary medication burden."
+      }
+    },
+    {
+      "id": "multi139",
+      "question": "A 42-year-old HIV-positive man with a CD4 count of 15 cells/mm³ develops violaceous, non-blanching papules and nodules on his skin, hard palate, and lower extremities. Biopsy shows spindle cell proliferation with slit-like vascular spaces. Which pathogen causes this malignancy, and what is the primary treatment?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "HIV/AIDS"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Epstein-Barr virus (EBV/HHV-4); treatment with rituximab plus CHOP chemotherapy for EBV-driven lymphoma",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Human herpesvirus 8 (HHV-8); initiation of effective ART is the primary treatment for Kaposi sarcoma",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Human papillomavirus (HPV); surgical excision of all visible lesions followed by topical imiquimod therapy",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Cytomegalovirus (CMV/HHV-5); IV ganciclovir induction followed by oral valganciclovir maintenance therapy",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. EBV (HHV-4) is associated with primary CNS lymphoma and Burkitt lymphoma in HIV — not Kaposi sarcoma. EBV-driven lymphomas present as mass lesions, not violaceous cutaneous nodules with spindle cell histology.",
+        "b": "Correct. Kaposi sarcoma (KS) is caused by HHV-8 (also called Kaposi sarcoma-associated herpesvirus, KSHV). The violaceous papules/nodules on skin and mucous membranes with spindle cell proliferation and slit-like vascular spaces on biopsy are pathognomonic. The primary treatment is effective ART — immune reconstitution allows the host to control HHV-8 replication, and many KS lesions regress with ART alone. Systemic chemotherapy (liposomal doxorubicin, paclitaxel) is added for extensive visceral disease, rapidly progressive KS, or IRIS-associated KS flare.",
+        "c": "Incorrect. HPV causes cervical dysplasia/cancer, anal cancer, and genital warts — not Kaposi sarcoma. HPV-related lesions do not produce the characteristic violaceous vascular nodules or spindle cell histology of KS.",
+        "d": "Incorrect. CMV (HHV-5) causes retinitis, colitis, esophagitis, and encephalitis in AIDS — not cutaneous vascular tumors. CMV end-organ disease does not present with violaceous skin nodules or spindle cell proliferation on biopsy."
+      }
+    },
+    {
+      "id": "multi140",
+      "question": "A nurse practitioner student is reviewing the side effect profiles of RIPE therapy components. Which TB drug is most commonly associated with hepatotoxicity, and which patient population requires the most vigilant liver function monitoring?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Ethambutol; patients with pre-existing renal impairment require monthly hepatic function panels during treatment",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Isoniazid; patients over age 35, those with chronic liver disease, and those consuming alcohol regularly",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Streptomycin; patients with pre-existing hearing loss require baseline and monthly liver function testing",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Rifampin; all patients regardless of age or comorbidities require weekly liver function monitoring for 6 months",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Ethambutol's primary toxicity is optic neuritis (red-green color blindness, decreased visual acuity), not hepatotoxicity. Monitoring for ethambutol requires baseline and monthly visual acuity and color vision testing, not liver function panels. Renal impairment requires dose adjustment but does not increase hepatotoxicity risk.",
+        "b": "Correct. Isoniazid is the most hepatotoxic RIPE drug — it can cause asymptomatic transaminase elevation (10-20% of patients) or fatal hepatitis (<1%). Risk increases with age >35, chronic liver disease, alcohol use, concurrent hepatotoxic medications, and pregnancy/postpartum period. Monthly LFT monitoring is recommended for high-risk patients. INH should be held if transaminases exceed 3x ULN with symptoms or 5x ULN without symptoms. Pyrazinamide also causes hepatotoxicity but is used for only the first 2 months.",
+        "c": "Incorrect. Streptomycin is an aminoglycoside — its primary toxicities are ototoxicity (vestibular and cochlear) and nephrotoxicity, not hepatotoxicity. Streptomycin is no longer a routine first-line RIPE drug; it has been largely replaced by ethambutol.",
+        "d": "Incorrect. While rifampin can cause hepatotoxicity (especially in combination with isoniazid), it is not the most commonly hepatotoxic RIPE drug. Rifampin's most clinically significant issue is potent CYP3A4 enzyme induction, causing drug-drug interactions. Weekly LFT monitoring for all patients is not the standard — baseline LFTs with clinical monitoring and targeted repeat testing for symptomatic patients is appropriate."
+      }
+    },
+    {
+      "id": "multi141",
+      "question": "A 44-year-old man on RIPE therapy for active pulmonary TB calls the clinic reporting that his urine, tears, and sweat have turned orange-red. He is concerned he is having a serious drug reaction. Which is the most appropriate response?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Reassure that this is a normal expected effect of rifampin and counsel about potential permanent staining of contact lenses",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "Discontinue all RIPE medications immediately and evaluate for drug-induced hemolytic anemia with a direct Coombs test",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Hold rifampin only and substitute levofloxacin while monitoring for resolution of the orange discoloration over 2 weeks",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Order urgent liver function tests and hold isoniazid since orange urine is an early sign of isoniazid-induced hepatotoxicity",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Correct. Orange-red discoloration of urine, tears, sweat, and saliva is a well-known, harmless, and expected side effect of rifampin. It results from the drug's red-orange metabolites being excreted in body fluids. Patients should be counseled about this at treatment initiation to prevent unnecessary alarm. Important practical counseling: soft contact lenses can be permanently stained orange — patients should switch to glasses or daily disposable lenses during rifampin therapy.",
+        "b": "Incorrect. Orange-red body fluids from rifampin do not indicate hemolytic anemia. Drug-induced hemolytic anemia presents with jaundice (yellow, not orange), dark urine (hemoglobinuria — brown/cola-colored, not orange), fatigue, and falling hemoglobin. Stopping all four RIPE drugs unnecessarily interrupts TB treatment.",
+        "c": "Incorrect. The orange discoloration is benign and does not warrant holding rifampin. Substituting levofloxacin for rifampin weakens the TB regimen — rifampin is the most potent sterilizing drug in RIPE therapy and is essential for achieving cure in the standard 6-month timeframe.",
+        "d": "Incorrect. Orange urine is a rifampin effect, not a sign of isoniazid hepatotoxicity. INH hepatotoxicity presents with nausea, vomiting, abdominal pain, jaundice, and elevated transaminases — not orange body fluids. Misattributing this finding to the wrong drug could lead to holding the wrong medication."
+      }
+    },
+    {
+      "id": "multi142",
+      "question": "A 55-year-old man on RIPE therapy for active TB also takes warfarin for atrial fibrillation. After starting TB treatment, his INR drops from a therapeutic 2.5 to 1.1 within 2 weeks. Which RIPE drug is responsible, and what is the mechanism?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Isoniazid inhibits CYP2C9, causing warfarin accumulation and paradoxical INR decrease from protein binding displacement",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Rifampin induces CYP3A4 and CYP2C9, dramatically accelerating warfarin metabolism and reducing anticoagulant effect",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Pyrazinamide competes with warfarin for albumin binding sites, increasing free warfarin clearance through renal excretion",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Ethambutol inhibits vitamin K absorption in the gut, creating a paradoxical decrease in INR through altered coagulation factor synthesis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Isoniazid is actually a CYP2C9 inhibitor that can INCREASE warfarin levels (raising INR, not lowering it). In some patients on both INH and rifampin, the potent CYP induction by rifampin overwhelms the modest inhibition by INH, resulting in a net decrease in warfarin levels.",
+        "b": "Correct. Rifampin is one of the most potent CYP enzyme inducers known — it upregulates CYP3A4, CYP2C9, CYP2C19, and CYP1A2 within 1-2 weeks of initiation. Warfarin is metabolized primarily by CYP2C9. Rifampin-induced CYP2C9 upregulation dramatically accelerates warfarin clearance, often requiring 2-3 fold warfarin dose increases. This interaction affects dozens of medications including oral contraceptives, antiretrovirals, immunosuppressants, and anticonvulsants.",
+        "c": "Incorrect. Pyrazinamide does not significantly interact with warfarin through protein binding or renal excretion. Pyrazinamide's primary adverse effects are hepatotoxicity and hyperuricemia (it inhibits uric acid excretion) — not drug-drug interactions.",
+        "d": "Incorrect. Ethambutol does not affect vitamin K absorption or warfarin metabolism. Ethambutol's primary concern is dose-dependent optic neuritis. It has minimal drug-drug interaction potential compared to rifampin."
+      }
+    },
+    {
+      "id": "multi143",
+      "question": "A 32-year-old pregnant woman (18 weeks gestation) is diagnosed with active pulmonary TB. The infectious disease team is planning her treatment regimen. Which modification to standard RIPE therapy is recommended in pregnancy?",
+      "difficulty": "hard",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Defer all TB treatment until postpartum to avoid teratogenic risk from all four RIPE medications in the second trimester",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Use INH, rifampin, and ethambutol for 9 months; pyrazinamide is avoided due to insufficient safety data in pregnancy",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Use standard RIPE for 2 months then INH plus rifampin for 4 months — pregnancy does not alter the standard TB regimen",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Substitute levofloxacin for rifampin because rifampin crosses the placenta and causes neonatal hemorrhagic disease",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Deferring TB treatment in pregnancy is dangerous for both mother and fetus. Untreated active TB carries significant morbidity and mortality — congenital TB, preterm delivery, low birth weight, and maternal death. TB must be treated during pregnancy with an appropriate modified regimen.",
+        "b": "Correct. In the United States, pyrazinamide is excluded from the TB regimen in pregnancy due to insufficient teratogenicity data (not proven harmful, but not enough human data to confirm safety). The regimen is therefore INH + rifampin + ethambutol for 2 months, then INH + rifampin for 7 additional months (9 months total instead of 6 months, because pyrazinamide — the drug that enables the shorter 6-month course — is omitted). Pyridoxine (vitamin B6) 25-50 mg daily should be given with INH. The WHO allows pyrazinamide in pregnancy, but US guidelines remain conservative.",
+        "c": "Incorrect. While some international guidelines (WHO) permit standard RIPE including pyrazinamide in pregnancy, US guidelines recommend avoiding pyrazinamide due to insufficient human safety data. Using the standard 6-month RIPE regimen in pregnancy is not the US recommendation. The 9-month alternative without pyrazinamide is the US standard of care.",
+        "d": "Incorrect. Fluoroquinolones (levofloxacin, moxifloxacin) are generally avoided in pregnancy due to concerns about cartilage toxicity in developing joints. Rifampin does cross the placenta but is considered safe and essential in pregnancy. Neonatal hemorrhagic disease from rifampin can be prevented with vitamin K administration to the neonate at birth."
+      }
+    },
+    {
+      "id": "multi144",
+      "question": "A 50-year-old man on isoniazid for latent TB infection presents with numbness and tingling in his hands and feet bilaterally. He has been taking INH for 3 months without the recommended co-medication. Which vitamin deficiency is causing this neuropathy, and how should it be managed?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Pharmacology"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vitamin B12 (cobalamin) deficiency from INH-induced pernicious anemia; start B12 1000 mcg IM monthly injections",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Vitamin B6 (pyridoxine) deficiency from INH-induced pyridoxine depletion; start pyridoxine 25-50 mg daily",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Vitamin B1 (thiamine) deficiency from INH-induced malabsorption; start thiamine 100 mg daily for 2 weeks",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Folate deficiency from INH-induced dihydrofolate reductase inhibition; start folic acid 1 mg daily supplementation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. INH does not cause B12 deficiency or pernicious anemia. B12 deficiency causes peripheral neuropathy but through a different mechanism (demyelination from impaired myelin synthesis). INH neuropathy is specifically from pyridoxine depletion.",
+        "b": "Correct. INH inhibits pyridoxine (vitamin B6) metabolism by forming inactive hydrazones with pyridoxal phosphate — the active form of B6 required for peripheral nerve function. This causes a dose-dependent peripheral neuropathy (paresthesias, numbness in stocking-glove distribution). Prevention: pyridoxine 25-50 mg daily should be co-prescribed with INH for ALL patients, but especially those at higher risk — pregnant women, diabetics, alcoholics, malnourished patients, HIV-positive patients, and those with renal failure. Treatment of established neuropathy: pyridoxine 50-200 mg daily.",
+        "c": "Incorrect. INH does not cause thiamine (B1) deficiency. Thiamine deficiency is associated with alcohol use disorder (Wernicke encephalopathy, beriberi) and prolonged malnutrition — not INH use. The mechanism of INH neuropathy is specific to pyridoxine metabolism interference.",
+        "d": "Incorrect. INH does not inhibit dihydrofolate reductase — that is the mechanism of trimethoprim and methotrexate. Folate deficiency causes megaloblastic anemia, not peripheral neuropathy. The vitamin specifically depleted by INH is pyridoxine (B6)."
+      }
+    },
+    {
+      "id": "multi145",
+      "question": "A public health nurse asks the ACNP about directly observed therapy (DOT) for TB treatment. For which patients is DOT most strongly recommended?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only patients with multidrug-resistant TB, since standard drug-susceptible TB can be managed with self-administered therapy",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "All patients with active TB disease, regardless of drug susceptibility pattern or patient demographics",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Only patients who have previously failed TB treatment or demonstrated documented medication non-adherence on prior regimens",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Only patients with smear-positive cavitary disease, since smear-negative patients have lower transmission risk and lower priority",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. While DOT is especially critical for MDR-TB (where treatment failure has catastrophic consequences), limiting DOT to MDR-TB misses the primary purpose — ensuring completion of standard therapy. Non-adherence to standard RIPE therapy is how MDR-TB develops in the first place.",
+        "b": "Correct. The ATS/CDC/IDSA recommend DOT for ALL patients with active TB disease. DOT means a healthcare worker or trained designee directly watches the patient swallow every dose. This ensures adherence, prevents resistance development, and achieves treatment completion rates of >90% (vs. ~60% with self-administered therapy). DOT is the standard of care, not a punitive measure — it reflects the public health imperative to prevent transmission and resistance emergence. Video DOT (VDOT) is an acceptable alternative in many jurisdictions.",
+        "c": "Incorrect. Waiting for treatment failure before implementing DOT is reactive rather than preventive. By the time a patient fails therapy, drug resistance may have already developed. DOT is recommended from the START of treatment for all active TB cases to prevent this outcome.",
+        "d": "Incorrect. All active TB patients — regardless of smear status, cavitation, or radiographic severity — should receive DOT. Smear-negative patients can still transmit TB, develop resistance from non-adherence, and experience treatment failure. Disease severity does not determine DOT eligibility."
+      }
+    },
+    {
+      "id": "multi146",
+      "question": "A 28-year-old daycare worker is found to have a positive QuantiFERON-TB Gold test during routine occupational screening. She has no symptoms and no prior history of TB treatment. Before starting latent TB therapy, which evaluation must be completed?",
+      "difficulty": "medium",
+      "tier2": [
+        "Spring 2026 Exam 3",
+        "Tuberculosis"
+      ],
+      "tier3": [
+        "Infectious Disease",
+        "Diagnostics/Labs"
+      ],
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sputum AFB smear and culture to confirm active disease before deciding between latent and active TB treatment regimens",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Chest X-ray to rule out active TB disease, symptom review, and baseline hepatic function panel before starting INH-based therapy",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "CT chest with contrast for definitive imaging plus bronchoscopy with BAL for mycobacterial culture before any treatment",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Repeat QuantiFERON in 4 weeks to confirm persistent positivity since a single positive IGRA has a high false-positive rate",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "a": "Incorrect. Sputum AFB smear and culture are indicated when active TB is suspected (symptoms, abnormal CXR). An asymptomatic patient with a normal chest X-ray does not need sputum studies — the diagnosis is latent TB infection (LTBI), which by definition is asymptomatic with no radiographic abnormality.",
+        "b": "Correct. Before starting latent TB treatment, the clinician must: (1) Confirm normal chest X-ray to rule out active disease — active TB requires full RIPE, not latent TB monotherapy; (2) Review symptoms (cough, fever, weight loss, night sweats) to exclude active disease; (3) Obtain baseline hepatic function panel since INH, rifampin, and rifapentine all carry hepatotoxicity risk. Additionally, pregnancy testing for women of childbearing age should be considered since some regimens are contraindicated in pregnancy.",
+        "c": "Incorrect. CT chest and bronchoscopy are unnecessary for an asymptomatic patient with a normal CXR and positive IGRA. This level of workup is reserved for patients with symptoms or radiographic findings concerning for active TB — not routine LTBI in an otherwise healthy young woman.",
+        "d": "Incorrect. A single positive IGRA in a person with a clinical reason for testing (occupational exposure, contact investigation) does not require confirmatory repeat testing. False-positive IGRA rates are low in populations with genuine exposure risk. Repeating the test delays treatment and may produce discordant results that complicate management."
+      }
     }
   ],
   "integumentary": [
