@@ -359,7 +359,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Increase norepinephrine to 0.4 mcg/kg/min",
+          "text": "Increase norepinephrine to maximum dose to restore perfusion pressure",
           "correct": false
         },
         {
@@ -369,12 +369,12 @@
         },
         {
           "id": "c",
-          "text": "Administer 1L lactated Ringer's bolus",
+          "text": "Administer 1L lactated Ringer's bolus to optimize preload further",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Start vasopressin 0.03 units/min",
+          "text": "Start vasopressin 0.03 units/min as a second-line vasopressor",
           "correct": false
         }
       ],
@@ -488,22 +488,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Increase furosemide dose and add spironolactone",
+          "text": "Increase furosemide dose and add spironolactone for neurohormonal blockade",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Discontinue ACE inhibitor, provide cautious IV fluids, and urgent surgical/TAVR consultation",
+          "text": "Discontinue ACE inhibitor, provide cautious IV fluids, and arrange urgent surgical or TAVR consultation",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Start dobutamine infusion and schedule elective valve replacement",
+          "text": "Start dobutamine infusion to augment cardiac output and schedule elective valve replacement",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Initiate IV nitroprusside to reduce afterload",
+          "text": "Initiate IV nitroprusside to reduce afterload and improve forward flow",
           "correct": false
         }
       ],
@@ -1222,22 +1222,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Achieve heart rate <60 bpm and SBP 100-120 mmHg using IV esmolol and nitroprusside",
+          "text": "Achieve HR <60 bpm and SBP 100-120 mmHg using IV esmolol then add nitroprusside",
           "correct": true
         },
         {
           "id": "b",
-          "text": "Administer IV heparin to prevent distal thrombosis",
+          "text": "Administer IV heparin to prevent distal propagation of the dissection flap",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Achieve SBP <180 mmHg using IV hydralazine alone",
+          "text": "Achieve SBP <180 mmHg using IV hydralazine as sole agent for BP reduction",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Place an intra-aortic balloon pump to stabilize hemodynamics",
+          "text": "Emergent endovascular stent-graft placement (TEVAR) to seal the intimal tear",
           "correct": false
         }
       ],
@@ -1351,22 +1351,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV atropine 1 mg and observe",
+          "text": "IV atropine 1 mg and observe for return of pacemaker capture",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Transcutaneous pacing while preparing for transvenous pacing or device evaluation",
+          "text": "Transcutaneous pacing while preparing for transvenous pacing or device interrogation",
           "correct": true
         },
         {
           "id": "c",
-          "text": "IV isoproterenol infusion to increase intrinsic rate",
+          "text": "IV isoproterenol infusion to increase the intrinsic ventricular rate",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Defibrillation for presumed ventricular fibrillation",
+          "text": "Defibrillation at 200J for presumed ventricular fibrillation with paced rhythm",
           "correct": false
         }
       ],
@@ -1652,22 +1652,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Beta-1 receptor agonism increasing intracellular calcium via adenylyl cyclase activation",
+          "text": "Beta-1 receptor agonism increasing intracellular calcium via adenylyl cyclase and cAMP pathway activation",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Phosphodiesterase-3 inhibition increasing intracellular cAMP, leading to calcium overload and triggered arrhythmias",
+          "text": "Phosphodiesterase-3 inhibition increasing intracellular cAMP, causing calcium overload and triggered arrhythmias",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Sodium-potassium ATPase inhibition increasing intracellular calcium",
+          "text": "Sodium-potassium ATPase inhibition increasing intracellular calcium through impaired ion exchange",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Adenosine receptor blockade increasing chronotropy and inotropy",
+          "text": "Adenosine receptor blockade increasing chronotropy and inotropy via sympathomimetic enhancement",
           "correct": false
         }
       ],
@@ -1994,22 +1994,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Vancomycin IV",
+          "text": "IV vancomycin for empiric MRSA coverage pending susceptibility data",
           "correct": true
         },
         {
           "id": "b",
-          "text": "Nafcillin IV plus gentamicin IV",
+          "text": "IV nafcillin plus gentamicin for synergistic bactericidal therapy",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Ceftriaxone IV plus gentamicin IV",
+          "text": "IV ceftriaxone plus gentamicin for broad gram-negative coverage",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Daptomycin IV",
+          "text": "IV daptomycin for enhanced gram-positive endocarditis coverage",
           "correct": false
         }
       ],
@@ -2371,7 +2371,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Intra-aortic balloon pump (IABP)",
+          "text": "Intra-aortic balloon pump (IABP) for temporary hemodynamic support",
           "correct": false
         },
         {
@@ -2386,7 +2386,7 @@
         },
         {
           "id": "d",
-          "text": "Switch dobutamine to milrinone",
+          "text": "Switch dobutamine to milrinone for PDE3 inhibition",
           "correct": false
         }
       ],
@@ -2580,12 +2580,12 @@
       "answers": [
         {
           "id": "a",
-          "text": "12–24 hours — there is ample time for diagnostic workup",
+          "text": "12-24 hours — ample time exists for full diagnostic workup",
           "correct": false
         },
         {
           "id": "b",
-          "text": "4–6 hours — emergent revascularization (thromboembolectomy or catheter-directed thrombolysis) is required",
+          "text": "4-6 hours — emergent revascularization is required beyond this window",
           "correct": true
         },
         {
@@ -2595,7 +2595,7 @@
         },
         {
           "id": "d",
-          "text": "The limb is already nonviable — proceed to amputation",
+          "text": "The limb is already nonviable — proceed directly to amputation",
           "correct": false
         }
       ],
@@ -2663,7 +2663,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Tilt table testing to evaluate vasovagal syncope",
+          "text": "Tilt table testing to evaluate for vasovagal or orthostatic syncope",
           "correct": false
         },
         {
@@ -2673,12 +2673,12 @@
         },
         {
           "id": "c",
-          "text": "Carotid sinus massage in the ED",
+          "text": "Carotid sinus massage in the ED to evaluate for carotid hypersensitivity",
           "correct": false
         },
         {
           "id": "d",
-          "text": "CT head to evaluate for stroke",
+          "text": "CT head to evaluate for structural cause of syncope",
           "correct": false
         }
       ],
@@ -3007,7 +3007,7 @@
         },
         {
           "id": "b",
-          "text": "Reduce RR to 12, reduce Vt to 6 mL/kg IBW, and extend expiratory time to I:E 1:4 or 1:5",
+          "text": "Reduce RR and Vt, extend expiratory time to reduce air trapping",
           "correct": true
         },
         {
@@ -3739,12 +3739,12 @@
         },
         {
           "id": "c",
-          "text": "Start oral prednisone 40 mg daily for 5 days",
+          "text": "Start oral prednisone 40 mg daily for 5 days as a burst course",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Referral for lung volume reduction surgery",
+          "text": "Referral for lung volume reduction surgery evaluation",
           "correct": false
         }
       ],
@@ -3993,7 +3993,7 @@
         },
         {
           "id": "c",
-          "text": "Asbestosis",
+          "text": "Asbestosis from chronic occupational exposure",
           "correct": true
         },
         {
@@ -4025,22 +4025,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Overnight pulse oximetry at home",
+          "text": "Overnight pulse oximetry screening at home",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Full in-laboratory polysomnography (PSG)",
+          "text": "Standard in-lab polysomnography without CO₂ monitoring",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Home sleep apnea test (HSAT)",
+          "text": "Home sleep apnea test (HSAT) for convenience",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Full in-laboratory polysomnography with CO₂ monitoring given daytime hypercapnia",
+          "text": "Full in-lab polysomnography with CO₂ monitoring",
           "correct": true
         }
       ],
@@ -4158,7 +4158,7 @@
         },
         {
           "id": "b",
-          "text": "Normal plateau with elevated peak-plateau gradient indicating elevated airway resistance; consider bronchodilators or check for tube obstruction",
+          "text": "Elevated peak-plateau gradient indicates airway resistance; treat bronchospasm or suction secretions",
           "correct": true
         },
         {
@@ -4373,7 +4373,7 @@
         },
         {
           "id": "b",
-          "text": "Abrupt prostacyclin discontinuation is life-threatening; restore infusion immediately at the previous rate while addressing RV failure",
+          "text": "Restore the prostacyclin infusion immediately — abrupt discontinuation causes rebound pulmonary hypertensive crisis",
           "correct": true
         },
         {
@@ -7640,22 +7640,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Alzheimer's disease — amyloid PET scan",
+          "text": "Alzheimer's disease; start donepezil and refer for neuropsychological testing",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Normal pressure hydrocephalus (NPH) — high-volume lumbar puncture (tap test) to assess for gait improvement",
+          "text": "Normal pressure hydrocephalus; high-volume lumbar puncture to assess for gait improvement",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Parkinson's disease — trial of carbidopa-levodopa",
+          "text": "Parkinson's disease; trial of carbidopa-levodopa for 4-6 weeks to assess dopaminergic response",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Chronic subdural hematoma — emergent neurosurgical evacuation",
+          "text": "Chronic subdural hematoma; emergent neurosurgical consultation for burr hole evacuation",
           "correct": false
         }
       ],
@@ -8000,22 +8000,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Clonus",
+          "text": "Hyperreflexia with clonus and upgoing plantar responses (positive Babinski sign)",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Fasciculations and significant muscle atrophy",
+          "text": "Fasciculations with significant muscle atrophy and absent deep tendon reflexes",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Spasticity",
+          "text": "Spasticity with clasp-knife rigidity and velocity-dependent increased muscle tone",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Positive Babinski",
+          "text": "Positive Hoffman sign with jaw jerk hyperreflexia and pseudobulbar affect",
           "correct": false
         }
       ],
@@ -8235,36 +8235,35 @@
         "Multiple Sclerosis"
       ],
       "tier3": [],
-      "difficulty": "medium",
-      "question": "A 42-year-old man with relapsing-remitting MS has been on natalizumab for 2 years and is doing well clinically. His neurologist orders JC virus antibody testing every 6 months. Which of the following MS medications carries the highest risk of progressive multifocal leukoencephalopathy (PML), necessitating routine JC virus monitoring?",
+      "difficulty": "hard",
+      "question": "A 42-year-old man with relapsing-remitting MS has been on natalizumab for 2 years and is doing well clinically. His neurologist orders JC virus antibody testing, which returns positive with an index of 2.8. What is the significance of this result and the appropriate next step?",
       "answers": [
         {
           "id": "a",
-          "text": "Glatiramer acetate",
+          "text": "JC virus positivity is clinically insignificant; continue natalizumab since the patient is stable",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Natalizumab",
+          "text": "High JC virus index (>1.5) indicates elevated PML risk; discuss discontinuing natalizumab and transitioning to an alternative DMT",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Dimethyl fumarate",
+          "text": "Start prophylactic acyclovir to prevent JC virus reactivation while continuing natalizumab",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Interferon beta",
+          "text": "Reduce natalizumab dosing frequency to every 6 weeks to lower PML risk while maintaining efficacy",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Natalizumab (Tysabri) carries a significant risk of progressive multifocal leukoencephalopathy (PML) — a devastating, often fatal CNS infection caused by reactivation of latent JC (John Cunningham) virus. PML risk is stratified by: (1) JC virus antibody status and index value (higher index = higher risk); (2) duration of natalizumab therapy (risk increases after 24 months); (3) prior immunosuppressant use. Mandatory monitoring includes JC virus antibody testing every 6 months. If JCV antibody converts from negative to positive (or index rises above 1.5), the risk-benefit ratio must be reassessed and therapy often switched. PML presents with subacute progressive neurological deficits without MRI gadolinium enhancement.",
-        "a": "Incorrect. Glatiramer acetate (Copaxone) has one of the most favorable safety profiles among MS disease-modifying therapies. It does not carry a risk of PML or significant immunosuppression. Side effects are primarily injection-site reactions and a rare immediate post-injection systemic reaction (flushing, chest tightness — benign and self-limited).",
-        "b": "Correct. Natalizumab (Tysabri) carries a significant risk of progressive multifocal leukoencephalopathy (PML) — a devastating, often fatal CNS infection caused by reactivation of latent JC (John Cunningham) virus. PML risk is stratified by: (1) JC virus antibody status and index value (higher index = higher risk); (2) duration of natalizumab therapy (risk increases after 24 months); (3) prior immunosuppressant use. Mandatory monitoring includes JC virus antibody testing every 6 months. If JCV antibody converts from negative to positive (or index rises above 1.5), the risk-benefit ratio must be reassessed and therapy often switched. PML presents with subacute progressive neurological deficits without MRI gadolinium enhancement.",
-        "c": "Incorrect. While rare cases of PML have been reported with dimethyl fumarate (Tecfidera), the association is far weaker than with natalizumab. Dimethyl fumarate-associated PML cases have been primarily in patients with prolonged, severe lymphopenia. The strongest and most clinically significant PML risk among MS therapies is with natalizumab.",
-        "d": "Incorrect. Interferon-beta formulations (Avonex, Betaseron, Rebif) have no association with PML. Their main side effects include flu-like symptoms (fever, myalgias after injection — improve with time), injection-site reactions, depression, and hepatotoxicity (monitor LFTs). Interferons are among the safest MS DMTs but have lower efficacy compared to newer agents."
+        "a": "Incorrect. JC virus antibody positivity is clinically significant in patients on natalizumab. With a high index (>1.5) and treatment >24 months, PML risk is substantially elevated.",
+        "b": "Correct. JC virus antibody index >1.5 combined with natalizumab >24 months places this patient in the highest PML risk category. The risk-benefit discussion should include transitioning to an alternative DMT. If stopped, monitor for rebound MS activity.",
+        "c": "Incorrect. There is NO effective antiviral prophylaxis against JC virus. PML prevention relies on risk stratification and drug discontinuation when risk exceeds benefit.",
+        "d": "Incorrect. While extended interval dosing has been studied, a JC antibody index of 2.8 after 2 years represents such high risk that dose modification alone is insufficient."
       }
     },
     {
@@ -8360,22 +8359,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV corticosteroids",
+          "text": "High-dose IV corticosteroids (methylprednisolone 1g daily for 5 days) for autoimmune nerve inflammation",
           "correct": false
         },
         {
           "id": "b",
-          "text": "IVIG x5 days OR plasmapheresis x5 sessions",
+          "text": "IVIG 0.4 g/kg/day for 5 days or plasmapheresis for 5 sessions, both with equivalent efficacy",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Pyridostigmine",
+          "text": "Pyridostigmine 60 mg TID to enhance neuromuscular transmission at affected peripheral nerve synapses",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Interferon-beta",
+          "text": "Interferon-beta 1a subcutaneous injection to modulate the immune response and halt demyelination",
           "correct": false
         }
       ],
@@ -8440,29 +8439,29 @@
       "answers": [
         {
           "id": "a",
-          "text": "GBS is ascending and progressive; MG is fatigable and fluctuates",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "GBS affects only face; MG only legs",
+          "text": "GBS affects cranial nerves exclusively while MG presents with only limb weakness",
           "correct": false
         },
         {
+          "id": "b",
+          "text": "GBS is ascending and progressive over days to weeks while MG is fatigable and fluctuates throughout the day",
+          "correct": true
+        },
+        {
           "id": "c",
-          "text": "GBS improves with rest; MG worsens",
+          "text": "GBS improves with rest and worsens with activity while MG progressively worsens without remission",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Both present identically",
+          "text": "Both present identically and can only be distinguished by electrodiagnostic testing",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. The key clinical distinction: GBS causes rapidly ascending, symmetric, progressive weakness that reaches its nadir within 2–4 weeks, with areflexia (LMN pattern). Weakness does NOT improve with rest. In contrast, MG causes fatigable weakness that worsens with repeated use and improves after rest. MG typically begins with ocular muscles (ptosis, diplopia) and has normal reflexes. GBS follows infection (most commonly Campylobacter jejuni), while MG is caused by autoantibodies against the acetylcholine receptor at the neuromuscular junction.",
-        "a": "Correct. The key clinical distinction: GBS causes rapidly ascending, symmetric, progressive weakness that reaches its nadir within 2–4 weeks, with areflexia (LMN pattern). Weakness does NOT improve with rest. In contrast, MG causes fatigable weakness that worsens with repeated use and improves after rest. MG typically begins with ocular muscles (ptosis, diplopia) and has normal reflexes. GBS follows infection (most commonly Campylobacter jejuni), while MG is caused by autoantibodies against the acetylcholine receptor at the neuromuscular junction.",
-        "b": "Incorrect. Both GBS and MG can affect multiple body regions. GBS can progress to involve cranial nerves (facial diplegia, bulbar weakness) and respiratory muscles. MG can generalize from ocular to bulbar to limb muscles. The distinguishing feature is the PATTERN of weakness (progressive vs. fatigable), not the anatomic distribution.",
+        "a": "Incorrect. The key clinical distinction: GBS causes rapidly ascending, symmetric, progressive weakness that reaches its nadir within 2–4 weeks, with areflexia (LMN pattern). Weakness does NOT improve with rest. In contrast, MG causes fatigable weakness that worsens with repeated use and improves after rest. MG typically begins with ocular muscles (ptosis, diplopia) and has normal reflexes. GBS follows infection (most commonly Campylobacter jejuni), while MG is caused by autoantibodies against the acetylcholine receptor at the neuromuscular junction.",
+        "b": "Correct. Both GBS and MG can affect multiple body regions. GBS can progress to involve cranial nerves (facial diplegia, bulbar weakness) and respiratory muscles. MG can generalize from ocular to bulbar to limb muscles. The distinguishing feature is the PATTERN of weakness (progressive vs. fatigable), not the anatomic distribution.",
         "c": "Incorrect. This reverses the key distinction. GBS weakness does NOT improve with rest — it is progressive. MG weakness characteristically IMPROVES with rest (fatigable weakness). This distinction is one of the most frequently tested board concepts.",
         "d": "Incorrect. GBS and MG have fundamentally different pathophysiology, presentation, and treatment. GBS involves autoimmune demyelination of peripheral nerves (treated with IVIG or PLEX), while MG involves autoantibodies at the neuromuscular junction (treated with pyridostigmine, immunosuppression, and thymectomy)."
       }
@@ -8760,22 +8759,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV tPA",
+          "text": "IV alteplase (tPA) despite being outside the standard 4.5-hour window",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Mechanical thrombectomy",
+          "text": "Mechanical thrombectomy based on perfusion imaging mismatch",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Aspirin 325 mg PO",
+          "text": "Aspirin 325 mg PO plus high-intensity statin as medical management only",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Observation",
+          "text": "Observation with serial neurologic assessments and supportive care only",
           "correct": false
         }
       ],
@@ -8800,22 +8799,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Leg > arm weakness",
+          "text": "Anterior cerebral artery (ACA) territory",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Contralateral face/arm > leg weakness with aphasia (dominant hemisphere)",
+          "text": "Middle cerebral artery (MCA) territory",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Homonymous hemianopia only",
+          "text": "Posterior cerebral artery (PCA) territory",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Bilateral motor findings with cranial nerve deficits",
+          "text": "Vertebrobasilar (posterior circulation) territory",
           "correct": false
         }
       ],
@@ -10445,22 +10444,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Refer for Nissen fundoplication since PPI therapy has failed",
+          "text": "Refer for Nissen fundoplication since PPI therapy has failed and surgical correction is the next step",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Optimize PPI therapy (take 30-60 minutes before breakfast on an empty stomach), counsel on lifestyle modifications, and increase to BID dosing if inadequate response",
+          "text": "Optimize PPI therapy (take 30-60 minutes before breakfast on empty stomach), confirm adherence, consider doubling dose or switching PPI",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Switch to H2 receptor antagonist (famotidine) since the PPI is not working",
+          "text": "Switch to H2 receptor antagonist (famotidine 20 mg BID) since PPI non-response indicates acid-independent reflux",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Start sucralfate 1 g QID as adjunctive therapy",
+          "text": "Start sucralfate 1 g QID as adjunctive mucosal protectant and schedule upper endoscopy for Barrett evaluation",
           "correct": false
         }
       ],
@@ -10685,22 +10684,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral ursodiol",
+          "text": "Oral ursodiol 10-15 mg/kg/day for 6-12 months to dissolve the cholesterol-based CBD stone",
           "correct": false
         },
         {
           "id": "b",
-          "text": "ERCP with sphincterotomy and stone extraction",
+          "text": "ERCP with sphincterotomy and stone extraction for definitive choledocholithiasis management",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Lithotripsy",
+          "text": "Extracorporeal shock wave lithotripsy (ESWL) as first-line for bile duct stones before ERCP",
           "correct": false
         },
         {
           "id": "d",
-          "text": "IV antibiotics alone x14 days",
+          "text": "IV antibiotics alone for 14 days to treat presumed cholangitis and allow spontaneous stone passage",
           "correct": false
         }
       ],
@@ -10805,7 +10804,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "PPI + amoxicillin only for 7 days",
+          "text": "PPI plus amoxicillin dual therapy for 7 days with lower pill burden to improve adherence",
           "correct": false
         },
         {
@@ -10815,12 +10814,12 @@
         },
         {
           "id": "c",
-          "text": "PPI alone for 8 weeks",
+          "text": "PPI monotherapy for 8 weeks since acid suppression allows mucosal healing and spontaneous clearance",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Sucralfate + antacids for 6 weeks",
+          "text": "Sucralfate plus antacids for 6 weeks as mucosal protective agents without antibiotic resistance risk",
           "correct": false
         }
       ],
@@ -12354,29 +12353,29 @@
       "answers": [
         {
           "id": "a",
-          "text": "Minimal change disease — renal biopsy followed by oral corticosteroids (prednisone 1 mg/kg/day)",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "IgA nephropathy — ACE inhibitor and fish oil",
+          "text": "IgA nephropathy; ACE inhibitor plus omega-3 fatty acids with monitoring for progressive proteinuria",
           "correct": false
         },
         {
+          "id": "b",
+          "text": "Minimal change disease; renal biopsy showing foot process effacement on EM, then oral corticosteroids for 12-16 weeks",
+          "correct": true
+        },
+        {
           "id": "c",
-          "text": "Focal segmental glomerulosclerosis — cyclosporine as first-line",
+          "text": "Focal segmental glomerulosclerosis; cyclosporine-based immunosuppression with calcineurin inhibitor monitoring",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Membranous nephropathy — rituximab",
+          "text": "Membranous nephropathy; rituximab-based therapy targeting anti-PLA2R antibodies with serial remission monitoring",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. In young adults with nephrotic syndrome (proteinuria >3.5 g/day, hypoalbuminemia <3 g/dL, hyperlipidemia, edema) and no hematuria, minimal change disease (MCD) is a leading cause (~10–25% of adult nephrotic syndrome, higher in younger adults). Unlike in children, renal biopsy IS recommended in adults to confirm the diagnosis before initiating corticosteroids. First-line treatment is high-dose prednisone (1 mg/kg/day, max 80 mg, for 4–16 weeks, then taper). >80% of adult MCD patients achieve complete remission with steroids, though relapses are common.",
-        "a": "Correct. In young adults with nephrotic syndrome (proteinuria >3.5 g/day, hypoalbuminemia <3 g/dL, hyperlipidemia, edema) and no hematuria, minimal change disease (MCD) is a leading cause (~10–25% of adult nephrotic syndrome, higher in younger adults). Unlike in children, renal biopsy IS recommended in adults to confirm the diagnosis before initiating corticosteroids. First-line treatment is high-dose prednisone (1 mg/kg/day, max 80 mg, for 4–16 weeks, then taper). >80% of adult MCD patients achieve complete remission with steroids, though relapses are common.",
-        "b": "Incorrect. IgA nephropathy is the most common glomerulonephritis worldwide but typically presents as nephrITIC syndrome (hematuria, often gross, following URI) — not pure nephrotic syndrome. The absence of hematuria and pure nephrotic presentation in a child strongly favors MCD.",
+        "a": "Incorrect. In young adults with nephrotic syndrome (proteinuria >3.5 g/day, hypoalbuminemia <3 g/dL, hyperlipidemia, edema) and no hematuria, minimal change disease (MCD) is a leading cause (~10–25% of adult nephrotic syndrome, higher in younger adults). Unlike in children, renal biopsy IS recommended in adults to confirm the diagnosis before initiating corticosteroids. First-line treatment is high-dose prednisone (1 mg/kg/day, max 80 mg, for 4–16 weeks, then taper). >80% of adult MCD patients achieve complete remission with steroids, though relapses are common.",
+        "b": "Correct. IgA nephropathy is the most common glomerulonephritis worldwide but typically presents as nephrITIC syndrome (hematuria, often gross, following URI) — not pure nephrotic syndrome. The absence of hematuria and pure nephrotic presentation in a child strongly favors MCD.",
         "c": "Incorrect. FSGS is actually the most common cause of nephrotic syndrome in adults overall, particularly in African American patients. However, in young adults with pure nephrotic syndrome and no hematuria, MCD remains a strong consideration. Biopsy will differentiate the two — FSGS shows segmental sclerosis, while MCD shows normal light microscopy with foot process effacement on electron microscopy. Cyclosporine is used for steroid-resistant FSGS, not as first-line.",
         "d": "Incorrect. Membranous nephropathy is the most common cause of nephrotic syndrome in adults >40 years old. In a 22-year-old, MCD is more likely, especially with pure proteinuria and no hematuria. Membranous nephropathy is associated with anti-PLA2R antibodies and often presents with a more insidious onset. Rituximab (anti-CD20) is now first-line for primary membranous nephropathy per the MENTOR trial."
       }
@@ -12480,22 +12479,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Emergent urology consult for surgical stone removal",
+          "text": "Emergent urology consult for surgical stone removal since all ureteral stones require intervention",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Conservative management: hydration, NSAIDs for pain, and medical expulsive therapy (tamsulosin 0.4 mg daily)",
+          "text": "Conservative management: IV hydration, NSAIDs for pain, and medical expulsive therapy with tamsulosin for stones ≤10 mm",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Lithotripsy (ESWL) for a 4 mm stone",
+          "text": "Extracorporeal shock wave lithotripsy (ESWL) as first-line for a 4 mm stone regardless of location",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Broad-spectrum antibiotics for presumed infected stone",
+          "text": "Broad-spectrum antibiotics for presumed infected stone with CT-guided percutaneous nephrostomy",
           "correct": false
         }
       ],
@@ -13078,35 +13077,34 @@
         "Pharmacology"
       ],
       "difficulty": "medium",
-      "question": "A 19-year-old man with type 1 DM presents with DKA. Glucose 488, pH 7.24, HCO₃ 11, AG 26, K+ 5.8 mEq/L. Which statement about potassium management in DKA is most accurate?",
+      "question": "A 19-year-old man with type 1 DM presents with DKA. Initial labs show glucose 488, pH 7.24, HCO₃ 11, AG 26, K+ 5.8 mEq/L. Insulin infusion and IV fluids are started. Two hours later, repeat K+ is 3.2 mEq/L. What is the most appropriate next step?",
       "answers": [
         {
           "id": "a",
-          "text": "Hold all potassium replacement — serum K 5.8 indicates hyperkalemia; start insulin immediately",
+          "text": "Continue insulin infusion at the same rate since hypokalemia will self-correct as acidosis resolves",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Hold insulin until K+ is confirmed >3.5 mEq/L; begin potassium replacement if K+ <3.5 before starting insulin",
+          "text": "Hold insulin infusion, replace potassium to ≥3.5 mEq/L with IV KCl, then resume insulin once K+ is safe",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Potassium is elevated so no replacement needed; insulin will normalize potassium over 24 hours",
+          "text": "Increase insulin infusion rate to close the anion gap faster since K+ replacement is only needed below 2.5",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Administer IV calcium gluconate to protect cardiac membranes from DKA-induced hyperkalemia",
+          "text": "Administer IV calcium gluconate for cardioprotection and continue insulin at the current rate",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. DKA potassium management: (1) If K+ <3.5: hold insulin, give 40 mEq KCl/hour until K+ ≥3.5, THEN start insulin. (2) If K+ 3.5-5.5: start insulin and give 20-40 mEq K+ per liter of IV fluid. (3) If K+ >5.5: start insulin but hold potassium — recheck in 2 hours. This patient (K 5.8) can start insulin but potassium must be closely monitored as it will fall with insulin therapy.",
-        "a": "Incorrect. While K+ 5.8 is elevated, insulin must still be held if K+ drops below 3.5 — the concern is that insulin shifts K+ intracellularly, and patients with DKA have TOTAL BODY potassium DEPLETION despite elevated serum levels. As insulin is given and acidosis corrects, K+ will fall precipitously.",
-        "b": "Correct. DKA potassium management: (1) If K+ <3.5: hold insulin, give 40 mEq KCl/hour until K+ ≥3.5, THEN start insulin. (2) If K+ 3.5-5.5: start insulin and give 20-40 mEq K+ per liter of IV fluid. (3) If K+ >5.5: start insulin but hold potassium — recheck in 2 hours. This patient (K 5.8) can start insulin but potassium must be closely monitored as it will fall with insulin therapy.",
-        "c": "Incorrect. Despite serum K+ 5.8, the total body potassium is DEPLETED (osmotic diuresis, vomiting, cellular shift in acidosis). Once insulin corrects acidosis and shifts K+ intracellularly, serum K+ will fall — often dramatically. Neglecting potassium replacement leads to life-threatening hypokalemia causing cardiac arrhythmias and respiratory failure.",
-        "d": "Incorrect. IV calcium gluconate is used for cardiac protection when K+ is critically elevated (>6.5 with ECG changes) in chronic hyperkalemia or renal failure. In DKA, the hyperkalemia is temporary and will resolve with insulin. Calcium gluconate is not standard DKA management."
+        "a": "Incorrect. Continuing insulin with K+ 3.2 is dangerous. Insulin drives K+ intracellularly, further dropping an already critically low level. Hypokalemia below 3.0 risks fatal arrhythmias.",
+        "b": "Correct. In DKA, if K+ <3.5: HOLD insulin and replace K+ aggressively (20-40 mEq/hour) until ≥3.5, then resume insulin. Hypokalemia-induced arrhythmias are a leading cause of preventable death in DKA.",
+        "c": "Incorrect. Increasing insulin with K+ 3.2 would precipitate fatal arrhythmias. The threshold for holding insulin is K+ <3.5, not 2.5.",
+        "d": "Incorrect. Calcium gluconate stabilizes membranes in HYPERkalemia (>6.5 with ECG changes), not hypokalemia. Treatment for hypokalemia is potassium replacement."
       }
     },
     {
@@ -13709,29 +13707,29 @@
       "answers": [
         {
           "id": "a",
-          "text": "Primary adrenal insufficiency (Addison's disease) — IV hydrocortisone 100 mg stat, then 50 mg q8h, plus aggressive IV NS",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Secondary adrenal insufficiency — IV dexamethasone and ACTH stimulation test",
+          "text": "Secondary adrenal insufficiency; IV dexamethasone then perform ACTH stimulation test",
           "correct": false
         },
         {
+          "id": "b",
+          "text": "Primary adrenal insufficiency (Addison's disease); IV hydrocortisone 100 mg stat, NS resuscitation, electrolyte correction",
+          "correct": true
+        },
+        {
           "id": "c",
-          "text": "Pheochromocytoma — alpha-blockade with phenoxybenzamine",
+          "text": "Pheochromocytoma; alpha-blockade with phenoxybenzamine before IV fluid resuscitation or beta-blockade",
           "correct": false
         },
         {
           "id": "d",
-          "text": "SIADH — fluid restriction to 1 liter per day",
+          "text": "SIADH; fluid restriction to 1 liter per day and demeclocycline with sodium monitoring every 6 hours",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. This is adrenal crisis from primary adrenal insufficiency. Key findings: hypotension, hyperpigmentation (elevated ACTH stimulates melanocortin receptors), hyponatremia (cortisol required for free water excretion), hyperkalemia (aldosterone deficiency impairs K+ excretion), and critically low cortisol with markedly elevated ACTH. Treatment: IV hydrocortisone 100 mg bolus immediately (do NOT wait for cosyntropin stimulation test results), then 50 mg q8h, plus aggressive IV normal saline for volume repletion.",
-        "a": "Correct. This is adrenal crisis from primary adrenal insufficiency. Key findings: hypotension, hyperpigmentation (elevated ACTH stimulates melanocortin receptors), hyponatremia (cortisol required for free water excretion), hyperkalemia (aldosterone deficiency impairs K+ excretion), and critically low cortisol with markedly elevated ACTH. Treatment: IV hydrocortisone 100 mg bolus immediately (do NOT wait for cosyntropin stimulation test results), then 50 mg q8h, plus aggressive IV normal saline for volume repletion.",
-        "b": "Incorrect. Secondary adrenal insufficiency (pituitary ACTH deficiency) presents with LOW ACTH, no hyperpigmentation (insufficient ACTH = no melanocortin stimulation), and usually normal potassium (aldosterone is preserved because it is primarily regulated by the RAAS, not ACTH). This patient's markedly elevated ACTH and hyperkalemia confirm a PRIMARY adrenal process.",
+        "a": "Incorrect. This is adrenal crisis from primary adrenal insufficiency. Key findings: hypotension, hyperpigmentation (elevated ACTH stimulates melanocortin receptors), hyponatremia (cortisol required for free water excretion), hyperkalemia (aldosterone deficiency impairs K+ excretion), and critically low cortisol with markedly elevated ACTH. Treatment: IV hydrocortisone 100 mg bolus immediately (do NOT wait for cosyntropin stimulation test results), then 50 mg q8h, plus aggressive IV normal saline for volume repletion.",
+        "b": "Correct. Secondary adrenal insufficiency (pituitary ACTH deficiency) presents with LOW ACTH, no hyperpigmentation (insufficient ACTH = no melanocortin stimulation), and usually normal potassium (aldosterone is preserved because it is primarily regulated by the RAAS, not ACTH). This patient's markedly elevated ACTH and hyperkalemia confirm a PRIMARY adrenal process.",
         "c": "Incorrect. Pheochromocytoma causes paroxysmal HYPERTENSION (not hypotension), tachycardia, and diaphoresis from catecholamine excess. This patient is hypotensive with hyperpigmentation and electrolyte abnormalities classic for adrenal insufficiency, not catecholamine excess.",
         "d": "Incorrect. While SIADH causes hyponatremia, it does not cause hyperkalemia, hypotension, hyperpigmentation, or low cortisol. The combination of hyponatremia AND hyperkalemia with low cortisol and high ACTH is diagnostic of primary adrenal insufficiency — a completely different pathophysiology from SIADH."
       }
@@ -13751,29 +13749,29 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV levothyroxine (T4) 200–400 mcg loading dose plus IV hydrocortisone 100 mg — give hydrocortisone BEFORE or WITH levothyroxine",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Oral levothyroxine 100 mcg daily via nasogastric tube",
+          "text": "Oral levothyroxine 100 mcg daily via nasogastric tube since GI absorption is preserved",
           "correct": false
         },
         {
+          "id": "b",
+          "text": "IV levothyroxine 200-400 mcg loading dose plus IV hydrocortisone 100 mg before thyroid hormone",
+          "correct": true
+        },
+        {
           "id": "c",
-          "text": "Active external rewarming with forced-air warming blankets (Bair Hugger) to target 37°C rapidly",
+          "text": "Active external rewarming with forced-air blankets to core temperature 37°C within 2 hours",
           "correct": false
         },
         {
           "id": "d",
-          "text": "IV T3 (liothyronine) 25 mcg q8h as sole thyroid replacement",
+          "text": "IV liothyronine (T3) 25 mcg q8h as sole replacement since T3 is the only active hormone",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. Myxedema coma is a life-threatening decompensation of severe hypothyroidism. CRITICAL: IV stress-dose hydrocortisone (100 mg) MUST be given BEFORE or simultaneously with thyroid hormone because (1) hypothyroid patients may have concurrent adrenal insufficiency (autoimmune polyendocrine syndrome), and (2) thyroid hormone replacement increases metabolic rate and cortisol clearance, potentially precipitating adrenal crisis if cortisol reserves are inadequate. After hydrocortisone: IV levothyroxine 200–400 mcg loading dose. Supportive care: passive rewarming (active warming can cause vasodilation and cardiovascular collapse), ventilatory support, IV fluids, correct hyponatremia cautiously.",
-        "a": "Correct. Myxedema coma is a life-threatening decompensation of severe hypothyroidism. CRITICAL: IV stress-dose hydrocortisone (100 mg) MUST be given BEFORE or simultaneously with thyroid hormone because (1) hypothyroid patients may have concurrent adrenal insufficiency (autoimmune polyendocrine syndrome), and (2) thyroid hormone replacement increases metabolic rate and cortisol clearance, potentially precipitating adrenal crisis if cortisol reserves are inadequate. After hydrocortisone: IV levothyroxine 200–400 mcg loading dose. Supportive care: passive rewarming (active warming can cause vasodilation and cardiovascular collapse), ventilatory support, IV fluids, correct hyponatremia cautiously.",
-        "b": "Incorrect. Myxedema coma requires IV thyroid hormone — oral/NG absorption is unpredictable in critical illness due to gastric ileus, mucosal edema, and impaired GI motility (all common in severe hypothyroidism). Additionally, 100 mcg is inadequate as a loading dose. IV T4 at 200–400 mcg provides rapid replenishment of the severely depleted hormone pool.",
+        "a": "Incorrect. Myxedema coma is a life-threatening decompensation of severe hypothyroidism. CRITICAL: IV stress-dose hydrocortisone (100 mg) MUST be given BEFORE or simultaneously with thyroid hormone because (1) hypothyroid patients may have concurrent adrenal insufficiency (autoimmune polyendocrine syndrome), and (2) thyroid hormone replacement increases metabolic rate and cortisol clearance, potentially precipitating adrenal crisis if cortisol reserves are inadequate. After hydrocortisone: IV levothyroxine 200–400 mcg loading dose. Supportive care: passive rewarming (active warming can cause vasodilation and cardiovascular collapse), ventilatory support, IV fluids, correct hyponatremia cautiously.",
+        "b": "Correct. Myxedema coma requires IV thyroid hormone — oral/NG absorption is unpredictable in critical illness due to gastric ileus, mucosal edema, and impaired GI motility (all common in severe hypothyroidism). Additionally, 100 mcg is inadequate as a loading dose. IV T4 at 200–400 mcg provides rapid replenishment of the severely depleted hormone pool.",
         "c": "Incorrect. Active rewarming is DANGEROUS in myxedema coma because it causes peripheral vasodilation in a patient with severely compromised cardiac function, potentially precipitating cardiovascular collapse. PASSIVE rewarming (blankets, warm environment) allowing slow temperature recovery is the standard. The hypothermia will correct as thyroid hormone is replaced.",
         "d": "Incorrect. While some protocols include low-dose IV T3 as an adjunct (T3 is the active hormone and acts faster than T4), T3 alone is risky because of its narrow therapeutic index, short half-life, and potential to cause cardiac arrhythmias in a severely hypothyroid heart. IV T4 is the mainstay of treatment. More importantly, this answer omits the critical need for concurrent IV hydrocortisone BEFORE thyroid hormone."
       }
@@ -13796,22 +13794,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV heparin infusion to interrupt the consumptive coagulopathy",
+          "text": "IV heparin infusion to interrupt the consumptive coagulopathy and restore hemostatic balance",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Treat underlying sepsis; transfuse FFP, cryoprecipitate targeting fibrinogen >150 mg/dL, and platelets to >50,000 given active bleeding",
+          "text": "Treat underlying sepsis; transfuse FFP, cryoprecipitate (target fibrinogen >150), and platelets as indicated",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Aminocaproic acid (Amicar) to inhibit fibrinolysis",
+          "text": "Aminocaproic acid (Amicar) to inhibit fibrinolysis and prevent further coagulation factor consumption",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Platelet transfusion to >100,000 and fresh frozen plasma to normalize PT/PTT",
+          "text": "Platelet transfusion to >100,000 and FFP to normalize PT without addressing the underlying infection",
           "correct": false
         }
       ],
@@ -15107,31 +15105,31 @@
       "answers": [
         {
           "id": "a",
-          "text": "NSAIDs as first-line analgesia with opioids only as backup",
+          "text": "NSAIDs as first-line with opioids reserved only if NSAIDs fail after a 2-hour reassessment period",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Hydroxyurea 20 mg/kg/day should be started during the acute crisis",
-          "correct": false
+          "text": "IV opioid analgesia within 30 minutes, IV hydration, incentive spirometry, and supplemental oxygen if hypoxic",
+          "correct": true
         },
         {
           "id": "c",
-          "text": "Exchange transfusion to achieve HbS <30% for all VOC episodes",
+          "text": "Hydroxyurea 20 mg/kg/day initiated during the acute crisis to reduce sickling and prevent vaso-occlusion",
           "correct": false
         },
         {
           "id": "d",
-          "text": "IV opioid analgesia within 30 minutes, judicious IV hydration, incentive spirometry, and simple transfusion for hemoglobin significantly below baseline with symptoms",
-          "correct": true
+          "text": "Exchange transfusion to HbS <30% for all vaso-occlusive crises regardless of severity or complications",
+          "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. Acute VOC management: (1) PAIN: IV opioids (morphine 0.1 mg/kg or hydromorphone) within 30 minutes of arrival, reassess q15–30 min, titrate to effect. PCA is ideal for severe episodes; (2) HYDRATION: judicious IV fluids (NS or D5 ½NS at maintenance to 1.5x maintenance) to prevent dehydration without overhydrating — excessive fluids can worsen acute chest syndrome; (3) RESPIRATORY: incentive spirometry q2h while awake to prevent acute chest syndrome; (4) TRANSFUSION: consider simple transfusion when hemoglobin drops significantly below baseline (this patient is 1.8 g/dL below baseline at 6.2 g/dL) or when symptomatic. Exchange transfusion is reserved for acute chest syndrome, stroke, or multiorgan failure. Target Hgb ≤10 g/dL to avoid hyperviscosity.",
         "a": "Incorrect. While NSAIDs may be adjunctive, severe VOC pain requires IMMEDIATE opioid analgesia. Sickle cell pain crises cause excruciating ischemic pain that is undertreated in emergency settings. Guidelines recommend initiating IV opioids (morphine or hydromorphone) within 30 minutes of presentation with reassessment every 15–30 minutes.",
-        "b": "Incorrect. Hydroxyurea is a disease-modifying therapy that reduces crisis frequency by increasing HbF production, but it takes weeks to months to achieve therapeutic effect. It should NOT be initiated during an acute crisis. Hydroxyurea is started as maintenance therapy after the acute episode resolves, for patients with ≥3 crises per year.",
+        "b": "Correct. Hydroxyurea is a disease-modifying therapy that reduces crisis frequency by increasing HbF production, but it takes weeks to months to achieve therapeutic effect. It should NOT be initiated during an acute crisis. Hydroxyurea is started as maintenance therapy after the acute episode resolves, for patients with ≥3 crises per year.",
         "c": "Incorrect. Exchange transfusion is reserved for life-threatening complications: acute chest syndrome, stroke, multiorgan failure, or priapism >4 hours. Simple VOC, even if severe, is managed with pain control, hydration, and simple transfusion if needed. Exchange transfusion is resource-intensive and not indicated for uncomplicated painful crises.",
-        "d": "Correct. Acute VOC management: (1) PAIN: IV opioids (morphine 0.1 mg/kg or hydromorphone) within 30 minutes of arrival, reassess q15–30 min, titrate to effect. PCA is ideal for severe episodes; (2) HYDRATION: judicious IV fluids (NS or D5 ½NS at maintenance to 1.5x maintenance) to prevent dehydration without overhydrating — excessive fluids can worsen acute chest syndrome; (3) RESPIRATORY: incentive spirometry q2h while awake to prevent acute chest syndrome; (4) TRANSFUSION: consider simple transfusion when hemoglobin drops significantly below baseline (this patient is 1.8 g/dL below baseline at 6.2 g/dL) or when symptomatic. Exchange transfusion is reserved for acute chest syndrome, stroke, or multiorgan failure. Target Hgb ≤10 g/dL to avoid hyperviscosity."
+        "d": "Incorrect. Acute VOC management: (1) PAIN: IV opioids (morphine 0.1 mg/kg or hydromorphone) within 30 minutes of arrival, reassess q15–30 min, titrate to effect. PCA is ideal for severe episodes; (2) HYDRATION: judicious IV fluids (NS or D5 ½NS at maintenance to 1.5x maintenance) to prevent dehydration without overhydrating — excessive fluids can worsen acute chest syndrome; (3) RESPIRATORY: incentive spirometry q2h while awake to prevent acute chest syndrome; (4) TRANSFUSION: consider simple transfusion when hemoglobin drops significantly below baseline (this patient is 1.8 g/dL below baseline at 6.2 g/dL) or when symptomatic. Exchange transfusion is reserved for acute chest syndrome, stroke, or multiorgan failure. Target Hgb ≤10 g/dL to avoid hyperviscosity."
       }
     },
     {
@@ -15233,30 +15231,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Community-acquired pneumonia — ceftriaxone plus azithromycin",
+          "text": "Community-acquired pneumonia; ceftriaxone plus azithromycin alone without transfusion",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Pulmonary embolism — systemic thrombolysis",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Acute chest syndrome — simple or exchange transfusion, antibiotics (ceftriaxone + azithromycin), supplemental oxygen, and incentive spirometry",
+          "text": "Acute chest syndrome; exchange or simple transfusion, antibiotics, and incentive spirometry",
           "correct": true
         },
         {
+          "id": "c",
+          "text": "Pulmonary embolism; systemic thrombolysis with alteplase followed by therapeutic anticoagulation",
+          "correct": false
+        },
+        {
           "id": "d",
-          "text": "Fat embolism syndrome — supportive care only, no specific treatment exists",
+          "text": "Fat embolism syndrome; supportive care with mechanical ventilation only, no specific pharmacotherapy",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. Acute chest syndrome (ACS) is the leading cause of death in SCD. It is defined as a new pulmonary infiltrate + ≥1 of: chest pain, fever, respiratory symptoms, or hypoxemia. Pathophysiology: in-situ sickling in pulmonary vasculature, fat embolism from bone marrow infarction, and/or concurrent infection. Treatment: (1) Simple transfusion for mild ACS (target Hgb 10); exchange transfusion for severe ACS (target HbS <30%); (2) Empiric antibiotics covering typical and atypical organisms (ceftriaxone + azithromycin per CAP guidelines); (3) Supplemental O2 to maintain SpO2 >95%; (4) Incentive spirometry q2h; (5) Cautious IV hydration (avoid overhydration — worsens pulmonary edema); (6) Bronchodilators if wheezing.",
         "a": "Incorrect. While pneumonia can trigger acute chest syndrome, the combination of new pulmonary infiltrates + chest pain + hypoxemia + dropping hemoglobin in a SCD patient during a VOC is acute chest syndrome — which requires specific management beyond standard pneumonia antibiotics.",
-        "b": "Incorrect. While PE should be considered in SCD patients (hypercoagulable state), the clinical picture (bilateral infiltrates, falling hemoglobin during VOC, pleuritic pain) is classic for acute chest syndrome. CT-PE may be obtained if PE is suspected, but ACS management should be initiated immediately.",
-        "c": "Correct. Acute chest syndrome (ACS) is the leading cause of death in SCD. It is defined as a new pulmonary infiltrate + ≥1 of: chest pain, fever, respiratory symptoms, or hypoxemia. Pathophysiology: in-situ sickling in pulmonary vasculature, fat embolism from bone marrow infarction, and/or concurrent infection. Treatment: (1) Simple transfusion for mild ACS (target Hgb 10); exchange transfusion for severe ACS (target HbS <30%); (2) Empiric antibiotics covering typical and atypical organisms (ceftriaxone + azithromycin per CAP guidelines); (3) Supplemental O2 to maintain SpO2 >95%; (4) Incentive spirometry q2h; (5) Cautious IV hydration (avoid overhydration — worsens pulmonary edema); (6) Bronchodilators if wheezing.",
+        "b": "Correct. While PE should be considered in SCD patients (hypercoagulable state), the clinical picture (bilateral infiltrates, falling hemoglobin during VOC, pleuritic pain) is classic for acute chest syndrome. CT-PE may be obtained if PE is suspected, but ACS management should be initiated immediately.",
+        "c": "Incorrect. Acute chest syndrome (ACS) is the leading cause of death in SCD. It is defined as a new pulmonary infiltrate + ≥1 of: chest pain, fever, respiratory symptoms, or hypoxemia. Pathophysiology: in-situ sickling in pulmonary vasculature, fat embolism from bone marrow infarction, and/or concurrent infection. Treatment: (1) Simple transfusion for mild ACS (target Hgb 10); exchange transfusion for severe ACS (target HbS <30%); (2) Empiric antibiotics covering typical and atypical organisms (ceftriaxone + azithromycin per CAP guidelines); (3) Supplemental O2 to maintain SpO2 >95%; (4) Incentive spirometry q2h; (5) Cautious IV hydration (avoid overhydration — worsens pulmonary edema); (6) Bronchodilators if wheezing.",
         "d": "Incorrect. While fat embolism from marrow infarction contributes to ACS pathogenesis, the management is not passive supportive care. ACS requires active treatment including transfusion therapy (often exchange transfusion), antibiotics, and aggressive respiratory support. Untreated ACS can rapidly progress to respiratory failure and death."
       }
     }
@@ -15708,22 +15706,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Amphotericin B liposomal 3-5 mg/kg/day; minimal drug interactions in transplant patients",
+          "text": "Liposomal amphotericin B 3-5 mg/kg/day; monitor for nephrotoxicity but no direct CYP interaction with tacrolimus",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Voriconazole 6 mg/kg IV q12h × 2 doses then 4 mg/kg IV q12h; dramatically increases tacrolimus levels via CYP3A4 inhibition",
+          "text": "Voriconazole 6 mg/kg IV q12h x2 then 4 mg/kg q12h; dramatically increases tacrolimus via potent CYP3A4 inhibition",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Caspofungin 70 mg loading then 50 mg daily; first-line for Aspergillus with fewest drug interactions",
+          "text": "Caspofungin 70 mg load then 50 mg daily; cyclosporine increases caspofungin but tacrolimus interaction is minimal",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Isavuconazole 372 mg TID × 6 doses then 372 mg daily; superior to voriconazole with fewer toxicities",
+          "text": "Isavuconazole 372 mg TID x6 doses then daily; moderate CYP3A4 inhibition with less tacrolimus interaction than voriconazole",
           "correct": false
         }
       ],
@@ -16518,22 +16516,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Class II — continue crystalloid resuscitation",
+          "text": "Class II hemorrhage requiring continued crystalloid resuscitation with 2L bolus and reassessment",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Class III — initiate balanced transfusion with PRBCs, FFP, and platelets in a 1:1:1 ratio",
+          "text": "Class III hemorrhage requiring balanced transfusion with PRBCs, FFP, and platelets in 1:1:1 ratio",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Class IV — emergent thoracotomy",
+          "text": "Class IV hemorrhage requiring emergent thoracotomy for non-compressible torso hemorrhage",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Class I — observation and serial hemoglobin monitoring",
+          "text": "Class I hemorrhage requiring observation with serial hemoglobin monitoring and IV maintenance fluids",
           "correct": false
         }
       ],
@@ -16686,30 +16684,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV diphenhydramine 50 mg",
+          "text": "IV diphenhydramine 50 mg for histamine blockade as the primary life-saving intervention",
           "correct": false
         },
         {
           "id": "b",
-          "text": "IV methylprednisolone 125 mg",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "IM epinephrine 0.3–0.5 mg (1:1000 concentration) in the anterolateral thigh",
+          "text": "IM epinephrine 0.3-0.5 mg (1:1,000) in the anterolateral thigh as first-line treatment",
           "correct": true
         },
         {
+          "id": "c",
+          "text": "IV methylprednisolone 125 mg to prevent the biphasic anaphylactic reaction in 20% of cases",
+          "correct": false
+        },
+        {
           "id": "d",
-          "text": "Nebulized albuterol 2.5 mg for the wheezing",
+          "text": "Nebulized albuterol 2.5 mg for bronchospasm with IV normal saline bolus for volume resuscitation",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. IM epinephrine is THE first-line treatment for anaphylaxis — it is the ONLY drug that simultaneously addresses all life-threatening features: (1) Alpha-1: vasoconstriction reverses hypotension and reduces angioedema; (2) Beta-1: increases cardiac output; (3) Beta-2: bronchodilation relieves wheezing and inhibits mast cell degranulation. Dose: 0.3–0.5 mg IM (1:1000) in anterolateral thigh (NOT deltoid — thigh absorption is faster). Repeat every 5–15 minutes if symptoms persist. IV epinephrine (1:10,000 dilution) is reserved for refractory anaphylaxis or cardiac arrest. Delay in epinephrine administration is the primary factor in anaphylaxis fatalities.",
         "a": "Incorrect. While antihistamines are part of anaphylaxis management, they are ADJUNCTIVE — they treat urticaria and pruritus but do NOT reverse bronchospasm, angioedema, or hemodynamic collapse. Epinephrine is the only first-line drug that addresses all life-threatening features of anaphylaxis.",
-        "b": "Incorrect. Corticosteroids have a delayed onset (4–6 hours) and are given to prevent biphasic anaphylaxis (recurrence 4–12 hours later). They do NOT treat acute anaphylaxis. Administering steroids before epinephrine delays life-saving treatment.",
-        "c": "Correct. IM epinephrine is THE first-line treatment for anaphylaxis — it is the ONLY drug that simultaneously addresses all life-threatening features: (1) Alpha-1: vasoconstriction reverses hypotension and reduces angioedema; (2) Beta-1: increases cardiac output; (3) Beta-2: bronchodilation relieves wheezing and inhibits mast cell degranulation. Dose: 0.3–0.5 mg IM (1:1000) in anterolateral thigh (NOT deltoid — thigh absorption is faster). Repeat every 5–15 minutes if symptoms persist. IV epinephrine (1:10,000 dilution) is reserved for refractory anaphylaxis or cardiac arrest. Delay in epinephrine administration is the primary factor in anaphylaxis fatalities.",
+        "b": "Correct. Corticosteroids have a delayed onset (4–6 hours) and are given to prevent biphasic anaphylaxis (recurrence 4–12 hours later). They do NOT treat acute anaphylaxis. Administering steroids before epinephrine delays life-saving treatment.",
+        "c": "Incorrect. IM epinephrine is THE first-line treatment for anaphylaxis — it is the ONLY drug that simultaneously addresses all life-threatening features: (1) Alpha-1: vasoconstriction reverses hypotension and reduces angioedema; (2) Beta-1: increases cardiac output; (3) Beta-2: bronchodilation relieves wheezing and inhibits mast cell degranulation. Dose: 0.3–0.5 mg IM (1:1000) in anterolateral thigh (NOT deltoid — thigh absorption is faster). Repeat every 5–15 minutes if symptoms persist. IV epinephrine (1:10,000 dilution) is reserved for refractory anaphylaxis or cardiac arrest. Delay in epinephrine administration is the primary factor in anaphylaxis fatalities.",
         "d": "Incorrect. Albuterol treats bronchospasm but does NOT address hypotension, angioedema, or the systemic inflammatory cascade. It is an adjunct to epinephrine for persistent wheezing, not a replacement. Epinephrine itself provides beta-2 bronchodilation and must be given first."
       }
     },
@@ -17055,29 +17053,29 @@
       "answers": [
         {
           "id": "a",
-          "text": "Tenofovir DF/emtricitabine + dolutegravir for 28 days, with follow-up HIV testing at 6 weeks, 12 weeks, and 6 months",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "Zidovudine monotherapy for 4 weeks",
+          "text": "Zidovudine plus lamivudine for 4 weeks as a dual NRTI backbone for occupational PEP",
           "correct": false
         },
         {
+          "id": "b",
+          "text": "Tenofovir DF/emtricitabine plus dolutegravir for 28 days with follow-up HIV testing at 6 weeks and 4 months",
+          "correct": true
+        },
+        {
           "id": "c",
-          "text": "Defer PEP until first-trimester screening labs return",
+          "text": "Bictegravir/emtricitabine/TAF (Biktarvy) for 28 days as a single-tablet regimen with highest adherence",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Bictegravir/emtricitabine/TAF (Biktarvy) for 28 days",
+          "text": "Defer PEP until source patient HIV status is confirmed since PEP requires confirmed HIV-positive source",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. Per current USPHS guidelines, TDF/FTC + dolutegravir is a preferred occupational PEP (oPEP) regimen. Dolutegravir is well-tolerated and safe in pregnancy (updated data removed prior neural tube defect signal). PEP should start as soon as possible, ideally within 1-2 hours, and continue for 28 days. Both dolutegravir and raltegravir are acceptable integrase inhibitors in this setting. Follow-up HIV testing is recommended at 6 weeks, 12 weeks, and 6 months post-exposure.",
-        "a": "Correct. Per current USPHS guidelines, TDF/FTC + dolutegravir is a preferred occupational PEP (oPEP) regimen. Dolutegravir is well-tolerated and safe in pregnancy (updated data removed prior neural tube defect signal). PEP should start as soon as possible, ideally within 1-2 hours, and continue for 28 days. Both dolutegravir and raltegravir are acceptable integrase inhibitors in this setting. Follow-up HIV testing is recommended at 6 weeks, 12 weeks, and 6 months post-exposure.",
-        "b": "Incorrect. Monotherapy is never appropriate for PEP. Three-drug regimens are standard of care for all occupational exposures.",
+        "a": "Incorrect. Per current USPHS guidelines, TDF/FTC + dolutegravir is a preferred occupational PEP (oPEP) regimen. Dolutegravir is well-tolerated and safe in pregnancy (updated data removed prior neural tube defect signal). PEP should start as soon as possible, ideally within 1-2 hours, and continue for 28 days. Both dolutegravir and raltegravir are acceptable integrase inhibitors in this setting. Follow-up HIV testing is recommended at 6 weeks, 12 weeks, and 6 months post-exposure.",
+        "b": "Correct. Monotherapy is never appropriate for PEP. Three-drug regimens are standard of care for all occupational exposures.",
         "c": "Incorrect. PEP effectiveness is directly related to timing — every hour of delay reduces efficacy. PEP should never be delayed for lab results. Baseline labs are drawn simultaneously with PEP initiation.",
         "d": "Incorrect. As of 2025 USPHS guidance, Biktarvy (BIC/FTC/TAF) is now listed as an acceptable alternative PEP regimen and may be used including in pregnancy. However, TDF/FTC + dolutegravir remains the best-established regimen with the longest safety track record for PEP specifically. For this question, the 3-drug TDF/FTC + dolutegravir regimen is the BEST answer because it is the most extensively studied PEP combination, has the most robust pregnancy safety data (particularly for TDF), and aligns with the broadest guideline support. On a board exam, choose the most established option when multiple regimens have emerging acceptability."
       }
@@ -17495,30 +17493,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral vancomycin 125 mg QID for 14 days followed by a prolonged taper",
+          "text": "Oral vancomycin 125 mg QID for 14 days followed by a tapered/pulsed regimen over 6-8 weeks",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Oral fidaxomicin 200 mg BID for 10 days, followed by consideration for fecal microbiota transplantation (FMT) or a live biotherapeutic (e.g., Vowst/SER-109)",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV metronidazole 500 mg every 8 hours for 14 days",
+          "text": "IV metronidazole 500 mg q8h for 14 days since parenteral therapy bypasses colonic inflammation",
           "correct": false
         },
         {
+          "id": "c",
+          "text": "Oral fidaxomicin 200 mg BID for 10 days, with consideration for fecal microbiota transplant if further recurrence",
+          "correct": true
+        },
+        {
           "id": "d",
-          "text": "Oral metronidazole 500 mg TID for 10 days",
+          "text": "Oral metronidazole 500 mg TID for 10 days as first-line for all C. difficile episodes including recurrences",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. For a third or subsequent C. diff recurrence after vancomycin taper failure, fidaxomicin is preferred over vancomycin due to lower recurrence rates (fidaxomicin has a narrower spectrum, better preserving normal flora). Following treatment of the acute episode, strong consideration should be given to microbiome restoration therapy — either fecal microbiota transplantation (FMT) or FDA-approved live biotherapeutics (SER-109/Vowst or RBX2660/Rebyota) to prevent further recurrences. Current IDSA guidelines recommend these therapies after ≥2-3 recurrences.",
         "a": "Incorrect. Oral vancomycin is a standard C. diff treatment, but this patient has already failed a vancomycin taper-and-pulse for her second recurrence. Repeating the same strategy has diminishing returns with each subsequent recurrence.",
-        "b": "Correct. For a third or subsequent C. diff recurrence after vancomycin taper failure, fidaxomicin is preferred over vancomycin due to lower recurrence rates (fidaxomicin has a narrower spectrum, better preserving normal flora). Following treatment of the acute episode, strong consideration should be given to microbiome restoration therapy — either fecal microbiota transplantation (FMT) or FDA-approved live biotherapeutics (SER-109/Vowst or RBX2660/Rebyota) to prevent further recurrences. Current IDSA guidelines recommend these therapies after ≥2-3 recurrences.",
-        "c": "Incorrect. IV metronidazole is no longer recommended as primary therapy for C. diff except as an adjunct to oral vancomycin in fulminant disease (ileus where oral agents may not reach the colon). Oral vancomycin or fidaxomicin are superior.",
+        "b": "Incorrect. For a third or subsequent C. diff recurrence after vancomycin taper failure, fidaxomicin is preferred over vancomycin due to lower recurrence rates (fidaxomicin has a narrower spectrum, better preserving normal flora). Following treatment of the acute episode, strong consideration should be given to microbiome restoration therapy — either fecal microbiota transplantation (FMT) or FDA-approved live biotherapeutics (SER-109/Vowst or RBX2660/Rebyota) to prevent further recurrences. Current IDSA guidelines recommend these therapies after ≥2-3 recurrences.",
+        "c": "Correct. IV metronidazole is no longer recommended as primary therapy for C. diff except as an adjunct to oral vancomycin in fulminant disease (ileus where oral agents may not reach the colon). Oral vancomycin or fidaxomicin are superior.",
         "d": "Incorrect. Oral metronidazole is inferior to oral vancomycin and fidaxomicin for C. diff treatment and is no longer recommended for any C. diff episode by current IDSA/SHEA guidelines. It was previously acceptable for first mild episodes only."
       }
     },
@@ -17735,22 +17733,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral fluconazole 400 mg daily for 8 weeks",
+          "text": "Oral fluconazole 400 mg daily for 8 weeks as monotherapy for CNS cryptococcal disease",
           "correct": false
         },
         {
           "id": "b",
-          "text": "IV liposomal amphotericin B 3-4 mg/kg/day plus flucytosine 100 mg/kg/day divided QID for at least 2 weeks, with serial therapeutic lumbar punctures for pressure management",
+          "text": "IV liposomal amphotericin B plus flucytosine for 2 weeks induction, then fluconazole consolidation",
           "correct": true
         },
         {
           "id": "c",
-          "text": "IV voriconazole 6 mg/kg BID for 2 doses, then 4 mg/kg BID",
+          "text": "IV voriconazole 6 mg/kg BID with therapeutic drug monitoring for superior CNS penetration",
           "correct": false
         },
         {
           "id": "d",
-          "text": "IV caspofungin 70 mg loading dose, then 50 mg daily",
+          "text": "IV caspofungin 70 mg load then 50 mg daily as an echinocandin with Cryptococcus activity",
           "correct": false
         }
       ],
@@ -17815,29 +17813,29 @@
       "answers": [
         {
           "id": "a",
-          "text": "TMP-SMX (15-20 mg/kg/day of TMP component) IV divided every 6-8 hours for 21 days",
-          "correct": false
-        },
-        {
-          "id": "b",
-          "text": "TMP-SMX (15-20 mg/kg/day of TMP component) IV for 21 days PLUS adjunctive prednisone (40 mg BID × 5 days, then 40 mg daily × 5 days, then 20 mg daily × 11 days)",
+          "text": "TMP-SMX 15-20 mg/kg/day IV for 21 days with adjunctive prednisone taper since PaO2 <70 on room air",
           "correct": true
         },
         {
+          "id": "b",
+          "text": "TMP-SMX 15-20 mg/kg/day IV for 10 days without corticosteroids since steroids are contraindicated in PJP",
+          "correct": false
+        },
+        {
           "id": "c",
-          "text": "IV caspofungin 70 mg loading, then 50 mg daily for 14 days",
+          "text": "IV caspofungin 70 mg load then 50 mg daily for 21 days for echinocandin Pneumocystis coverage",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Oral atovaquone 750 mg BID for 21 days",
+          "text": "Oral atovaquone 750 mg BID for 21 days as first-line regardless of severity for better tolerance",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. This is Pneumocystis jirovecii pneumonia (PJP): HIV with CD4 <200, bilateral ground-glass infiltrates, elevated LDH, hypoxemia, dry cough, and cyst forms on silver stain. Treatment: high-dose IV TMP-SMX × 21 days. The critical addition: adjunctive corticosteroids are indicated when PaO₂ <70 mmHg or A-a gradient >35 mmHg. This patient's PaO₂ is 58 (well below 70). Steroids reduce inflammation-mediated lung injury and decrease mortality by ~50% in moderate-severe PJP. Start prednisone BEFORE or WITH TMP-SMX. After PJP treatment, start ART (timing 2-3 weeks after PJP treatment) and initiate secondary PJP prophylaxis with TMP-SMX DS daily.",
-        "a": "Incorrect. TMP-SMX at treatment dose is correct for PJP, but this patient's PaO₂ is 58 mmHg (<70), which meets criteria for adjunctive corticosteroids. TMP-SMX alone without steroids is incomplete management.",
-        "b": "Correct. This is Pneumocystis jirovecii pneumonia (PJP): HIV with CD4 <200, bilateral ground-glass infiltrates, elevated LDH, hypoxemia, dry cough, and cyst forms on silver stain. Treatment: high-dose IV TMP-SMX × 21 days. The critical addition: adjunctive corticosteroids are indicated when PaO₂ <70 mmHg or A-a gradient >35 mmHg. This patient's PaO₂ is 58 (well below 70). Steroids reduce inflammation-mediated lung injury and decrease mortality by ~50% in moderate-severe PJP. Start prednisone BEFORE or WITH TMP-SMX. After PJP treatment, start ART (timing 2-3 weeks after PJP treatment) and initiate secondary PJP prophylaxis with TMP-SMX DS daily.",
+        "a": "Correct. TMP-SMX at treatment dose is correct for PJP, but this patient's PaO₂ is 58 mmHg (<70), which meets criteria for adjunctive corticosteroids. TMP-SMX alone without steroids is incomplete management.",
+        "b": "Incorrect. This is Pneumocystis jirovecii pneumonia (PJP): HIV with CD4 <200, bilateral ground-glass infiltrates, elevated LDH, hypoxemia, dry cough, and cyst forms on silver stain. Treatment: high-dose IV TMP-SMX × 21 days. The critical addition: adjunctive corticosteroids are indicated when PaO₂ <70 mmHg or A-a gradient >35 mmHg. This patient's PaO₂ is 58 (well below 70). Steroids reduce inflammation-mediated lung injury and decrease mortality by ~50% in moderate-severe PJP. Start prednisone BEFORE or WITH TMP-SMX. After PJP treatment, start ART (timing 2-3 weeks after PJP treatment) and initiate secondary PJP prophylaxis with TMP-SMX DS daily.",
         "c": "Incorrect. Echinocandins have no activity against Pneumocystis jirovecii. Despite being classified as a fungus, PJP does not have beta-glucan as a drug target accessible to echinocandins.",
         "d": "Incorrect. Atovaquone is an alternative for MILD PJP (PaO₂ >70) in patients who cannot tolerate TMP-SMX. This patient has moderate-severe PJP (PaO₂ 58) requiring IV TMP-SMX and adjunctive steroids. Atovaquone has lower efficacy in severe disease."
       }
@@ -17855,22 +17853,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral fluconazole 400 mg daily for 3-6 months",
+          "text": "Oral fluconazole 400 mg daily for 3-6 months since all coccidioidomycosis requires antifungal treatment",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Supportive care with close clinical and serologic follow-up; antifungal therapy is not required for uncomplicated primary infection",
+          "text": "Supportive care with close clinical and serologic follow-up since antifungal therapy is reserved for severe or disseminated disease",
           "correct": true
         },
         {
           "id": "c",
-          "text": "IV amphotericin B 1 mg/kg/day for severe pulmonary coccidioidomycosis",
+          "text": "IV amphotericin B 1 mg/kg/day since azole antifungals have inadequate activity against Coccidioides species",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Start RIPE therapy empirically since the CXR findings may represent pulmonary tuberculosis",
+          "text": "Empiric RIPE therapy since bilateral hilar lymphadenopathy with infiltrates is more consistent with tuberculosis",
           "correct": false
         }
       ],
@@ -18055,17 +18053,17 @@
       "answers": [
         {
           "id": "a",
-          "text": "No maternal antiviral therapy; administer HBIG and HBV vaccine to the neonate at birth",
+          "text": "No maternal antiviral therapy; administer HBIG and hepatitis B vaccine to the neonate at birth",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Start tenofovir alafenamide (TAF) or tenofovir disoproxil fumarate (TDF) at 28-32 weeks gestation to reduce viral load before delivery, plus HBIG and vaccine for the neonate",
+          "text": "Start tenofovir at 28-32 weeks to reduce viral load and decrease vertical transmission risk",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Start entecavir immediately and continue through delivery",
+          "text": "Start entecavir immediately since entecavir is the preferred antiviral for HBV in pregnancy",
           "correct": false
         },
         {
@@ -18135,22 +18133,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral chloroquine phosphate for 3 days",
+          "text": "Oral chloroquine phosphate for 3 days as first-line for all Plasmodium species",
           "correct": false
         },
         {
           "id": "b",
-          "text": "IV artesunate followed by transition to artemisinin-based combination therapy (ACT) when able to tolerate oral medications, with close monitoring in ICU",
+          "text": "IV artesunate as initial therapy, transitioning to oral artemisinin combination once improving",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Oral atovaquone-proguanil (Malarone) for 3 days since she was already taking it prophylactically",
+          "text": "Oral atovaquone-proguanil (Malarone) for 3 days for both uncomplicated and severe falciparum",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Oral doxycycline for 7 days plus quinine sulfate for 3 days",
+          "text": "Oral doxycycline 7 days plus quinine sulfate 3 days as combination oral therapy for severe malaria",
           "correct": false
         }
       ],
@@ -18175,22 +18173,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Stereotactic brain biopsy to confirm the diagnosis before starting treatment",
+          "text": "Stereotactic brain biopsy before any empiric treatment to confirm diagnosis and rule out CNS lymphoma",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Pyrimethamine plus sulfadiazine plus leucovorin for at least 6 weeks, with clinical and radiographic reassessment at 2 weeks",
+          "text": "Pyrimethamine plus sulfadiazine plus leucovorin for at least 6 weeks with clinical and imaging reassessment",
           "correct": true
         },
         {
           "id": "c",
-          "text": "High-dose IV TMP-SMX for 4 weeks",
+          "text": "High-dose IV TMP-SMX for 4 weeks with equivalent efficacy to pyrimethamine-based regimens",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Whole-brain radiation therapy for presumed primary CNS lymphoma",
+          "text": "Whole-brain radiation for presumed primary CNS lymphoma given the ring-enhancing lesion pattern",
           "correct": false
         }
       ],
@@ -18535,30 +18533,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Serum uric acid",
+          "text": "Serum uric acid and lipid panel for baseline metabolic parameters before chronic TDF exposure",
           "correct": false
         },
         {
           "id": "b",
-          "text": "HIV Ag/Ab test and creatinine clearance",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "CD4 count",
+          "text": "CD4 count and viral load to assess current immune status and determine PrEP candidacy",
           "correct": false
         },
         {
+          "id": "c",
+          "text": "HIV Ag/Ab test and creatinine clearance to confirm HIV-negative status and adequate renal function for TDF",
+          "correct": true
+        },
+        {
           "id": "d",
-          "text": "Genotypic resistance testing",
+          "text": "Genotypic resistance testing and hepatitis C antibody to rule out resistant virus and co-infection",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. Confirming HIV-negative status (4th-gen Ag/Ab test) is essential to avoid inadvertent monotherapy and resistance development. CrCl assessment is critical because TDF is nephrotoxic and contraindicated if CrCl <60. The full baseline also includes hepatitis B serology, STI screening, and pregnancy testing, but HIV status and renal function are the most immediately safety-critical components.",
         "a": "Incorrect. Serum uric acid is not part of the standard pre-PrEP evaluation. Uric acid testing is relevant for gout management (before starting allopurinol) but has no role in PrEP safety assessment. The critical pre-PrEP labs are HIV status confirmation, renal function, hepatitis B serology, and STI screening.",
-        "b": "Correct. Confirming HIV-negative status (4th-gen Ag/Ab test) is essential to avoid inadvertent monotherapy and resistance development. CrCl assessment is critical because TDF is nephrotoxic and contraindicated if CrCl <60. The full baseline also includes hepatitis B serology, STI screening, and pregnancy testing, but HIV status and renal function are the most immediately safety-critical components.",
-        "c": "Incorrect. CD4 count is a marker of immune function measured ONLY in patients with confirmed HIV infection to stage disease severity and guide opportunistic infection prophylaxis. CD4 has no role in the evaluation of HIV-NEGATIVE patients seeking PrEP. The purpose of PrEP is to PREVENT HIV acquisition in uninfected individuals.",
+        "b": "Incorrect. Confirming HIV-negative status (4th-gen Ag/Ab test) is essential to avoid inadvertent monotherapy and resistance development. CrCl assessment is critical because TDF is nephrotoxic and contraindicated if CrCl <60. The full baseline also includes hepatitis B serology, STI screening, and pregnancy testing, but HIV status and renal function are the most immediately safety-critical components.",
+        "c": "Correct. CD4 count is a marker of immune function measured ONLY in patients with confirmed HIV infection to stage disease severity and guide opportunistic infection prophylaxis. CD4 has no role in the evaluation of HIV-NEGATIVE patients seeking PrEP. The purpose of PrEP is to PREVENT HIV acquisition in uninfected individuals.",
         "d": "Incorrect. HIV genotypic resistance testing is performed in patients with CONFIRMED HIV infection to identify viral mutations that affect antiretroviral drug susceptibility. Resistance testing has no role in PrEP screening for HIV-negative individuals. However, if a patient initiating PrEP is unknowingly acutely HIV-infected (during the window period), resistance testing would become relevant after diagnosis — which underscores why confirming HIV-negative status is the most critical pre-PrEP step."
       }
     },
@@ -18695,22 +18693,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Men who have sex with men",
+          "text": "Men who have sex with men, since Descovy was only studied in heterosexual populations",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Transgender women",
+          "text": "Transgender women on feminizing hormone therapy due to potential drug-hormone interactions",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Individuals at risk of HIV acquisition through receptive vaginal sex",
+          "text": "Individuals at risk through receptive vaginal sex, since this population was excluded from clinical trials",
           "correct": true
         },
         {
           "id": "d",
-          "text": "People who inject drugs",
+          "text": "People who inject drugs, since Descovy does not achieve adequate tissue concentrations at injection sites",
           "correct": false
         }
       ],
@@ -18775,31 +18773,31 @@
       "answers": [
         {
           "id": "a",
-          "text": "CD4 <500",
+          "text": "CD4 <200 since MAC prophylaxis starts at the same threshold as PJP prophylaxis",
           "correct": false
         },
         {
           "id": "b",
-          "text": "CD4 <200",
+          "text": "CD4 <100 since MAC risk begins when CD4 drops below 100, requiring azithromycin 1200 mg weekly",
           "correct": false
         },
         {
           "id": "c",
-          "text": "CD4 <100",
-          "correct": false
+          "text": "CD4 <50, however MAC prophylaxis is often deferred if effective ART will be started promptly",
+          "correct": true
         },
         {
           "id": "d",
-          "text": "CD4 <50; however, MAC prophylaxis is often deferred if effective ART will be started within 2 weeks",
-          "correct": true
+          "text": "CD4 <500 since all HIV patients with any immunosuppression should receive MAC prophylaxis until viral suppression",
+          "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. MAC prophylaxis (azithromycin 1200 mg weekly or clarithromycin 500 mg BID) has historically been indicated at CD4 <50. However, current guidelines note that primary MAC prophylaxis can be deferred if the patient will begin effective ART promptly (within 1-2 weeks), as immune reconstitution from ART is the most effective prevention. If ART cannot be started promptly, MAC prophylaxis should be initiated.",
         "a": "Incorrect. CD4 <500 is far above the threshold for any current OI prophylaxis recommendation. At CD4 500, patients are at relatively low risk for most opportunistic infections. The major OI prophylaxis thresholds are: CD4 <200 (PJP), CD4 <100 (Toxoplasma, if IgG+), and CD4 <50 (MAC).",
         "b": "Incorrect. CD4 <200 is the threshold for Pneumocystis jirovecii pneumonia (PJP) prophylaxis with TMP-SMX, not MAC prophylaxis. Each OI has a distinct CD4 threshold reflecting the degree of immunosuppression required for that pathogen to cause disease. Memorize: 200 = PJP, 100 = Toxo, 50 = MAC.",
-        "c": "Incorrect. CD4 <100 is the threshold for Toxoplasma gondii prophylaxis (in patients with positive Toxoplasma IgG), not MAC. Toxoplasma encephalitis typically occurs at CD4 <100, while MAC disseminated disease occurs at the most severe immunosuppression level (CD4 <50).",
-        "d": "Correct. MAC prophylaxis (azithromycin 1200 mg weekly or clarithromycin 500 mg BID) has historically been indicated at CD4 <50. However, current guidelines note that primary MAC prophylaxis can be deferred if the patient will begin effective ART promptly (within 1-2 weeks), as immune reconstitution from ART is the most effective prevention. If ART cannot be started promptly, MAC prophylaxis should be initiated."
+        "c": "Correct. CD4 <100 is the threshold for Toxoplasma gondii prophylaxis (in patients with positive Toxoplasma IgG), not MAC. Toxoplasma encephalitis typically occurs at CD4 <100, while MAC disseminated disease occurs at the most severe immunosuppression level (CD4 <50).",
+        "d": "Incorrect. MAC prophylaxis (azithromycin 1200 mg weekly or clarithromycin 500 mg BID) has historically been indicated at CD4 <50. However, current guidelines note that primary MAC prophylaxis can be deferred if the patient will begin effective ART promptly (within 1-2 weeks), as immune reconstitution from ART is the most effective prevention. If ART cannot be started promptly, MAC prophylaxis should be initiated."
       }
     },
     {
@@ -18855,22 +18853,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "No treatment needed",
+          "text": "Standard RIPE therapy (rifampin, INH, pyrazinamide, ethambutol) for 6 months since positive TST indicates active disease",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Start RIPE therapy",
+          "text": "Defer treatment and repeat TST in 3 months since a single positive TST in HIV does not require treatment without symptoms",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Isoniazid daily for 9 months plus pyridoxine (B6), or alternatively a rifamycin-based short-course regimen after checking ART interactions",
+          "text": "Isoniazid daily for 9 months plus pyridoxine, or alternatively a rifamycin-based short-course regimen after checking ART interactions",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Repeat TST in 3 months",
+          "text": "Rifampin 600 mg daily for 12 months since extended duration is required in HIV due to impaired immune clearance",
           "correct": false
         }
       ],
@@ -18935,22 +18933,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Ciprofloxacin can still be used at higher doses",
+          "text": "Ciprofloxacin can still be used at higher doses since intermediate susceptibility means the drug works with dose escalation",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Ceftriaxone should be used as it will inhibit the organism at standard doses",
+          "text": "Ceftriaxone should be used since susceptible MIC means standard doses achieve concentrations above the MIC at the infection site",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Neither drug should be used",
+          "text": "Neither drug should be used since any MIC above zero indicates some degree of resistance requiring alternative selection",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Both drugs can be combined for synergy",
+          "text": "Combine both drugs for synergistic killing since dual therapy overcomes intermediate susceptibility through complementary mechanisms",
           "correct": false
         }
       ],
@@ -19095,31 +19093,31 @@
       "answers": [
         {
           "id": "a",
-          "text": "Reduce dose by half",
+          "text": "Reduce the levofloxacin dose by half and add ibuprofen for pain while continuing the course",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Immediately discontinue levofloxacin and avoid all fluoroquinolones",
-          "correct": true
+          "text": "Switch to moxifloxacin since it has lower tendon toxicity risk compared to other fluoroquinolones",
+          "correct": false
         },
         {
           "id": "c",
-          "text": "Add ibuprofen and continue",
+          "text": "Continue levofloxacin and refer to orthopedics for outpatient evaluation after completing the course",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Switch to moxifloxacin",
-          "correct": false
+          "text": "Immediately discontinue levofloxacin, avoid all fluoroquinolones, and switch to an alternative class",
+          "correct": true
         }
       ],
       "explanation": {
         "correct": "Correct. Fluoroquinolone-induced tendinitis requires immediate and permanent discontinuation of the offending drug. The FDA Black Box Warning covers ALL fluoroquinolones for tendinitis, tendon rupture (most commonly Achilles), peripheral neuropathy, CNS effects, and aortic aneurysm/dissection. Risk factors include age >60, concurrent corticosteroid use, solid organ transplant, and CKD. The patient should be switched to an alternative antibiotic class to complete treatment, and the affected extremity should be rested and immobilized. The patient's allergy list should document FQ intolerance.",
         "a": "Incorrect. Dose reduction does not mitigate the risk of fluoroquinolone-induced tendon injury. The mechanism involves direct toxic effects on tenocytes (tendon cells) including collagen degradation, oxidative stress, and matrix metalloproteinase activation — effects that are not simply dose-dependent. The drug must be stopped completely, and the entire fluoroquinolone class must be avoided in this patient going forward.",
-        "b": "Correct. Fluoroquinolone-induced tendinitis requires immediate and permanent discontinuation of the offending drug. The FDA Black Box Warning covers ALL fluoroquinolones for tendinitis, tendon rupture (most commonly Achilles), peripheral neuropathy, CNS effects, and aortic aneurysm/dissection. Risk factors include age >60, concurrent corticosteroid use, solid organ transplant, and CKD. The patient should be switched to an alternative antibiotic class to complete treatment, and the affected extremity should be rested and immobilized. The patient's allergy list should document FQ intolerance.",
+        "b": "Incorrect. Fluoroquinolone-induced tendinitis requires immediate and permanent discontinuation of the offending drug. The FDA Black Box Warning covers ALL fluoroquinolones for tendinitis, tendon rupture (most commonly Achilles), peripheral neuropathy, CNS effects, and aortic aneurysm/dissection. Risk factors include age >60, concurrent corticosteroid use, solid organ transplant, and CKD. The patient should be switched to an alternative antibiotic class to complete treatment, and the affected extremity should be rested and immobilized. The patient's allergy list should document FQ intolerance.",
         "c": "Incorrect. Adding NSAIDs does not prevent fluoroquinolone-induced tendon damage. While NSAIDs may provide symptomatic pain relief, continuing the causative drug risks progression from tendinitis to complete tendon rupture, which requires surgical repair and months of rehabilitation. The drug must be stopped immediately at the first sign of tendon pain.",
-        "d": "Incorrect. ALL fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin, delafloxacin) carry the same FDA Black Box Warning for tendinitis and tendon rupture. The mechanism is a class effect related to the fluoroquinolone chemical structure, not specific to any individual agent. Switching within the class provides no safety benefit and continues the risk of tendon injury."
+        "d": "Correct. ALL fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin, delafloxacin) carry the same FDA Black Box Warning for tendinitis and tendon rupture. The mechanism is a class effect related to the fluoroquinolone chemical structure, not specific to any individual agent. Switching within the class provides no safety benefit and continues the risk of tendon injury."
       }
     },
     {
@@ -19135,22 +19133,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Anaphylaxis",
+          "text": "True IgE-mediated anaphylaxis requiring permanent vancomycin discontinuation and allergy documentation",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Red man syndrome — slow infusion rate and premedicate with diphenhydramine",
+          "text": "Red man syndrome from histamine release; slow the infusion rate and premedicate with diphenhydramine",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Drug allergy — permanently discontinue vancomycin",
+          "text": "Drug-induced lupus erythematosus requiring vancomycin discontinuation and anti-histone antibody testing",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Serotonin syndrome",
+          "text": "Serotonin syndrome from vancomycin-SSRI interaction requiring both agents held and cyproheptadine given",
           "correct": false
         }
       ],
@@ -19215,31 +19213,31 @@
       "answers": [
         {
           "id": "a",
-          "text": "Avoid grapefruit juice",
+          "text": "Avoid grapefruit juice during treatment as it inhibits CYP3A4 metabolism of metronidazole",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Take with a full glass of milk",
+          "text": "Take with a full glass of milk to reduce GI irritation and enhance oral bioavailability",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Avoid all alcohol during and 48-72 hours after treatment (disulfiram reaction)",
-          "correct": true
+          "text": "Report orange-red discoloration of urine as a sign of hepatotoxicity requiring drug discontinuation",
+          "correct": false
         },
         {
           "id": "d",
-          "text": "Report orange urine",
-          "correct": false
+          "text": "Avoid all alcohol during and for 48-72 hours after completing treatment due to disulfiram-like reaction risk",
+          "correct": true
         }
       ],
       "explanation": {
         "correct": "Correct. Metronidazole inhibits aldehyde dehydrogenase, causing a disulfiram-like reaction when combined with alcohol. Symptoms include severe nausea, vomiting, flushing, abdominal cramps, headache, and tachycardia. Patients must avoid ALL forms of alcohol — including beer, wine, liquor, alcohol-containing mouthwash, and even some food preparations — during metronidazole therapy and for at least 48-72 hours after the last dose. This is one of the most important drug-alcohol interactions in clinical practice.",
         "a": "Incorrect. Grapefruit juice inhibits CYP3A4 and CYP1A2 enzymes, affecting the metabolism of drugs like statins, calcium channel blockers, and certain immunosuppressants. Metronidazole's critical interaction is with alcohol (disulfiram-like reaction), not grapefruit. While metronidazole is partially metabolized by CYP enzymes, grapefruit interaction is not clinically significant.",
         "b": "Incorrect. Taking medications with milk is a counseling point for tetracyclines (doxycycline, tetracycline) and fluoroquinolones, where calcium chelation reduces drug absorption. Metronidazole absorption is not significantly affected by dairy products. The critical counseling point for metronidazole is alcohol avoidance.",
-        "c": "Correct. Metronidazole inhibits aldehyde dehydrogenase, causing a disulfiram-like reaction when combined with alcohol. Symptoms include severe nausea, vomiting, flushing, abdominal cramps, headache, and tachycardia. Patients must avoid ALL forms of alcohol — including beer, wine, liquor, alcohol-containing mouthwash, and even some food preparations — during metronidazole therapy and for at least 48-72 hours after the last dose. This is one of the most important drug-alcohol interactions in clinical practice.",
-        "d": "Incorrect. Orange discoloration of body fluids (urine, tears, sweat, saliva) is a characteristic and harmless side effect of rifampin (and rifabutin), not metronidazole. Patients on rifampin should be counseled that this discoloration is expected and may permanently stain contact lenses and clothing."
+        "c": "Incorrect. Metronidazole inhibits aldehyde dehydrogenase, causing a disulfiram-like reaction when combined with alcohol. Symptoms include severe nausea, vomiting, flushing, abdominal cramps, headache, and tachycardia. Patients must avoid ALL forms of alcohol — including beer, wine, liquor, alcohol-containing mouthwash, and even some food preparations — during metronidazole therapy and for at least 48-72 hours after the last dose. This is one of the most important drug-alcohol interactions in clinical practice.",
+        "d": "Correct. Orange discoloration of body fluids (urine, tears, sweat, saliva) is a characteristic and harmless side effect of rifampin (and rifabutin), not metronidazole. Patients on rifampin should be counseled that this discoloration is expected and may permanently stain contact lenses and clothing."
       }
     },
     {
@@ -19295,30 +19293,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Oral amoxicillin",
+          "text": "Oral amoxicillin-clavulanate 875/125 mg BID for oral step-down in stable endocarditis",
           "correct": false
         },
         {
           "id": "b",
-          "text": "IV nafcillin, oxacillin, or cefazolin",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "IV vancomycin",
+          "text": "IV vancomycin targeting AUC/MIC 400-600 for empiric MRSA coverage until susceptibilities confirm MSSA",
           "correct": false
         },
         {
+          "id": "c",
+          "text": "IV nafcillin 2 g q4h or cefazolin 2 g q8h since anti-staphylococcal beta-lactams are superior for MSSA",
+          "correct": true
+        },
+        {
           "id": "d",
-          "text": "Oral doxycycline",
+          "text": "Oral doxycycline 100 mg BID for 6 weeks to achieve adequate bactericidal levels for staphylococci",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. For MSSA native-valve endocarditis, anti-staphylococcal penicillins (nafcillin/oxacillin) or cefazolin are appropriate first-line agents. Recent evidence suggests cefazolin may be non-inferior to nafcillin/oxacillin with fewer adverse effects (phlebitis, hepatitis). Vancomycin is reserved for MRSA or true beta-lactam allergy, as it has inferior bactericidal activity against MSSA.",
         "a": "Incorrect. Oral therapy is NEVER appropriate for active infective endocarditis (with limited exceptions for select cases in the POET trial using specific oral combinations after initial IV stabilization). Endocarditis requires prolonged IV antibiotic therapy (4-6 weeks for native valve, 6+ weeks for prosthetic valve) to achieve sustained bactericidal serum concentrations needed to sterilize vegetations — densely packed bacterial biofilms with poor antibiotic penetration.",
-        "b": "Correct. For MSSA native-valve endocarditis, anti-staphylococcal penicillins (nafcillin/oxacillin) or cefazolin are appropriate first-line agents. Recent evidence suggests cefazolin may be non-inferior to nafcillin/oxacillin with fewer adverse effects (phlebitis, hepatitis). Vancomycin is reserved for MRSA or true beta-lactam allergy, as it has inferior bactericidal activity against MSSA.",
-        "c": "Incorrect. IV vancomycin is reserved for MRSA endocarditis or patients with true beta-lactam anaphylaxis. For MSSA endocarditis, vancomycin is clearly INFERIOR to anti-staphylococcal beta-lactams, with clinical studies showing higher relapse rates, slower bacteremia clearance, and increased mortality when vancomycin is used instead of nafcillin/oxacillin/cefazolin for MSSA infections. This inferiority is attributed to vancomycin's slower bactericidal activity and poorer tissue penetration compared to beta-lactams.",
+        "b": "Incorrect. For MSSA native-valve endocarditis, anti-staphylococcal penicillins (nafcillin/oxacillin) or cefazolin are appropriate first-line agents. Recent evidence suggests cefazolin may be non-inferior to nafcillin/oxacillin with fewer adverse effects (phlebitis, hepatitis). Vancomycin is reserved for MRSA or true beta-lactam allergy, as it has inferior bactericidal activity against MSSA.",
+        "c": "Correct. IV vancomycin is reserved for MRSA endocarditis or patients with true beta-lactam anaphylaxis. For MSSA endocarditis, vancomycin is clearly INFERIOR to anti-staphylococcal beta-lactams, with clinical studies showing higher relapse rates, slower bacteremia clearance, and increased mortality when vancomycin is used instead of nafcillin/oxacillin/cefazolin for MSSA infections. This inferiority is attributed to vancomycin's slower bactericidal activity and poorer tissue penetration compared to beta-lactams.",
         "d": "Incorrect. Doxycycline is a BACTERIOSTATIC antibiotic (inhibits protein synthesis without killing bacteria) and is fundamentally inappropriate for endocarditis, which requires BACTERICIDAL therapy to sterilize cardiac vegetations. Bacteriostatic agents cannot achieve the sustained killing needed to eradicate organisms embedded in the fibrin-platelet matrix of vegetations. Additionally, doxycycline has limited anti-staphylococcal activity at standard doses."
       }
     },
@@ -19535,31 +19533,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Azithromycin 500 mg IV daily as monotherapy — macrolides provide adequate coverage for hospital-acquired pneumonia",
+          "text": "Ceftriaxone 2 g IV daily plus azithromycin 500 mg IV daily for standard empiric HAP/VAP coverage",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Ceftriaxone 2 g IV daily — third-generation cephalosporins cover most gram-negative pathogens including Pseudomonas",
+          "text": "Ertapenem 1 g IV daily as a once-daily carbapenem with anti-pseudomonal coverage",
           "correct": false
         },
         {
           "id": "c",
-          "text": "An anti-pseudomonal beta-lactam (piperacillin-tazobactam, cefepime, or meropenem) with consideration of combination therapy pending susceptibilities",
+          "text": "Piperacillin-tazobactam 4.5 g IV q6h (extended infusion) with consideration of adding tobramycin pending susceptibilities",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Oral amoxicillin-clavulanate 875/125 mg BID — biofilm-active oral agents are equivalent to IV for ventilator-associated pneumonia",
+          "text": "Ampicillin-sulbactam 3 g IV q6h as a beta-lactam/beta-lactamase inhibitor with broad gram-negative activity",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. For suspected Pseudomonal VAP in a facility with high MDR rates, empiric combination therapy (anti-pseudomonal beta-lactam + a second anti-pseudomonal agent from a different class) may be warranted to maximize coverage until susceptibilities return. Once sensitivities are available, de-escalate to monotherapy with the most narrow-spectrum effective agent. ATS/IDSA VAP guidelines recommend dual empiric therapy when MDR risk factors are present.",
-        "a": "Incorrect. Azithromycin is a macrolide antibiotic with activity against gram-positive cocci and atypical pathogens (Mycoplasma, Chlamydophila, Legionella). It has NO activity against Pseudomonas aeruginosa — a gram-negative rod with intrinsic resistance to macrolides. Azithromycin is used for community-acquired pneumonia to cover atypicals but has no role in Pseudomonal infections.",
-        "b": "Incorrect. Ceftriaxone is a 3rd-generation cephalosporin with broad gram-negative activity but does NOT cover Pseudomonas aeruginosa. This is a critical board concept: among cephalosporins, only ceftazidime (3rd-gen) and cefepime (4th-gen) have anti-pseudomonal activity. Ceftriaxone is an excellent drug for many community-acquired infections but should NEVER be relied upon for Pseudomonas coverage.",
-        "c": "Correct. For suspected Pseudomonal VAP in a facility with high MDR rates, empiric combination therapy (anti-pseudomonal beta-lactam + a second anti-pseudomonal agent from a different class) may be warranted to maximize coverage until susceptibilities return. Once sensitivities are available, de-escalate to monotherapy with the most narrow-spectrum effective agent. ATS/IDSA VAP guidelines recommend dual empiric therapy when MDR risk factors are present.",
-        "d": "Incorrect. Amoxicillin-clavulanate has NO anti-pseudomonal activity. Among the penicillin-class antibiotics, only piperacillin (typically combined with tazobactam as pip-tazo) and ticarcillin have anti-pseudomonal activity. Additionally, oral therapy is completely inappropriate for ventilator-associated pneumonia — a severe, life-threatening ICU infection requiring IV antibiotics with optimal pulmonary penetration and bioavailability."
+        "a": "Incorrect. Ceftriaxone plus azithromycin is the standard regimen for community-acquired pneumonia (CAP), but it does NOT cover Pseudomonas. Ceftriaxone is a 3rd-generation cephalosporin without anti-pseudomonal activity.",
+        "b": "Incorrect. Ertapenem is the one carbapenem that does NOT cover Pseudomonas. This is a high-yield board distinction: meropenem, doripenem, and imipenem have anti-pseudomonal activity, but ertapenem does not.",
+        "c": "Correct. Piperacillin-tazobactam is an anti-pseudomonal penicillin/beta-lactamase inhibitor combination. Extended infusion optimizes time-dependent bactericidal activity. In facilities with high MDR rates, ATS/IDSA VAP guidelines recommend empiric dual therapy until susceptibilities return, then de-escalation.",
+        "d": "Incorrect. Ampicillin-sulbactam does NOT have anti-pseudomonal activity. Among penicillin/BLI combinations, only piperacillin-tazobactam covers Pseudomonas."
       }
     },
     {
@@ -19655,22 +19652,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Azithromycin 1 g PO single dose",
+          "text": "Azithromycin 1 g PO single dose plus metronidazole 2 g PO for presumed polymicrobial STI coverage",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Doxycycline 100 mg BID x7 days",
+          "text": "Doxycycline 100 mg PO BID for 7 days as monotherapy covering both N. gonorrhoeae and C. trachomatis",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Ceftriaxone 500 mg IM single dose (for patients <150 kg), plus doxycycline 100 mg BID × 7 days for presumptive chlamydia co-treatment",
+          "text": "Ceftriaxone 500 mg IM single dose plus doxycycline 100 mg PO BID for 7 days for dual GC and chlamydia coverage",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Ciprofloxacin 500 mg PO single dose",
+          "text": "Ciprofloxacin 500 mg PO single dose plus azithromycin 1 g PO for fluoroquinolone plus macrolide dual therapy",
           "correct": false
         }
       ],
@@ -19855,30 +19852,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Aminoglycosides",
+          "text": "Aminoglycosides and nitrofurantoin since these agents most aggressively disrupt colonic anaerobic flora",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Fluoroquinolones and clindamycin",
-          "correct": true
-        },
-        {
-          "id": "c",
-          "text": "Nitrofurantoin",
+          "text": "Tetracyclines and macrolides as broad-spectrum oral antibiotics with high fecal concentrations",
           "correct": false
         },
         {
+          "id": "c",
+          "text": "Fluoroquinolones and clindamycin as the antibiotic classes most strongly associated with C. difficile",
+          "correct": true
+        },
+        {
           "id": "d",
-          "text": "Tetracyclines",
+          "text": "Vancomycin and daptomycin since gram-positive coverage eliminates protective Lactobacillus species",
           "correct": false
         }
       ],
       "explanation": {
         "correct": "Correct. The antibiotics most strongly associated with C. difficile infection include fluoroquinolones (particularly the fluoroquinolone-resistant BI/NAP1/027 epidemic strain), clindamycin (historically the most notorious C. diff risk factor), broad-spectrum cephalosporins (2nd and 3rd generation), and carbapenems. These agents cause extensive disruption of normal colonic anaerobic flora, eliminating the competitive inhibition ('colonization resistance') that normally prevents C. difficile from proliferating and producing toxins A and B.",
         "a": "Incorrect. Aminoglycosides are not strongly associated with C. difficile infection because they are poorly absorbed orally (used IV/IM for systemic infections) and have minimal impact on the anaerobic colonic flora. C. diff risk correlates with disruption of normal gut commensal bacteria, particularly Bacteroides and other anaerobes that provide colonization resistance against C. difficile.",
-        "b": "Correct. The antibiotics most strongly associated with C. difficile infection include fluoroquinolones (particularly the fluoroquinolone-resistant BI/NAP1/027 epidemic strain), clindamycin (historically the most notorious C. diff risk factor), broad-spectrum cephalosporins (2nd and 3rd generation), and carbapenems. These agents cause extensive disruption of normal colonic anaerobic flora, eliminating the competitive inhibition ('colonization resistance') that normally prevents C. difficile from proliferating and producing toxins A and B.",
-        "c": "Incorrect. Nitrofurantoin is an excellent choice for uncomplicated cystitis partly because it concentrates almost entirely in urine with minimal systemic absorption and minimal disruption of normal gut flora. This translates to very low C. difficile risk compared to systemic antibiotics like fluoroquinolones and cephalosporins.",
+        "b": "Incorrect. The antibiotics most strongly associated with C. difficile infection include fluoroquinolones (particularly the fluoroquinolone-resistant BI/NAP1/027 epidemic strain), clindamycin (historically the most notorious C. diff risk factor), broad-spectrum cephalosporins (2nd and 3rd generation), and carbapenems. These agents cause extensive disruption of normal colonic anaerobic flora, eliminating the competitive inhibition ('colonization resistance') that normally prevents C. difficile from proliferating and producing toxins A and B.",
+        "c": "Correct. Nitrofurantoin is an excellent choice for uncomplicated cystitis partly because it concentrates almost entirely in urine with minimal systemic absorption and minimal disruption of normal gut flora. This translates to very low C. difficile risk compared to systemic antibiotics like fluoroquinolones and cephalosporins.",
         "d": "Incorrect. Tetracyclines (doxycycline, minocycline) are not among the antibiotic classes most commonly associated with C. difficile infection. In fact, tetracyclines have been studied as potential C. diff treatment adjuncts. While any antibiotic can theoretically predispose to C. diff, the risk is substantially lower with tetracyclines compared to fluoroquinolones, clindamycin, and broad-spectrum cephalosporins."
       }
     },
@@ -19975,31 +19972,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Serum creatinine",
+          "text": "Serum creatinine and BUN twice weekly to detect early nephrotoxicity from linezolid accumulation",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Complete blood count for thrombocytopenia",
+          "text": "Complete blood count weekly to detect thrombocytopenia from linezolid-induced myelosuppression",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Liver function tests",
+          "text": "Trough drug levels before the 4th dose to ensure therapeutic concentrations of 15-20 mcg/mL",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Drug levels",
+          "text": "Weekly visual acuity testing to detect early optic neuropathy, linezolid's most common adverse effect",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Complete blood count (CBC) must be monitored at least weekly in all patients receiving linezolid, primarily for thrombocytopenia — the most common and clinically significant adverse effect. Linezolid causes reversible myelosuppression (thrombocytopenia > anemia > leukopenia) through inhibition of mitochondrial protein synthesis in bone marrow precursor cells. Risk increases significantly with treatment courses exceeding 14 days, baseline thrombocytopenia, or renal impairment. If platelets drop below 100,000 or decrease by >25% from baseline, linezolid should be discontinued if clinically feasible.",
-        "a": "Incorrect. While renal function monitoring is important for many antibiotics (aminoglycosides, vancomycin, amphotericin B), nephrotoxicity is NOT a primary concern with linezolid. Linezolid undergoes predominantly non-renal clearance (oxidation of the morpholine ring) and does not require dose adjustment in renal impairment. The critical monitoring parameter is the CBC for thrombocytopenia.",
-        "b": "Correct. Complete blood count (CBC) must be monitored at least weekly in all patients receiving linezolid, primarily for thrombocytopenia — the most common and clinically significant adverse effect. Linezolid causes reversible myelosuppression (thrombocytopenia > anemia > leukopenia) through inhibition of mitochondrial protein synthesis in bone marrow precursor cells. Risk increases significantly with treatment courses exceeding 14 days, baseline thrombocytopenia, or renal impairment. If platelets drop below 100,000 or decrease by >25% from baseline, linezolid should be discontinued if clinically feasible.",
-        "c": "Incorrect. While periodic LFT monitoring may be reasonable during prolonged linezolid courses, liver function testing is not the primary mandated monitoring parameter. Weekly CBC for thrombocytopenia is the critical, guideline-recommended surveillance test. Hepatotoxicity is not among linezolid's primary dose-limiting toxicities (unlike methotrexate, INH, or azole antifungals).",
-        "d": "Incorrect. Linezolid does not require therapeutic drug monitoring (TDM) — its dosing is standard (600 mg PO/IV BID) without need for serum level measurement. This contrasts with vancomycin (AUC-guided dosing), aminoglycosides (peak/trough or extended-interval levels), and voriconazole (trough monitoring), all of which require TDM due to variable pharmacokinetics or narrow therapeutic windows."
+        "a": "Incorrect. Nephrotoxicity is not a primary linezolid adverse effect. Renal monitoring is critical for vancomycin and aminoglycosides, but linezolid undergoes predominantly non-renal clearance.",
+        "b": "Correct. CBC must be monitored at least weekly in all patients receiving linezolid, primarily for thrombocytopenia. Linezolid causes reversible myelosuppression through inhibition of mitochondrial protein synthesis. Risk increases with courses >14 days.",
+        "c": "Incorrect. Linezolid does not require therapeutic drug monitoring. It has predictable pharmacokinetics with standard dosing of 600 mg PO/IV BID. Trough monitoring is required for vancomycin and voriconazole, not linezolid.",
+        "d": "Incorrect. While optic neuropathy is a recognized linezolid adverse effect, it occurs with prolonged use (>28 days) and is NOT the most common adverse effect. Thrombocytopenia is far more frequent and develops earlier."
       }
     },
     {
@@ -20295,22 +20291,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Hepatotoxicity",
+          "text": "Hepatotoxicity with transaminase elevation requiring weekly liver function monitoring",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Bone marrow suppression (neutropenia, thrombocytopenia)",
+          "text": "Bone marrow suppression (neutropenia, thrombocytopenia) requiring weekly CBC monitoring",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Ototoxicity",
+          "text": "Ototoxicity with irreversible sensorineural hearing loss requiring baseline and serial audiometry",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Tendon rupture",
+          "text": "Fluoroquinolone-class tendon rupture risk requiring activity modification and tendon assessment",
           "correct": false
         }
       ],
@@ -20455,22 +20451,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Ivermectin",
+          "text": "Ivermectin 200 mcg/kg single dose repeated in 2 weeks as first-line for all intestinal helminths",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Permethrin cream",
+          "text": "Permethrin cream 5% applied perianally at bedtime as topical treatment preferred over systemic",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Mebendazole or albendazole",
+          "text": "Mebendazole 100 mg or albendazole 400 mg single dose, repeated in 2 weeks for the entire household",
           "correct": true
         },
         {
           "id": "d",
-          "text": "Metronidazole",
+          "text": "Metronidazole 500 mg TID for 7 days for antiprotozoal coverage of the suspected perianal infection",
           "correct": false
         }
       ],
@@ -20495,22 +20491,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "TST/PPD",
+          "text": "Tuberculin skin test (TST/PPD) which remains the gold standard regardless of BCG history",
           "correct": false
         },
         {
           "id": "b",
-          "text": "IGRA (QuantiFERON or T-SPOT)",
+          "text": "IGRA (QuantiFERON or T-SPOT) preferred in BCG-vaccinated individuals as it is unaffected by prior BCG",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Chest X-ray alone",
+          "text": "Chest X-ray alone without immunologic testing since imaging is sufficient for latent TB diagnosis",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Sputum AFB smear",
+          "text": "Sputum AFB smear and culture required to distinguish latent from active TB before treatment",
           "correct": false
         }
       ],
@@ -22028,22 +22024,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Necrotizing fasciitis; emergent surgical exploration",
+          "text": "Necrotizing fasciitis requiring emergent surgical exploration, IV broad-spectrum antibiotics, and ICU admission",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Non-purulent cellulitis; IV or oral beta-lactam (cephalexin or cefazolin) — covers predominantly streptococcal organisms",
+          "text": "Non-purulent cellulitis; oral or IV beta-lactam (cephalexin or cefazolin) covering streptococci as the primary pathogen",
           "correct": true
         },
         {
           "id": "c",
-          "text": "MRSA skin and soft tissue infection; oral TMP-SMX for 5-7 days",
+          "text": "MRSA skin and soft tissue infection; oral TMP-SMX or doxycycline targeting community-acquired MRSA",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Erysipelas; IV penicillin G 2-4 million units q4-6h for 14 days",
+          "text": "Erysipelas; IV penicillin G targeting group A streptococcus with sharply demarcated raised borders",
           "correct": false
         }
       ],
@@ -22113,22 +22109,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Stage 1 pressure injury — erythema without skin breakdown; routine repositioning every 2 hours",
+          "text": "Stage 1 pressure injury with non-blanchable erythema; reposition every 2 hours and apply moisture barrier cream",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Suspected deep tissue pressure injury (sDTPI); offload heel completely using foam boots/pillows; do NOT debride intact skin; monitor for evolution",
+          "text": "Suspected deep tissue pressure injury (sDTPI); offload heel completely with foam boots, do NOT debride intact skin, monitor for evolution",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Stage 3 pressure injury — treat with wet-to-dry dressings and debridement",
+          "text": "Stage 3 pressure injury with full-thickness skin loss and visible subcutaneous fat; apply wound dressings and consult wound care",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Unstageable — cover with povidone-iodine and reassess daily",
+          "text": "Unstageable pressure injury with full-thickness loss obscured by slough or eschar; cannot classify until necrotic tissue is removed",
           "correct": false
         }
       ],
@@ -22685,22 +22681,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Bacterial superinfection risk",
+          "text": "Bacterial superinfection of vesicles requiring empiric antibiotic coverage",
           "correct": false
         },
         {
           "id": "b",
-          "text": "V1 involvement with risk of herpes zoster ophthalmicus",
+          "text": "Corneal involvement (herpes zoster ophthalmicus) with high risk of keratitis from nasociliary branch involvement",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Impending Ramsay Hunt syndrome",
+          "text": "Ramsay Hunt syndrome with facial nerve palsy and vesicular eruption in the external auditory canal",
           "correct": false
         },
         {
           "id": "d",
-          "text": "PHN development",
+          "text": "Postherpetic neuralgia (PHN) with chronic neuropathic pain persisting after vesicle resolution",
           "correct": false
         }
       ],
@@ -22885,22 +22881,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV corticosteroids",
+          "text": "Systemic corticosteroids (methylprednisolone 2 mg/kg/day) to suppress immune-mediated epidermal destruction",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Immediately discontinue the offending drug",
+          "text": "Immediately discontinue the suspected offending drug since drug withdrawal is the single most important intervention",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Silver sulfadiazine",
+          "text": "Topical silver sulfadiazine to all affected areas for antimicrobial prophylaxis and wound bed moisture",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Oral antihistamines",
+          "text": "Oral antihistamines (cetirizine 10 mg BID) and topical corticosteroids for symptomatic relief of pruritus",
           "correct": false
         }
       ],
@@ -23000,36 +22996,35 @@
         "SJS/TEN"
       ],
       "tier3": [],
-      "difficulty": "medium",
-      "question": "A 40-year-old man is admitted with toxic epidermal necrolysis involving 35% BSA detachment. The burn team is calculating his predicted mortality using a validated scoring system specific to TEN. Which of the following severity-of-illness tools is used to predict mortality in TEN?",
+      "difficulty": "hard",
+      "question": "A 40-year-old man is admitted with toxic epidermal necrolysis involving 35% BSA detachment. The ACNP is calculating his SCORTEN to predict mortality. Which of the following is one of the 7 validated SCORTEN parameters?",
       "answers": [
         {
           "id": "a",
-          "text": "APACHE II",
+          "text": "PaO2/FiO2 ratio less than 300 indicating acute respiratory compromise",
           "correct": false
         },
         {
           "id": "b",
-          "text": "SCORTEN",
+          "text": "Serum bicarbonate less than 20 mEq/L indicating metabolic acidosis",
           "correct": true
         },
         {
           "id": "c",
-          "text": "SOFA (Sequential Organ Failure Assessment)",
+          "text": "Platelet count less than 100,000/mm³ indicating consumptive coagulopathy",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Braden scale",
+          "text": "Glasgow Coma Scale less than 13 indicating neurologic impairment from systemic toxicity",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. SCORTEN (Score of Toxic Epidermal Necrolysis) is a validated severity-of-illness scoring system specifically developed for TEN, using 7 clinical parameters assessed within the first 24 hours of admission: (1) age >40; (2) heart rate >120; (3) cancer/hematologic malignancy; (4) BSA detachment >10%; (5) BUN >28 mg/dL; (6) serum glucose >252 mg/dL; (7) serum bicarbonate <20 mEq/L. Each parameter scores 1 point, with predicted mortality ranging from ~3% (score 0-1) to >90% (score ≥5). SCORTEN guides prognosis discussions, ICU resource allocation, and treatment intensity.",
-        "a": "Incorrect. APACHE II (Acute Physiology and Chronic Health Evaluation) is a general ICU severity-of-illness scoring system used across all critical care diagnoses. While it provides overall mortality prediction for ICU patients, it was NOT developed or validated specifically for TEN and does not include TEN-specific variables (such as BSA detachment percentage). SCORTEN was specifically designed and validated for TEN prognosis.",
-        "b": "Correct. SCORTEN (Score of Toxic Epidermal Necrolysis) is a validated severity-of-illness scoring system specifically developed for TEN, using 7 clinical parameters assessed within the first 24 hours of admission: (1) age >40; (2) heart rate >120; (3) cancer/hematologic malignancy; (4) BSA detachment >10%; (5) BUN >28 mg/dL; (6) serum glucose >252 mg/dL; (7) serum bicarbonate <20 mEq/L. Each parameter scores 1 point, with predicted mortality ranging from ~3% (score 0-1) to >90% (score ≥5). SCORTEN guides prognosis discussions, ICU resource allocation, and treatment intensity.",
-        "c": "Incorrect. SOFA (Sequential Organ Failure Assessment) is a scoring system used to quantify organ dysfunction in critically ill patients with sepsis. It evaluates 6 organ systems (respiratory, cardiovascular, hepatic, coagulation, renal, neurological) and is used to track disease progression and treatment response in sepsis/septic shock. SOFA is not specific to TEN and does not include dermatologic parameters.",
-        "d": "Incorrect. The Braden scale is a validated tool for assessing PRESSURE ULCER risk in hospitalized patients, evaluating 6 subscales: sensory perception, moisture, activity, mobility, nutrition, and friction/shear. It has no applicability to TEN severity assessment or mortality prediction. While TEN patients ARE at high risk for skin breakdown (due to immobility and epidermal loss), the Braden scale evaluates pressure injury risk — a different clinical concern."
+        "a": "Incorrect. PaO2/FiO2 ratio is a component of the Berlin ARDS criteria and the SOFA score, not SCORTEN.",
+        "b": "Correct. Serum bicarbonate <20 mEq/L is one of the 7 SCORTEN parameters: (1) age >40; (2) HR >120; (3) cancer/hematologic malignancy; (4) BSA >10%; (5) BUN >28; (6) glucose >252; (7) bicarbonate <20. Predicted mortality ranges from ~3% (score 0-1) to >90% (score ≥5).",
+        "c": "Incorrect. Platelet count is a component of the SOFA score (coagulation domain), not SCORTEN.",
+        "d": "Incorrect. GCS is a component of SOFA and APACHE II, not SCORTEN."
       }
     },
     {
@@ -23205,22 +23200,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Tdap + TIG",
+          "text": "Tdap vaccine plus tetanus immune globulin (TIG) at separate injection sites",
           "correct": false
         },
         {
           "id": "b",
-          "text": "No tetanus prophylaxis needed",
+          "text": "No tetanus prophylaxis needed since he completed primary series with booster within 5 years",
           "correct": true
         },
         {
           "id": "c",
-          "text": "TIG alone",
+          "text": "Tetanus immune globulin (TIG) alone without vaccine since he completed the primary series",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Tdap booster only",
+          "text": "Tdap booster only without TIG since the wound is clean and his series is complete",
           "correct": false
         }
       ],
@@ -23821,22 +23816,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Staphylococcus aureus is still most common; empiric vancomycin for MRSA coverage",
+          "text": "Staphylococcus aureus with empiric vancomycin plus anti-pseudomonal beta-lactam pending cultures",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Salmonella species is the classic sickle cell osteomyelitis organism; cover with a fluoroquinolone (ciprofloxacin) OR third-generation cephalosporin (ceftriaxone) — but S. aureus remains common so dual coverage is often needed",
+          "text": "Salmonella species with empiric fluoroquinolone or 3rd-generation cephalosporin and orthopedic consult",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Streptococcus pneumoniae; empiric penicillin G",
+          "text": "Streptococcus pneumoniae with empiric penicillin G plus rifampin based on functional asplenia",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Pseudomonas aeruginosa from functional asplenia; antipseudomonal beta-lactam (pip-tazo)",
+          "text": "Pseudomonas aeruginosa with empiric piperacillin-tazobactam due to compromised immune function",
           "correct": false
         }
       ],
@@ -24119,22 +24114,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Emergent surgical spinal fusion",
+          "text": "Emergent surgical spinal fusion with posterior instrumentation to prevent kyphotic deformity",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Initiate osteoporosis treatment (bisphosphonate or denosumab) and consider vertebral augmentation if pain persists",
+          "text": "Initiate osteoporosis treatment (bisphosphonate or denosumab) and consider vertebroplasty for pain",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Strict bed rest for 6 weeks with a thoracolumbar brace",
+          "text": "Strict bed rest for 6 weeks with thoracolumbar brace and calcium/vitamin D without pharmacotherapy",
           "correct": false
         },
         {
           "id": "d",
-          "text": "MRI to rule out malignancy before any treatment",
+          "text": "MRI of entire spine to rule out malignancy or infection before any osteoporosis treatment",
           "correct": false
         }
       ],
@@ -24731,35 +24726,34 @@
       ],
       "tier3": [],
       "difficulty": "medium",
-      "question": "A 62-year-old man with chronic gout and a serum uric acid of 9.8 mg/dL is being evaluated for initiation of urate-lowering therapy (ULT). He is currently experiencing a mild gout flare in his left ankle that began 2 days ago. Which of the following medications should NOT be started or adjusted during an acute gout flare?",
+      "question": "A 62-year-old man with chronic gout and a serum uric acid of 9.8 mg/dL is being evaluated for initiation of urate-lowering therapy (ULT). He is currently experiencing an acute gout flare in his right first MTP joint. The ACNP plans to start allopurinol. Which statement about the timing of ULT initiation is most accurate?",
       "answers": [
         {
           "id": "a",
-          "text": "Colchicine — should not be started during a flare",
+          "text": "Start allopurinol immediately during the flare at full dose (300 mg daily) to begin lowering uric acid quickly",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Allopurinol — should not be started during a flare",
+          "text": "Wait until the flare fully resolves, then start at low dose with anti-inflammatory prophylaxis",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Prednisone — should not be started during a flare",
+          "text": "Start allopurinol during the flare only if the patient is simultaneously taking colchicine prophylaxis at 0.6 mg BID",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Indomethacin — should not be started during a flare",
+          "text": "ULT initiation timing does not matter since allopurinol has no effect on acute inflammation",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Urate-lowering therapy (allopurinol, febuxostat, probenecid) should NOT be started during an acute gout flare because acute changes in serum uric acid levels — whether increasing OR decreasing — can destabilize existing monosodium urate crystal deposits in joints, worsening or prolonging the attack. ULT should be initiated only AFTER the acute flare has fully resolved. However, if a patient is ALREADY on ULT when a flare occurs, the ULT should be CONTINUED at the same dose — do not stop or adjust. When eventually starting ULT, colchicine prophylaxis should be co-prescribed for 3-6 months to prevent mobilization flares during the initial uric acid reduction phase.",
-        "a": "Incorrect. Colchicine IS appropriate during an acute gout flare and is one of the three first-line acute treatment options (along with NSAIDs and corticosteroids). Colchicine is most effective when started within 12-36 hours of flare onset. The low-dose regimen (1.2 mg then 0.6 mg one hour later) is preferred over the older high-dose regimen due to equivalent efficacy with fewer GI side effects (diarrhea, nausea, abdominal cramping). Colchicine is also used as PROPHYLAXIS when initiating ULT (0.6 mg daily or BID × 3-6 months) to prevent mobilization flares.",
-        "b": "Correct. Urate-lowering therapy (allopurinol, febuxostat, probenecid) should NOT be started during an acute gout flare because acute changes in serum uric acid levels — whether increasing OR decreasing — can destabilize existing monosodium urate crystal deposits in joints, worsening or prolonging the attack. ULT should be initiated only AFTER the acute flare has fully resolved. However, if a patient is ALREADY on ULT when a flare occurs, the ULT should be CONTINUED at the same dose — do not stop or adjust. When eventually starting ULT, colchicine prophylaxis should be co-prescribed for 3-6 months to prevent mobilization flares during the initial uric acid reduction phase.",
-        "c": "Incorrect. Corticosteroids (oral prednisone 0.5 mg/kg/day × 5-10 days with taper, intra-articular triamcinolone injection, or IM/IV methylprednisolone) are appropriate first-line treatment for acute gout flares — particularly in patients who cannot take NSAIDs (CKD, GI bleeding history, heart failure) or colchicine (drug interactions, intolerance). Corticosteroids reduce inflammation rapidly and are safe in renal impairment. Intra-articular injection is preferred for monoarticular flares as it provides rapid, localized relief with minimal systemic effects.",
-        "d": "Incorrect. Indomethacin and other NSAIDs at full anti-inflammatory doses are first-line treatment for acute gout flares. Indomethacin (50 mg TID initially, tapering over 5-7 days) has traditionally been the most commonly used NSAID for gout due to its potent anti-inflammatory properties, though any NSAID at adequate dosing (naproxen 500 mg BID, sulindac, celecoxib) is effective. NSAIDs should be AVOIDED in patients with CKD (GFR <30), active peptic ulcer disease, GI bleeding, decompensated heart failure, or concurrent anticoagulation due to bleeding risk."
+        "a": "Incorrect. Starting at full dose during a flare is doubly wrong: (1) ULT during a flare can worsen the attack; (2) allopurinol must start at 100 mg daily and titrate up.",
+        "b": "Correct. Wait until the flare resolves (2-4 weeks), start allopurinol at 100 mg daily, titrate to target urate <6 mg/dL, and co-prescribe anti-inflammatory prophylaxis (colchicine 0.6 mg daily) for 3-6 months.",
+        "c": "Incorrect. Colchicine prophylaxis prevents future flares during ULT titration but does not make it safe to start ULT during an active flare.",
+        "d": "Incorrect. Starting ULT during a flare causes rapid uric acid fluctuations that destabilize crystal deposits and can worsen the inflammatory response."
       }
     },
     {
@@ -25055,22 +25049,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Uric acid and G6PD",
+          "text": "Uric acid level and G6PD screen to assess for gout flare risk and hemolytic anemia from biologic therapy",
           "correct": false
         },
         {
           "id": "b",
-          "text": "TB screening and hepatitis B serology",
+          "text": "TB screening (IGRA or TST) and hepatitis B serology to rule out latent infections that may reactivate",
           "correct": true
         },
         {
           "id": "c",
-          "text": "HIV testing only",
+          "text": "HIV testing and CD4 count as the sole pre-biologic requirement since TNF inhibitors affect T-cell immunity",
           "correct": false
         },
         {
           "id": "d",
-          "text": "No screening needed",
+          "text": "No additional screening needed beyond standard pre-operative labs if no current infectious symptoms",
           "correct": false
         }
       ],
@@ -25295,22 +25289,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Mild swelling only",
+          "text": "Soft tissue swelling greater than 2 cm with ecchymosis over the lateral malleolus on inspection",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Bony tenderness at posterior lateral malleolus or inability to bear weight x4 steps",
+          "text": "Bony tenderness at the posterior edge of the lateral malleolus or inability to bear weight for 4 steps",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Pain with passive ROM only",
+          "text": "Pain with passive range of motion of the ankle beyond 15 degrees of inversion or eversion",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Ecchymosis only",
+          "text": "Ecchymosis extending to the dorsum of the foot with tenderness over the anterior talofibular ligament",
           "correct": false
         }
       ],
@@ -25415,22 +25409,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Cast immobilization x6 weeks",
+          "text": "Short leg cast immobilization for 6 weeks followed by graduated physical therapy",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Early mobilization with functional rehab and air-stirrup brace",
+          "text": "Early mobilization with functional rehabilitation and air-stirrup brace allowing weight-bearing as tolerated",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Immediate surgical repair",
+          "text": "Immediate surgical repair of the lateral ligament complex to prevent chronic ankle instability",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Bedrest x2 weeks",
+          "text": "Strict non-weight-bearing bedrest for 2 weeks with compression wrapping and elevation",
           "correct": false
         }
       ],
@@ -25710,22 +25704,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "The husband as next-of-kin can provide surrogate consent — no formal capacity assessment is needed",
+          "text": "The husband as next-of-kin can provide surrogate consent; no formal capacity assessment is needed",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Perform a formal capacity assessment: can she understand the information, appreciate its consequences, reason about options, and communicate a consistent choice? If capacity is intact she consents; if impaired, her husband as surrogate uses substituted judgment",
+          "text": "Perform a formal capacity assessment: can she understand the information, appreciate its consequences, reason about alternatives, and communicate a choice?",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Proceed with LVAD implantation based on clinical urgency — consent can be obtained retrospectively",
+          "text": "Proceed with LVAD based on clinical urgency; treatment team judgment overrides capacity assessment in emergencies",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Automatic exclusion from LVAD consideration if capacity is uncertain — cognitive impairment is a contraindication to destination therapy LVAD",
+          "text": "Automatic exclusion from LVAD consideration if any concern about capacity exists",
           "correct": false
         }
       ],
@@ -25752,22 +25746,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Sepsis-related organ failure; increase vasopressor support and adjust antibiotics",
+          "text": "Sepsis-related multiorgan failure; increase vasopressors, broaden antibiotics, obtain repeat cultures",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Propofol infusion syndrome (PRIS); stop propofol immediately, switch to alternative sedation (midazolam or dexmedetomidine), and supportive care",
+          "text": "Propofol infusion syndrome (PRIS); stop propofol immediately, switch to alternative sedation, supportive care",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Fentanyl toxicity; naloxone 0.4 mg IV and reduce opioid infusion",
+          "text": "Fentanyl-induced chest wall rigidity; administer naloxone 0.4 mg IV, reduce opioid rate, reassess mechanics",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Hypertriglyceridemia from TPN lipid infusion; hold lipid component of TPN",
+          "text": "Hypertriglyceridemia from TPN lipid infusion; hold lipid component, recheck triglycerides in 6 hours",
           "correct": false
         }
       ],
@@ -26300,31 +26294,31 @@
       "answers": [
         {
           "id": "a",
-          "text": "IV lorazepam per CIWA protocol",
+          "text": "Methadone 20-30 mg PO initial dose, titrated to symptom relief with continuous cardiac monitoring for QTc",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Clonidine 0.1 mg PO q6h as sole therapy",
+          "text": "Clonidine 0.1 mg PO q6h plus loperamide and NSAIDs for symptomatic management without opioid agonist therapy",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Naltrexone 50 mg oral to accelerate withdrawal and speed recovery",
+          "text": "Naltrexone 50 mg PO daily initiated immediately to block opioid receptors and accelerate withdrawal resolution",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Buprenorphine 8 mg sublingual, titrated to symptom relief (COWS-guided dosing)",
+          "text": "Buprenorphine 8 mg sublingual when COWS ≥8, titrated to symptom relief with additional doses every 1-2 hours as needed",
           "correct": true
         }
       ],
       "explanation": {
         "correct": "Correct. Opioid withdrawal treatment options: (1) Buprenorphine (partial mu-opioid agonist) — first-line in most settings. Initial dose 4–8 mg SL when COWS ≥8; may repeat 4 mg q1–2h until symptoms controlled (max 24 mg day 1). CRITICAL: must wait until patient is in moderate withdrawal (COWS ≥8–12) to avoid precipitated withdrawal; (2) Methadone — full agonist, useful for patients who cannot use buprenorphine, but requires DEA-licensed OTP for outpatient continuation; (3) Adjunctive: clonidine (reduces sympathetic symptoms), loperamide (diarrhea), ondansetron (nausea), NSAIDs (myalgia). Unlike alcohol or benzodiazepine withdrawal, opioid withdrawal is rarely life-threatening but causes severe distress.",
-        "a": "Incorrect. CIWA protocol and benzodiazepines are used for ALCOHOL withdrawal, not opioid withdrawal. Opioid withdrawal is assessed using the COWS (Clinical Opiate Withdrawal Scale), not CIWA. The treatment algorithms are completely different — benzodiazepines do not address opioid receptor withdrawal symptoms.",
-        "b": "Incorrect. While clonidine (alpha-2 agonist) helps manage sympathetic hyperactivity symptoms (diaphoresis, tachycardia, hypertension, piloerection), it does not address the full spectrum of opioid withdrawal symptoms (cravings, dysphoria, GI symptoms, myalgia). Buprenorphine or methadone provides comprehensive opioid agonist therapy and is superior to clonidine-only regimens.",
-        "c": "Incorrect. Naltrexone is an opioid ANTAGONIST that would precipitate SEVERE withdrawal symptoms in a patient with active opioid dependence. Naltrexone is used AFTER detoxification is complete (typically 7–14 days opioid-free) for relapse prevention. Giving it during active withdrawal is contraindicated and dangerous.",
-        "d": "Correct. Opioid withdrawal treatment options: (1) Buprenorphine (partial mu-opioid agonist) — first-line in most settings. Initial dose 4–8 mg SL when COWS ≥8; may repeat 4 mg q1–2h until symptoms controlled (max 24 mg day 1). CRITICAL: must wait until patient is in moderate withdrawal (COWS ≥8–12) to avoid precipitated withdrawal; (2) Methadone — full agonist, useful for patients who cannot use buprenorphine, but requires DEA-licensed OTP for outpatient continuation; (3) Adjunctive: clonidine (reduces sympathetic symptoms), loperamide (diarrhea), ondansetron (nausea), NSAIDs (myalgia). Unlike alcohol or benzodiazepine withdrawal, opioid withdrawal is rarely life-threatening but causes severe distress."
+        "a": "Incorrect. Methadone is effective but requires OTP licensing and cannot be initiated in a general hospital for opioid dependence treatment. It also has QTc prolongation risk. Buprenorphine can be prescribed by any DEA-registered provider.",
+        "b": "Incorrect. Clonidine-based symptomatic management provides inferior outcomes compared to opioid agonist therapy and does not address the core pathophysiology of withdrawal.",
+        "c": "Incorrect. Naltrexone is an opioid ANTAGONIST that would precipitate SEVERE withdrawal in active dependence. It is used AFTER complete detoxification for relapse prevention.",
+        "d": "Correct. Buprenorphine (partial mu-opioid agonist) is first-line. Initial dose 4-8 mg SL when COWS ≥8; may repeat q1-2h until controlled. Its ceiling effect on respiratory depression makes it safer than full agonists."
       }
     },
     {
