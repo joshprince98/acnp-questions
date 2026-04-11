@@ -5147,7 +5147,7 @@
         },
         {
           "id": "c",
-          "text": "Amoxicillin-clavulanate oral",
+          "text": "Cefepime plus metronidazole for gram-negative and anaerobic coverage",
           "correct": false
         },
         {
@@ -5597,22 +5597,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "FiO2 100%, PEEP 15 cmH2O, heavy sedation, and vasopressor support",
+          "text": "FiO2 ≤40%, PEEP ≤8, hemodynamically stable, but deep sedation is acceptable during the SBT",
           "correct": false
         },
         {
           "id": "b",
-          "text": "FiO2 40%, PEEP 5 cmH2O, alert and following commands, minimal vasopressor support, adequate cough and secretion management",
+          "text": "FiO2 ≤40%, PEEP ≤5-8, alert and following commands, hemodynamically stable, adequate cough",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Rapid shallow breathing index (RSBI) >120 breaths/min/L",
+          "text": "FiO2 ≤50%, PEEP ≤10, RSBI >120, minimal secretions, and stable chest X-ray for 48 hours",
           "correct": false
         },
         {
           "id": "d",
-          "text": "The patient must be on zero PEEP and zero pressure support for 24 hours before extubation",
+          "text": "FiO2 ≤40%, PEEP 0, pressure support 0 for 24 hours before any SBT can be attempted",
           "correct": false
         }
       ],
@@ -5764,22 +5764,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Tracheostomy eliminates the risk of ventilator-associated pneumonia",
+          "text": "Tracheostomy significantly reduces ventilator-associated pneumonia rates compared to prolonged translaryngeal intubation",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Tracheostomy reduces dead space, facilitates secretion management, improves patient comfort, and enables earlier mobilization",
+          "text": "Tracheostomy reduces dead space, facilitates secretion management, and improves patient comfort and early mobilization",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Tracheostomy guarantees successful ventilator weaning within 7 days",
+          "text": "Tracheostomy accelerates ventilator weaning by allowing simultaneous speaking valve use and pressure support trials",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Tracheostomy is primarily performed to prevent tracheal stenosis from the endotracheal tube",
+          "text": "Tracheostomy prevents tracheal stenosis that occurs universally after 14 days of endotracheal intubation",
           "correct": false
         }
       ],
@@ -6067,7 +6067,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "Administer IV mannitol 1 g/kg and repeat CT in 2 hours",
+          "text": "Administer IV mannitol 1 g/kg and 3% HTS, elevate HOB to 30°, and consult neurosurgery",
           "correct": false
         },
         {
@@ -6082,7 +6082,7 @@
         },
         {
           "id": "d",
-          "text": "Administer 3% hypertonic saline 250 mL and transfer to neuro-ICU",
+          "text": "Administer 3% hypertonic saline 250 mL, secure airway, and transfer to neuro-ICU for ICP monitoring",
           "correct": false
         }
       ],
@@ -6367,7 +6367,7 @@
       "answers": [
         {
           "id": "a",
-          "text": "2L NS bolus — likely hemorrhagic shock from associated injuries",
+          "text": "IV phenylephrine infusion targeting MAP ≥85 mmHg for spinal cord perfusion",
           "correct": false
         },
         {
@@ -7194,7 +7194,7 @@
         },
         {
           "id": "d",
-          "text": "Lower MAP to reduce CPP below 50 mmHg",
+          "text": "IV dexamethasone 10 mg to reduce cerebral edema around the hemorrhage",
           "correct": false
         }
       ],
@@ -7467,36 +7467,35 @@
         "Critical Care",
         "Diagnostics/Labs"
       ],
-      "difficulty": "medium",
-      "question": "A 45-year-old man presents with acute urinary retention, bilateral lower extremity weakness, and saddle anesthesia after 2 days of worsening low back pain. MRI shows a large L4-L5 disc herniation compressing the cauda equina. What is the most important prognostic factor, and when must surgery occur?",
+      "difficulty": "hard",
+      "question": "A 45-year-old man presents with acute low back pain radiating to both legs, bilateral lower extremity weakness, saddle anesthesia, and urinary retention. MRI confirms a large L4-L5 disc herniation compressing the cauda equina. Emergent surgical decompression is planned. Which clinical feature is the strongest predictor of poor recovery if surgery is delayed beyond 48 hours?",
       "answers": [
         {
           "id": "a",
-          "text": "Duration of symptoms — surgical decompression should occur within 24–48 hours",
-          "correct": true
-        },
-        {
-          "id": "b",
-          "text": "The MRI appearance of the disc — surgery can wait if the disc is not sequestrated",
+          "text": "Severity of bilateral leg pain at presentation",
           "correct": false
         },
         {
+          "id": "b",
+          "text": "Bladder dysfunction (urinary retention or incontinence) at presentation",
+          "correct": true
+        },
+        {
           "id": "c",
-          "text": "Patient's age — younger patients can wait longer for elective scheduling",
+          "text": "Degree of disc extrusion on MRI imaging",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Severity of pain — conservative management is appropriate if pain is controlled",
+          "text": "Patient age over 50 years at time of diagnosis",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Cauda equina syndrome (CES) is a surgical emergency. The most important prognostic factor for neurological recovery is the duration of symptoms before decompression. Surgery within 24–48 hours of symptom onset significantly improves outcomes for bladder function, motor recovery, and sexual function. Once bladder dysfunction is established for >48 hours, the chance of recovery drops substantially.",
-        "a": "Correct. Cauda equina syndrome (CES) is a surgical emergency. The most important prognostic factor for neurological recovery is the duration of symptoms before decompression. Surgery within 24–48 hours of symptom onset significantly improves outcomes for bladder function, motor recovery, and sexual function. Once bladder dysfunction is established for >48 hours, the chance of recovery drops substantially.",
-        "b": "Incorrect. The urgency of surgery in CES is determined by the clinical presentation (progressive neurological deficit), not the MRI morphology of the disc. Any CES presentation with bladder dysfunction requires urgent decompression regardless of the exact disc appearance.",
-        "c": "Incorrect. Age does not change the urgency of cauda equina decompression. All patients with CES and bladder dysfunction require urgent surgical intervention regardless of age. Delays in surgery lead to permanent neurological deficits.",
-        "d": "Incorrect. CES is a surgical emergency regardless of pain severity. Pain control does not address the mechanical compression of nerve roots causing progressive neurological deficit. Waiting for conservative management risks permanent bowel/bladder dysfunction and motor deficits."
+        "a": "Incorrect. While pain severity correlates with nerve root compression, it is not the strongest predictor of irreversible deficit. Pain often improves even with delayed surgery, whereas sphincter dysfunction may become permanent.",
+        "b": "Correct. Bladder dysfunction (retention or incontinence) is the single strongest predictor of poor neurological recovery if surgical decompression is delayed. Urinary retention indicates S2-S4 nerve root compression affecting the detrusor muscle. Once established beyond 48 hours, bladder dysfunction often becomes permanent even after decompression. This is why urinary retention in cauda equina syndrome is a surgical emergency — the window for recovery closes rapidly.",
+        "c": "Incorrect. While MRI findings guide surgical planning, the degree of disc extrusion does not independently predict functional recovery as strongly as the presence of sphincter dysfunction. Patients with large herniations but preserved bladder function have better outcomes than those with smaller herniations and bladder dysfunction.",
+        "d": "Incorrect. While older age is associated with slower recovery generally, it is not the strongest predictor of poor outcome in cauda equina syndrome specifically. Timing of surgery relative to onset of bladder dysfunction is far more prognostic than patient age."
       }
     },
     {
@@ -8559,31 +8558,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Radiation only",
+          "text": "Neoadjuvant chemotherapy followed by surgical resection if tumor shrinks",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Thymectomy",
+          "text": "Thymectomy with peri-operative optimization of MG control",
           "correct": true
         },
         {
           "id": "c",
-          "text": "Increase pyridostigmine only",
+          "text": "CT-guided biopsy first to confirm thymoma histology before any surgical planning",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Observation",
+          "text": "Radiation therapy alone since thymomas are radiosensitive and surgery risks myasthenic crisis",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Thymectomy is recommended for ALL MG patients with thymoma, regardless of MG severity. The thymus plays a central role in MG pathogenesis — it contains myoid cells expressing acetylcholine receptors that may trigger the autoimmune response, and thymomas produce abnormal T cells that perpetuate the attack. Thymectomy improves MG outcomes (remission rates, medication reduction) even in NON-thymomatous generalized MG, as demonstrated by the MGTX trial. Additionally, thymomas have malignant potential (WHO classification stages) requiring surgical removal for oncologic reasons.",
-        "a": "Incorrect. Radiation therapy alone is insufficient for thymoma in MG patients. Thymectomy (surgical removal) is the primary treatment for thymoma and has been shown to improve MG outcomes in the landmark MGTX randomized trial. Radiation may be used as adjunctive therapy for invasive thymoma after surgical resection but is not a substitute for surgery.",
-        "b": "Correct. Thymectomy is recommended for ALL MG patients with thymoma, regardless of MG severity. The thymus plays a central role in MG pathogenesis — it contains myoid cells expressing acetylcholine receptors that may trigger the autoimmune response, and thymomas produce abnormal T cells that perpetuate the attack. Thymectomy improves MG outcomes (remission rates, medication reduction) even in NON-thymomatous generalized MG, as demonstrated by the MGTX trial. Additionally, thymomas have malignant potential (WHO classification stages) requiring surgical removal for oncologic reasons.",
-        "c": "Incorrect. Increasing pyridostigmine provides only symptomatic improvement by preventing acetylcholine breakdown at the NMJ. It does NOT address the underlying autoimmune process or the thymoma itself. Furthermore, thymomas can be locally invasive and potentially malignant — observation without surgical intervention is oncologically inappropriate.",
-        "d": "Incorrect. Observation of a thymoma in an MG patient is inappropriate for two reasons: (1) thymectomy provides significant therapeutic benefit for MG itself (improved remission rates, reduced immunosuppressive medication requirements); and (2) thymomas have malignant potential and require surgical excision for staging and definitive treatment. Delayed intervention risks local invasion into surrounding mediastinal structures."
+        "a": "Incorrect. Neoadjuvant chemotherapy is used for advanced (Masaoka stage III-IV) or unresectable thymomas. A 3 cm anterior mediastinal mass in MG is typically resectable upfront. Thymectomy is both the treatment for the thymoma and beneficial for MG symptom control.",
+        "b": "Correct. Thymectomy is the standard of care for thymoma-associated MG. It treats the tumor and provides long-term MG benefit (improved remission rates per the MGTX trial). Peri-operative MG optimization (stable on immunotherapy, IVIG or plasma exchange if needed pre-operatively) reduces the risk of myasthenic crisis post-operatively.",
+        "c": "Incorrect. Anterior mediastinal masses in patients with confirmed MG and positive AChR antibodies are presumptively thymoma — biopsy is generally NOT recommended because it risks tumor seeding, bleeding, and delays definitive surgery. Surgical pathology at the time of thymectomy provides the diagnosis.",
+        "d": "Incorrect. While thymomas are radiosensitive, radiation alone is reserved for unresectable disease or as adjuvant therapy after incomplete resection. For a resectable 3 cm thymoma, surgical excision is superior and provides the additional benefit of improving MG."
       }
     },
     {
@@ -8679,22 +8677,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Administer IV alteplase (tPA)",
+          "text": "Administer IV alteplase (tPA) after confirming BP <185/110",
           "correct": true
         },
         {
           "id": "b",
-          "text": "Lower BP to <120/80 first",
+          "text": "Lower BP to <140/90 before considering thrombolytic therapy",
           "correct": false
         },
         {
           "id": "c",
-          "text": "MRI before any treatment",
+          "text": "Obtain MRI with diffusion-weighted imaging to quantify infarct core before treatment",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Start heparin drip",
+          "text": "Start IV heparin infusion for anticoagulation given his atrial fibrillation history",
           "correct": false
         }
       ],
@@ -8839,22 +8837,22 @@
       "answers": [
         {
           "id": "a",
-          "text": "Antiplatelet therapy and high-intensity statin",
+          "text": "Antiplatelet therapy (aspirin or clopidogrel) plus high-intensity statin",
           "correct": true
         },
         {
           "id": "b",
-          "text": "Warfarin for all ischemic strokes",
+          "text": "Warfarin with INR target 2-3 regardless of stroke etiology",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Low-dose aspirin only",
+          "text": "Aspirin 81 mg daily without statin since LDL is below 100",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Prophylactic antibiotics",
+          "text": "Dual antiplatelet therapy (aspirin plus clopidogrel) indefinitely for all non-cardioembolic strokes",
           "correct": false
         }
       ],
@@ -10639,36 +10637,35 @@
         "Abdominal Pain - Diagnostics"
       ],
       "tier3": [],
-      "difficulty": "medium",
-      "question": "A 60-year-old man with known choledocholithiasis presents with fever, jaundice, severe RUQ pain, blood pressure of 80/50 mmHg, and confusion. Which of the following clinical syndromes does this constellation of findings represent?",
+      "difficulty": "hard",
+      "question": "A 60-year-old man with choledocholithiasis presents with fever, jaundice, and RUQ pain (Charcot triad). The ACNP recognizes that Reynolds pentad adds two additional findings that indicate a more life-threatening clinical scenario. Which two findings, when added to Charcot triad, complete the Reynolds pentad?",
       "answers": [
         {
           "id": "a",
-          "text": "Murphy sign",
+          "text": "Nausea and elevated lipase",
           "correct": false
         },
         {
           "id": "b",
-          "text": "Charcot triad",
-          "correct": false
-        },
-        {
-          "id": "c",
-          "text": "Reynolds pentad",
+          "text": "Hypotension and altered mental status",
           "correct": true
         },
         {
+          "id": "c",
+          "text": "Leukocytosis and elevated alkaline phosphatase",
+          "correct": false
+        },
+        {
           "id": "d",
-          "text": "Cullen sign",
+          "text": "Peritoneal signs and positive Murphy sign",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. Reynolds pentad = Charcot triad (fever + jaundice + RUQ pain) PLUS hypotension and altered mental status. This constellation indicates ACUTE SUPPURATIVE CHOLANGITIS — infected, pus-filled bile duct with systemic sepsis. This is a life-threatening emergency with mortality exceeding 50% without urgent biliary decompression. Treatment requires aggressive fluid resuscitation, broad-spectrum IV antibiotics, and emergent ERCP within 12-24 hours for biliary drainage and stone extraction. If ERCP fails, percutaneous transhepatic biliary drainage (PTBD) is the alternative.",
-        "a": "Incorrect. Murphy sign is a specific PHYSICAL EXAMINATION FINDING (inspiratory arrest during RUQ palpation) associated with acute cholecystitis. It is not a clinical syndrome. The question asks about the clinical syndrome defined by fever, jaundice, RUQ pain, hypotension, and AMS — which is Reynolds pentad.",
-        "b": "Incorrect. Charcot triad consists of only THREE components: fever + jaundice + RUQ pain, indicating ascending cholangitis from biliary obstruction. This patient has TWO ADDITIONAL findings — hypotension and altered mental status — which escalate the diagnosis to Reynolds pentad, indicating severe suppurative (pus-forming) cholangitis with sepsis.",
-        "c": "Correct. Reynolds pentad = Charcot triad (fever + jaundice + RUQ pain) PLUS hypotension and altered mental status. This constellation indicates ACUTE SUPPURATIVE CHOLANGITIS — infected, pus-filled bile duct with systemic sepsis. This is a life-threatening emergency with mortality exceeding 50% without urgent biliary decompression. Treatment requires aggressive fluid resuscitation, broad-spectrum IV antibiotics, and emergent ERCP within 12-24 hours for biliary drainage and stone extraction. If ERCP fails, percutaneous transhepatic biliary drainage (PTBD) is the alternative.",
-        "d": "Incorrect. Cullen sign (periumbilical ecchymosis/bruising) is associated with hemorrhagic pancreatitis and intraperitoneal hemorrhage, representing blood tracking along the falciform ligament to the umbilicus. A related sign, Grey Turner sign (flank ecchymosis), also indicates retroperitoneal hemorrhage from severe pancreatitis. Neither is related to cholangitis or biliary obstruction."
+        "a": "Incorrect. Nausea and elevated lipase suggest gallstone pancreatitis, not the progression from Charcot triad to Reynolds pentad. Lipase elevation indicates pancreatic involvement, which is a separate complication.",
+        "b": "Correct. Reynolds pentad = Charcot triad (fever, jaundice, RUQ pain) + hypotension + altered mental status. These two additional findings indicate septic shock from acute suppurative cholangitis — a surgical emergency requiring emergent biliary decompression (ERCP). Mortality without intervention exceeds 50%.",
+        "c": "Incorrect. Leukocytosis and elevated ALP are laboratory findings commonly present in cholangitis but are not the two defining features that distinguish Reynolds pentad from Charcot triad. Reynolds pentad specifically refers to clinical signs of hemodynamic compromise and neurologic deterioration.",
+        "d": "Incorrect. Peritoneal signs and positive Murphy sign suggest acute cholecystitis or peritonitis, not the progression to Reynolds pentad. Murphy sign is associated with gallbladder inflammation, while Reynolds pentad reflects systemic sepsis from biliary obstruction."
       }
     },
     {
@@ -10844,31 +10841,30 @@
       "answers": [
         {
           "id": "a",
-          "text": "Gastric pain worsens with eating; duodenal improves with eating",
+          "text": "Gastric pain worsens with eating; duodenal pain improves with eating",
           "correct": true
         },
         {
           "id": "b",
-          "text": "Both identical pain patterns",
+          "text": "Gastric pain improves with eating; duodenal pain worsens with eating",
           "correct": false
         },
         {
           "id": "c",
-          "text": "Duodenal pain worse with eating",
+          "text": "Duodenal ulcers cause postprandial pain within 30 minutes; gastric ulcers cause nocturnal pain only",
           "correct": false
         },
         {
           "id": "d",
-          "text": "Gastric ulcers are always painless",
+          "text": "Gastric ulcers present primarily with back pain; duodenal ulcers present with epigastric burning",
           "correct": false
         }
       ],
       "explanation": {
-        "correct": "Correct. The classic pain patterns distinguish gastric from duodenal ulcers: GASTRIC ulcer pain WORSENS with eating (food stimulates acid secretion against the damaged gastric mucosa — 'food is Foe'). DUODENAL ulcer pain IMPROVES with eating (food buffers duodenal acid — 'food is Friend') but returns 2-3 hours after meals and classically awakens patients at night (2-3 AM) when acid secretion peaks without food buffering. This distinction helps guide empiric diagnosis, though EGD is needed for definitive evaluation.",
-        "a": "Correct. The classic pain patterns distinguish gastric from duodenal ulcers: GASTRIC ulcer pain WORSENS with eating (food stimulates acid secretion against the damaged gastric mucosa — 'food is Foe'). DUODENAL ulcer pain IMPROVES with eating (food buffers duodenal acid — 'food is Friend') but returns 2-3 hours after meals and classically awakens patients at night (2-3 AM) when acid secretion peaks without food buffering. This distinction helps guide empiric diagnosis, though EGD is needed for definitive evaluation.",
-        "b": "Incorrect. Gastric and duodenal ulcers have distinctly different pain patterns related to the timing of acid contact with the ulcer. This clinical difference is a classic board question and an important diagnostic clue when taking a patient history.",
-        "c": "Incorrect. This REVERSES the classic pattern. Duodenal ulcer pain is relieved by eating (food buffers acid in the duodenum), not worsened. Gastric ulcer pain worsens with eating because food stimulates gastric acid secretion directly onto the damaged gastric mucosa.",
-        "d": "Incorrect. Gastric ulcers typically DO cause pain, especially postprandially. While some gastric ulcers — particularly NSAID-induced ulcers in elderly patients — may be painless and present only with complications (GI bleeding, perforation), the classic symptom is epigastric pain that worsens with meals. 'Silent' ulcers are the exception, not the rule."
+        "a": "Correct. Gastric ulcers cause pain that WORSENS with eating because food stimulates gastric acid secretion directly onto the ulcerated mucosa. Duodenal ulcers cause pain that IMPROVES with eating because food buffers acid in the stomach and reduces acid delivery to the duodenum. Duodenal pain typically returns 2-3 hours after eating when the stomach empties, producing the classic 'hunger pain' pattern.",
+        "b": "Incorrect. This reverses the classic pattern. Gastric ulcer pain WORSENS (not improves) with eating. Duodenal ulcer pain IMPROVES (not worsens) with eating. This is the most commonly tested distinction between the two.",
+        "c": "Incorrect. While timing relative to meals is important, the distinction is not about 30-minute vs nocturnal patterns. Gastric ulcers cause pain WITH eating (food → acid on ulcer), and duodenal ulcers cause pain 2-3 hours AFTER eating when the stomach empties acid into the duodenum. Both types can cause nocturnal pain.",
+        "d": "Incorrect. Both gastric and duodenal ulcers typically present with epigastric pain. Back pain can occur with posterior penetrating ulcers (either type) but is not the primary distinguishing feature. The key distinction is the relationship of pain to eating."
       }
     },
     {
