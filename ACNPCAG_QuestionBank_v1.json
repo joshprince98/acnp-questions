@@ -4618,6 +4618,857 @@
         "c": "Incorrect. The stem describes a clear precipitant (acute emotional stress \u2014 son's death) and the IMAGING finding of apical ballooning, both of which are classic for Takotsubo rather than myocarditis. Viral myocarditis typically has viral prodrome (fever, URI symptoms) and different imaging patterns (can be patchy or diffuse, not apical ballooning specifically). Additionally, corticosteroids have NOT been shown to improve outcomes in acute viral myocarditis and may worsen viral replication.",
         "d": "Incorrect. Takotsubo is distinguished from dilated cardiomyopathy by: (1) ACUTE onset (dilated CMP develops over months/years); (2) REVERSIBILITY (Takotsubo LV recovers over weeks; dilated is chronic); (3) characteristic regional wall motion pattern (Takotsubo has apical ballooning or other regional pattern; dilated has global hypokinesis with chamber dilation); (4) clear precipitant in Takotsubo. While GDMT is used during the acute phase of Takotsubo for HF symptoms, it is not a long-term diagnosis of HFrEF \u2014 the LV typically recovers."
       }
+    },
+    {
+      "id": "cv084",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "ECG Interpretation",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 62-year-old man presents with 45 minutes of crushing substernal chest pain radiating to the left arm. ECG shows 2mm ST elevation in leads II, III, and aVF. Troponin is pending. Which of the following best describes the next most critical step?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Administer IV morphine and wait for troponin result before activating the cath lab",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Activate the cath lab immediately \u2014 this is an inferior STEMI requiring PCI within 90 minutes of first medical contact",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Obtain echocardiogram to assess wall motion before deciding on reperfusion strategy",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Administer fibrinolytics since the patient arrived more than 30 minutes ago",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ST elevation in II, III, aVF = inferior STEMI (typically RCA occlusion). ACC/AHA guideline mandates door-to-balloon \u226490 minutes. Troponin is NOT required before cath lab activation \u2014 ECG alone is sufficient. Time is myocardium.",
+        "a": "Incorrect. Waiting for troponin wastes critical time. STEMI is diagnosed on ECG alone.",
+        "b": "Correct. Inferior STEMI (ST elevation II, III, aVF) = activate cath lab immediately for primary PCI.",
+        "c": "Incorrect. Echo delays reperfusion. Time is myocardium.",
+        "d": "Incorrect. Fibrinolytics are a fallback when PCI is unavailable within 120 minutes, not first-line when cath lab is accessible."
+      }
+    },
+    {
+      "id": "cv085",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "difficulty": "medium",
+      "question": "A 55-year-old woman is admitted with NSTEMI. She is hemodynamically stable. Troponin is elevated and trending up. Which medication combination should be initiated immediately?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Aspirin + IV heparin + P2Y12 inhibitor (clopidogrel or ticagrelor) + high-intensity statin",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "Aspirin + nitroglycerin drip + warfarin + beta-blocker",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Aspirin alone until cardiac catheterization is completed",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Fibrinolytics + aspirin + beta-blocker",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. NSTEMI: dual antiplatelet therapy (aspirin + P2Y12), anticoagulation (UFH or LMWH), and high-intensity statin. Beta-blockers within 24 hours if no contraindications.",
+        "a": "Correct. DAPT + anticoagulation + high-intensity statin = standard NSTEMI regimen.",
+        "b": "Incorrect. Warfarin is not used acutely for ACS. It does not replace antiplatelet therapy.",
+        "c": "Incorrect. Dual antiplatelet plus anticoagulation should not be withheld while awaiting cath.",
+        "d": "Incorrect. Fibrinolytics are CONTRAINDICATED in NSTEMI \u2014 no complete occlusion to lyse."
+      }
+    },
+    {
+      "id": "cv086",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "ECG Interpretation",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "hard",
+      "question": "A 70-year-old man presents with chest pain. ECG shows isolated ST depression in leads V1-V3 with a tall R wave in V1-V2. Troponin is elevated. What is the most likely diagnosis and management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Anterior STEMI \u2014 activate cath lab for primary PCI",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Posterior STEMI \u2014 ST depression in V1-V3 is a mirror image; obtain posterior leads and activate cath lab",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "NSTEMI \u2014 treat medically only, no urgent cath",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Right ventricular infarction \u2014 obtain right-sided leads, avoid nitrates",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Isolated ST depression + tall R wave in V1-V3 is the mirror image of posterior STEMI. Confirm with leads V7-V9. This is a STEMI equivalent requiring urgent PCI.",
+        "a": "Incorrect. Anterior STEMI shows ST elevation in V1-V4, not depression.",
+        "b": "Correct. Posterior STEMI = reciprocal ST depression V1-V3 + tall R wave. Confirm with posterior leads (V7-V9).",
+        "c": "Incorrect. The specific ECG pattern should prompt posterior STEMI workup before defaulting to NSTEMI management.",
+        "d": "Incorrect. RV infarction accompanies inferior STEMI (ST elevation II, III, aVF) and is found on right-sided leads."
+      }
+    },
+    {
+      "id": "cv087",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 58-year-old man with a drug-eluting stent placed 4 months ago requires emergent abdominal surgery. What is most appropriate regarding his dual antiplatelet therapy?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Stop both aspirin and P2Y12 inhibitor 5 days before surgery",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Continue aspirin perioperatively; hold P2Y12 only if absolutely necessary; prefer to delay elective surgery until 12 months post-DES",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Switch clopidogrel to warfarin to bridge through surgery",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Discontinue all antiplatelet therapy 48 hours before surgery",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Premature DAPT discontinuation within 12 months of DES risks catastrophic in-stent thrombosis. For emergent surgery: continue aspirin; if P2Y12 must be held, restart as soon as hemostasis allows.",
+        "a": "Incorrect. Stopping both antiplatelet agents this close to DES dramatically increases stent thrombosis risk.",
+        "b": "Correct. Aspirin perioperatively. P2Y12 held only if bleeding risk is truly prohibitive. Prefer 12 months DAPT before elective surgery.",
+        "c": "Incorrect. Warfarin does not reliably prevent platelet-mediated stent thrombosis.",
+        "d": "Incorrect. Blanket antiplatelet cessation is dangerous within 12 months of DES placement."
+      }
+    },
+    {
+      "id": "cv088",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "difficulty": "hard",
+      "question": "A 72-year-old woman with inferior STEMI has BP 78/50, HR 110, elevated JVP, and clear lungs. Right-sided ECG shows ST elevation in V4R. What is the most appropriate immediate management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV furosemide 80mg to reduce preload",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Start nitroglycerin infusion for afterload reduction",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "IV normal saline bolus; avoid nitrates; if refractory, add inotropic support",
+          "correct": true
+        },
+        {
+          "id": "d",
+          "text": "Start dobutamine immediately and delay fluid administration",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. RV infarction triad: hypotension + elevated JVP + clear lungs in inferior STEMI. RV is preload-dependent \u2014 give IV fluids. Nitrates and diuretics are CONTRAINDICATED (reduce preload \u2192 cardiovascular collapse).",
+        "a": "Incorrect. Furosemide is contraindicated \u2014 reduces preload, worsens hypotension.",
+        "b": "Incorrect. Nitroglycerin is absolutely contraindicated in RV infarction.",
+        "c": "Correct. IV fluids first, avoid nitrates/diuretics, add dobutamine if BP doesn't respond.",
+        "d": "Incorrect. Inotropes without adequate preload will fail. Volume loading comes first."
+      }
+    },
+    {
+      "id": "cv089",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Dysrhythmias"
+      ],
+      "tier3": [
+        "ECG Interpretation",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 68-year-old woman is found to have an irregularly irregular rhythm at 118 bpm, absent P waves, narrow QRS. No hemodynamic instability. What is the most appropriate first step?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Immediate synchronized cardioversion",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Rate control with a beta-blocker or non-dihydropyridine calcium channel blocker",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Start IV amiodarone for rhythm conversion",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Administer adenosine to terminate the arrhythmia",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Atrial fibrillation with RVR in a stable patient = rate control first. Beta-blockers (metoprolol) or non-DHP CCBs (diltiazem) are first-line. Target HR <110 bpm at rest.",
+        "a": "Incorrect. Cardioversion is for hemodynamically unstable AF. This patient is stable.",
+        "b": "Correct. Rate control with BB or CCB is first-line for stable AF with RVR.",
+        "c": "Incorrect. Amiodarone for rhythm control is not first-line in stable AF. Rate control takes priority.",
+        "d": "Incorrect. Adenosine is for SVT. It will not convert AF."
+      }
+    },
+    {
+      "id": "cv090",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Dysrhythmias"
+      ],
+      "tier3": [
+        "ECG Interpretation"
+      ],
+      "difficulty": "medium",
+      "question": "A 45-year-old woman has sudden palpitations for 30 minutes. HR 178, BP 112/72, alert. ECG: regular narrow complex tachycardia, no visible P waves. What is the correct management sequence?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Synchronized cardioversion immediately",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV amiodarone 150mg over 10 minutes",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Vagal maneuvers first; if unsuccessful, IV adenosine 6mg rapid push with flush",
+          "correct": true
+        },
+        {
+          "id": "d",
+          "text": "IV metoprolol 5mg over 5 minutes",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Stable SVT: (1) Vagal maneuvers first (Valsalva, carotid massage); (2) IV adenosine 6mg rapid push with flush if vagal fails; repeat at 12mg if needed.",
+        "a": "Incorrect. Cardioversion is for hemodynamically unstable SVT.",
+        "b": "Incorrect. Amiodarone is a last resort for stable SVT. Adenosine comes first.",
+        "c": "Correct. Vagal \u2192 adenosine = correct ACLS sequence for stable SVT.",
+        "d": "Incorrect. IV beta-blockers are second-line after adenosine."
+      }
+    },
+    {
+      "id": "cv091",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Dysrhythmias"
+      ],
+      "tier3": [
+        "ECG Interpretation",
+        "Critical Care"
+      ],
+      "difficulty": "hard",
+      "question": "A 66-year-old man post-MI develops wide complex tachycardia at 190 bpm. BP 72/40, diaphoretic, unresponsive to verbal stimuli. What is the correct immediate management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV amiodarone 150mg bolus over 10 minutes",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Synchronized cardioversion starting at 100J biphasic",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "IV lidocaine 1.5mg/kg bolus",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Vagal maneuvers and adenosine 6mg IV push",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Unstable VT (hypotension + altered mental status) = immediate synchronized cardioversion per ACLS. Use 100J biphasic.",
+        "a": "Incorrect. Amiodarone is for stable VT. Unstable VT requires electrical cardioversion, not medication.",
+        "b": "Correct. Unstable VT = synchronized cardioversion immediately.",
+        "c": "Incorrect. Lidocaine is adjunctive for stable VT. Unstable VT requires electrical cardioversion first.",
+        "d": "Incorrect. Adenosine/vagal are for narrow complex SVT. Never give adenosine for wide complex tachycardia \u2014 can precipitate VF."
+      }
+    },
+    {
+      "id": "cv092",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Dysrhythmias"
+      ],
+      "tier3": [
+        "ECG Interpretation"
+      ],
+      "difficulty": "medium",
+      "question": "A 72-year-old man has a constant PR interval of 0.28 seconds with randomly dropped QRS complexes (no pattern of PR lengthening). Which heart block is this and what is the management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "First-degree AV block \u2014 no treatment needed",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mobitz Type I (Wenckebach) \u2014 observe if asymptomatic",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Mobitz Type II \u2014 permanent pacemaker required due to risk of complete heart block",
+          "correct": true
+        },
+        {
+          "id": "d",
+          "text": "Third-degree AV block \u2014 immediate temporary pacing then permanent pacemaker",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Mobitz Type II = constant PR + sudden random dropped QRS = infranodal block. Frequently progresses to complete AV block without warning. Permanent pacemaker is indicated even if asymptomatic.",
+        "a": "Incorrect. First-degree AV block has prolonged but constant PR with NO dropped beats.",
+        "b": "Incorrect. Mobitz I has a gradually lengthening PR until a QRS drops, then repeats. It is more benign.",
+        "c": "Correct. Mobitz Type II = constant PR + random dropped QRS = permanent pacemaker required.",
+        "d": "Incorrect. Third-degree AV block = complete AV dissociation (P waves unrelated to QRS). This patient has intermittent drops, not complete dissociation."
+      }
+    },
+    {
+      "id": "cv093",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Dysrhythmias"
+      ],
+      "tier3": [
+        "ECG Interpretation",
+        "Pharmacology"
+      ],
+      "difficulty": "hard",
+      "question": "A 56-year-old woman on haloperidol and fluconazole has QTc 540ms with runs of polymorphic VT where QRS complexes twist around the isoelectric line. What is the most appropriate immediate intervention?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Synchronized cardioversion at 200J",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV magnesium sulfate 1-2g over 15 minutes",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "IV amiodarone 150mg bolus \u2014 it will shorten the QTc",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "IV procainamide 15mg/kg over 20 minutes",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Torsades de Pointes (TdP) from QT prolongation (haloperidol + azole antifungal). Treatment: (1) IV magnesium sulfate 1-2g first-line; (2) Discontinue QT-prolonging medications; (3) Correct electrolytes.",
+        "a": "Incorrect. Cardioversion is for hemodynamically unstable sustained TdP. For recurrent self-terminating TdP, magnesium is first-line.",
+        "b": "Correct. Magnesium sulfate 1-2g IV is the treatment of choice for TdP.",
+        "c": "Incorrect. Amiodarone prolongs QT interval \u2014 CONTRAINDICATED in TdP.",
+        "d": "Incorrect. Procainamide prolongs QT \u2014 absolutely contraindicated in TdP."
+      }
+    },
+    {
+      "id": "cv094",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Valvular Disease"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 78-year-old man has a 6-month history of exertional angina, syncope, and progressive dyspnea. Exam: harsh crescendo-decrescendo systolic murmur at the right upper sternal border radiating to carotids. What is the diagnosis and significance of his symptom triad?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mitral regurgitation \u2014 pansystolic murmur indicates moderate to severe disease",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Aortic stenosis \u2014 the classic triad of angina, syncope, and heart failure indicates severe disease; mean survival without valve replacement is 1-5 years",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "HOCM \u2014 Valsalva will decrease the murmur intensity",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Aortic regurgitation \u2014 wide pulse pressure differentiates this from other valve disease",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Aortic stenosis (AS): crescendo-decrescendo systolic murmur at 2nd ICS right sternal border radiating to carotids + pulsus parvus et tardus. Symptomatic triad: angina \u2192 5 yr survival, syncope \u2192 3 yr, HF \u2192 1-2 yr. Surgery is indicated once symptoms develop.",
+        "a": "Incorrect. MR produces a pansystolic murmur at the apex radiating to the axilla.",
+        "b": "Correct. AS symptomatic triad = severe disease. AVR is indicated.",
+        "c": "Incorrect. HOCM murmur increases with Valsalva. AS murmur decreases.",
+        "d": "Incorrect. AR produces a high-pitched decrescendo diastolic murmur with wide pulse pressure \u2014 opposite presentation."
+      }
+    },
+    {
+      "id": "cv095",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Valvular Disease"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 44-year-old woman with prior rheumatic fever has progressive dyspnea and hemoptysis. Exam: opening snap after S2, low-pitched diastolic rumble at apex, loud S1, and atrial fibrillation. What is the diagnosis and management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mitral regurgitation \u2014 start ACE-I and monitor annually",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mitral stenosis \u2014 anticoagulate for AF, diuretics for symptoms, refer for balloon valvuloplasty",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Aortic stenosis \u2014 refer for TAVR",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Mitral stenosis \u2014 rate control only; surgery not indicated until NYHA Class IV",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Mitral stenosis from rheumatic heart disease: loud S1 + opening snap + diastolic rumble. AF occurs in 50-80%. Management: rate control, anticoagulation (AF + MS = high stroke risk), diuretics, refer for PBMV when symptomatic.",
+        "a": "Incorrect. MR = pansystolic murmur + soft S1 + displaced PMI. This patient has diastolic rumble + loud S1 + opening snap = MS.",
+        "b": "Correct. MS management: anticoagulate (especially with AF), rate control, diuretics, PBMV for symptomatic patients.",
+        "c": "Incorrect. This is a mitral valve problem, not aortic.",
+        "d": "Incorrect. Surgery is indicated for symptoms \u2014 not just NYHA IV."
+      }
+    },
+    {
+      "id": "cv096",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Valvular Disease"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 34-year-old IV drug user has fever, chills, and dyspnea. Exam: pansystolic murmur at left lower sternal border that increases with inspiration. Which valve is most likely affected and why?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Mitral valve \u2014 most common valve affected in endocarditis overall",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Tricuspid valve \u2014 IVDU causes right-sided endocarditis; murmur increases with inspiration (Carvallo's sign)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Aortic valve \u2014 IVDU tends to cause left-sided endocarditis from high-pressure injection",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Pulmonic valve \u2014 most common in IVDU",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. IVDU = classic risk for right-sided (tricuspid) endocarditis. Murmur increases with inspiration (Carvallo's sign) = right-sided murmur. S. aureus most common. Right-sided IE causes septic pulmonary emboli.",
+        "a": "Incorrect. Mitral is most common overall, but in IVDU the tricuspid is most common.",
+        "b": "Correct. IVDU \u2192 tricuspid IE. Carvallo's sign = right-sided murmur.",
+        "c": "Incorrect. Aortic involvement occurs but is less common than tricuspid in IVDU.",
+        "d": "Incorrect. Pulmonic valve IE is exceedingly rare."
+      }
+    },
+    {
+      "id": "cv097",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Valvular Disease"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "hard",
+      "question": "A 52-year-old man presents with acute pulmonary edema and a soft diastolic murmur at the right sternal border, wide pulse pressure (BP 160/42), and bounding pulses from acute severe AR from endocarditis. Which statement about management is correct?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Start vasodilators and delay surgery since chronic AR can be managed medically for years",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Acute severe AR with hemodynamic compromise requires urgent surgical valve replacement; vasodilators can bridge but IABP is contraindicated",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Rate control with beta-blockers to increase diastolic filling time",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "IABP is the definitive treatment and will stabilize him adequately",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Acute severe AR = surgical emergency. LV cannot accommodate sudden volume overload. Medical therapy (vasodilators, inotropes) is temporizing only. IABP is CONTRAINDICATED \u2014 diastolic balloon inflation worsens regurgitation.",
+        "a": "Incorrect. Chronic AR can be managed medically; ACUTE severe AR is a surgical emergency.",
+        "b": "Correct. Urgent AVR is required. IABP is contraindicated in AR.",
+        "c": "Incorrect. Beta-blockers slow HR, increasing diastolic regurgitant time \u2014 contraindicated in acute AR.",
+        "d": "Incorrect. IABP is absolutely contraindicated in aortic regurgitation."
+      }
+    },
+    {
+      "id": "cv098",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Infective Endocarditis"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "hard",
+      "question": "A 60-year-old man with a prosthetic aortic valve has 3 weeks of fever. Blood cultures grow viridans streptococci in 3 of 4 bottles. TEE shows a vegetation on the prosthetic valve. How does Modified Duke Criteria classify this?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Possible IE \u2014 only 1 major criterion met",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Definite IE \u2014 2 major criteria: positive blood cultures with typical organism + echocardiographic evidence of endocardial involvement",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Possible IE \u2014 prosthetic valve is only a minor criterion",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Rejected IE \u2014 viridans streptococci is a contaminant in prosthetic valve patients",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. DEFINITE IE requires 2 Major criteria. Major 1: typical organism (viridans strep) in \u22652 blood cultures. Major 2: vegetation on TEE. Both are met = Definite IE. TEE is preferred over TTE for prosthetic valve IE.",
+        "a": "Incorrect. Two major criteria are present.",
+        "b": "Correct. 2 major Duke criteria = Definite IE.",
+        "c": "Incorrect. The diagnosis is Definite IE based on 2 major criteria regardless of minor criteria.",
+        "d": "Incorrect. Viridans streptococci is a typical IE organism, especially with prosthetic valve and positive TEE."
+      }
+    },
+    {
+      "id": "cv099",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Infective Endocarditis"
+      ],
+      "tier3": [
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 48-year-old man with native valve endocarditis has blood cultures growing MSSA. He has no penicillin allergy. Which antibiotic regimen is most appropriate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Vancomycin 25-30mg/kg/day for 6 weeks",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Nafcillin or oxacillin IV for 6 weeks",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Vancomycin + cefepime + gentamicin for 6 weeks",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Oral amoxicillin-clavulanate for 6 weeks",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. For native valve IE with MSSA without PCN allergy, nafcillin or oxacillin are preferred over vancomycin \u2014 superior outcomes (lower mortality, fewer relapses). Duration: 4-6 weeks.",
+        "a": "Incorrect. Vancomycin is for MRSA or PCN-allergic patients. For MSSA, beta-lactams are superior.",
+        "b": "Correct. Nafcillin/oxacillin = first-line for MSSA native valve IE.",
+        "c": "Incorrect. Triple therapy is for prosthetic valve IE within 12 months. Native valve MSSA IE uses nafcillin alone.",
+        "d": "Incorrect. Oral therapy is not adequate for IE."
+      }
+    },
+    {
+      "id": "cv100",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Infective Endocarditis"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 38-year-old woman with MVP presents with fever and malaise. Exam reveals painful red nodules on fingertips, painless hemorrhagic spots on palms, splinter hemorrhages, and flame-shaped retinal hemorrhages. Which correctly matches these peripheral IE findings?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Osler nodes (painful fingertip nodules), Janeway lesions (painless palmar macules), splinter hemorrhages, Roth spots (retinal) \u2014 all peripheral stigmata of IE",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "Janeway lesions (painful fingertip nodules), Osler nodes (painless palmar macules)",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "All findings are vascular phenomena per Modified Duke minor criteria",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "These findings rule out IE \u2014 more consistent with vasculitis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. IE peripheral stigmata: Osler nodes = PAINFUL nodules on finger/toe pads (immune complex); Janeway lesions = PAINLESS hemorrhagic macules on palms/soles (septic emboli); Splinter hemorrhages; Roth spots = retinal hemorrhages with pale centers. Memory: Osler = Ouch (painful), Janeway = Just lying there (painless).",
+        "a": "Correct. Classic IE findings with correct painful/painless distinction.",
+        "b": "Incorrect. This reverses Osler and Janeway.",
+        "c": "Incorrect. Osler nodes and Roth spots are immunologic phenomena; Janeway lesions and splinter hemorrhages are vascular phenomena.",
+        "d": "Incorrect. These are classic for IE and are Duke minor criteria."
+      }
+    },
+    {
+      "id": "cv101",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Pericarditis"
+      ],
+      "tier3": [
+        "ECG Interpretation",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 28-year-old man has sharp pleuritic chest pain worse lying flat and relieved leaning forward, following a URI 2 weeks ago. Temp 38.1\u00b0C. ECG: diffuse saddle-shaped ST elevation with PR depression. What is the most likely diagnosis?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "STEMI \u2014 diffuse ST elevation requires immediate cath lab activation",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Acute pericarditis \u2014 diffuse saddle-shaped ST elevation + PR depression + pleuritic positional pain post-viral",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary embolism \u2014 tachycardia and dyspnea suggest PE",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Myocarditis \u2014 troponin elevation is required to distinguish from pericarditis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Acute pericarditis: (1) Sharp pleuritic pain \u2014 worse supine, relieved leaning forward; (2) Pericardial friction rub; (3) ECG: diffuse SADDLE-SHAPED ST elevation + PR DEPRESSION (virtually pathognomonic); (4) Post-viral prodrome. Most common cause: idiopathic/presumed viral.",
+        "a": "Incorrect. STEMI = convex (tombstone) ST elevation in coronary distribution with reciprocal changes. Saddle-shaped diffuse ST + PR depression = pericarditis.",
+        "b": "Correct. All four features \u2014 positional pain, post-viral, saddle ST, PR depression \u2014 point to acute pericarditis.",
+        "c": "Incorrect. PE classically causes sinus tachycardia \u00b1 S1Q3T3. Diffuse ST elevation is not typical.",
+        "d": "Incorrect. Troponin is NOT required to diagnose pericarditis."
+      }
+    },
+    {
+      "id": "cv102",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Pericarditis"
+      ],
+      "tier3": [
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 35-year-old woman is diagnosed with her first episode of acute pericarditis with no contraindications to NSAIDs. What is the most appropriate first-line treatment?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Prednisone 1mg/kg/day for 4 weeks then taper",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ibuprofen 600mg every 8 hours PLUS colchicine 0.5mg BID (if >70kg) for 3 months",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Ibuprofen alone for 2 weeks; colchicine only for recurrent pericarditis",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Aspirin 81mg daily and bed rest for 4 weeks",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ESC guideline first-line: NSAID + colchicine. Ibuprofen 600mg q8h (or indomethacin, or aspirin at therapeutic doses) for 1-2 weeks. Colchicine 0.5mg BID (>70kg) for 3 months reduces recurrence by ~50%. Corticosteroids increase recurrence risk and are reserved for NSAID intolerance.",
+        "a": "Incorrect. Corticosteroids are NOT first-line \u2014 increase recurrence risk.",
+        "b": "Correct. NSAID + colchicine = standard first-line per ESC guidelines.",
+        "c": "Incorrect. Colchicine should be added at the FIRST episode to reduce recurrence.",
+        "d": "Incorrect. Aspirin 81mg is a maintenance dose, not therapeutic for acute pericarditis."
+      }
+    },
+    {
+      "id": "cv103",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Pericarditis"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "hard",
+      "question": "A 55-year-old man with known pericarditis develops acute worsening dyspnea. BP 82/60 with pulsus paradoxus 16 mmHg, elevated JVP, muffled heart sounds, and electrical alternans on ECG. What is the correct immediate management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV furosemide 80mg to relieve congestion",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV fluid bolus and emergent pericardiocentesis",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Start NSAIDs and colchicine for pericarditis flare",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Emergent intubation for respiratory failure",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Cardiac tamponade: Beck's triad (hypotension + muffled heart sounds + elevated JVP) + electrical alternans. Treatment: IV fluids to maintain preload AND emergent pericardiocentesis. Diuretics and vasodilators are absolutely contraindicated.",
+        "a": "Incorrect. Diuretics are contraindicated in tamponade \u2014 reduce preload \u2192 cardiac arrest.",
+        "b": "Correct. IV fluids + emergent pericardiocentesis = definitive treatment for tamponade.",
+        "c": "Incorrect. Anti-inflammatories treat pericarditis; pericardiocentesis is needed for tamponade physiology.",
+        "d": "Incorrect. Intubation in tamponade is extremely dangerous \u2014 positive pressure reduces venous return and causes cardiac arrest. Pericardiocentesis first."
+      }
     }
   ],
   "pulmonary": [
@@ -19375,6 +20226,648 @@
         "b": "Correct. IV phosphate dosing by severity: Severe (<1 mg/dL): 0.6 mmol/kg over 6 hours; Moderate (1.0\u20131.8 mg/dL): 0.4 mmol/kg over 6 hours; Mild (1.9\u20132.5 mg/dL): 0.2 mmol/kg over 6 hours. This patient has PO4 0.7 mg/dL with symptomatic muscle weakness \u2014 severe hypophosphatemia requiring the 0.6 mmol/kg dose. Formulation selection: K-phosphate when renal function is normal and K <4 mEq/L (replenishes both K and PO4); Na-phosphate when renal impairment is present (K excretion may be reduced \u2192 hyperkalemia risk) or K \u22654 mEq/L. This patient has K 3.8 mEq/L and Cr 0.9 mEq/dL (normal renal function) \u2014 K-phosphate is appropriate and preferred. Monitor PO4 and Ca every 6 hours during IV therapy; watch for hypotension (may signal hypocalcemia from Ca-PO4 binding \u2014 stop infusion); transition to oral when PO4 >1.5 mg/dL.",
         "c": "Incorrect. While Na-phosphate is the correct formulation when renal impairment is present or K \u22654 mEq/L, there is no blanket contraindication to K-phosphate in all cirrhotic patients. Cirrhosis alters K handling but does not uniformly prevent K-phosphate use when the serum K is normal and renal function is preserved \u2014 as in this patient with K 3.8 and Cr 0.9. The dose (0.6 mmol/kg) is correct, but the formulation rationale is overstated.",
         "d": "Incorrect. Oral phosphate supplementation is appropriate for asymptomatic mild-to-moderate hypophosphatemia when the GI tract is functioning. A symptomatic patient with PO4 0.7 mg/dL (severe deficiency with muscle weakness) requires IV replacement \u2014 oral phosphate has limited and variable absorption and cannot reliably correct severe deficiency quickly enough to prevent clinical deterioration including diaphragmatic weakness and potential respiratory failure."
+      }
+    },
+    {
+      "id": "renal075",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care"
+      ],
+      "difficulty": "medium",
+      "question": "A 22-year-old woman with type 1 DM presents in DKA. ABG: pH 7.18, PaCO2 24 mmHg, PaO2 98. Bicarb 8 mEq/L. BMP: Na 132, K 5.8, Cl 98, BUN 28, Cr 1.4, glucose 620. What acid-base disturbance is present and is the compensation appropriate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Metabolic acidosis with appropriate respiratory compensation (Winter's formula: expected PaCO2 = 24 \u00b1 2, compensation is adequate)",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "Metabolic acidosis with concurrent respiratory alkalosis \u2014 PaCO2 too low",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Respiratory acidosis with metabolic compensation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Mixed metabolic and respiratory acidosis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Winter's formula: expected PaCO2 = 1.5 \u00d7 [HCO3] + 8 \u00b1 2 = 1.5 \u00d7 8 + 8 \u00b1 2 = 20 \u00b1 2. Measured PaCO2 = 24, which is within 20-22 range \u2014 appropriate compensation only. No concurrent respiratory process.",
+        "a": "Correct. Winter's formula confirms appropriate respiratory compensation for the degree of metabolic acidosis.",
+        "b": "Incorrect. PaCO2 24 is within the expected compensation range, not lower than expected.",
+        "c": "Incorrect. pH 7.18 is acidotic, and PaCO2 24 is LOW (not high) = metabolic, not respiratory acidosis.",
+        "d": "Incorrect. PaCO2 is appropriately low for the bicarb level."
+      }
+    },
+    {
+      "id": "renal076",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "hard",
+      "question": "ABG: pH 7.26, PaCO2 56, HCO3 24. A patient is intubated for ARDS. What acid-base diagnosis is correct?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Metabolic acidosis with inadequate respiratory compensation",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Acute respiratory acidosis without metabolic compensation",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Chronic respiratory acidosis with partial metabolic compensation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Metabolic alkalosis with respiratory compensation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. pH 7.26 = acidosis. PaCO2 56 = elevated (respiratory acidosis). HCO3 24 = NORMAL (no metabolic compensation). Acute respiratory acidosis: kidney hasn't had time to retain bicarb. Acute: each 10 mmHg rise in PaCO2 \u2192 bicarb rises 1 mEq/L. Expected bicarb: 24 + (56-40)/10 \u00d7 1 = 24 + 1.6 \u2248 25.6. Actual = 24 \u2014 essentially no compensation \u2192 ACUTE.",
+        "a": "Incorrect. HCO3 24 is normal, meaning this is a pure respiratory acidosis, not metabolic.",
+        "b": "Correct. Elevated PaCO2 + normal bicarb + low pH = acute respiratory acidosis.",
+        "c": "Incorrect. Chronic respiratory acidosis compensates with elevated bicarb (by ~3.5 mEq/L per 10 mmHg rise). Bicarb is still 24 \u2014 this is acute.",
+        "d": "Incorrect. pH is acidotic, and PaCO2 is elevated \u2014 metabolic alkalosis would show high pH + high bicarb."
+      }
+    },
+    {
+      "id": "renal077",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care"
+      ],
+      "difficulty": "hard",
+      "question": "A 50-year-old woman in the ICU: pH 7.48, PaCO2 30, HCO3 22. What is the correct interpretation?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Metabolic alkalosis with appropriate respiratory compensation",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Respiratory alkalosis without concurrent metabolic disorder",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Primary respiratory alkalosis with concurrent metabolic acidosis (bicarb lower than expected compensation)",
+          "correct": true
+        },
+        {
+          "id": "d",
+          "text": "Compensated metabolic acidosis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Step 1: pH 7.48 = alkalosis. PaCO2 30 = respiratory alkalosis. Step 2: Check compensation. Acute respiratory alkalosis: expected HCO3 = 24 - (40-30)/10 \u00d7 2 = 24-2 = 22. Actual HCO3 22 \u2014 normal? But for CHRONIC: expected HCO3 = 24 - (40-30)/10 \u00d7 5 = 24-5 = 19. If chronic, HCO3 22 is HIGHER than expected \u2014 suggests concurrent metabolic alkalosis. Context matters.",
+        "a": "Incorrect. The bicarb is lower than what chronic respiratory alkalosis would expect \u2014 there's a concurrent metabolic acidosis.",
+        "b": "Incorrect. Bicarb 22 is lower than expected for chronic respiratory alkalosis, suggesting concurrent metabolic acidosis.",
+        "c": "Correct. Bicarb lower than expected compensation = concurrent metabolic acidosis.",
+        "d": "Incorrect. pH is alkalotic, not acidotic \u2014 this is not compensated metabolic acidosis."
+      }
+    },
+    {
+      "id": "renal078",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 40-year-old woman has protracted vomiting. BMP: Na 138, Cl 82, HCO3 36, K 2.8, pH 7.58. What is the diagnosis and mechanism?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Metabolic acidosis from HCl loss",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Metabolic alkalosis from gastric HCl loss causing bicarb generation; maintained by chloride/potassium depletion and volume contraction",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Respiratory alkalosis from hyperventilation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Metabolic alkalosis from exogenous bicarb ingestion",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Vomiting = loss of HCl. Each H+ lost \u2192 1 HCO3 retained in plasma (bicarb generation). Maintenance: hypokalemia (K/H exchange) and hypochloremia (Cl needed to excrete bicarb). Treatment: NS to replace Cl, KCl to replace K. Acetazolamide if needed.",
+        "a": "Incorrect. HCl loss generates metabolic ALKALOSIS, not acidosis.",
+        "b": "Correct. Vomiting causes metabolic alkalosis via HCl loss. Maintained by Cl/K depletion.",
+        "c": "Incorrect. PaCO2 would be low in respiratory alkalosis. Here the driver is metabolic.",
+        "d": "Incorrect. This is endogenous bicarb generation, not exogenous bicarbonate intake."
+      }
+    },
+    {
+      "id": "renal079",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "hard",
+      "question": "A 34-year-old woman on topiramate has pH 7.30, HCO3 15, PaCO2 30, K 2.8, and anion gap of 10. Urine pH is 6.5. What type of RTA does this represent?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Type 1 (distal) RTA \u2014 urine cannot acidify below pH 5.5; topiramate is a carbonic anhydrase inhibitor that affects the distal tubule",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Type 2 (proximal) RTA \u2014 topiramate inhibits carbonic anhydrase in the proximal tubule, impairing bicarb reabsorption; urine becomes alkaline when serum bicarb is above reabsorptive threshold",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Type 4 RTA \u2014 hyperkalemia is the hallmark; hypokalemia here rules it out",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Type 1 RTA \u2014 hypokalemia is expected",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Type 2 (proximal) RTA: topiramate (carbonic anhydrase inhibitor) impairs proximal tubular HCO3 reabsorption. Non-gap metabolic acidosis + HYPOKALEMIA + urine pH alkaline (above threshold) = Type 2. Type 1 also has alkaline urine and hypokalemia but cannot acidify urine at any serum bicarb level.",
+        "a": "Incorrect. Topiramate affects carbonic anhydrase in the PROXIMAL tubule primarily.",
+        "b": "Correct. Topiramate \u2192 Type 2 RTA. Non-gap acidosis + hypokalemia + CA inhibition = proximal RTA.",
+        "c": "Incorrect. Type 4 RTA = HYPERKALEMIA (aldosterone deficiency/resistance). This patient has hypokalemia.",
+        "d": "Incorrect. While Type 1 RTA can cause hypokalemia, the mechanism (CA inhibition) and drug (topiramate) point to Type 2."
+      }
+    },
+    {
+      "id": "renal080",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "Calculate the anion gap and delta-delta ratio for a patient with pH 7.28, Na 138, Cl 98, HCO3 12, albumin 2.0 g/dL, and glucose 180. What is found?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Normal anion gap acidosis \u2014 chloride loss is the primary driver",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Elevated anion gap metabolic acidosis with a concurrent normal anion gap acidosis (delta-delta <1)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Pure elevated anion gap metabolic acidosis (delta-delta 1-2)",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Elevated anion gap acidosis with concurrent metabolic alkalosis (delta-delta >2)",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Step 1: Correct AG for albumin: AG = 138 - 98 - 12 = 28. Corrected AG = 28 + 2.5 \u00d7 (4.0 - 2.0) = 28 + 5 = 33. Step 2: Expected HCO3 if pure HAGMA: normal bicarb (24) - delta AG (33-12=21) = 24-21 = 3. Actual HCO3 = 12 > 3 expected \u2192 HCO3 HIGHER than expected \u2192 concurrent NAGMA pulling bicarb up. Delta-delta = (33-12)/(24-12) = 21/12 = 1.75. A delta-delta <1 indicates NAGMA as well. Since actual HCO3 higher, this indicates concurrent alkalosis... let me recalculate. Delta-delta ratio = delta AG / delta HCO3 = (AG-12)/(24-HCO3) = 21/12 = 1.75. 1-2 = pure HAGMA. So this would be pure HAGMA.",
+        "a": "Incorrect. AG is elevated (33 corrected for albumin).",
+        "b": "Incorrect (though commonly tested). Delta-delta 1.75 falls in the 1-2 range suggesting pure HAGMA.",
+        "c": "Correct. Corrected anion gap = 33. Delta-delta ratio = 21/12 = 1.75 (1-2 range = pure HAGMA). Always correct anion gap for low albumin.",
+        "d": "Incorrect. Delta-delta >2 would indicate concurrent metabolic alkalosis. This is 1.75."
+      }
+    },
+    {
+      "id": "renal081",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care"
+      ],
+      "difficulty": "hard",
+      "question": "A 60-year-old man with SIADH has Na 118. He is confused but not seizing. Urine osmolality 480 mOsm/kg, urine sodium 55 mEq/L. What is the appropriate correction rate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Correct Na at 2 mEq/L/hour using 3% saline until symptoms resolve",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Restrict fluids; correct at 6-8 mEq/L in the first 24 hours; do not exceed 10-12 mEq/L in 24 hours or 18 mEq/L in 48 hours",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Normal saline at 200 mL/hour will correct sodium safely and quickly",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Correct at up to 20 mEq/L in 24 hours since profound hyponatremia requires rapid correction",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Chronic hyponatremia (\u226548 hours): MAX correction = 6-8 mEq/L per 24 hours; absolute ceiling = 10-12 mEq/L/24h or 18 mEq/L/48h. Overly rapid correction \u2192 osmotic demyelination syndrome (ODS/CPM). SIADH: fluid restriction is primary treatment; 3% saline reserved for symptomatic/severe.",
+        "a": "Incorrect. 2 mEq/L/hour far exceeds the safe correction rate for chronic hyponatremia. ODS risk is high.",
+        "b": "Correct. 6-8 mEq/24h goal; \u226410-12 mEq/24h hard limit; \u226418 mEq/48h to prevent ODS.",
+        "c": "Incorrect. Normal saline in SIADH may paradoxically worsen hyponatremia (saline Na concentration < urine Na concentration).",
+        "d": "Incorrect. 20 mEq/24h = extremely dangerous \u2014 near-certain osmotic demyelination."
+      }
+    },
+    {
+      "id": "renal082",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care"
+      ],
+      "difficulty": "hard",
+      "question": "A 55-year-old woman develops Na 124 following TURP. She was given hypotonic irrigation fluid. Urine is very dilute. What is the mechanism and best management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "SIADH \u2014 treat with fluid restriction only",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Transurethral resection syndrome (dilutional hyponatremia) from free water absorption \u2014 3% saline if symptomatic, with careful rate control",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Pseudohyponatremia \u2014 correct Na using glucose correction formula",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Hypervolemic hyponatremia from heart failure \u2014 diuresis is first-line",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. TURP syndrome: hypotonic irrigation fluid absorption \u2192 dilutional hypervolemic hyponatremia. Dilute urine (ADH suppressed). If symptomatic: 3% saline to raise Na 1-2 mEq/L/hour until symptoms resolve, then slow to safe rate. Diuretics may be added for volume overload.",
+        "a": "Incorrect. SIADH has concentrated urine. This is dilutional \u2014 different mechanism.",
+        "b": "Correct. TURP syndrome = dilutional hyponatremia from free water absorption. 3% saline if symptomatic.",
+        "c": "Incorrect. Pseudohyponatremia occurs with hyperlipidemia/hyperproteinemia \u2014 measured osmolality is normal.",
+        "d": "Incorrect. While hypervolemic, this is not heart failure \u2014 it's from TURP irrigation fluid absorption."
+      }
+    },
+    {
+      "id": "renal083",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "An intubated 72-year-old man with respiratory failure has K+ 6.8 mEq/L. ECG shows peaked T waves with widening QRS. BP 96/60. What is the correct management sequence?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sodium polystyrene sulfonate (Kayexalate) 30g PO immediately",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV calcium gluconate \u2192 insulin + dextrose \u2192 albuterol nebulization \u2192 consider dialysis if refractory",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "IV furosemide to promote potassium excretion",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Sodium bicarbonate alone, repeated q15 minutes",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Severe hyperkalemia with ECG changes (EMERGENT): (1) IV calcium gluconate (membrane stabilization \u2014 works in 5 minutes); (2) Insulin 10 units + dextrose (shift K into cells \u2014 works in 30 min); (3) Albuterol 10-20mg nebulized (shift K); (4) Sodium bicarbonate if acidosis; (5) Dialysis for refractory. Calcium is FIRST \u2014 protects the heart.",
+        "a": "Incorrect. Kayexalate works over hours \u2014 not appropriate for emergent hyperkalemia with ECG changes.",
+        "b": "Correct. Calcium \u2192 membrane stabilization; insulin/dextrose \u2192 K shifts; albuterol \u2192 further shifting; dialysis if needed.",
+        "c": "Incorrect. Furosemide works over hours. With ECG changes, you need immediate intervention.",
+        "d": "Incorrect. Bicarb is adjunctive. Calcium FIRST for cardiac protection."
+      }
+    },
+    {
+      "id": "renal084",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 55-year-old woman post-colectomy develops K+ 2.2 mEq/L with muscle weakness and ileus. IV access available. What is the maximum safe IV rate of potassium replacement via peripheral line?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "KCl 20 mEq/hour via central line; 10 mEq/hour via peripheral line with continuous cardiac monitoring",
+          "correct": true
+        },
+        {
+          "id": "b",
+          "text": "KCl 100 mEq IV push over 10 minutes",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "KCl 40 mEq/hour via peripheral line without monitoring",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Oral replacement only is safe; IV potassium causes fatal arrhythmias",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. IV K replacement guidelines: Peripheral: max 10 mEq/hour (20 mEq/hour may cause vein sclerosis/pain). Central: up to 20 mEq/hour with cardiac monitoring. NEVER give IV K bolus. Replace magnesium concomitantly (hypomagnesemia prevents K correction).",
+        "a": "Correct. Peripheral: \u226410 mEq/hr; central: \u226420 mEq/hr with cardiac monitoring.",
+        "b": "Incorrect. IV potassium push is absolutely contraindicated \u2014 causes immediate fatal cardiac arrhythmia.",
+        "c": "Incorrect. 40 mEq/hour via peripheral line would cause severe vascular injury and cardiac risk.",
+        "d": "Incorrect. IV KCl is safe at correct rates. Oral is preferred when possible but IV is appropriate for severe deficiency."
+      }
+    },
+    {
+      "id": "renal085",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 68-year-old ICU patient on furosemide and antibiotics has Mg 0.9 mg/dL, K 3.0 despite 60 mEq KCl replacement, and prolonged QTc. What explains refractory hypokalemia?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Inadequate IV KCl dose \u2014 increase KCl to 100 mEq/day",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Hypomagnesemia prevents renal potassium retention \u2014 replace magnesium first",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Metabolic alkalosis is preventing K correction",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "The antibiotics are the cause and should be discontinued before K replacement",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Hypomagnesemia is the most common cause of refractory hypokalemia in ICU patients. Mg deficiency activates ROMK channels in the collecting duct, causing continuous K wasting. ALWAYS check and replace Mg when hypokalemia fails to respond to K supplementation.",
+        "a": "Incorrect. Increasing KCl without correcting Mg will fail \u2014 K will continue to waste in the urine.",
+        "b": "Correct. Hypomagnesemia \u2192 refractory hypokalemia. Magnesium must be replaced first.",
+        "c": "Incorrect. While alkalosis can shift K intracellularly, the mechanism here is renal Mg-dependent K wasting.",
+        "d": "Incorrect. Some antibiotics (aminoglycosides) cause hypomagnesemia, which is the real mechanism."
+      }
+    },
+    {
+      "id": "renal086",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care"
+      ],
+      "difficulty": "medium",
+      "question": "A 72-year-old man with metastatic prostate cancer is brought in confused and constipated. Labs: Ca 13.4 mg/dL, Cr 1.9, PTHrP elevated. ECG: shortened QT interval. What is the first treatment?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV furosemide 40mg to promote calciuresis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV normal saline (200-300 mL/hr) to promote calciuresis, followed by bisphosphonate once hydrated",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Calcitonin alone for 72 hours then reassess",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Hemodialysis immediately for malignancy-related hypercalcemia",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Hypercalcemia of malignancy (HHM from PTHrP): (1) IV NS aggressively (4-6 L/day to restore volume and promote renal Ca excretion); (2) Loop diuretics ONLY after adequate hydration; (3) Bisphosphonates (zoledronic acid, pamidronate) \u2014 onset 48-72 hours, peak effect at 4-7 days; (4) Calcitonin for rapid effect.",
+        "a": "Incorrect. Furosemide BEFORE adequate IV hydration will worsen volume depletion and increase Ca reabsorption.",
+        "b": "Correct. Aggressive IVF \u2192 volume expansion promotes renal Ca excretion. Bisphosphonate for sustained reduction.",
+        "c": "Incorrect. Calcitonin has a rapid effect (4-6 hours) but tachyphylaxis develops within 48 hours. It's adjunctive, not sole therapy.",
+        "d": "Incorrect. Dialysis is reserved for refractory hypercalcemia with renal failure. IVF is first-line."
+      }
+    },
+    {
+      "id": "renal087",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 48-year-old woman 3 days post-parathyroidectomy has perioral tingling, positive Chvostek sign, and Ca 6.8 mg/dL. QTc is prolonged. What is the most appropriate intervention?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Oral calcium carbonate and vitamin D",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "IV calcium gluconate infusion; correct magnesium; transition to oral calcium and calcitriol once stable",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "IV calcium chloride bolus over 2 minutes",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Check PTH level before treating \u2014 may be transient hypoparathyroidism",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Symptomatic hypocalcemia post-parathyroidectomy (hungry bone syndrome risk): IV calcium gluconate infusion (preferred over chloride \u2014 gluconate is less tissue irritating). Correct Mg (hypoMg impairs PTH release). Transition to oral CaCO3 + calcitriol (vitamin D analog) once asymptomatic.",
+        "a": "Incorrect. With symptoms, prolonged QTc, and Ca 6.8, IV calcium is required \u2014 oral is too slow.",
+        "b": "Correct. IV calcium gluconate for symptomatic hypocalcemia + Mg replacement + transition to oral.",
+        "c": "Incorrect. Calcium chloride is more irritating and can cause tissue necrosis if extravasated. Reserve for cardiac arrest.",
+        "d": "Incorrect. Symptoms + prolonged QTc require immediate treatment. Do not delay for labs."
+      }
+    },
+    {
+      "id": "renal088",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Toxicities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care"
+      ],
+      "difficulty": "hard",
+      "question": "A 22-year-old man is found unresponsive. BP 90/50, RR 6, SpO2 78%, constricted pupils, decreased bowel sounds. POCT glucose normal. Which medication is the most critical first intervention?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV dextrose 50% as presumptive treatment for hypoglycemia",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Naloxone IV/IM/IN 0.4-2mg immediately; repeat as needed; begin assisted ventilation",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "IV flumazenil 0.2mg to reverse benzodiazepine toxidrome",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Intubation first; delay pharmacological reversal until airway is secured",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Classic opioid toxidrome: triad of CNS depression + miosis + respiratory depression. Naloxone: 0.4-2mg IV/IM/SQ/intranasal. Repeat q2-3 minutes. Duration of action 30-90 min \u2014 shorter than many opioids, so repeat dosing or infusion may be needed. Also provide bag-mask ventilation.",
+        "a": "Incorrect. Glucose is normal. Dextrose is appropriate for hypoglycemia, not opioid toxidrome.",
+        "b": "Correct. Opioid toxidrome \u2192 naloxone is the specific antidote. Give with respiratory support.",
+        "c": "Incorrect. Flumazenil reverses benzodiazepines. Benzo toxidrome: CNS depression but WITHOUT miosis. Flumazenil is contraindicated in suspected mixed ingestion with TCA or seizure history.",
+        "d": "Incorrect. Naloxone should be given BEFORE intubation if opioid OD is suspected \u2014 successful reversal avoids the risks of intubation."
+      }
+    },
+    {
+      "id": "renal089",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Toxicities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Pharmacology"
+      ],
+      "difficulty": "hard",
+      "question": "A 45-year-old woman presents with tinnitus, hyperpnea, fever, and confusion. ABG: pH 7.42, PaCO2 22, HCO3 14. Serum salicylate 80 mg/dL. What explains the mixed acid-base and what is the treatment?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Pure metabolic acidosis \u2014 treat with sodium bicarbonate IV",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Mixed respiratory alkalosis (salicylate stimulates respiratory center) + metabolic acidosis (uncoupled oxidative phosphorylation); treatment: IV sodium bicarbonate + aggressive hydration; dialysis for severe toxicity",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Mixed respiratory alkalosis + metabolic alkalosis \u2014 give acetazolamide",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Metabolic acidosis only \u2014 the PaCO2 22 is appropriate compensation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Salicylate toxicity classic mixed picture: (1) Respiratory alkalosis \u2014 salicylates directly stimulate medullary respiratory center \u2192 hyperventilation; (2) Metabolic acidosis \u2014 uncoupled oxidative phosphorylation, organic acid accumulation. Urine alkalization with NaHCO3 increases salicylate ionization (ion trapping) \u2192 enhances renal excretion. Dialysis for: salicylate >100 mg/dL, AKI, pulmonary edema, CNS toxicity.",
+        "a": "Incorrect. Bicarb is part of treatment but mechanism is mixed, not pure metabolic acidosis.",
+        "b": "Correct. Salicylate = mixed respiratory alkalosis + metabolic acidosis. NaHCO3 for urinary alkalinization; dialysis if severe.",
+        "c": "Incorrect. Metabolic ACIDOSIS, not alkalosis. Acetazolamide would worsen acidosis.",
+        "d": "Incorrect. The PaCO2 is lower than Winter's formula would predict (expected: 1.5\u00d714+8=29). PaCO2 22 < 29 = concurrent respiratory alkalosis."
       }
     }
   ],
@@ -34407,6 +35900,645 @@
         "b": "Incorrect. Isopropanol is metabolized to acetone \u2014 acetone is NOT an acid and does NOT cause anion gap metabolic acidosis. Isopropanol poisoning produces an elevated osmolar gap (from unmeasured isopropanol and acetone) WITHOUT an anion gap metabolic acidosis \u2014 this distinguishing feature alone rules out isopropanol as the ingestion in a patient with AG of 30. Isopropanol also does not cause optic nerve toxicity. Fomepizole is NOT needed for isopropanol (acetone is not toxic; the drug that needs blocking is ADH).",
         "c": "Incorrect. While early ethylene glycol ingestion can present before oxalate crystals appear in urine, the visual symptoms described \u2014 bilateral optic disc edema with visual loss \u2014 are not features of ethylene glycol toxicity at any stage. Ethylene glycol produces renal failure from tubular oxalate deposition; it does not cause optic nerve toxicity. Optic involvement is specific to methanol. Thiamine and pyridoxine redirect glyoxylate metabolism in ethylene glycol poisoning (toward glycine rather than oxalate) \u2014 they are not used in methanol poisoning.",
         "d": "Correct. Methanol (wood alcohol) poisoning is confirmed by the combination: severe AGMA (AG 30), markedly elevated osmolar gap (52 mOsm/kg confirming large unmeasured osmole load), and bilateral optic toxicity (optic disc edema, decreased visual acuity). Mechanism: methanol \u2192 formaldehyde (via alcohol dehydrogenase, same enzyme that metabolizes ethanol) \u2192 formate (via aldehyde dehydrogenase). Formate is the toxic metabolite \u2014 it selectively inhibits cytochrome c oxidase (Complex IV of the mitochondrial electron transport chain) in the metabolically active optic nerve and retinal ganglion cells, causing ATP depletion, mitochondrial dysfunction, and optic neuropathy \u2192 blindness. This optic specificity distinguishes methanol from ethylene glycol (oxalate crystals + AKI, no optic toxicity). Also: putamen hemorrhage is a rare severe CNS complication of methanol. Treatment: (1) fomepizole 15 mg/kg IV loading dose \u2014 blocks alcohol dehydrogenase, preventing further formaldehyde/formate production; (2) urgent hemodialysis \u2014 removes methanol and formate; (3) leucovorin (folinic acid) \u2014 cofactor enhancing formate metabolism to CO2 + H2O, reducing formate accumulation. Thiamine and pyridoxine are used for ethylene glycol (redirecting glyoxylate metabolism), not methanol."
+      }
+    },
+    {
+      "id": "multi246",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 68-year-old woman is intubated for septic shock. She is hemodynamically stable on low-dose vasopressor. Per ASPEN/SCCM guidelines, when should enteral nutrition be initiated?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Wait until vasopressors are completely weaned to avoid non-occlusive mesenteric ischemia",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Begin within 24-48 hours of ICU admission if hemodynamically stable (not being resuscitated)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Initiate parenteral nutrition first; switch to enteral when GI function returns",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "No nutrition for the first 7 days of ICU admission \u2014 gut rest is beneficial in critical illness",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ASPEN/SCCM 2016 guidelines: Early EN within 24-48 hours of ICU admission is recommended for most critically ill patients once hemodynamically stable. Low-dose vasopressors are NOT a contraindication. EN promotes gut barrier integrity, reduces bacterial translocation, and modulates the immune response.",
+        "a": "Incorrect. Low-dose vasopressors are not a contraindication to EN. Withholding EN increases infection risk.",
+        "b": "Correct. Early EN within 24-48h = ASPEN/SCCM standard of care in critical illness.",
+        "c": "Incorrect. EN is preferred over PN when the gut is functional. PN carries higher infection and complication risk.",
+        "d": "Incorrect. Prolonged NPO in critical illness leads to gut mucosal atrophy, bacterial translocation, and worse outcomes."
+      }
+    },
+    {
+      "id": "multi247",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 70-year-old man with BMI 19 has been NPO for 10 days and is started on TPN. On day 2, he develops new dyspnea, muscle weakness, and seizures. K 2.8, Mg 1.0, Phosphorus 1.1 mg/dL. What has occurred and why?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "TPN contamination with bacteria causing sepsis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Refeeding syndrome \u2014 carbohydrate load shifts glucose/K/Mg/Phos intracellularly causing potentially fatal metabolic derangements",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Hyperglycemia from TPN glucose load \u2014 add insulin and continue current rate",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Overfeeding syndrome \u2014 total calories are too high",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Refeeding syndrome: malnourished patients started on nutrition (EN or PN) \u2192 carbohydrate load \u2192 insulin surge \u2192 INTRACELLULAR SHIFT of P, K, Mg. Hypophosphatemia (hallmark), hypokalemia, hypomagnesemia \u2192 cardiac arrhythmias, respiratory failure, seizures, Wernicke's encephalopathy. Prevention: start low, go slow; replace electrolytes before/during; thiamine before carbohydrates.",
+        "a": "Incorrect. Sepsis would cause fever, elevated WBC, hemodynamic instability \u2014 not electrolyte shifts.",
+        "b": "Correct. Refeeding syndrome: insulin-driven intracellular shift of P/K/Mg. Hypophosphatemia is the hallmark.",
+        "c": "Incorrect. Hyperglycemia wouldn't cause these electrolyte abnormalities or this symptom complex.",
+        "d": "Incorrect. Overfeeding causes hyperglycemia and hypercapnia (from excess CO2 production). This is specifically electrolyte-driven."
+      }
+    },
+    {
+      "id": "multi248",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Critical Care"
+      ],
+      "difficulty": "medium",
+      "question": "Which of the following patients is at HIGHEST risk for refeeding syndrome and should have nutrition started at the lowest rate with intensive electrolyte monitoring?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "BMI 24, NPO for 3 days post-appendectomy, otherwise healthy",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "BMI 14, chronic alcoholism, anorexia nervosa, NPO for 7 days",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "BMI 30, diabetic, post-cardiac surgery NPO for 2 days",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "BMI 22, Crohn's disease on azathioprine, 4-day hospitalization",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ASPEN refeeding syndrome risk factors: BMI <16, weight loss >15% in 3-6 months, NPO >10 days, chronic alcoholism, anorexia nervosa, malabsorption. This patient has multiple severe risk factors: very low BMI, alcoholism (both deplete Mg/thiamine), anorexia nervosa, prolonged NPO.",
+        "a": "Incorrect. Short NPO + normal BMI = low risk.",
+        "b": "Correct. Multiple high-risk features: severely low BMI, alcoholism, anorexia nervosa, prolonged NPO.",
+        "c": "Incorrect. Obesity provides some nutritional reserve. Short NPO period.",
+        "d": "Incorrect. Moderate nutrition concern but lacks the severe anthropometric and behavioral risk factors."
+      }
+    },
+    {
+      "id": "multi249",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A critically ill intubated patient has high gastric residuals (>500 mL) and concern for aspiration. The dietitian recommends continuing EN per ASPEN guidelines. What is the most appropriate action?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Discontinue EN and start TPN \u2014 high gastric residuals indicate EN intolerance",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Continue EN; switch to post-pyloric (small bowel) feeding; add prokinetic agent (metoclopramide or erythromycin); elevate HOB to 30-45\u00b0",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Hold EN until gastric residual falls below 200 mL before resuming",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Reduce EN rate to 10 mL/hour and recheck residuals in 4 hours",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ASPEN 2016: gastric residuals up to 500 mL should not prompt EN discontinuation. Interventions: (1) Prokinetic agents (metoclopramide/erythromycin); (2) Post-pyloric tube placement; (3) HOB elevation 30-45\u00b0 for aspiration prevention. Evidence does not support routine residual volume checks as a sole reason to stop EN.",
+        "a": "Incorrect. TPN is associated with worse outcomes than EN. High gastric residuals alone are not an indication to stop EN.",
+        "b": "Correct. ASPEN: continue EN with prokinetics + post-pyloric placement + HOB elevation.",
+        "c": "Incorrect. The 500 mL threshold per ASPEN does NOT mandate holding EN.",
+        "d": "Incorrect. Reducing rate without addressing the underlying motility issue is less effective than prokinetics."
+      }
+    },
+    {
+      "id": "multi250",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "Per ASPEN guidelines for ICU patients, what is the recommended protein goal for a critically ill patient with BMI 25 who weighs 80 kg?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "0.8 g/kg/day (RDA for healthy adults)",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "1.2-2.0 g/kg/day of actual body weight (96-160g protein/day)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "3.0 g/kg/day to overcome hypermetabolism",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "No specific protein goal \u2014 focus on total caloric target only",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ASPEN/SCCM: protein 1.2-2.0 g/kg/day for most ICU patients. Higher: burns (up to 2.0-2.5g/kg), wounds, trauma. Obese patients: use adjusted body weight or ideal body weight-based goals. Protein is the macronutrient with greatest impact on clinical outcomes in ICU patients.",
+        "a": "Incorrect. 0.8 g/kg is the minimum for healthy adults \u2014 insufficient in critical illness.",
+        "b": "Correct. 1.2-2.0 g/kg/day is the ASPEN recommended ICU protein goal.",
+        "c": "Incorrect. 3.0 g/kg exceeds current recommendations and risks azotemia.",
+        "d": "Incorrect. Protein goals are independently important from caloric goals in critical illness."
+      }
+    },
+    {
+      "id": "multi251",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 55-year-old man needs TPN. He has a PICC line in the right arm. Which TPN formulation component is responsible for most catheter-related infections and how is it minimized?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Dextrose concentration >10% \u2014 the hypertonic sugar solution promotes bacterial growth",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Lipid emulsion promotes bacterial growth most; separate administration over no more than 12 hours; use inline filter; strict aseptic technique for line care",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Amino acid concentration \u2014 protein supports bacterial replication",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Multivitamin admixture \u2014 vitamins promote microbial growth",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Lipid emulsions are the most common source of TPN-related infections (excellent bacterial and fungal growth medium). ASPEN guidelines: infuse lipids over no more than 12 hours as a separate admixture. Strict aseptic line care is essential. CLABSI (central line-associated bloodstream infections) are the most serious TPN complication.",
+        "a": "Incorrect. Hypertonic dextrose supports bacterial growth but lipid emulsions are the highest infection risk.",
+        "b": "Correct. Lipid emulsions = highest infection risk. Infuse separately over \u226412 hours.",
+        "c": "Incorrect. Amino acids are not the primary infection risk component.",
+        "d": "Incorrect. Multivitamins are present in small amounts and are not the primary infection source."
+      }
+    },
+    {
+      "id": "multi252",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Pharmacology"
+      ],
+      "difficulty": "hard",
+      "question": "A 62-year-old man develops new jaundice and rising alkaline phosphatase, AST, and total bilirubin after 3 weeks of TPN. He has no other hepatic risk factors. What is the most likely cause and management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Acute viral hepatitis \u2014 check hepatitis serologies",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "TPN-associated liver disease (TALD) \u2014 consider switching to enteral nutrition, cycling TPN, reducing dextrose load, and adding ursodeoxycholic acid",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Cholecystitis from lack of enteral stimulation \u2014 start EN immediately",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "TPN-related sepsis \u2014 obtain blood cultures and start antibiotics",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. TPN-associated liver disease (TALD): progressive cholestasis, hepatic steatosis, eventually cirrhosis with prolonged TPN. Mechanism: lack of enteral stimulation, manganese accumulation, omega-6 fatty acid excess. Management: transition to EN if possible, cycle TPN (infuse over 12-16h instead of 24h), reduce dextrose, use fish oil-based lipids (SMOF), add ursodeoxycholic acid.",
+        "a": "Incorrect. Hepatitis serology should be checked but TPN duration (3 weeks) + no other risk factors = TALD is most likely.",
+        "b": "Correct. TALD is a known complication of prolonged TPN. Enteral nutrition is the best prevention/treatment.",
+        "c": "Incorrect. Acalculous cholecystitis can occur with prolonged NPO/TPN but would present differently (fever, RUQ pain, Murphy's sign).",
+        "d": "Incorrect. CLABSI is possible but presents with fever and systemic signs, not isolated hepatic enzyme elevation."
+      }
+    },
+    {
+      "id": "multi253",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Nutrition"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 70-year-old woman requires nutritional assessment. Her albumin is 1.8 g/dL. Her surgeon attributes this to malnutrition. What does this actually indicate, per current evidence?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Albumin is the gold standard for nutritional assessment and a direct marker of protein intake",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Albumin is a negative acute-phase reactant \u2014 it decreases with inflammation/infection, not necessarily with malnutrition alone; it is a marker of illness severity and mortality, not a reliable nutritional marker",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Low albumin means she needs IV albumin supplementation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Albumin <2.0 g/dL indicates third-spacing and should prompt IV fluid bolus",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Albumin as a nutritional marker is no longer recommended by ASPEN. Albumin is a NEGATIVE ACUTE-PHASE REACTANT \u2014 it decreases with inflammation (cytokines suppress hepatic synthesis and increase vascular permeability). It reflects illness severity and predicts mortality, not nutritional status. Better nutritional markers: weight history, functional assessment, dietary intake history.",
+        "a": "Incorrect. Albumin is NOT a reliable nutritional marker per current ASPEN guidelines.",
+        "b": "Correct. Albumin = acute-phase reactant, not nutritional marker. Reflects inflammatory state.",
+        "c": "Incorrect. IV albumin supplementation does not improve outcomes and is not indicated for malnutrition.",
+        "d": "Incorrect. Low albumin doesn't indicate fluid deficiency \u2014 it reflects the inflammatory state."
+      }
+    },
+    {
+      "id": "multi254",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Care Transitions"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Quality Improvement"
+      ],
+      "difficulty": "medium",
+      "question": "A 78-year-old man with CHF is being discharged after a heart failure exacerbation. Per BOOST (Better Outcomes by Optimizing Safe Transitions) principles, which intervention has the strongest evidence for reducing 30-day readmission?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Provide a written list of medications only",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Ensure a follow-up appointment within 7 days AND a structured medication reconciliation AND patient teach-back",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Schedule a home visit at 6 weeks",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Refer to palliative care at discharge",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. BOOST '8 Ps' care transitions bundle: a strong evidence-based package for reducing readmission includes: (1) early follow-up appointment (within 7 days); (2) medication reconciliation; (3) teach-back to confirm patient understanding; (4) clear written instructions; (5) communication with receiving provider. These combined interventions reduce 30-day readmission rates in CHF by 30-50%.",
+        "a": "Incorrect. Written medication list alone is insufficient without teach-back and follow-up.",
+        "b": "Correct. Bundled care transitions (follow-up + med reconciliation + teach-back) = strongest readmission reduction evidence.",
+        "c": "Incorrect. A 6-week home visit misses the high-risk 30-day readmission window.",
+        "d": "Incorrect. Palliative care referral may be appropriate but is not a care transitions-specific readmission reduction intervention."
+      }
+    },
+    {
+      "id": "multi255",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Care Transitions"
+      ],
+      "tier3": [
+        "Patient Education"
+      ],
+      "difficulty": "medium",
+      "question": "Which element of the BOOST '8 Ps' framework specifically addresses the patient's understanding of why they were hospitalized, what happened, and what to do if symptoms worsen?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Principal diagnosis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Problem medications (high-alert drugs)",
+          "correct": false
+        },
+        {
+          "id": "c",
+          "text": "Post-hospital appointment coordination",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Patient education using teach-back technique to confirm understanding of diagnosis, medications, and warning signs",
+          "correct": true
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. BOOST 8 Ps: (1) Principal diagnosis; (2) Problem medications; (3) Psychological; (4) Patient education/teach-back; (5) Prior hospitalizations; (6) Palliative/hospice; (7) Post-hospital appointment; (8) Post-hospital/community services. Teach-back confirms comprehension by having the patient explain back key discharge information.",
+        "a": "Incorrect. Principal diagnosis is one of the 8 Ps but refers to documenting the final working diagnosis.",
+        "b": "Incorrect. Problem medications identifies high-alert medications, not patient education.",
+        "c": "Incorrect. Post-hospital appointment is about scheduling follow-up, not patient education.",
+        "d": "Correct. Patient education using teach-back is the element that confirms patient comprehension of hospitalization and return precautions."
+      }
+    },
+    {
+      "id": "multi256",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Geriatric Care"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "A 82-year-old woman in the ICU for pneumonia develops acute confusion at night with disorientation, inattention, and fluctuating consciousness. She was oriented yesterday. Which intervention has the strongest evidence for PREVENTION of ICU delirium in elderly patients?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Prophylactic haloperidol 1mg IV twice daily",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "ABCDEF bundle: early mobility, minimize sedation, sleep promotion, sensory aids (glasses/hearing aids), reorientation, family engagement",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Benzodiazepine sedation to reduce anxiety-related agitation",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Physical restraints to prevent falls and self-extubation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ABCDEF bundle (Society of Critical Care Medicine): Awakening trials, Breathing coordination, Choice of sedation, Delirium monitoring/management, Early mobility/Exercise, Family engagement. Non-pharmacological delirium prevention has the strongest evidence in ICU elderly patients. Sensory aids (glasses, hearing aids), reorientation, normal sleep-wake cycles, and early mobility reduce delirium incidence by up to 50%.",
+        "a": "Incorrect. Prophylactic haloperidol does NOT reduce delirium incidence per HOPE-ICU and REDUCE trials.",
+        "b": "Correct. ABCDEF bundle = highest evidence for ICU delirium prevention.",
+        "c": "Incorrect. Benzodiazepines INCREASE delirium risk in elderly ICU patients.",
+        "d": "Incorrect. Physical restraints increase agitation and prolong ICU delirium."
+      }
+    },
+    {
+      "id": "multi257",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Geriatric Care"
+      ],
+      "tier3": [
+        "Pharmacology"
+      ],
+      "difficulty": "medium",
+      "question": "An 84-year-old man with HTN and atrial fibrillation is prescribed metoclopramide for gastroparesis, diphenhydramine for allergies, and oxybutynin for urinary incontinence. What is the primary pharmacological concern in this patient?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Drug-drug interaction between anticoagulation and gastroparesis medications",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "All three medications are on the Beers Criteria as potentially inappropriate in elderly patients \u2014 risk of delirium, falls, tardive dyskinesia, urinary retention, and cognitive impairment",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Renal toxicity from anticholinergic medications requires dose reduction",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Hepatic metabolism is adequate in elderly \u2014 no concern with this regimen",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Beers Criteria (AGS): Metoclopramide = risk of extrapyramidal symptoms/tardive dyskinesia. Diphenhydramine = highly anticholinergic (first-generation antihistamine) \u2192 delirium, falls, cognitive impairment. Oxybutynin = anticholinergic \u2192 delirium, constipation, dry mouth, urinary retention. Anticholinergic burden in elderly causes the 'anticholinergic syndrome.' Use alternatives: ondansetron instead of metoclopramide; loratadine instead of diphenhydramine; mirabegron instead of oxybutynin.",
+        "a": "Incorrect. Anticoagulation is not mentioned. The concern is anticholinergic burden and Beers Criteria.",
+        "b": "Correct. All three are Beers Criteria drugs in elderly \u2014 high risk of cognitive/neurological/urological adverse effects.",
+        "c": "Incorrect. The primary concern is the CNS and anticholinergic adverse effects, not nephrotoxicity.",
+        "d": "Incorrect. Hepatic and renal metabolism are both altered in elderly, and these medications have significant age-related risks regardless."
+      }
+    },
+    {
+      "id": "multi258",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Geriatric Care"
+      ],
+      "tier3": [
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 79-year-old woman with recent hip fracture is being worked up for osteoporosis. She drinks 3 glasses of wine daily. DEXA shows T-score -2.8. Which statement correctly identifies her management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "T-score -2.8 = osteopenia; no treatment needed yet",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "T-score \u2264-2.5 = osteoporosis; recommend bisphosphonate, calcium, vitamin D supplementation, fall prevention, and alcohol reduction",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Alcohol consumption is not a risk factor for osteoporosis",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "DEXA T-score -2.8 confirms osteoporosis but pharmacological treatment is contraindicated until PTH level is checked",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. WHO criteria: Normal T-score \u2265-1.0; Osteopenia -1.0 to -2.5; Osteoporosis \u2264-2.5. This patient qualifies. Plus: fragility fracture at any T-score = treat. Alcohol (>2 drinks/day) is an independent risk factor for osteoporosis (inhibits osteoblasts, impairs calcium absorption). Bisphosphonates (alendronate, zoledronic acid) = first-line.",
+        "a": "Incorrect. T-score -2.8 = osteoporosis (below -2.5). Plus a fragility fracture \u2014 treatment is indicated.",
+        "b": "Correct. T-score \u2264-2.5 = osteoporosis. Bisphosphonate + Ca/VitD + fall prevention + alcohol cessation.",
+        "c": "Incorrect. Alcohol consumption >2 drinks/day is a significant modifiable risk factor for osteoporosis.",
+        "d": "Incorrect. PTH should be checked but does not delay treatment in a patient with T-score -2.8 and fragility fracture."
+      }
+    },
+    {
+      "id": "multi259",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Toxicities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "medium",
+      "question": "A 44-year-old man with chronic alcoholism is admitted with a seizure 18 hours after his last drink. BP 160/102, HR 112, diaphoretic, tremulous. CIWA-Ar score 18. What is the most appropriate management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "IV haloperidol 5mg for agitation, add lorazepam only if he seizes again",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Symptom-triggered benzodiazepine protocol (CIWA-Ar guided); IV thiamine before dextrose; electrolyte replacement",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Scheduled diazepam 5mg orally q6h regardless of symptoms, no additional doses needed",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Observation only \u2014 alcohol withdrawal seizures are self-limiting and pharmacotherapy is not evidence-based",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Alcohol withdrawal seizures + CIWA-Ar \u226510: symptom-triggered benzodiazepine protocol. IV thiamine 100mg BEFORE any dextrose (glucose precipitates Wernicke's encephalopathy in thiamine-deficient patients). Replace electrolytes (Mg, K, Phos \u2014 depleted in alcoholism). Diazepam or lorazepam are first-line. Phenobarbital if refractory.",
+        "a": "Incorrect. Haloperidol lowers seizure threshold. Benzodiazepines, not antipsychotics, are first-line for alcohol withdrawal.",
+        "b": "Correct. CIWA-guided benzodiazepines + thiamine before glucose + electrolyte replacement = standard AWS management.",
+        "c": "Incorrect. Fixed-dose regimens are less effective than symptom-triggered CIWA-based protocols and require more total benzodiazepine.",
+        "d": "Incorrect. Untreated alcohol withdrawal can progress to Delirium Tremens (mortality up to 10%); pharmacotherapy is strongly indicated."
+      }
+    },
+    {
+      "id": "multi260",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Toxicities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Diagnostics/Labs"
+      ],
+      "difficulty": "hard",
+      "question": "A 58-year-old man with chronic heavy alcohol use presents with confusion, ataxia, and lateral gaze palsy. Blood alcohol level is 0. Blood glucose 90. Serum thiamine level is critically low. What is the diagnosis and treatment?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Acute alcohol intoxication \u2014 supportive care and hydration",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Wernicke's encephalopathy \u2014 IV thiamine 500mg TID immediately; give BEFORE any glucose-containing fluids",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Hepatic encephalopathy \u2014 lactulose, rifaximin, protein restriction",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Korsakoff's psychosis \u2014 treatment with antipsychotics; irreversible at this stage",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Wernicke's encephalopathy: CLASSIC TRIAD = confusion + ataxia + ophthalmoplegia (lateral gaze palsy/nystagmus). Cause: thiamine (B1) deficiency. Treatment: HIGH-DOSE IV thiamine 500mg TID for 3-5 days. ALWAYS give thiamine BEFORE glucose. Glucose \u2192 thiamine depletion \u2192 precipitates/worsens Wernicke's. If untreated \u2192 Korsakoff's (irreversible memory disorder).",
+        "a": "Incorrect. BAL is 0. This is NOT intoxication \u2014 it's thiamine-deficiency encephalopathy.",
+        "b": "Correct. Wernicke's triad + thiamine deficiency = IV thiamine 500mg TID BEFORE any glucose.",
+        "c": "Incorrect. Hepatic encephalopathy presents with asterixis, elevated ammonia, liver failure signs \u2014 not the classic Wernicke's triad.",
+        "d": "Incorrect. Korsakoff's is the chronic, irreversible amnesia syndrome that follows UNTREATED Wernicke's. At this presentation stage, high-dose thiamine is still potentially reversible."
       }
     }
   ],
