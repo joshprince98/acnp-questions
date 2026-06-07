@@ -4628,7 +4628,8 @@
       ],
       "tier3": [
         "ECG Interpretation",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV1"
       ],
       "difficulty": "medium",
       "question": "A 62-year-old man presents with 45 minutes of crushing substernal chest pain radiating to the left arm. ECG shows 2mm ST elevation in leads II, III, and aVF. Troponin is pending. Which of the following best describes the next most critical step?",
@@ -4671,7 +4672,8 @@
       ],
       "tier3": [
         "Pharmacology",
-        "Critical Care"
+        "Critical Care",
+        "CV1"
       ],
       "difficulty": "medium",
       "question": "A 55-year-old woman is admitted with NSTEMI. She is hemodynamically stable. Troponin is elevated and trending up. Which medication combination should be initiated immediately?",
@@ -4714,7 +4716,8 @@
       ],
       "tier3": [
         "ECG Interpretation",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV1"
       ],
       "difficulty": "hard",
       "question": "A 70-year-old man presents with chest pain. ECG shows isolated ST depression in leads V1-V3 with a tall R wave in V1-V2. Troponin is elevated. What is the most likely diagnosis and management?",
@@ -4756,7 +4759,8 @@
         "ACS"
       ],
       "tier3": [
-        "Pharmacology"
+        "Pharmacology",
+        "CV1"
       ],
       "difficulty": "medium",
       "question": "A 58-year-old man with a drug-eluting stent placed 4 months ago requires emergent abdominal surgery. What is most appropriate regarding his dual antiplatelet therapy?",
@@ -4799,7 +4803,8 @@
       ],
       "tier3": [
         "Pharmacology",
-        "Critical Care"
+        "Critical Care",
+        "CV1"
       ],
       "difficulty": "hard",
       "question": "A 72-year-old woman with inferior STEMI has BP 78/50, HR 110, elevated JVP, and clear lungs. Right-sided ECG shows ST elevation in V4R. What is the most appropriate immediate management?",
@@ -4842,7 +4847,8 @@
       ],
       "tier3": [
         "ECG Interpretation",
-        "Pharmacology"
+        "Pharmacology",
+        "CV2"
       ],
       "difficulty": "medium",
       "question": "A 68-year-old woman is found to have an irregularly irregular rhythm at 118 bpm, absent P waves, narrow QRS. No hemodynamic instability. What is the most appropriate first step?",
@@ -4884,7 +4890,8 @@
         "Dysrhythmias"
       ],
       "tier3": [
-        "ECG Interpretation"
+        "ECG Interpretation",
+        "CV2"
       ],
       "difficulty": "medium",
       "question": "A 45-year-old woman has sudden palpitations for 30 minutes. HR 178, BP 112/72, alert. ECG: regular narrow complex tachycardia, no visible P waves. What is the correct management sequence?",
@@ -4927,7 +4934,8 @@
       ],
       "tier3": [
         "ECG Interpretation",
-        "Critical Care"
+        "Critical Care",
+        "CV2"
       ],
       "difficulty": "hard",
       "question": "A 66-year-old man post-MI develops wide complex tachycardia at 190 bpm. BP 72/40, diaphoretic, unresponsive to verbal stimuli. What is the correct immediate management?",
@@ -4969,7 +4977,8 @@
         "Dysrhythmias"
       ],
       "tier3": [
-        "ECG Interpretation"
+        "ECG Interpretation",
+        "CV2"
       ],
       "difficulty": "medium",
       "question": "A 72-year-old man has a constant PR interval of 0.28 seconds with randomly dropped QRS complexes (no pattern of PR lengthening). Which heart block is this and what is the management?",
@@ -5012,7 +5021,8 @@
       ],
       "tier3": [
         "ECG Interpretation",
-        "Pharmacology"
+        "Pharmacology",
+        "CV2"
       ],
       "difficulty": "hard",
       "question": "A 56-year-old woman on haloperidol and fluconazole has QTc 540ms with runs of polymorphic VT where QRS complexes twist around the isoelectric line. What is the most appropriate immediate intervention?",
@@ -5054,7 +5064,8 @@
         "Valvular Disease"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV3"
       ],
       "difficulty": "medium",
       "question": "A 78-year-old man has a 6-month history of exertional angina, syncope, and progressive dyspnea. Exam: harsh crescendo-decrescendo systolic murmur at the right upper sternal border radiating to carotids. What is the diagnosis and significance of his symptom triad?",
@@ -5097,7 +5108,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "CV3"
       ],
       "difficulty": "medium",
       "question": "A 44-year-old woman with prior rheumatic fever has progressive dyspnea and hemoptysis. Exam: opening snap after S2, low-pitched diastolic rumble at apex, loud S1, and atrial fibrillation. What is the diagnosis and management?",
@@ -5139,7 +5151,8 @@
         "Valvular Disease"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV3"
       ],
       "difficulty": "medium",
       "question": "A 34-year-old IV drug user has fever, chills, and dyspnea. Exam: pansystolic murmur at left lower sternal border that increases with inspiration. Which valve is most likely affected and why?",
@@ -5182,7 +5195,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "CV3"
       ],
       "difficulty": "hard",
       "question": "A 52-year-old man presents with acute pulmonary edema and a soft diastolic murmur at the right sternal border, wide pulse pressure (BP 160/42), and bounding pulses from acute severe AR from endocarditis. Which statement about management is correct?",
@@ -5224,7 +5238,8 @@
         "Infective Endocarditis"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV4"
       ],
       "difficulty": "hard",
       "question": "A 60-year-old man with a prosthetic aortic valve has 3 weeks of fever. Blood cultures grow viridans streptococci in 3 of 4 bottles. TEE shows a vegetation on the prosthetic valve. How does Modified Duke Criteria classify this?",
@@ -5266,7 +5281,8 @@
         "Infective Endocarditis"
       ],
       "tier3": [
-        "Pharmacology"
+        "Pharmacology",
+        "CV4"
       ],
       "difficulty": "medium",
       "question": "A 48-year-old man with native valve endocarditis has blood cultures growing MSSA. He has no penicillin allergy. Which antibiotic regimen is most appropriate?",
@@ -5308,7 +5324,8 @@
         "Infective Endocarditis"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV4"
       ],
       "difficulty": "medium",
       "question": "A 38-year-old woman with MVP presents with fever and malaise. Exam reveals painful red nodules on fingertips, painless hemorrhagic spots on palms, splinter hemorrhages, and flame-shaped retinal hemorrhages. Which correctly matches these peripheral IE findings?",
@@ -5351,7 +5368,8 @@
       ],
       "tier3": [
         "ECG Interpretation",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV5"
       ],
       "difficulty": "medium",
       "question": "A 28-year-old man has sharp pleuritic chest pain worse lying flat and relieved leaning forward, following a URI 2 weeks ago. Temp 38.1\u00b0C. ECG: diffuse saddle-shaped ST elevation with PR depression. What is the most likely diagnosis?",
@@ -5393,7 +5411,8 @@
         "Pericarditis"
       ],
       "tier3": [
-        "Pharmacology"
+        "Pharmacology",
+        "CV5"
       ],
       "difficulty": "medium",
       "question": "A 35-year-old woman is diagnosed with her first episode of acute pericarditis with no contraindications to NSAIDs. What is the most appropriate first-line treatment?",
@@ -5436,7 +5455,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "CV5"
       ],
       "difficulty": "hard",
       "question": "A 55-year-old man with known pericarditis develops acute worsening dyspnea. BP 82/60 with pulsus paradoxus 16 mmHg, elevated JVP, muffled heart sounds, and electrical alternans on ECG. What is the correct immediate management?",
@@ -20237,7 +20257,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Critical Care"
+        "Critical Care",
+        "AB1"
       ],
       "difficulty": "medium",
       "question": "A 22-year-old woman with type 1 DM presents in DKA. ABG: pH 7.18, PaCO2 24 mmHg, PaO2 98. Bicarb 8 mEq/L. BMP: Na 132, K 5.8, Cl 98, BUN 28, Cr 1.4, glucose 620. What acid-base disturbance is present and is the compensation appropriate?",
@@ -20279,7 +20300,8 @@
         "Acid-Base Disorders"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "AB3"
       ],
       "difficulty": "hard",
       "question": "ABG: pH 7.26, PaCO2 56, HCO3 24. A patient is intubated for ARDS. What acid-base diagnosis is correct?",
@@ -20322,7 +20344,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Critical Care"
+        "Critical Care",
+        "AB3"
       ],
       "difficulty": "hard",
       "question": "A 50-year-old woman in the ICU: pH 7.48, PaCO2 30, HCO3 22. What is the correct interpretation?",
@@ -20364,7 +20387,8 @@
         "Acid-Base Disorders"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "AB2"
       ],
       "difficulty": "medium",
       "question": "A 40-year-old woman has protracted vomiting. BMP: Na 138, Cl 82, HCO3 36, K 2.8, pH 7.58. What is the diagnosis and mechanism?",
@@ -20407,7 +20431,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "AB1"
       ],
       "difficulty": "hard",
       "question": "A 34-year-old woman on topiramate has pH 7.30, HCO3 15, PaCO2 30, K 2.8, and anion gap of 10. Urine pH is 6.5. What type of RTA does this represent?",
@@ -20449,7 +20474,8 @@
         "Acid-Base Disorders"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "AB4"
       ],
       "difficulty": "medium",
       "question": "Calculate the anion gap and delta-delta ratio for a patient with pH 7.28, Na 138, Cl 98, HCO3 12, albumin 2.0 g/dL, and glucose 180. What is found?",
@@ -20492,7 +20518,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Critical Care"
+        "Critical Care",
+        "RE1"
       ],
       "difficulty": "hard",
       "question": "A 60-year-old man with SIADH has Na 118. He is confused but not seizing. Urine osmolality 480 mOsm/kg, urine sodium 55 mEq/L. What is the appropriate correction rate?",
@@ -20535,7 +20562,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Critical Care"
+        "Critical Care",
+        "RE1"
       ],
       "difficulty": "hard",
       "question": "A 55-year-old woman develops Na 124 following TURP. She was given hypotonic irrigation fluid. Urine is very dilute. What is the mechanism and best management?",
@@ -20578,7 +20606,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "RE4"
       ],
       "difficulty": "medium",
       "question": "An intubated 72-year-old man with respiratory failure has K+ 6.8 mEq/L. ECG shows peaked T waves with widening QRS. BP 96/60. What is the correct management sequence?",
@@ -20621,7 +20650,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "RE3"
       ],
       "difficulty": "medium",
       "question": "A 55-year-old woman post-colectomy develops K+ 2.2 mEq/L with muscle weakness and ileus. IV access available. What is the maximum safe IV rate of potassium replacement via peripheral line?",
@@ -20664,7 +20694,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "RE7"
       ],
       "difficulty": "medium",
       "question": "A 68-year-old ICU patient on furosemide and antibiotics has Mg 0.9 mg/dL, K 3.0 despite 60 mEq KCl replacement, and prolonged QTc. What explains refractory hypokalemia?",
@@ -20707,7 +20738,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Critical Care"
+        "Critical Care",
+        "RE5"
       ],
       "difficulty": "medium",
       "question": "A 72-year-old man with metastatic prostate cancer is brought in confused and constipated. Labs: Ca 13.4 mg/dL, Cr 1.9, PTHrP elevated. ECG: shortened QT interval. What is the first treatment?",
@@ -20750,7 +20782,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "RE5"
       ],
       "difficulty": "medium",
       "question": "A 48-year-old woman 3 days post-parathyroidectomy has perioral tingling, positive Chvostek sign, and Ca 6.8 mg/dL. QTc is prolonged. What is the most appropriate intervention?",
@@ -20793,7 +20826,8 @@
       ],
       "tier3": [
         "Pharmacology",
-        "Critical Care"
+        "Critical Care",
+        "MS3"
       ],
       "difficulty": "hard",
       "question": "A 22-year-old man is found unresponsive. BP 90/50, RR 6, SpO2 78%, constricted pupils, decreased bowel sounds. POCT glucose normal. Which medication is the most critical first intervention?",
@@ -20836,7 +20870,8 @@
       ],
       "tier3": [
         "Diagnostics/Labs",
-        "Pharmacology"
+        "Pharmacology",
+        "MS3"
       ],
       "difficulty": "hard",
       "question": "A 45-year-old woman presents with tinnitus, hyperpnea, fever, and confusion. ABG: pH 7.42, PaCO2 22, HCO3 14. Serum salicylate 80 mg/dL. What explains the mixed acid-base and what is the treatment?",
@@ -35911,7 +35946,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Pharmacology"
+        "Pharmacology",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "A 68-year-old woman is intubated for septic shock. She is hemodynamically stable on low-dose vasopressor. Per ASPEN/SCCM guidelines, when should enteral nutrition be initiated?",
@@ -35954,7 +35990,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "A 70-year-old man with BMI 19 has been NPO for 10 days and is started on TPN. On day 2, he develops new dyspnea, muscle weakness, and seizures. K 2.8, Mg 1.0, Phosphorus 1.1 mg/dL. What has occurred and why?",
@@ -35996,7 +36033,8 @@
         "Nutrition"
       ],
       "tier3": [
-        "Critical Care"
+        "Critical Care",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "Which of the following patients is at HIGHEST risk for refeeding syndrome and should have nutrition started at the lowest rate with intensive electrolyte monitoring?",
@@ -36039,7 +36077,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Pharmacology"
+        "Pharmacology",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "A critically ill intubated patient has high gastric residuals (>500 mL) and concern for aspiration. The dietitian recommends continuing EN per ASPEN guidelines. What is the most appropriate action?",
@@ -36082,7 +36121,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "Per ASPEN guidelines for ICU patients, what is the recommended protein goal for a critically ill patient with BMI 25 who weighs 80 kg?",
@@ -36125,7 +36165,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Pharmacology"
+        "Pharmacology",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "A 55-year-old man needs TPN. He has a PICC line in the right arm. Which TPN formulation component is responsible for most catheter-related infections and how is it minimized?",
@@ -36167,7 +36208,8 @@
         "Nutrition"
       ],
       "tier3": [
-        "Pharmacology"
+        "Pharmacology",
+        "MS1"
       ],
       "difficulty": "hard",
       "question": "A 62-year-old man develops new jaundice and rising alkaline phosphatase, AST, and total bilirubin after 3 weeks of TPN. He has no other hepatic risk factors. What is the most likely cause and management?",
@@ -36209,7 +36251,8 @@
         "Nutrition"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "MS1"
       ],
       "difficulty": "medium",
       "question": "A 70-year-old woman requires nutritional assessment. Her albumin is 1.8 g/dL. Her surgeon attributes this to malnutrition. What does this actually indicate, per current evidence?",
@@ -36252,7 +36295,8 @@
       ],
       "tier3": [
         "Patient Education",
-        "Quality Improvement"
+        "Quality Improvement",
+        "MS4"
       ],
       "difficulty": "medium",
       "question": "A 78-year-old man with CHF is being discharged after a heart failure exacerbation. Per BOOST (Better Outcomes by Optimizing Safe Transitions) principles, which intervention has the strongest evidence for reducing 30-day readmission?",
@@ -36294,7 +36338,8 @@
         "Care Transitions"
       ],
       "tier3": [
-        "Patient Education"
+        "Patient Education",
+        "MS4"
       ],
       "difficulty": "medium",
       "question": "Which element of the BOOST '8 Ps' framework specifically addresses the patient's understanding of why they were hospitalized, what happened, and what to do if symptoms worsen?",
@@ -36337,7 +36382,8 @@
       ],
       "tier3": [
         "Critical Care",
-        "Pharmacology"
+        "Pharmacology",
+        "MS5"
       ],
       "difficulty": "medium",
       "question": "A 82-year-old woman in the ICU for pneumonia develops acute confusion at night with disorientation, inattention, and fluctuating consciousness. She was oriented yesterday. Which intervention has the strongest evidence for PREVENTION of ICU delirium in elderly patients?",
@@ -36379,7 +36425,8 @@
         "Geriatric Care"
       ],
       "tier3": [
-        "Pharmacology"
+        "Pharmacology",
+        "MS5"
       ],
       "difficulty": "medium",
       "question": "An 84-year-old man with HTN and atrial fibrillation is prescribed metoclopramide for gastroparesis, diphenhydramine for allergies, and oxybutynin for urinary incontinence. What is the primary pharmacological concern in this patient?",
@@ -36421,7 +36468,8 @@
         "Geriatric Care"
       ],
       "tier3": [
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "MS5"
       ],
       "difficulty": "medium",
       "question": "A 79-year-old woman with recent hip fracture is being worked up for osteoporosis. She drinks 3 glasses of wine daily. DEXA shows T-score -2.8. Which statement correctly identifies her management?",
@@ -36464,7 +36512,8 @@
       ],
       "tier3": [
         "Pharmacology",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "MS3"
       ],
       "difficulty": "medium",
       "question": "A 44-year-old man with chronic alcoholism is admitted with a seizure 18 hours after his last drink. BP 160/102, HR 112, diaphoretic, tremulous. CIWA-Ar score 18. What is the most appropriate management?",
@@ -36507,7 +36556,8 @@
       ],
       "tier3": [
         "Pharmacology",
-        "Diagnostics/Labs"
+        "Diagnostics/Labs",
+        "MS3"
       ],
       "difficulty": "hard",
       "question": "A 58-year-old man with chronic heavy alcohol use presents with confusion, ataxia, and lateral gaze palsy. Blood alcohol level is 0. Blood glucose 90. Serum thiamine level is critically low. What is the diagnosis and treatment?",
