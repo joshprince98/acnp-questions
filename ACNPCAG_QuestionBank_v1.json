@@ -23577,6 +23577,751 @@
         "c": "Incorrect. The pH/bicarbonate pattern here is an alkalosis, not an acidosis.",
         "d": "Incorrect. This is a metabolic (high bicarbonate) alkalosis with a high urine chloride, not a respiratory disorder."
       }
+    },
+    {
+      "id": "renal123",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "RE9"
+      ],
+      "difficulty": "hard",
+      "question": "A 70-kg man has a serum sodium of 160 mEq/L. Using a total body water estimate of 55% of body weight for men, approximately what is his free water deficit?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "About 1 liter",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "About 3 liters",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "About 8 liters",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Free water deficit cannot be estimated from sodium",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Free water deficit = TBW x (current Na/140 - 1). TBW = 0.55 x 70 kg = 38.5 L. Deficit = 38.5 x (160/140 - 1) = 38.5 x 0.143 ≈ 3 L. This estimates the water needed to return sodium toward normal; replace it slowly (correcting no faster than ~10-12 mEq/L/day in chronic hypernatremia) and account for ongoing losses. TBW is ~55-60% of body weight in men and ~50% in women (lower in the elderly).",
+        "a": "Incorrect. One liter underestimates the deficit; the calculation yields ~3 L.",
+        "b": "Correct. TBW (38.5 L) x (160/140 - 1) ≈ 3 L free water deficit.",
+        "c": "Incorrect. Eight liters overestimates; 8 L would correspond to a far higher sodium.",
+        "d": "Incorrect. The free water deficit is readily estimated from TBW and the sodium using the standard formula."
+      }
+    },
+    {
+      "id": "renal124",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "RE9"
+      ],
+      "difficulty": "medium",
+      "question": "Which statement about the distribution of body water and the major cations across compartments is correct?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Sodium is the predominant intracellular cation and potassium the predominant extracellular cation",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Two-thirds of total body water is intracellular, and potassium is the major intracellular cation while sodium is the major extracellular cation",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Plasma makes up the majority of total body water",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "The extracellular fluid is two-thirds of total body water",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. About two-thirds of total body water is intracellular (ICF) and one-third extracellular (ECF); of the ECF, roughly three-quarters is interstitial and one-quarter is plasma. Potassium is the major INTRAcellular cation, whereas sodium is the major EXTRAcellular cation — this gradient is maintained by the Na-K-ATPase (which requires magnesium). These relationships underlie why serum potassium poorly reflects total body potassium and why sodium determines tonicity.",
+        "a": "Incorrect. It is reversed: potassium is the major intracellular cation and sodium the major extracellular cation.",
+        "b": "Correct. ICF is two-thirds of TBW; potassium dominates intracellularly and sodium extracellularly.",
+        "c": "Incorrect. Plasma is only about one-quarter of the ECF (and ECF is just one-third of TBW), so plasma is a small fraction of TBW.",
+        "d": "Incorrect. The ECF is one-third of TBW; the ICF is two-thirds."
+      }
+    },
+    {
+      "id": "renal125",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "RE9"
+      ],
+      "difficulty": "medium",
+      "question": "A cirrhotic patient with hypoalbuminemia develops peripheral edema and ascites. Which alteration in Starling forces best explains the edema?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Increased plasma oncotic pressure pulling fluid into vessels",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Reduced plasma oncotic pressure (from low albumin) plus increased capillary hydrostatic pressure, favoring fluid movement into the interstitium",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Decreased capillary hydrostatic pressure",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Edema is unrelated to Starling forces",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Fluid movement across capillaries is governed by Starling forces: capillary hydrostatic pressure pushes fluid OUT, while plasma oncotic pressure (largely from albumin) pulls fluid IN. In cirrhosis, hypoalbuminemia lowers oncotic pressure and portal hypertension raises hydrostatic pressure, so the balance favors filtration into the interstitium and peritoneum — producing edema and ascites. This is why albumin (an oncotic agent) is used in conditions like spontaneous bacterial peritonitis and large-volume paracentesis.",
+        "a": "Incorrect. Plasma oncotic pressure is REDUCED (low albumin), not increased; increased oncotic pressure would resist edema.",
+        "b": "Correct. Low oncotic pressure plus high hydrostatic pressure drives fluid into the interstitium, causing edema/ascites.",
+        "c": "Incorrect. Capillary hydrostatic pressure is increased (portal hypertension), not decreased.",
+        "d": "Incorrect. Edema is fundamentally an imbalance of Starling forces."
+      }
+    },
+    {
+      "id": "renal126",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology",
+        "RE9"
+      ],
+      "difficulty": "medium",
+      "question": "When treating severe symptomatic hyponatremia, 3% hypertonic saline is used. Which statement about its composition and the concept of tonicity is correct?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "3% saline is hypotonic and lowers serum sodium",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "3% saline contains roughly 514 mEq/L of sodium and effectively raises serum sodium; tonicity reflects only solutes that cannot freely cross cell membranes (e.g., sodium), excluding urea",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Urea is the main determinant of effective osmolality (tonicity)",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "3% saline should be bolused to fully normalize sodium within a few hours",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. 3% hypertonic saline contains about 514 mEq/L of sodium and is used to raise serum sodium in severe symptomatic hyponatremia (e.g., 100 mL boluses for severe symptoms). Tonicity (effective osmolality) counts only solutes that do NOT freely cross cell membranes and thus drive water shifts — sodium is the key determinant, whereas urea crosses membranes freely and contributes to measured osmolality but not tonicity. Correction must be controlled (generally not more than ~12 mEq/L in 24 hours) to avoid osmotic demyelination.",
+        "a": "Incorrect. 3% saline is HYPERtonic and raises serum sodium.",
+        "b": "Correct. ~514 mEq/L sodium; tonicity depends on membrane-impermeant solutes like sodium, not urea.",
+        "c": "Incorrect. Urea crosses membranes freely and does not contribute to effective osmolality/tonicity.",
+        "d": "Incorrect. Fully normalizing sodium within hours risks osmotic demyelination; correction is deliberately limited."
+      }
+    },
+    {
+      "id": "renal127",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care",
+        "RE10"
+      ],
+      "difficulty": "medium",
+      "question": "A patient with hyperkalemia (K 6.0) and acute kidney injury needs IV fluid. Which crystalloid choice and rationale is most appropriate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Lactated Ringer's, because it lowers potassium",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Normal saline, because Lactated Ringer's contains potassium (~4 mEq/L) and is used cautiously in hyperkalemia",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "D5W, because it is the best volume expander",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "No fluid should ever be given in AKI",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Lactated Ringer's is a balanced crystalloid (Na 130, Cl 109, K 4, Ca 3, lactate 28 mEq/L) whose lactate is metabolized to bicarbonate — excellent for large-volume resuscitation and less hyperchloremic acidosis than saline. However, because it CONTAINS potassium (~4 mEq/L), it is used cautiously in significant hyperkalemia; normal saline (no potassium) is often preferred in that setting. D5W is a poor volume expander (free water distributing across all body water).",
+        "a": "Incorrect. LR does not lower potassium; it contains potassium and is used cautiously in hyperkalemia.",
+        "b": "Correct. Normal saline avoids the ~4 mEq/L of potassium in LR, making it preferable in hyperkalemia.",
+        "c": "Incorrect. D5W behaves as free water and is a poor resuscitation fluid.",
+        "d": "Incorrect. Volume status still must be managed in AKI; the question is fluid choice, not withholding fluid."
+      }
+    },
+    {
+      "id": "renal128",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care",
+        "RE10"
+      ],
+      "difficulty": "medium",
+      "question": "For which clinical situation is intravenous albumin most appropriate as part of management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Routine maintenance fluid for any hospitalized patient",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Spontaneous bacterial peritonitis, large-volume paracentesis, or hepatorenal syndrome (oncotic/volume support)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "First-line resuscitation fluid that is proven superior to crystalloids in all shock",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Correction of a free water deficit in hypernatremia",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Albumin is a colloid that remains largely intravascular due to its oncotic pressure. Evidence supports its use in specific situations: spontaneous bacterial peritonitis (reduces renal impairment and mortality), large-volume paracentesis (prevents post-paracentesis circulatory dysfunction), and hepatorenal syndrome (with vasoconstrictors). It is not a routine maintenance fluid and has not shown a clear mortality benefit over crystalloids for general resuscitation.",
+        "a": "Incorrect. Albumin is not a routine maintenance fluid; it is reserved for specific indications.",
+        "b": "Correct. SBP, large-volume paracentesis, and hepatorenal syndrome are evidence-based uses of albumin.",
+        "c": "Incorrect. Albumin is not proven superior to crystalloids for general shock resuscitation.",
+        "d": "Incorrect. Free water deficits are corrected with D5W/hypotonic fluid, not albumin."
+      }
+    },
+    {
+      "id": "renal129",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Diagnostics/Labs",
+        "RE10"
+      ],
+      "difficulty": "medium",
+      "question": "After several liters of 0.9% normal saline for resuscitation, a patient develops a normal anion gap metabolic acidosis with a chloride of 116 mEq/L. What is the explanation and a reasonable adjustment?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "This is a high anion gap acidosis from lactate; give more saline",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Large-volume normal saline causes a hyperchloremic (normal anion gap) metabolic acidosis; switching to a balanced crystalloid (LR or Plasma-Lyte) can mitigate it",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Normal saline cannot affect acid-base status",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "The acidosis indicates the patient needs additional chloride",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Normal saline contains 154 mEq/L of chloride; infusing large volumes raises serum chloride and produces a hyperchloremic NORMAL anion gap metabolic acidosis (and has been associated with more AKI). Switching to a balanced crystalloid (Lactated Ringer's or Plasma-Lyte), whose buffer is metabolized to bicarbonate and whose chloride is lower (~109 mEq/L), helps mitigate this. This is the cross-fluid/electrolyte effect of resuscitation fluid choice.",
+        "a": "Incorrect. The anion gap is normal and chloride is high — this is hyperchloremic acidosis, not a lactate gap acidosis.",
+        "b": "Correct. Large-volume saline causes hyperchloremic NAGMA; a balanced crystalloid mitigates it.",
+        "c": "Incorrect. Saline clearly alters acid-base status (hyperchloremic acidosis).",
+        "d": "Incorrect. Excess chloride from saline is the cause; adding more chloride would worsen it."
+      }
+    },
+    {
+      "id": "renal130",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care",
+        "RE10"
+      ],
+      "difficulty": "hard",
+      "question": "A patient has refractory hypokalemia (K 2.9 despite generous KCl), hypocalcemia, and a magnesium of 1.0 mg/dL. Which principle of the cross-electrolyte network should guide therapy?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Replace potassium and calcium aggressively and ignore magnesium",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Correct magnesium first/concurrently, because hypomagnesemia perpetuates renal potassium wasting and impairs PTH-mediated calcium regulation",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Give sodium bicarbonate to shift potassium into cells",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Restrict all electrolyte intake until levels normalize",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. The electrolytes form an interdependent network: magnesium is required for the Na-K-ATPase and for PTH secretion, so hypomagnesemia causes refractory hypokalemia (ongoing renal potassium wasting) and hypocalcemia. Potassium and calcium will not correct durably until magnesium is repleted. The repletion sequence in multiple deficiencies is magnesium first/concurrently, then potassium, then calcium. Giving bicarbonate would shift potassium INTO cells and worsen the hypokalemia.",
+        "a": "Incorrect. Ignoring magnesium leaves the hypokalemia and hypocalcemia refractory.",
+        "b": "Correct. Magnesium must be corrected first/concurrently to enable effective potassium and calcium repletion.",
+        "c": "Incorrect. Bicarbonate shifts potassium intracellularly and would worsen hypokalemia.",
+        "d": "Incorrect. These deficiencies require active, sequenced repletion, not restriction."
+      }
+    },
+    {
+      "id": "renal131",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "RE11"
+      ],
+      "difficulty": "medium",
+      "question": "Why are elderly patients particularly vulnerable to BOTH hyponatremia and hypernatremia with relatively minor physiologic stress?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "They have a heightened thirst response and excellent renal concentrating ability",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Age-related decline in renal concentrating and diluting ability, blunted thirst, and reduced free water regulation impair their handling of water in both directions",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Elderly kidneys overcompensate, keeping sodium perfectly stable",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Sodium disorders never occur in the elderly",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. The aging kidney has a reduced ability to regulate sodium and water — blunted thirst, impaired urinary concentrating and diluting capacity, and reduced renin-angiotensin-aldosterone responsiveness. As a result, older adults are vulnerable to hyponatremia (e.g., SIADH, thiazides, SSRIs) and to hypernatremia (e.g., impaired access to water, infections) with minimal stress. Polypharmacy compounds the risk, so medication reconciliation is essential.",
+        "a": "Incorrect. The elderly have a BLUNTED thirst response and reduced concentrating ability, not heightened.",
+        "b": "Correct. Declining concentrating/diluting ability, blunted thirst, and reduced water regulation create vulnerability in both directions.",
+        "c": "Incorrect. The aging kidney under-compensates; sodium is less, not more, stable.",
+        "d": "Incorrect. Sodium disorders are in fact MORE common in the elderly."
+      }
+    },
+    {
+      "id": "renal132",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "RE11"
+      ],
+      "difficulty": "hard",
+      "question": "An 85-year-old woman with low muscle mass has a 'normal' serum creatinine of 0.9 mg/dL, but the team suspects her true kidney function is worse. Which statement about estimating GFR in frail elderly patients is correct?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Serum creatinine always overestimates kidney disease severity in the elderly",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Creatinine-based eGFR can OVERESTIMATE true GFR in sarcopenic elderly because low muscle mass lowers creatinine; cystatin C-based eGFR is less affected by muscle mass",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Cystatin C depends heavily on muscle mass and is less accurate than creatinine",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "GFR cannot be estimated in older adults",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Creatinine is generated from muscle, so sarcopenic elderly patients can have a deceptively 'normal' creatinine despite reduced kidney function — creatinine-based eGFR equations may OVERESTIMATE the true GFR. Cystatin C, which is produced by nearly all nucleated cells and is largely independent of muscle mass, provides a more accurate estimate in this population. This matters for drug dosing (e.g., renally cleared medications) and for recognizing CKD that guides safe prescribing in older adults.",
+        "a": "Incorrect. In the elderly, creatinine tends to UNDERESTIMATE disease severity (overestimate GFR), not overestimate severity.",
+        "b": "Correct. Low muscle mass lowers creatinine and inflates eGFR; cystatin C is less muscle-dependent and more accurate.",
+        "c": "Incorrect. Cystatin C is LESS dependent on muscle mass, which is why it is more accurate here.",
+        "d": "Incorrect. GFR can be estimated; the point is choosing the more accurate method (cystatin C) in sarcopenic elderly."
+      }
+    },
+    {
+      "id": "renal133",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Quality Improvement",
+        "RE11"
+      ],
+      "difficulty": "medium",
+      "question": "An older adult on multiple medications presents with hyponatremia. Which medication-related mechanism is the most likely contributor, and what is the key management step?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Loop diuretics commonly cause hypernatremia; increase the dose",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "SSRIs and thiazides can cause hyponatremia (SIADH-like effect and impaired water excretion); review and reconcile medications, stopping the offending agent",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "ACE inhibitors are the classic cause of hyponatremia and should be increased",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Medications never cause electrolyte disorders in the elderly",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Polypharmacy is a major driver of electrolyte disorders in older adults. SSRIs can induce an SIADH-like syndrome, and thiazides impair free water excretion — both commonly cause hyponatremia, especially in elderly women. (ACE inhibitors/ARBs and potassium-sparing diuretics more typically cause hyperkalemia.) The key step is careful medication reconciliation: identify and stop the offending agent, then correct sodium at a safe rate. This medication-focused approach is central to geriatric electrolyte management.",
+        "a": "Incorrect. Loop diuretics are associated with hyponatremia/volume depletion, not hypernatremia, and the dose should not be increased here.",
+        "b": "Correct. SSRIs and thiazides are common culprits for hyponatremia; reconcile and stop the offending drug.",
+        "c": "Incorrect. ACE inhibitors are linked to HYPERkalemia, not hyponatremia, and increasing the dose is wrong.",
+        "d": "Incorrect. Medications are among the most common causes of electrolyte disorders in the elderly."
+      }
+    },
+    {
+      "id": "renal134",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB3"
+      ],
+      "difficulty": "medium",
+      "question": "A patient with an opioid overdose is hypoventilating. ABG shows pH 7.28, PaCO2 62 mmHg, HCO3 27. What is the disorder, and what important caution applies to oxygen therapy in a chronic CO2 retainer?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Respiratory alkalosis; give high-flow oxygen freely",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Acute respiratory acidosis from hypoventilation; in chronic CO2 retainers, titrate oxygen to SpO2 ~88-92% to avoid blunting the hypoxic respiratory drive",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Metabolic acidosis; give sodium bicarbonate",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Normal acid-base status",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. A low pH with a high PaCO2 is a respiratory acidosis; the modest bicarbonate rise fits acute compensation (HCO3 rises ~1 mEq/L per 10 mmHg PaCO2 acutely). Causes include CNS depression (opioids, sedatives, anesthesia), airway obstruction, and severe pulmonary disease. Treat the cause (here, naloxone and ventilatory support). In patients who chronically retain CO2 (e.g., COPD), supplemental oxygen should be titrated to SpO2 ~88-92% because excessive oxygen can blunt the hypoxic drive and worsen hypercapnia.",
+        "a": "Incorrect. A high PaCO2 with low pH is respiratory ACIDOSIS, not alkalosis.",
+        "b": "Correct. Acute respiratory acidosis from hypoventilation; titrate O2 to 88-92% in chronic CO2 retainers.",
+        "c": "Incorrect. The primary problem is an elevated PaCO2 (respiratory), not a low bicarbonate; bicarbonate is not the treatment.",
+        "d": "Incorrect. pH 7.28 with PaCO2 62 is clearly abnormal (respiratory acidosis)."
+      }
+    },
+    {
+      "id": "renal135",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "AB3"
+      ],
+      "difficulty": "medium",
+      "question": "Which clinical scenario is a recognized cause of a primary respiratory alkalosis?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Opioid-induced hypoventilation",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Pregnancy (progesterone-stimulated ventilation), sepsis, high altitude, or early salicylate toxicity",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Severe COPD exacerbation with CO2 retention",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Neuromuscular weakness causing hypoventilation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Respiratory alkalosis results from hyperventilation that lowers PaCO2. Causes include central stimulation (anxiety, pain, fever, stroke), pregnancy (progesterone increases minute ventilation), sepsis (cytokine-driven), chronic liver disease, high altitude (hypoxic drive), early salicylate toxicity (direct respiratory center stimulation), and pulmonary processes such as PE, pneumonia, and pulmonary edema (via hypoxemia). Hypoventilation states (opioids, COPD retention, neuromuscular weakness) instead cause respiratory ACIDOSIS.",
+        "a": "Incorrect. Opioid-induced hypoventilation raises CO2, causing respiratory ACIDOSIS.",
+        "b": "Correct. Pregnancy, sepsis, high altitude, and early salicylate toxicity cause respiratory ALKALOSIS.",
+        "c": "Incorrect. COPD with CO2 retention causes respiratory acidosis, not alkalosis.",
+        "d": "Incorrect. Neuromuscular weakness causes hypoventilation and respiratory acidosis."
+      }
+    },
+    {
+      "id": "renal136",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB3"
+      ],
+      "difficulty": "hard",
+      "question": "A patient with chronic respiratory alkalosis (e.g., from chronic liver disease) has a sustained low PaCO2. How does the expected renal compensation differ between ACUTE and CHRONIC respiratory alkalosis?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "There is no renal compensation for respiratory alkalosis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Acute: HCO3 falls ~2 mEq/L per 10 mmHg drop in PaCO2; chronic: HCO3 falls ~5 mEq/L per 10 mmHg drop (renal compensation over days)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "HCO3 rises in respiratory alkalosis",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Chronic compensation is smaller than acute compensation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. In respiratory alkalosis the kidneys compensate by excreting bicarbonate, and the magnitude depends on time. ACUTELY, HCO3 falls about 2 mEq/L for every 10 mmHg drop in PaCO2 (buffering). With CHRONIC respiratory alkalosis, renal compensation matures over days, and HCO3 falls about 5 mEq/L per 10 mmHg drop. Comparing the measured bicarbonate to these expected values distinguishes acute from chronic and reveals coexisting metabolic disorders.",
+        "a": "Incorrect. The kidneys DO compensate by excreting bicarbonate over days.",
+        "b": "Correct. ~2 mEq/L per 10 (acute) vs ~5 mEq/L per 10 (chronic) fall in HCO3.",
+        "c": "Incorrect. HCO3 FALLS (renal bicarbonate excretion) in respiratory alkalosis.",
+        "d": "Incorrect. Chronic compensation is LARGER than acute (renal mechanism has time to mature)."
+      }
+    },
+    {
+      "id": "renal137",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB4"
+      ],
+      "difficulty": "medium",
+      "question": "Using a systematic approach to an ABG, what is the correct ORDER of the first steps in interpreting an acid-base disorder?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Calculate the anion gap before looking at the pH",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Check the pH first (acidemic vs alkalemic), then identify the primary disorder from PaCO2/HCO3, then assess whether compensation is appropriate",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Assume a single disorder and stop after identifying the pH",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Always treat the number on the bicarbonate without checking pH",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. A systematic approach prevents errors: (1) check the pH — acidemic (<7.35) or alkalemic (>7.45); (2) identify the primary disorder from PaCO2 and HCO3 (e.g., low pH with high PaCO2 = respiratory acidosis; low pH with low HCO3 = metabolic acidosis); (3) determine whether compensation is appropriate (using formulas like Winter's), since inappropriate compensation signals a mixed disorder; (4) calculate the anion gap if metabolic acidosis is present or suspected; (5) if high gap, compute the delta gap; (6) integrate with the clinical picture. Compensation never fully normalizes the pH.",
+        "a": "Incorrect. The anion gap is calculated later (step 4); the pH comes first.",
+        "b": "Correct. pH -> primary disorder -> compensation is the correct opening sequence.",
+        "c": "Incorrect. Stopping after the pH misses primary disorder identification, compensation, and mixed disorders.",
+        "d": "Incorrect. Treating the bicarbonate without checking pH and the full sequence leads to errors."
+      }
+    },
+    {
+      "id": "renal138",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB4"
+      ],
+      "difficulty": "hard",
+      "question": "A patient with a high anion gap metabolic acidosis (gap 24, HCO3 12) has a delta-delta ratio (rise in anion gap divided by fall in bicarbonate) of about 1. What does this indicate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A concurrent metabolic alkalosis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "A pure high anion gap metabolic acidosis without a second metabolic process (the gap rise is matched by the bicarbonate fall)",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "A concurrent non-anion-gap metabolic acidosis",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "A primary respiratory alkalosis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. The delta-delta (delta gap) compares the rise in the anion gap (here ~24 - 12 = 12 above a normal gap of ~12) to the fall in bicarbonate (24 - 12 = 12). A ratio near 1 means the increase in unmeasured anions is matched by the decrease in bicarbonate — consistent with a pure high anion gap metabolic acidosis. A ratio >2 suggests a coexisting metabolic ALKALOSIS (bicarbonate higher than expected), and a ratio <1 suggests an additional NON-gap metabolic acidosis (bicarbonate lower than expected). This step uncovers mixed metabolic disorders.",
+        "a": "Incorrect. A concurrent metabolic alkalosis would give a delta-delta ratio >2 (bicarbonate relatively preserved).",
+        "b": "Correct. A ratio near 1 indicates a pure high anion gap metabolic acidosis.",
+        "c": "Incorrect. A concurrent non-gap acidosis would give a ratio <1 (bicarbonate lower than expected).",
+        "d": "Incorrect. The delta gap analyzes metabolic processes; it does not by itself identify a respiratory alkalosis."
+      }
+    },
+    {
+      "id": "renal139",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB4"
+      ],
+      "difficulty": "hard",
+      "question": "An ABG/metabolic panel shows pH 7.39, PaCO2 26 mmHg, HCO3 15, with a high anion gap AND a history of protracted vomiting. The near-normal pH is deceptive. What does a systematic analysis reveal?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A single pure metabolic acidosis",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "A mixed disorder — high anion gap metabolic acidosis plus a metabolic alkalosis (from vomiting) and respiratory compensation — which a normal pH can mask",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "A normal acid-base status requiring no further analysis",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "An isolated respiratory alkalosis",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. A near-normal pH does not exclude serious acid-base derangements. Here there is a high anion gap metabolic acidosis (low HCO3, elevated gap) with appropriate respiratory compensation (low PaCO2 by Winter's formula), PLUS the history of vomiting points to a coexisting metabolic alkalosis that props the bicarbonate and pH up toward normal. The delta-delta ratio would be elevated (>2), confirming the superimposed alkalosis. Mixed disorders are common in complex patients and are only revealed by working through the full systematic approach rather than trusting a 'normal' pH.",
+        "a": "Incorrect. The high gap plus vomiting and the deceptively normal pH indicate a MIXED disorder, not a single process.",
+        "b": "Correct. High anion gap metabolic acidosis + metabolic alkalosis (vomiting) + respiratory compensation, masked by a near-normal pH.",
+        "c": "Incorrect. The chemistry is clearly deranged (low HCO3, high gap, low PaCO2) despite the near-normal pH.",
+        "d": "Incorrect. There is a high anion gap metabolic acidosis and a metabolic alkalosis, not an isolated respiratory alkalosis."
+      }
     }
   ],
   "endocrine": [
@@ -40270,6 +41015,182 @@
         "b": "Correct. The 8 Ps flag a high-risk transition and prompt intensified, tailored interventions and support.",
         "c": "Incorrect. Low health literacy calls for MORE tailored education (teach-back), not less.",
         "d": "Incorrect. The goal is a safer, well-supported discharge, not indefinite delay."
+      }
+    },
+    {
+      "id": "multi283",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Diagnostics/Labs",
+        "MS2"
+      ],
+      "difficulty": "medium",
+      "question": "A patient is admitted to the ICU after prolonged cardiopulmonary bypass surgery and is found to have low potassium, magnesium, and calcium simultaneously. What best explains these combined deficiencies and guides management?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Cardiopulmonary bypass never affects electrolytes",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Hemodilution and large fluid shifts during bypass deplete multiple electrolytes; replete magnesium together with potassium and calcium and monitor frequently",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Only potassium matters; ignore magnesium and calcium",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "These deficiencies should be left untreated in the ICU",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Cardiopulmonary bypass causes hemodilution and large fluid shifts that deplete several electrolytes at once, and post-cardiac-surgery patients commonly show combined hypokalemia, hypomagnesemia, and hypocalcemia. Because magnesium is required for the Na-K-ATPase and for PTH secretion, it should be corrected together with potassium and calcium (magnesium first/concurrently). Frequent monitoring — often daily, or twice daily if unstable or actively replacing — is appropriate in critically ill patients.",
+        "a": "Incorrect. Bypass markedly affects electrolytes via hemodilution and fluid shifts.",
+        "b": "Correct. Bypass-related hemodilution depletes multiple electrolytes; replete magnesium with potassium and calcium and monitor closely.",
+        "c": "Incorrect. Ignoring magnesium and calcium leaves potassium refractory and risks arrhythmia.",
+        "d": "Incorrect. These deficiencies are arrhythmogenic and require active correction."
+      }
+    },
+    {
+      "id": "multi284",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology",
+        "MS2"
+      ],
+      "difficulty": "medium",
+      "question": "A critically ill patient on aggressive loop diuresis develops a cluster of electrolyte and acid-base disturbances. Which combination is most characteristic, and what is a key repletion principle?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Hyperkalemia and metabolic acidosis; withhold all electrolytes",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Hypokalemia, hypomagnesemia, and metabolic alkalosis; replace magnesium along with potassium because low magnesium makes hypokalemia refractory",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Hypercalcemia and respiratory acidosis; give calcium",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Isolated hypernatremia; restrict free water",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Aggressive loop diuresis classically produces hypokalemia, hypomagnesemia, and a contraction (chloride-depletion) metabolic alkalosis. A central repletion principle of the cross-electrolyte network is that hypomagnesemia perpetuates renal potassium wasting, so potassium will not correct durably until magnesium is replaced — replete magnesium together with potassium, and monitor closely.",
+        "a": "Incorrect. Loop diuresis causes HYPOkalemia and metabolic ALKALOSIS, not hyperkalemia/acidosis, and electrolytes must be repleted.",
+        "b": "Correct. Loop diuresis -> hypokalemia, hypomagnesemia, metabolic alkalosis; replace magnesium with potassium.",
+        "c": "Incorrect. Loops cause hypocalcemia (calciuria), not hypercalcemia, and do not cause respiratory acidosis.",
+        "d": "Incorrect. The characteristic pattern is low potassium/magnesium with alkalosis, not isolated hypernatremia."
+      }
+    },
+    {
+      "id": "multi285",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Diagnostics/Labs",
+        "MS2"
+      ],
+      "difficulty": "medium",
+      "question": "Why does correcting a metabolic alkalosis (for example, after treating protracted vomiting) often help resolve a coexisting hypokalemia?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Alkalosis and potassium are unrelated",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "In alkalosis, potassium shifts INTO cells (in exchange for hydrogen ions leaving) worsening hypokalemia; correcting the alkalosis reverses this shift and helps normalize potassium",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Alkalosis drives potassium OUT of cells, causing hyperkalemia",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Potassium cannot move between compartments",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Potassium and hydrogen ions move reciprocally across cell membranes. In alkalosis, hydrogen ions leave cells to buffer the elevated pH, and potassium moves INTO cells in exchange — lowering serum potassium and reinforcing hypokalemia. (Conversely, acidosis drives potassium out, raising serum potassium.) Correcting the alkalosis reverses this transcellular shift and, together with repletion, helps normalize potassium. This reciprocal relationship is part of the cross-electrolyte network.",
+        "a": "Incorrect. Alkalosis and potassium are tightly linked through transcellular H+/K+ exchange.",
+        "b": "Correct. Alkalosis shifts potassium into cells (worsening hypokalemia); correcting it reverses the shift.",
+        "c": "Incorrect. Alkalosis shifts potassium INTO cells; it is acidosis that drives potassium out.",
+        "d": "Incorrect. Potassium readily shifts between intracellular and extracellular compartments with pH changes."
+      }
+    },
+    {
+      "id": "multi286",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Electrolyte Abnormalities"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Quality Improvement",
+        "MS2"
+      ],
+      "difficulty": "easy",
+      "question": "In a hemodynamically unstable critically ill patient receiving active electrolyte replacement, what monitoring frequency is most appropriate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Check electrolytes once a week",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Monitor frequently — daily in critically ill patients, and twice daily (or more) if unstable or actively replacing electrolytes",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "No monitoring is needed once replacement begins",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Only check electrolytes at discharge",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Critically ill patients have dynamic electrolyte derangements (from diuresis, fluid shifts, refeeding, organ dysfunction, and ongoing losses), so electrolytes should be monitored frequently — typically daily, and twice daily or more when the patient is unstable or undergoing active repletion. Close monitoring prevents both under-correction (arrhythmias, weakness) and over-correction, and allows the interdependent electrolytes (magnesium, potassium, calcium, phosphorus) to be repleted safely.",
+        "a": "Incorrect. Weekly checks are far too infrequent for an unstable, actively replaced ICU patient.",
+        "b": "Correct. Daily monitoring in the critically ill, escalating to twice daily or more when unstable or actively replacing.",
+        "c": "Incorrect. Active replacement specifically requires close monitoring to avoid over/under-correction.",
+        "d": "Incorrect. Discharge-only checks would miss dangerous intervening derangements."
       }
     }
   ],
