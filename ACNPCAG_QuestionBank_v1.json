@@ -6674,6 +6674,138 @@
         "c": "Incorrect. Statin benefit post-MI applies to all patients, not only those with diabetes.",
         "d": "Incorrect. Statins, not niacin, are the evidence-based cornerstone of post-MI lipid therapy."
       }
+    },
+    {
+      "id": "cv131",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "CV1"
+      ],
+      "difficulty": "medium",
+      "question": "Consistent with current (2025) ACS guidance, what is the role of high-sensitivity cardiac troponin (hs-cTn) in evaluating a patient with possible NSTE-ACS in the emergency department?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hs-cTn should not be used; only a single standard troponin at 12 hours is recommended",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "hs-cTn enables rapid rule-in/rule-out using serial measurements in accelerated 0/1-hour or 0/2-hour algorithms, interpreted with the clinical context and ECG",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "A single undetectable hs-cTn mandates immediate cardiac catheterization",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "hs-cTn replaces the ECG in ACS evaluation",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. High-sensitivity troponin assays detect myocardial injury earlier and allow accelerated diagnostic protocols — serial 0/1-hour or 0/2-hour algorithms that rapidly rule out or rule in myocardial infarction when combined with the clinical assessment and ECG. This shortens time to disposition in the ED. hs-cTn complements, and does not replace, the ECG and clinical risk assessment; a rise/fall pattern with at least one value above the 99th percentile, in the right context, supports MI.",
+        "a": "Incorrect. Current practice favors hs-cTn with accelerated serial algorithms, not a single delayed standard troponin.",
+        "b": "Correct. hs-cTn supports accelerated 0/1-h or 0/2-h rule-in/rule-out, interpreted with ECG and clinical context.",
+        "c": "Incorrect. A single undetectable hs-cTn (with appropriate timing and low-risk features) supports rule-OUT, not emergent cath.",
+        "d": "Incorrect. The ECG remains essential — hs-cTn complements it, especially to identify STEMI needing immediate reperfusion."
+      }
+    },
+    {
+      "id": "cv132",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "Critical Care",
+        "Pharmacology",
+        "CV1"
+      ],
+      "difficulty": "medium",
+      "question": "A patient with STEMI and multivessel coronary disease undergoes primary PCI of the culprit lesion. Reflecting current (2025) ACS guideline direction, what is recommended regarding the significant non-culprit lesions?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Never treat non-culprit lesions under any circumstances",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Complete revascularization of significant non-culprit lesions (staged or during the index admission) is generally favored in appropriate STEMI patients to improve outcomes",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Immediately refer all such patients for urgent CABG instead of PCI",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Non-culprit lesions should be treated with thrombolytics",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Contemporary evidence and guideline direction favor complete revascularization of significant non-culprit lesions in selected STEMI patients with multivessel disease — performed during the index hospitalization or as a staged procedure — rather than treating only the culprit artery, as this reduces recurrent MI and repeat revascularization. The culprit lesion is still treated first at primary PCI. (In cardiogenic shock, routine multivessel PCI at the index procedure is not favored.) CABG is reserved for coronary anatomy not amenable to PCI.",
+        "a": "Incorrect. Significant non-culprit lesions are increasingly treated (complete revascularization), not categorically left alone.",
+        "b": "Correct. Complete revascularization (staged or during the index admission) is generally favored in appropriate STEMI patients.",
+        "c": "Incorrect. Most are managed with PCI; CABG is reserved for anatomy unsuitable for PCI, not the default.",
+        "d": "Incorrect. Thrombolytics are not used to treat stable non-culprit lesions; revascularization is by PCI (or CABG)."
+      }
+    },
+    {
+      "id": "cv133",
+      "tier1": "Cardiovascular",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "ACS"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Patient Education",
+        "CV1"
+      ],
+      "difficulty": "hard",
+      "question": "For secondary prevention after ACS, consistent with current (2025) guidance, which lipid-management approach is most appropriate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Avoid statins to prevent side effects",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "High-intensity statin therapy, intensifying with ezetimibe and/or a PCSK9 inhibitor if LDL remains above goal, targeting an aggressive LDL reduction in this very-high-risk group",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "A low-intensity statin only, with no LDL target",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Niacin monotherapy as the preferred lipid agent",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. ACS places patients in the very-high-risk category, and guidelines call for high-intensity statin therapy started early, with add-on ezetimibe and/or a PCSK9 inhibitor when LDL remains above goal — pursuing an aggressive LDL reduction (contemporary targets are well below 70 mg/dL, often ≤55 mg/dL for very-high-risk patients). Statins also stabilize plaque, restore endothelial function, and reduce recurrent ischemia and mortality. This is part of guideline-directed therapy alongside antiplatelets, beta-blockers, and ACE inhibitors.",
+        "a": "Incorrect. Statins are a cornerstone of post-ACS care and should not be avoided; benefits far outweigh risks.",
+        "b": "Correct. High-intensity statin, escalated with ezetimibe/PCSK9 inhibitor to reach an aggressive LDL goal in this very-high-risk group.",
+        "c": "Incorrect. Low-intensity statin without a target undertreats very-high-risk ACS patients.",
+        "d": "Incorrect. Niacin is not a preferred agent; statin-based therapy (with ezetimibe/PCSK9 add-ons) is standard."
+      }
     }
   ],
   "pulmonary": [
@@ -24322,6 +24454,138 @@
         "c": "Incorrect. The chemistry is clearly deranged (low HCO3, high gap, low PaCO2) despite the near-normal pH.",
         "d": "Incorrect. There is a high anion gap metabolic acidosis and a metabolic alkalosis, not an isolated respiratory alkalosis."
       }
+    },
+    {
+      "id": "renal140",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB5"
+      ],
+      "difficulty": "medium",
+      "question": "An NP wants to screen the acid-base status of a hemodynamically stable patient with suspected DKA but wishes to avoid an arterial puncture. Which statement about using a venous blood gas (VBG) instead of an arterial blood gas (ABG) is correct?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "VBG pH and bicarbonate correlate poorly with ABG and cannot be used for screening",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "VBG pH and bicarbonate correlate well with ABG and are adequate to assess and trend acid-base status in stable patients",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "VBG provides a more accurate PaO2 than ABG",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "VBG and ABG values are identical in every parameter",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. In hemodynamically stable patients, venous pH and bicarbonate correlate closely with arterial values, so a VBG is an adequate, less invasive way to assess and trend acid-base status (e.g., screening DKA). Typical offsets: venous pH runs ~0.02-0.04 lower than arterial, and venous pCO2 ~3-8 mmHg higher. The major limitations are that a VBG does not reliably assess oxygenation (PaO2) and that venous pCO2 becomes unreliable in shock/poor perfusion.",
+        "a": "Incorrect. VBG pH and bicarbonate actually correlate WELL with ABG and are useful for screening/trending.",
+        "b": "Correct. Venous pH and bicarbonate track arterial values closely in stable patients — adequate for screening and trending.",
+        "c": "Incorrect. A VBG cannot reliably assess oxygenation; ABG (or pulse oximetry for SpO2) is needed for PaO2.",
+        "d": "Incorrect. They are close but not identical — venous pH is slightly lower and venous pCO2 slightly higher than arterial."
+      }
+    },
+    {
+      "id": "renal141",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB5"
+      ],
+      "difficulty": "medium",
+      "question": "A patient in profound septic shock has a VBG that suggests only mild hypercapnia, but the clinical picture suggests worse respiratory compromise. Why might the venous pCO2 be misleading here, and what is the appropriate step?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "VBG pCO2 is always identical to arterial pCO2; trust the VBG",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "In shock/poor perfusion the veno-arterial CO2 gap widens, making venous pCO2 unreliable — obtain an ABG for an accurate PaCO2",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Venous pCO2 is lower than arterial in all patients",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Oxygenation should be assessed from the VBG pCO2",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. The normal small venous-to-arterial pCO2 difference widens when perfusion is poor (shock, cardiac arrest, severe hypotension), because slow tissue blood flow allows more CO2 to accumulate venously. In those states the venous pCO2 can substantially overestimate or otherwise misrepresent the arterial value, so an ABG should be obtained when an accurate PaCO2 is needed. A VBG is a good screen in stable patients but is unreliable for precise CO2 (and gives no reliable oxygenation data) in shock.",
+        "a": "Incorrect. Venous and arterial pCO2 are not identical, and the gap widens in shock — the VBG cannot be blindly trusted here.",
+        "b": "Correct. Poor perfusion widens the veno-arterial CO2 gap; obtain an ABG for an accurate PaCO2.",
+        "c": "Incorrect. Venous pCO2 is HIGHER than arterial (and even more so in shock), not lower.",
+        "d": "Incorrect. pCO2 does not assess oxygenation; PaO2 (ABG) or SpO2 is required for that."
+      }
+    },
+    {
+      "id": "renal142",
+      "tier1": "Renal",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Acid-Base Disorders"
+      ],
+      "tier3": [
+        "Diagnostics/Labs",
+        "Critical Care",
+        "AB5"
+      ],
+      "difficulty": "medium",
+      "question": "A patient with a COPD exacerbation is being evaluated for hypercapnic respiratory failure and possible ventilator titration. Which test is most appropriate, and why?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "VBG alone, because it gives an accurate PaO2 and exact PaCO2",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "ABG, because precise PaCO2 and PaO2 are needed for managing hypercapnic respiratory failure and ventilator settings",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Neither test is useful in COPD",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Pulse oximetry alone fully characterizes ventilation and acid-base status",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. When you need an accurate PaCO2 (to quantify hypercapnia and titrate ventilation) and a true PaO2 (oxygenation), an ABG is the appropriate test. A VBG is excellent for initial screening and trending acid-base status in stable patients but does not provide reliable oxygenation data and gives only an approximate pCO2. Pulse oximetry reflects oxygen saturation but tells you nothing about CO2 or pH. In hypercapnic respiratory failure and ventilator management, the ABG is the standard.",
+        "a": "Incorrect. A VBG does not give an accurate PaO2 and only approximates PaCO2.",
+        "b": "Correct. ABG provides the precise PaCO2 and PaO2 needed for hypercapnic respiratory failure and ventilator titration.",
+        "c": "Incorrect. Blood gases are very useful in COPD; the question is which one for precise PaCO2/PaO2.",
+        "d": "Incorrect. Pulse oximetry shows oxygen saturation only — not CO2, pH, or ventilation adequacy."
+      }
     }
   ],
   "endocrine": [
@@ -41191,6 +41455,402 @@
         "b": "Correct. Daily monitoring in the critically ill, escalating to twice daily or more when unstable or actively replacing.",
         "c": "Incorrect. Active replacement specifically requires close monitoring to avoid over/under-correction.",
         "d": "Incorrect. Discharge-only checks would miss dangerous intervening derangements."
+      }
+    },
+    {
+      "id": "multi287",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Clinical Reasoning"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Quality Improvement",
+        "CR1"
+      ],
+      "difficulty": "medium",
+      "question": "An experienced NP rapidly recognizes a constellation of findings as a specific disease because it matches a stored mental model that includes the condition's typical risk factors, pathophysiology, and presentation. What is this mental model called?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A clinical practice guideline",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "An illness script",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "A care pathway",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "A problem list",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. An illness script is the organized mental summary a clinician holds for a disease — its predisposing/epidemiologic factors, underlying pathophysiology, and typical clinical presentation (the 'syndrome'). Diagnostic reasoning largely consists of matching the patient's findings against these scripts to generate and rank a differential. Experts carry rich, compiled scripts that enable rapid pattern recognition (System 1 reasoning), supported by slower analytic reasoning (System 2) when cases are atypical.",
+        "a": "Incorrect. A clinical practice guideline is a formal evidence-based recommendation document, not the clinician's internal disease model used for pattern recognition.",
+        "b": "Correct. An illness script is the stored mental model of a disease used to match against patient findings.",
+        "c": "Incorrect. A care pathway is a standardized management plan, not the cognitive model used to recognize a diagnosis.",
+        "d": "Incorrect. A problem list catalogs a patient's active issues; it is not the disease knowledge structure used for recognition."
+      }
+    },
+    {
+      "id": "multi288",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Clinical Reasoning"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Diagnostics/Labs",
+        "CR1"
+      ],
+      "difficulty": "medium",
+      "question": "Which set of elements best describes the core components of a well-developed illness script?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Only the laboratory values associated with the disease",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Predisposing/epidemiologic factors, the pathophysiology, and the typical time course and clinical features of the disease",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "The hospital billing codes and length of stay",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "A list of every possible symptom regardless of relevance",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. A robust illness script captures who tends to get the disease (epidemiology and risk factors), the mechanism (pathophysiology), and how it presents (the characteristic temporal pattern and clinical features), ideally including the discriminating features that separate it from similar diseases and the expected response to treatment. This structure lets the clinician compare a patient's problem representation against the script efficiently.",
+        "a": "Incorrect. Labs are only one element; a script also includes epidemiology, pathophysiology, and the clinical syndrome.",
+        "b": "Correct. Epidemiology/risk factors + pathophysiology + typical course and features are the core of an illness script.",
+        "c": "Incorrect. Administrative data like billing codes are not part of a diagnostic illness script.",
+        "d": "Incorrect. A useful script emphasizes discriminating, relevant features — not an undifferentiated list of every possible symptom."
+      }
+    },
+    {
+      "id": "multi289",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Clinical Reasoning"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Quality Improvement",
+        "CR2"
+      ],
+      "difficulty": "medium",
+      "question": "A clinician summarizes a case as: 'An older man with known CAD presents with acute, exertional, substernal chest pressure radiating to the jaw with diaphoresis.' What element of clinical reasoning is this summary, and what is its purpose?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A discharge summary used for billing",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "A problem representation — a concise abstract summary using semantic qualifiers that activates matching illness scripts and focuses the differential",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "A complete review of systems",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "A nursing care plan",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. This is a problem representation: a concise, abstracted one-sentence summary of the case that combines the patient's risk context (older man with CAD), the temporal pattern (acute, exertional), and the key clinical syndrome (substernal pressure radiating to the jaw with diaphoresis). It uses semantic qualifiers — paired abstract descriptors — because illness scripts are stored in those terms. A precise problem representation activates the matching scripts (here, ACS) and focuses the differential.",
+        "a": "Incorrect. This is a reasoning summary statement, not a billing/discharge document.",
+        "b": "Correct. It is a problem representation that uses semantic qualifiers to activate matching illness scripts.",
+        "c": "Incorrect. A review of systems is an exhaustive symptom inventory; a problem representation is a distilled abstract summary.",
+        "d": "Incorrect. A nursing care plan addresses interventions and goals, not the diagnostic framing of the case."
+      }
+    },
+    {
+      "id": "multi290",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Clinical Reasoning"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Diagnostics/Labs",
+        "CR2"
+      ],
+      "difficulty": "medium",
+      "question": "When constructing a problem representation, why is it important to translate specific findings into 'semantic qualifiers' (e.g., converting '3 days of symptoms' to 'acute' or 'pain in both legs' to 'bilateral')?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Semantic qualifiers make the note longer and more detailed",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Illness scripts are stored in abstract terms, so semantic qualifiers help match the case to the correct scripts and sharpen the differential",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "They are required only for insurance reimbursement",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "They eliminate the need to gather a history",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Semantic qualifiers are paired, abstract descriptors (acute vs chronic, sudden vs gradual, focal vs diffuse, single vs recurrent) that recast raw data into the language in which illness scripts are stored. Translating specifics into these qualifiers makes the problem representation more powerful at activating the right scripts and discriminating among diagnoses. A representation rich in accurate semantic qualifiers focuses the differential; a vague one fails to discriminate.",
+        "a": "Incorrect. The goal is concision and abstraction, not length; semantic qualifiers distill rather than lengthen.",
+        "b": "Correct. Because scripts are stored abstractly, semantic qualifiers improve script matching and sharpen the differential.",
+        "c": "Incorrect. Semantic qualifiers serve diagnostic reasoning, not reimbursement.",
+        "d": "Incorrect. They complement, and depend on, a good history — they do not replace data gathering."
+      }
+    },
+    {
+      "id": "multi291",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Clinical Reasoning"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Quality Improvement",
+        "CR3"
+      ],
+      "difficulty": "hard",
+      "question": "A learner's problem representation reads: 'A patient with belly pain.' Critiquing this representation, what is its primary deficiency?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "It is too detailed and includes irrelevant information",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "It lacks discriminating features and semantic qualifiers (no demographics, time course, or character/location), so it fails to activate a focused differential",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "It uses too many semantic qualifiers",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "It correctly captures all salient features",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. A strong problem representation is concise yet rich in discriminating features and semantic qualifiers. 'A patient with belly pain' omits the demographics/risk context, the temporal pattern (acute vs chronic), and the character and location of the pain — so it cannot activate specific illness scripts or generate a focused differential. Critiquing means checking that the representation is accurate, concise, and includes the salient, discriminating features while excluding noise; this one is too vague to drive reasoning.",
+        "a": "Incorrect. The problem is the opposite — it is too sparse and vague, not too detailed.",
+        "b": "Correct. It lacks the demographics, time course, and character/location needed to discriminate and focus the differential.",
+        "c": "Incorrect. It actually uses almost no semantic qualifiers, which is the deficiency.",
+        "d": "Incorrect. It omits most salient features (timing, location, character, risk context)."
+      }
+    },
+    {
+      "id": "multi292",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Clinical Reasoning"
+      ],
+      "tier3": [
+        "Patient Education",
+        "Quality Improvement",
+        "CR3"
+      ],
+      "difficulty": "hard",
+      "question": "A clinician fixes on the first plausible diagnosis and stops considering alternatives even as new data accumulate. Which cognitive bias is this, and how does sound clinical reasoning guard against it?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Anchoring only, prevented by ordering more tests",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Premature closure — guarded against by deliberately revising the problem representation and differential as new information emerges",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Availability bias, prevented by ignoring the history",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "There is no bias; stopping at the first diagnosis is ideal",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Accepting a diagnosis before it has been fully verified — and ceasing to consider alternatives — is premature closure, a leading source of diagnostic error (often compounded by anchoring on initial information and confirmation bias). The safeguard is metacognition: deliberately revisiting and revising the problem representation as data accrue, generating and re-ranking a differential, and asking 'what else could this be?' and 'what doesn't fit?' Sound reasoning treats the problem representation as a living statement to be critiqued and updated.",
+        "a": "Incorrect. The described pattern is premature closure; simply ordering more tests is not the core safeguard (reflective reasoning is).",
+        "b": "Correct. Premature closure is countered by reflectively revising the representation and differential as new data appear.",
+        "c": "Incorrect. Availability bias is favoring easily recalled diagnoses; and ignoring the history would worsen reasoning, not help.",
+        "d": "Incorrect. Stopping at the first plausible diagnosis is premature closure, a recognized cause of diagnostic error."
+      }
+    },
+    {
+      "id": "multi293",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Geriatric Pharmacodynamics"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Critical Care",
+        "MS7"
+      ],
+      "difficulty": "medium",
+      "question": "Which age-related pharmacokinetic change most increases the half-life of lipophilic drugs such as diazepam in older adults?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Decreased body fat and increased total body water",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Increased proportion of body fat (with decreased total body water), expanding the volume of distribution for lipophilic drugs",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Increased renal clearance",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Increased serum albumin",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. With aging, the proportion of body fat rises and total body water falls. Lipophilic drugs (e.g., diazepam) distribute into the larger fat compartment, expanding their volume of distribution and prolonging their half-life and duration of effect — a key reason long-acting benzodiazepines are hazardous in older adults. Conversely, the decreased total body water raises serum concentrations of hydrophilic drugs. These shifts, along with reduced renal and hepatic clearance, underlie the 'start low, go slow' principle.",
+        "a": "Incorrect. Body fat INCREASES and total body water DECREASES with age — the reverse of this option.",
+        "b": "Correct. More body fat expands the volume of distribution for lipophilic drugs, prolonging their half-life.",
+        "c": "Incorrect. Renal clearance DECREASES with age, which also prolongs drug effects.",
+        "d": "Incorrect. Albumin tends to DECREASE, raising the free fraction of protein-bound drugs — it does not explain lipophilic drug accumulation."
+      }
+    },
+    {
+      "id": "multi294",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Geriatric Pharmacodynamics"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Quality Improvement",
+        "MS7"
+      ],
+      "difficulty": "medium",
+      "question": "An 84-year-old is started on a standard adult dose of a benzodiazepine and becomes excessively sedated and confused. Which principle of geriatric pharmacology does this illustrate?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Older adults are less sensitive to CNS depressants and need higher doses",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Older adults have increased pharmacodynamic sensitivity to CNS depressants; dose conservatively ('start low, go slow') and consider Beers Criteria",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Benzodiazepines have no special risk in the elderly",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Sedation indicates the dose was too low",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Beyond pharmacokinetic changes, older adults have increased end-organ (pharmacodynamic) sensitivity to CNS depressants such as benzodiazepines and opioids, producing exaggerated sedation, confusion, and fall/delirium risk at standard doses. Benzodiazepines are flagged on the Beers Criteria as potentially inappropriate in older adults. The safe approach is to 'start low and go slow,' avoid high-risk agents when possible, and review medications with Beers/STOPP-START to limit adverse drug events.",
+        "a": "Incorrect. Older adults are MORE, not less, sensitive to CNS depressants.",
+        "b": "Correct. Increased sensitivity to CNS depressants requires conservative dosing and Beers-guided caution.",
+        "c": "Incorrect. Benzodiazepines carry substantial risk (sedation, falls, delirium) in the elderly and are on the Beers list.",
+        "d": "Incorrect. The sedation reflects an excessive effect for this patient, not an inadequate dose."
+      }
+    },
+    {
+      "id": "multi295",
+      "tier1": "Multisystem",
+      "tier2": [
+        "Summer 2026 Exam 1",
+        "Geriatric Pharmacodynamics"
+      ],
+      "tier3": [
+        "Pharmacology",
+        "Diagnostics/Labs",
+        "MS7"
+      ],
+      "difficulty": "hard",
+      "question": "An older adult with hypoalbuminemia is started on a highly protein-bound drug such as warfarin or phenytoin. What pharmacologic consideration is most important?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Low albumin decreases the free (active) drug, so higher doses are always needed",
+          "correct": false
+        },
+        {
+          "id": "b",
+          "text": "Low albumin increases the free (active) fraction of highly protein-bound drugs, raising the risk of toxicity at 'normal' total levels",
+          "correct": true
+        },
+        {
+          "id": "c",
+          "text": "Protein binding has no clinical relevance in the elderly",
+          "correct": false
+        },
+        {
+          "id": "d",
+          "text": "Phenytoin and warfarin are not protein-bound",
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "correct": "Correct. Highly protein-bound drugs (warfarin, phenytoin) circulate largely bound to albumin, with only the free fraction pharmacologically active. When albumin is low — common in frail or ill older adults — a greater proportion of the drug is free/active, so toxicity can occur even when the measured TOTAL level looks normal (for phenytoin, check a free level or use a correction). Combined with age-related reductions in clearance and increased end-organ sensitivity, this raises the risk of bleeding (warfarin) or phenytoin toxicity. Dose conservatively and monitor closely.",
+        "a": "Incorrect. Low albumin INCREASES the free active fraction; reflexively increasing the dose risks toxicity.",
+        "b": "Correct. Hypoalbuminemia raises the free fraction of highly bound drugs, risking toxicity at normal total levels.",
+        "c": "Incorrect. Protein binding is highly relevant, especially with the hypoalbuminemia common in older adults.",
+        "d": "Incorrect. Both phenytoin and warfarin are highly protein-bound drugs."
       }
     }
   ],
